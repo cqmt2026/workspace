@@ -39,9 +39,9 @@ def tool_validator(func):
         for path in common_paths:
             try:
                 validate_path(path)
-                print(f"  ✅ 路径验证通过: {path}")
+                print(f"  [OK] 路径验证通过: {path}")
             except FileNotFoundError:
-                print(f"  ⚠️ 路径不存在: {path}")
+                print(f"  [WARN] 路径不存在: {path}")
         
         # 检查常见模块
         common_modules = [
@@ -53,17 +53,17 @@ def tool_validator(func):
         for module in common_modules:
             try:
                 validate_module(module)
-                print(f"  ✅ 模块可用: {module}")
+                print(f"  [OK] 模块可用: {module}")
             except ImportError:
-                print(f"  ❌ 模块缺失: {module}")
+                print(f"  [FAIL] 模块缺失: {module}")
         
         # 执行原函数
         try:
             result = func(*args, **kwargs)
-            print(f"  ✅ {func.__name__} 执行成功")
+            print(f"  [OK] {func.__name__} 执行成功")
             return result
         except Exception as e:
-            print(f"  ❌ {func.__name__} 执行失败: {e}")
+            print(f"  [FAIL] {func.__name__} 执行失败: {e}")
             raise
     
     return wrapper
