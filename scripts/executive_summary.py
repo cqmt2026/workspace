@@ -45,16 +45,17 @@ def get_subsystem_status():
     
     for name, info in subsystems.items():
         path = info["path"]
-        # 查找最近修改的文件
+        # 查找最近修改的python/md/db文件
         try:
-            files = list(path.rglob("*")) 
-            files = [f for f in files if f.is_file() and f.suffix in ['.py', '.md', '.json', '.db', '.txt', '.mp4']]
-            if files:
-                latest = max(files, key=lambda f: f.stat().st_mtime)
-                hours_ago = (datetime.now() - datetime.fromtimestamp(latest.stat().st_mtime)).hours
+            candidates = []
+            for suffix in ['.py', '.md', '.db', '.json', '.txt', '.mp4']:
+                candidates.extend(list(path.rglob(f'*{suffix}')))
+            if candidates:
+                latest = max(candidates, key=lambda f: f.stat().st_mtime)
+                hours_ago = (datetime.now() - datetime.fromtimestamp(latest.stat().st_mtime)).total_seconds() / 3600
                 info["latest"] = f"{latest.name} ({hours_ago:.1f}h ago)"
-        except:
-            info["latest"] = "无法访问"
+        except Exception as e:
+            info["latest"] = f"错误: {str(e)[:20]}"
     
     return subsystems
 
@@ -87,7 +88,7 @@ def generate_summary():
     lines.append("## 异常预警")
     alerts = []
     if cron.get('errors', 0) > 0:
-        alerts.append(f"• Cron失败: {cron['errors']}个（已禁用）")
+        alerts.append(f"- Cron失败: {cron['errors']}个（已禁用）")
     
     # 检查各子系统
     for name, info in subsys.items():
@@ -95,12 +96,12 @@ def generate_summary():
         if latest and "h ago" in latest:
             hours = float(latest.split('(')[1].split('h')[0])
             if hours > 24:
-                alerts.append(f"• {name}: 最后产出{hours:.0f}小时前")
+                alerts.append(f"- {name}: 最后产出{hours:.0f}小时前")
     
     if alerts:
         lines.extend(alerts)
     else:
-        lines.append("• 无异常")
+        lines.append("- 无异常")
     lines.append("")
     
     # 行动项（行动导向）
@@ -115,7 +116,7 @@ def generate_summary():
     # 子系统状态
     lines.append("## 子系统状态")
     for name, info in subsys.items():
-        status = "✅" if (info.get("latest") and "h ago" in str(info.get("latest", "")) and float(str(info.get("latest", "")).split('(')[1].split('h')[0]) < 24) else "⚠️"
+        status = "OK" if (info.get("latest") and "h ago" in str(info.get("latest", "")) and float(str(info.get("latest", "")).split('(')[1].split('h')[0]) < 24) else "WARN"
         lines.append(f"- {status} {name}: {info.get('latest', '无产出')}")
     
     return "\n".join(lines)
