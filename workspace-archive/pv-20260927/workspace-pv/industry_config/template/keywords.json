@@ -1,0 +1,37 @@
+{
+  "name": "行业插件模板",
+  "description": "新建行业插件时，复制此目录并重命名，然后修改以下配置",
+  "keywords": [
+    /* 填写行业核心关键词，5-20个 */
+    "关键词1",
+    "关键词2"
+  ],
+  "provinces": [
+    /* 覆盖省份，空列表=全国 */
+    "省份1",
+    "省份2"
+  ],
+  "templates": {
+    /* 内容方向 → 模板文件路径（相对于templates/目录） */
+    "policy": "policy.md",
+    "benefit": "benefit.md",
+    "avoid": "avoid.md",
+    "news": "news.md",
+    "tech": "tech.md"
+  },
+  "prompts": {
+    /* AI提示词文件路径（相对于prompts/目录） */
+    "hook": "hook.txt",
+    "body": "body.txt",
+    "cta": "cta.txt"
+  },
+  "value_prop_file": "value_prop.md",
+  "scoring_weights": {
+    /* 线索打分权重 */
+    "has_phone": 30,
+    "has_address": 20,
+    "ask_price": 40,
+    "ask_process": 20,
+    "only_liked": 5
+  }
+}

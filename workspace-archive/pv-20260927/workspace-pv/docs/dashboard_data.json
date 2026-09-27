@@ -1,0 +1,22 @@
+{
+  "total": 135,
+  "published": 129,
+  "draft": 6,
+  "leads": 16,
+  "attributions": 2,
+  "revenue": 13000.0,
+  "channels": {
+    "douyin": {"published": 104, "draft": 6},
+    "toutiao": {"published": 25, "draft": 0}
+  },
+  "daily": [
+    {"date": "2026-08-18", "count": 20},
+    {"date": "2026-08-19", "count": 115}
+  ],
+  "hot_topics": 378,
+  "policies": 16,
+  "plays": {"total": 3092, "by_channel": {"douyin": 3092, "toutiao": 0}},
+  "leads_by_level": {"A": 12, "B": 1, "C": 3},
+  "converted": 2,
+  "generated_at": "2026-08-19 17:19"
+}

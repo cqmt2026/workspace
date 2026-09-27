@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>光伏获客系统 — 运营看板</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,"Microsoft YaHei",sans-serif;background:#0f172a;color:#e2e8f0;min-height:100vh}
+a{color:#38bdf8;text-decoration:none}
+.header{background:linear-gradient(135deg,#1e3a5f,#0f172a);padding:16px 24px;border-bottom:1px solid #1e293b;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:100}
+.header h1{font-size:18px;color:#38bdf8}
+.header .right{display:flex;gap:12px;align-items:center}
+.btn{background:#1e3a5f;border:1px solid #38bdf8;color:#38bdf8;padding:6px 14px;border-radius:6px;cursor:pointer;font-size:13px}
+.btn:hover{background:#2563eb}
+.btn-sm{padding:3px 8px;font-size:11px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:16px 24px}
+.card{background:#1e293b;border-radius:10px;padding:16px;border:1px solid #334155}
+.card.wide{grid-column:span 2}
+.card.full{grid-column:span 4}
+.card-title{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#64748b;margin-bottom:10px;display:flex;justify-content:space-between;align-items:center}
+.card-value{font-size:28px;font-weight:700;color:#f8fafc}
+.card-sub{font-size:12px;color:#94a3b8;margin-top:4px}
+.progress-bar{height:5px;background:#334155;border-radius:3px;margin-top:8px;overflow:hidden}
+.progress-fill{height:100%;border-radius:3px}
+.bar-row{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.bar-label{font-size:12px;color:#94a3b8;width:50px;text-align:right;flex-shrink:0}
+.bar-track{flex:1;height:18px;background:#334155;border-radius:4px;overflow:hidden;position:relative}
+.bar-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding-left:6px;font-size:11px;font-weight:600;color:#fff;transition:width .4s}
+.bar-val{font-size:11px;color:#cbd5e1;width:40px;text-align:right;flex-shrink:0}
+
+table.dt{width:100%;border-collapse:collapse;font-size:13px}
+table.dt th{text-align:left;padding:8px 10px;font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:#64748b;border-bottom:1px solid #334155;background:#1e293b;position:sticky;top:0}
+table.dt td{padding:7px 10px;border-bottom:1px solid #1e293b}
+table.dt tr:hover td{background:#1e293b}
+table.dt tr:last-child td{border-bottom:none}
+.tag{display:inline-block;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600}
+.tag-green{background:#064e3b;color:#4ade80}
+.tag-yellow{background:#78350f;color:#fbbf24}
+.tag-blue{background:#1e3a5f;color:#38bdf8}
+.tag-red{background:#7f1d1d;color:#f87171}
+.tag-gray{background:#334155;color:#94a3b8}
+
+.tab-bar{display:flex;gap:4px;margin-bottom:14px;border-bottom:1px solid #334155;padding-bottom:0}
+.tab{padding:8px 16px;cursor:pointer;font-size:13px;color:#64748b;border-bottom:2px solid transparent;transition:all .2s}
+.tab:hover{color:#e2e8f0}
+.tab.active{color:#38bdf8;border-bottom-color:#38bdf8}
+.tab-content{display:none}
+.tab-content.active{display:block}
+
+.modal-overlay{display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.7);z-index:200;justify-content:center;align-items:center}
+.modal-overlay.show{display:flex}
+.modal{background:#1e293b;border:1px solid #334155;border-radius:12px;padding:24px;width:480px;max-width:90vw}
+.modal h3{color:#38bdf8;margin-bottom:16px;font-size:16px}
+.modal label{display:block;font-size:12px;color:#94a3b8;margin-bottom:4px;margin-top:10px}
+.modal input,.modal select{width:100%;padding:8px 10px;background:#0f172a;border:1px solid #334155;border-radius:6px;color:#e2e8f0;font-size:13px}
+.modal .btn-row{margin-top:18px;display:flex;gap:8px;justify-content:flex-end}
+
+.search-bar{display:flex;gap:8px;margin-bottom:12px}
+.search-bar input{flex:1;padding:7px 10px;background:#0f172a;border:1px solid #334155;border-radius:6px;color:#e2e8f0;font-size:13px}
+.empty-state{text-align:center;padding:30px;color:#64748b;font-size:13px}
+
+.stat-mini{display:flex;gap:20px;margin-top:8px}
+.stat-mini .item{font-size:12px;color:#94a3b8}
+.stat-mini .item span{color:#e2e8f0;font-weight:600}
+
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:#0f172a}
+::-webkit-scrollbar-thumb{background:#334155;border-radius:3px}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>☀️ 光伏获客系统 Dashboard</h1>
+    <div style="font-size:12px;color:#64748b;margin-top:2px" id="updateTime">加载中...</div>
+  </div>
+  <div class="right">
+    <button class="btn" onclick="refreshData()">⟳ 刷新</button>
+    <button class="btn" onclick="openFillModal()">⬆ 回填数据</button>
+  </div>
+</div>
+
+<!-- 核心指标 -->
+<div class="grid">
+  <div class="card">
+    <div class="card-title">总内容数</div>
+    <div class="card-value" id="totalContent">—</div>
+    <div class="card-sub" id="totalSub"></div>
+  </div>
+  <div class="card">
+    <div class="card-title">已发布 <span style="color:#4ade80;font-size:11px" id="pubBadge"></span></div>
+    <div class="card-value" style="color:#4ade80" id="published">—</div>
+    <div class="progress-bar"><div class="progress-fill" id="pubBar" style="background:#4ade80;width:0%"></div></div>
+  </div>
+  <div class="card">
+    <div class="card-title">草稿待审</div>
+    <div class="card-value" style="color:#fbbf24" id="drafts">—</div>
+    <div class="card-sub">需人工审核后发布</div>
+  </div>
+  <div class="card">
+    <div class="card-title">成交金额</div>
+    <div class="card-value" style="color:#f87171" id="revenue">—</div>
+    <div class="card-sub" id="revSub"></div>
+  </div>
+</div>
+
+<!-- 渠道+日趋势 -->
+<div class="grid">
+  <div class="card wide">
+    <div class="card-title">📊 渠道表现对比</div>
+    <div id="channelChart"></div>
+    <div class="stat-mini" id="channelStats"></div>
+  </div>
+  <div class="card wide">
+    <div class="card-title">📈 近7日发布趋势</div>
+    <div id="dailyChart"></div>
+  </div>
+</div>
+
+<!-- 主要内容区 -->
+<div class="grid">
+  <div class="card full">
+    <div class="card-title">📋 内容管理</div>
+    <div class="tab-bar">
+      <div class="tab active" onclick="switchTab(this,'tab-all')">全部</div>
+      <div class="tab" onclick="switchTab(this,'tab-published')">已发布</div>
+      <div class="tab" onclick="switchTab(this,'tab-draft')">草稿</div>
+      <div class="tab" onclick="switchTab(this,'tab-douyin')">抖音</div>
+      <div class="tab" onclick="switchTab(this,'tab-toutiao')">头条</div>
+    </div>
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="搜索内容ID..." oninput="filterTable()">
+      <select id="filterStatus" onchange="filterTable()" style="padding:7px 10px;background:#0f172a;border:1px solid #334155;border-radius:6px;color:#e2e8f0;font-size:13px">
+        <option value="">全部状态</option>
+        <option value="published">已发布</option>
+        <option value="draft">草稿</option>
+      </select>
+    </div>
+    <div style="max-height:360px;overflow-y:auto">
+      <table class="dt" id="contentTable">
+        <thead><tr><th>内容ID</th><th>渠道</th><th>状态</th><th>发布时间</th><th>追踪ID</th><th>操作</th></tr></thead>
+        <tbody id="contentBody"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- 数据源状态 -->
+<div class="grid">
+  <div class="card wide">
+    <div class="card-title">🔥 数据源状态</div>
+    <div class="stat-mini" style="font-size:14px">
+      <div class="item">热点话题: <span id="hotCount" style="color:#38bdf8">—</span></div>
+      <div class="item">政策库: <span id="policyCount" style="color:#a78bfa">—</span></div>
+      <div class="item">线索池: <span id="leadsCount" style="color:#fbbf24">—</span></div>
+      <div class="item">归因记录: <span id="attrCount" style="color:#4ade80">—</span></div>
+    </div>
+  </div>
+  <div class="card wide">
+    <div class="card-title">🏗️ 架构健康度</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:13px;margin-top:4px">
+      <div style="padding:8px;background:#0f172a;border-radius:6px">L1 渠道层 <span class="tag tag-green" style="margin-left:4px">✅ 双渠道</span></div>
+      <div style="padding:8px;background:#0f172a;border-radius:6px">L2 数据层 <span class="tag tag-green" style="margin-left:4px">✅ 双源</span></div>
+      <div style="padding:8px;background:#0f172a;border-radius:6px">L3 内容层 <span class="tag tag-green" style="margin-left:4px">✅ 模板引擎</span></div>
+      <div style="padding:8px;background:#0f172a;border-radius:6px">L4 线索层 <span class="tag tag-green" style="margin-left:4px">✅ 完整</span></div>
+      <div style="padding:8px;background:#0f172a;border-radius:6px">L5 反馈层 <span class="tag tag-yellow" style="margin-left:4px">⚠️ 待数据</span></div>
+      <div style="padding:8px;background:#0f172a;border-radius:6px">L6 战略层 <span class="tag tag-yellow" style="margin-left:4px">🔄 框架就绪</span></div>
+    </div>
+    <div style="font-size:11px;color:#64748b;margin-top:8px">L5/L6需回填播放/互动/成交数据后自动激活策略建议</div>
+  </div>
+</div>
+
+<!-- 回填弹窗 -->
+<div class="modal-overlay" id="fillModal">
+  <div class="modal">
+    <h3>⬆ 回填内容效果数据</h3>
+    <label>内容ID <input type="text" id="fillContentId" placeholder="如 PV_20260819_094354826"></label>
+    <label>播放量 <input type="number" id="fillPlays" placeholder="0"></label>
+    <label>点击量 <input type="number" id="fillClicks" placeholder="0"></label>
+    <label>带来线索数 <input type="number" id="fillLeads" placeholder="0"></label>
+    <div class="btn-row">
+      <button class="btn" onclick="closeFillModal()">取消</button>
+      <button class="btn" style="background:#064e3b;border-color:#4ade80;color:#4ade80" onclick="submitFill()">确认回填</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const DASHBOARD_DATA = {"total":135,"published":129,"draft":6,"leads":16,"attributions":2,"revenue":13000.0,"channels":{"douyin":{"published":104,"draft":6},"toutiao":{"published":25,"draft":0}},"daily":[{"date":"2026-08-18","count":20},{"date":"2026-08-19","count":115}],"hot_topics":378,"policies":16,"recent":[{"content_id":"PV_20260819_094354849","channel":"toutiao","status":"published","published_at":"2026-08-19 09:43","tracking_id":"PV_20260819_094354849"},{"content_id":"PV_20260819_094354844","channel":"toutiao","status":"published","published_at":"2026-08-19 09:43","tracking_id":"PV_20260819_094354844"},{"content_id":"PV_20260819_094354840","channel":"toutiao","status":"published","published_at":"2026-08-19 09:43","tracking_id":"PV_20260819_094354840"},{"content_id":"PV_20260819_094354835","channel":"toutiao","status":"published","published_at":"2026-08-19 09:43","tracking_id":"PV_20260819_094354835"},{"content_id":"PV_20260819_094354831","channel":"toutiao","status":"published","published_at":"2026-08-19 09:43","tracking_id":"PV_20260819_094354831"}]};
+let ALL_DATA = null;
+let currentFilter = 'all';
+
+async function loadData() {
+  try {
+    ALL_DATA = DASHBOARD_DATA;
+    renderDashboard();
+  } catch(e) {
+    document.body.innerHTML = '<div style="padding:40px;text-align:center;color:#f87171">❌ 无法加载数据</div>';
+  }
+}
+
+function renderDashboard() {
+  const d = ALL_DATA;
+  const now = new Date();
+  document.getElementById('updateTime').textContent = `最后更新: ${now.toLocaleTimeString('zh-CN')}`;
+  
+  // 核心指标
+  document.getElementById('totalContent').textContent = d.total;
+  document.getElementById('totalSub').textContent = `抖音${d.channels.douyin?.published||0}条 + 头条${d.channels.toutiao?.published||0}条`;
+  document.getElementById('published').textContent = d.published;
+  const pubPct = d.total > 0 ? (d.published/d.total*100).toFixed(0) : 0;
+  document.getElementById('pubBar').style.width = pubPct + '%';
+  document.getElementById('pubBadge').textContent = pubPct + '%';
+  document.getElementById('drafts').textContent = d.draft;
+  document.getElementById('revenue').textContent = '¥' + d.revenue.toLocaleString();
+  document.getElementById('revSub').textContent = `${d.attributions}条归因 | ${d.leads}条线索`;
+  
+  // 渠道图表
+  const ch = d.channels;
+  const dyPub = ch.douyin?.published || 0;
+  const dyDraft = ch.douyin?.draft || 0;
+  const ttPub = ch.toutiao?.published || 0;
+  const ttDraft = ch.toutiao?.draft || 0;
+  const maxCh = Math.max(dyPub, dyDraft, ttPub, ttDraft, 1);
+  document.getElementById('channelChart').innerHTML = `
+    <div class="bar-row"><span class="bar-label">抖音</span><div class="bar-track"><div class="bar-fill" style="width:${dyPub/maxCh*100}%;background:#38bdf8">${dyPub}</div></div><span class="bar-val">发布</span></div>
+    <div class="bar-row"><span class="bar-label"></span><div class="bar-track"><div class="bar-fill" style="width:${dyDraft/maxCh*100}%;background:#fbbf24">${dyDraft}</div></div><span class="bar-val">草稿</span></div>
+    <div class="bar-row"><span class="bar-label">头条</span><div class="bar-track"><div class="bar-fill" style="width:${ttPub/maxCh*100}%;background:#a78bfa">${ttPub}</div></div><span class="bar-val">发布</span></div>
+    <div class="bar-row"><span class="bar-label"></span><div class="bar-track"><div class="bar-fill" style="width:${ttDraft/maxCh*100}%;background:#f472b6">${ttDraft}</div></div><span class="bar-val">草稿</span></div>
+  `;
+  document.getElementById('channelStats').innerHTML = `
+    <div class="item">抖音合计: <span>${dyPub+dyDraft}</span></div>
+    <div class="item">头条合计: <span>${ttPub+ttDraft}</span></div>
+    <div class="item">发布率: <span>${pubPct}%</span></div>
+  `;
+  
+  // 日趋势
+  const maxD = Math.max(...d.daily.map(x=>x.count), 1);
+  document.getElementById('dailyChart').innerHTML = d.daily.map(x => `
+    <div class="bar-row">
+      <span class="bar-label">${x.date.slice(5)}</span>
+      <div class="bar-track"><div class="bar-fill" style="width:${x.count/maxD*100}%;background:#4ade80">${x.count}</div></div>
+      <span class="bar-val">条</span>
+    </div>
+  `).join('');
+  
+  // 数据源
+  document.getElementById('hotCount').textContent = d.hot_topics + ' 条';
+  document.getElementById('policyCount').textContent = d.policies + ' 条';
+  document.getElementById('leadsCount').textContent = d.leads + ' 条';
+  document.getElementById('attrCount').textContent = d.attributions + ' 条';
+  
+  // 表格
+  renderTable(d.recent);
+}
+
+function renderTable(items) {
+  const tbody = document.getElementById('contentBody');
+  if (!items || items.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="6" class="empty-state">暂无内容数据</td></tr>';
+    return;
+  }
+  tbody.innerHTML = items.map(item => {
+    const statusTag = item.status === 'published' ? 'tag-green' : 'tag-yellow';
+    const statusText = item.status === 'published' ? '已发布' : '草稿';
+    const chTag = item.channel === 'douyin' ? 'tag-blue' : 'tag-red';
+    const chText = item.channel === 'douyin' ? '抖音' : '头条';
+    const time = item.published_at ? item.published_at.slice(5) : '-';
+    const idShort = item.content_id?.slice(-8) || item.content_id;
+    return `<tr>
+      <td><code style="font-size:11px;color:#94a3b8">${idShort}</code></td>
+      <td><span class="tag ${chTag}">${chText}</span></td>
+      <td><span class="tag ${statusTag}">${statusText}</span></td>
+      <td style="color:#94a3b8;font-size:12px">${time}</td>
+      <td style="font-size:11px;color:#64748b">${item.tracking_id?.slice(-8)||'-'}</td>
+      <td><button class="btn btn-sm" onclick='openFillModal2("${item.content_id}")'>回填</button></td>
+    </tr>`;
+  }).join('');
+}
+
+function switchTab(el, tabId) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  el.classList.add('active');
+  currentFilter = tabId.replace('tab-','');
+  filterTable();
+}
+
+function filterTable() {
+  if (!ALL_DATA) return;
+  const search = document.getElementById('searchInput').value.toLowerCase();
+  const statusF = document.getElementById('filterStatus').value;
+  
+  let filtered = ALL_DATA.recent;
+  
+  if (currentFilter === 'published') filtered = filtered.filter(x => x.status === 'published');
+  else if (currentFilter === 'draft') filtered = filtered.filter(x => x.status === 'draft');
+  else if (currentFilter === 'douyin') filtered = filtered.filter(x => x.channel === 'douyin');
+  else if (currentFilter === 'toutiao') filtered = filtered.filter(x => x.channel === 'toutiao');
+  
+  if (search) filtered = filtered.filter(x => x.content_id?.toLowerCase().includes(search));
+  if (statusF) filtered = filtered.filter(x => x.status === statusF);
+  
+  renderTable(filtered);
+}
+
+function filterTable() {
+  if (!ALL_DATA) return;
+  const search = document.getElementById('searchInput').value.toLowerCase();
+  const statusF = document.getElementById('filterStatus').value;
+  
+  let filtered = ALL_DATA.recent;
+  
+  if (currentFilter === 'published') filtered = filtered.filter(x => x.status === 'published');
+  else if (currentFilter === 'draft') filtered = filtered.filter(x => x.status === 'draft');
+  else if (currentFilter === 'douyin') filtered = filtered.filter(x => x.channel === 'douyin');
+  else if (currentFilter === 'toutiao') filtered = filtered.filter(x => x.channel === 'toutiao');
+  
+  if (search) filtered = filtered.filter(x => x.content_id?.toLowerCase().includes(search));
+  if (statusF) filtered = filtered.filter(x => x.status === statusF);
+  
+  renderTable(filtered);
+}
+
+function refreshData() {
+  loadData();
+}
+
+function openFillModal() {
+  document.getElementById('fillModal').classList.add('show');
+  document.getElementById('fillContentId').value = '';
+  document.getElementById('fillPlays').value = '';
+  document.getElementById('fillClicks').value = '';
+  document.getElementById('fillLeads').value = '';
+}
+
+function openFillModal2(contentId) {
+  document.getElementById('fillModal').classList.add('show');
+  document.getElementById('fillContentId').value = contentId;
+  document.getElementById('fillPlays').value = '';
+  document.getElementById('fillClicks').value = '';
+  document.getElementById('fillLeads').value = '';
+}
+
+function closeFillModal() {
+  document.getElementById('fillModal').classList.remove('show');
+}
+
+async function submitFill() {
+  const contentId = document.getElementById('fillContentId').value.trim();
+  const plays = parseInt(document.getElementById('fillPlays').value) || 0;
+  const clicks = parseInt(document.getElementById('fillClicks').value) || 0;
+  const leads = parseInt(document.getElementById('fillLeads').value) || 0;
+  
+  if (!contentId) { alert('请输入内容ID'); return; }
+  
+  try {
+    const resp = await fetch('/api/fill', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({content_id: contentId, plays, clicks, leads_generated: leads})
+    });
+    const result = await resp.json();
+    if (result.success) {
+      alert('✅ 回填成功！');
+      closeFillModal();
+      loadData();
+    } else {
+      alert('❌ ' + result.error);
+    }
+  } catch(e) {
+    alert('请求失败: ' + e.message);
+  }
+}
+
+// 启动
+loadData();
+</script>
+</body>
+</html>

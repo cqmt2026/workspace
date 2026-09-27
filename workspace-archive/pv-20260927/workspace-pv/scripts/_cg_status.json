@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "count": 6,
+  "report_path": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-pv\\data\\output\\content_20260913_0933.txt",
+  "scripts_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-pv\\data\\content",
+  "tracking_ids": [
+    "PV_20260913_093307644",
+    "PV_20260913_093307658",
+    "PV_20260913_093307663",
+    "PV_20260913_093307669",
+    "PV_20260913_093307673",
+    "PV_20260913_093307680"
+  ],
+  "directions": [
+    "技术科普",
+    "收益计算",
+    "技术科普",
+    "技术科普",
+    "技术科普",
+    "行业新闻"
+  ]
+}
