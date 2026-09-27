@@ -1,0 +1,403 @@
+{
+  "generated_at": "2026-06-23T00:56:02.999475",
+  "signal_stats": {
+    "stats_by_score": {
+      "2": {
+        "avg_return": -1.1297,
+        "win_rate": 0.1667,
+        "count": 6
+      },
+      "3": {
+        "avg_return": -1.0916,
+        "win_rate": 0.8,
+        "count": 5
+      },
+      "0": {
+        "avg_return": 0.052,
+        "win_rate": 0.5556,
+        "count": 9
+      },
+      "1": {
+        "avg_return": 0.7259,
+        "win_rate": 1.0,
+        "count": 3
+      }
+    },
+    "best_score": 1,
+    "best_avg_return": 0.7259,
+    "best_win_rate": 1.0,
+    "total_valid": 23
+  },
+  "today_count": 146,
+  "total_history": 171,
+  "signals": {
+    "300059": {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "219亿天量成交人气领跑两市！东方财富领衔券商板块，互联网+财富管理双驱动-股票-金融界",
+      "date": "2026-06-22",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 9
+    },
+    "600585": {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥：因差异化分红程序需保持股本总额稳定|除权|股票|上市公司|安徽海螺水泥|员工持股计划|上海证券交易所_网易订阅",
+      "date": "2026-06-22",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "keywords": {
+        "positive": [
+          "回购",
+          "员工持股"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购"
+        ],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 9
+    },
+    "301171": {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下:关于为全资孙公司提供担保的进展公告",
+      "date": "2026-06-23",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [
+          "担保"
+        ],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 0
+    },
+    "002050": {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控推荐报告：全球热管理零部件龙头，AIDC液冷、仿生机器人打开空间",
+      "date": "2026-06-21",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "keywords": {
+        "positive": [
+          "突破"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 5
+    },
+    "002236": {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份:关于2026年员工持股计划非交易过户完成暨回购股份处理完成的公告",
+      "date": "2026-06-18",
+      "score": 3,
+      "has_positive": true,
+      "has_negative": false,
+      "keywords": {
+        "positive": [
+          "回购",
+          "员工持股",
+          "股权激励"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购",
+          "股权激励"
+        ],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 10
+    },
+    "300750": {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "锂矿大消息，宁德时代旗下项目有望复产！",
+      "date": "2026-06-18",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "keywords": {
+        "positive": [
+          "信用评级",
+          "复产"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 8
+    },
+    "600519": {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台拟分红逾350亿元",
+      "date": "2026-06-21",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "keywords": {
+        "positive": [
+          "回购"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购"
+        ],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 6
+    },
+    "601012": {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能：从西安到世界，全球能源大奖的中国力量_企业_行业_太阳能",
+      "date": "2026-06-22",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "keywords": {
+        "positive": [
+          "技术创新"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 5
+    },
+    "688028": {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德公司 - MBA智库百科",
+      "date": "2026-06-22",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 0
+    },
+    "002475": {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "5000亿“果链龙头”，立讯精密完成港股上市备案，最快7月登陆港交所，拟募资20亿-30亿美元",
+      "date": "2026-06-21",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "mx_sentiment_score": 6
+    }
+  },
+  "report": {
+    "positive_signals": [
+      {
+        "code": "002050",
+        "name": "三花智控",
+        "title": "2025年全年业绩高增，盈利能力大幅提升",
+        "score": 4,
+        "keywords": [
+          "利润增长",
+          "市场份额",
+          "增长",
+          "提升"
+        ]
+      },
+      {
+        "code": "002236",
+        "name": "大华股份",
+        "title": "大华股份:关于2026年员工持股计划非交易过户完成暨回购股份处理完成的公告",
+        "score": 3,
+        "keywords": [
+          "回购",
+          "员工持股",
+          "股权激励"
+        ]
+      },
+      {
+        "code": "002475",
+        "name": "立讯精密",
+        "title": "公司2025年报点评：业绩符合预期，AI算力产品加速放量",
+        "score": 3,
+        "keywords": [
+          "供货",
+          "突破",
+          "增长",
+          "提升"
+        ]
+      },
+      {
+        "code": "002236",
+        "name": "大华股份",
+        "title": "创新业务快速增长，AI目标彰显发展信心",
+        "score": 2,
+        "keywords": [
+          "增长",
+          "提升"
+        ]
+      },
+      {
+        "code": "300750",
+        "name": "宁德时代",
+        "title": "锂矿大消息，宁德时代旗下项目有望复产！",
+        "score": 2,
+        "keywords": [
+          "信用评级",
+          "复产"
+        ]
+      },
+      {
+        "code": "300750",
+        "name": "宁德时代",
+        "title": "宁德时代——全球化电器主导者",
+        "score": 2,
+        "keywords": [
+          "增长",
+          "提升"
+        ]
+      },
+      {
+        "code": "688028",
+        "name": "沃尔德",
+        "title": "公司跟踪报告：全球领先的刀具综合方案提供商，金刚石微钻带来增长新机遇",
+        "score": 2,
+        "keywords": [
+          "全球领先",
+          "增长"
+        ]
+      },
+      {
+        "code": "601012",
+        "name": "隆基绿能",
+        "title": "隆基绿能获评BNEF 2026年Q2光伏组件制造商Tier 1榜单 -隆基绿能",
+        "score": 2,
+        "keywords": [
+          "技术创新",
+          "突破"
+        ]
+      },
+      {
+        "code": "300059",
+        "name": "东方财富",
+        "title": "219亿天量成交人气领跑两市！东方财富领衔券商板块，互联网+财富管理双驱动-股票",
+        "score": 2,
+        "keywords": [
+          "增长",
+          "提升"
+        ]
+      },
+      {
+        "code": "300059",
+        "name": "东方财富",
+        "title": "周期中迎成长、竞争力更巩固、估值重估再出发",
+        "score": 2,
+        "keywords": [
+          "增长",
+          "提升"
+        ]
+      }
+    ],
+    "negative_signals": [
+      {
+        "code": "600585",
+        "name": "海螺水泥",
+        "title": "Q1行业需求承压，期待供给协同加强",
+        "score": -2,
+        "keywords": [
+          "风险提示",
+          "下降",
+          "减少"
+        ]
+      },
+      {
+        "code": "688028",
+        "name": "沃尔德",
+        "title": "沃尔德:投资者关系活动记录表(5月18日-21日)",
+        "score": -1,
+        "keywords": [
+          "风险提示"
+        ]
+      },
+      {
+        "code": "688028",
+        "name": "沃尔德",
+        "title": "沃尔德股价涨7.43%，西部利得基金旗下3只基金重仓，合计持有182.24万股浮",
+        "score": -1,
+        "keywords": [
+          "减持"
+        ]
+      },
+      {
+        "code": "002475",
+        "name": "立讯精密",
+        "title": "立讯精密 被处罚",
+        "score": -1,
+        "keywords": [
+          "处罚"
+        ]
+      },
+      {
+        "code": "601012",
+        "name": "隆基绿能",
+        "title": "亏损加大！隆基绿能：需求疲软，成本上涨，行业去产能缓慢_市值风云",
+        "score": -1,
+        "keywords": [
+          "亏损"
+        ]
+      }
+    ]
+  }
+}

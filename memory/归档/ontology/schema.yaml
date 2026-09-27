@@ -1,0 +1,100 @@
+# Ontology Schema — C:/Users/Administrator/.openclaw/workspace/memory/ontology/schema.yaml
+
+types:
+  Person:
+    required: [name]
+    properties:
+      name: string
+      role: string?
+      timezone: string?
+      notes: string?
+
+  Project:
+    required: [name, status]
+    properties:
+      name: string
+      status: enum[active, paused, done, archived]
+      goals: string[]
+      owner: Person?
+
+  Task:
+    required: [title, status]
+    properties:
+      title: string
+      status: enum[open, in_progress, blocked, done]
+      due: datetime?
+      priority: enum[low, medium, high]?
+      assignee: Person?
+      blockers: Task[]
+
+  Goal:
+    required: [description]
+    properties:
+      description: string
+      target_date: date?
+      metrics: string[]
+
+  Event:
+    required: [title, start]
+    properties:
+      title: string
+      start: datetime
+      end: datetime?
+      location: string?
+      attendees: Person[]
+
+  Document:
+    required: [title]
+    properties:
+      title: string
+      path: string?
+      url: string?
+      summary: string?
+
+  Note:
+    required: [content]
+    properties:
+      content: string
+      tags: string[]
+      refs: string[]
+
+  Action:
+    required: [type, target]
+    properties:
+      type: string
+      target: string
+      timestamp: datetime
+      outcome: string?
+
+  Policy:
+    required: [scope, rule]
+    properties:
+      scope: string
+      rule: string
+      enforcement: string?
+
+relations:
+  has_owner:
+    from_types: [Project, Task]
+    to_types: [Person]
+    cardinality: many_to_one
+
+  has_agent:
+    from_types: [Project]
+    to_types: [Person]
+    cardinality: many_to_one
+
+  has_task:
+    from_types: [Project]
+    to_types: [Task]
+    cardinality: one_to_many
+
+  blocks:
+    from_types: [Task]
+    to_types: [Task]
+    acyclic: true
+
+  for_project:
+    from_types: [Task, Event, Document]
+    to_types: [Project]
+    cardinality: many_to_one

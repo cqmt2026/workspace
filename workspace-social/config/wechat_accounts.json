@@ -1,0 +1,64 @@
+{
+  "重庆本地政府": [
+    {"name": "重庆住建委", "biz": "MzIwOTg3NjU0Mw=="},
+    {"name": "重庆发布", "biz": "MzIwMTIzNDU2Nw=="},
+    {"name": "重庆自然资源", "biz": "MzIwMjM0NTY3OA=="},
+    {"name": "重庆规划", "biz": "MzIwMzQ1Njc4OQ=="},
+    {"name": "重庆国土房管局", "biz": "MzIwNDU2Nzg5MA=="}
+  ],
+  "重庆房产自媒体": [
+    {"name": "铭腾机构", "biz": "待补充"},
+    {"name": "重庆锐理数据", "biz": "待补充"},
+    {"name": "重庆房市", "biz": "待补充"},
+    {"name": "重庆新一线城市", "biz": "待补充"},
+    {"name": "楼市新认知", "biz": "待补充"},
+    {"name": "克而瑞重庆", "biz": "待补充"},
+    {"name": "渝夫地产观", "biz": "待补充"},
+    {"name": "重庆楼市", "biz": "待补充"},
+    {"name": "重庆市房地产业协会", "biz": "待补充"},
+    {"name": "院长聊房", "biz": "待补充"},
+    {"name": "重庆市房地产开发协会", "biz": "待补充"},
+    {"name": "重庆网上房地产", "biz": "待补充"},
+    {"name": "小树聊房", "biz": "待补充"},
+    {"name": "贝壳找房重庆站", "biz": "待补充"},
+    {"name": "中指院西南", "biz": "待补充"},
+    {"name": "西部重庆科学城", "biz": "待补充"},
+    {"name": "媒人观察", "biz": "待补充"}
+  ],
+  "全国房产": [
+    {"name": "住建部", "biz": "MzIwNTEyMzQ1Ng=="},
+    {"name": "克而瑞", "biz": "MzIwNTY3ODkwMQ=="},
+    {"name": "中指研究院", "biz": "MzIwNjc4OTAxMg=="},
+    {"name": "戴德梁行", "biz": "MzIwNzg5MDEyMw=="},
+    {"name": "中原地产", "biz": "MzIwODkwMTIzNA=="},
+    {"name": "链家", "biz": "MzIwOTAxMjM0NQ=="},
+    {"name": "贝壳找房", "biz": "MzIwMDEyMzQ1Ng=="},
+    {"name": "安居客", "biz": "MzIwMTIzNDU2Nw=="},
+    {"name": "房天下", "biz": "MzIwMjM0NTY3OA=="},
+    {"name": "吉屋网", "biz": "MzIwMzQ1Njc4OQ=="}
+  ],
+  "媒体机构": [
+    {"name": "第一财经", "biz": "MzIwMjM0NTY3OA=="},
+    {"name": "澎湃新闻", "biz": "MzIwMzQ1Njc4OQ=="},
+    {"name": "界面新闻", "biz": "MzIwNDU2Nzg5MA=="},
+    {"name": "每日经济新闻", "biz": "MzIwNTY3ODkwMQ=="},
+    {"name": "21 世纪经济报道", "biz": "MzIwNjc4OTAxMg=="},
+    {"name": "财经", "biz": "MzIwNzg5MDEyMw=="},
+    {"name": "经济观察报", "biz": "MzIwODkwMTIzNA=="},
+    {"name": "中国经营报", "biz": "MzIwOTAxMjM0NQ=="},
+    {"name": "证券时报", "biz": "MzIwMDEyMzQ1Ng=="},
+    {"name": "券商中国", "biz": "MzIwMTIzNDU2Nw=="}
+  ],
+  "房产大V": [
+    {"name": "地产人", "biz": "MzIwMjM0NTY3OA=="},
+    {"name": "丁祖昱评楼市", "biz": "MzIwMzQ1Njc4OQ=="},
+    {"name": "真叫卢俊", "biz": "MzIwNDU2Nzg5MA=="},
+    {"name": "明源地产研究院", "biz": "MzIwNTY3ODkwMQ=="},
+    {"name": "克而瑞指数", "biz": "MzIwNjc4OTAxMg=="},
+    {"name": "房地产观察家", "biz": "MzIwNzg5MDEyMw=="},
+    {"name": "楼市参考", "biz": "MzIwODkwMTIzNA=="},
+    {"name": "房产投资指南", "biz": "MzIwOTAxMjM0NQ=="},
+    {"name": "买房攻略", "biz": "MzIwMDEyMzQ1Ng=="},
+    {"name": "楼市风向标", "biz": "MzIwMTIzNDU2Nw=="}
+  ]
+}

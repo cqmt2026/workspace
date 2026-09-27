@@ -1,0 +1,17 @@
+import openpyxl, sys
+sys.stdout.reconfigure(encoding='utf-8')
+
+# 读取经信委原始Excel
+wb = openpyxl.load_workbook(r'C:\Users\Administrator\.openclaw\workspace\workspace-baiduagent\data\source\jingxinwei\2025_创新型_申报通过.xlsx', read_only=True)
+print(f"Sheets: {wb.sheetnames}")
+ws = wb.active
+print(f"Active sheet: {ws.title}, dims={ws.dimensions}")
+
+# 读取前20行
+rows = []
+for i, row in enumerate(ws.iter_rows(values_only=True)):
+    if i < 30:
+        print(f"Row {i}: {row}")
+    rows.append(row)
+
+wb.close()

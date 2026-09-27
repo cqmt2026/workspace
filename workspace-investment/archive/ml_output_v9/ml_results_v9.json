@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-05-16 19:47",
+  "optimization": "A(fundamental)+B(stop-loss)+C(multi-model)",
+  "stocks": 400,
+  "panel_records": 35599,
+  "v8_reference": {"auc": 0.6127, "annual_return": 15.68, "max_drawdown": -20.74},
+  "model_scores": {
+    "LightGBM": {"accuracy": 0.5653, "auc": 0.5863, "f1": 0.4021},
+    "XGBoost": {"accuracy": 0.5645, "auc": 0.5809, "f1": 0.4020},
+    "RF": {"accuracy": 0.5587, "auc": 0.5809, "f1": 0.2992},
+    "LR": {"accuracy": 0.5483, "auc": 0.5452, "f1": 0.2939},
+    "Ensemble": {"accuracy": 0.5592, "auc": 0.5819, "f1": 0.3356}
+  },
+  "top20": [
+    {"rank": 1, "code": "600536", "score": 0.4799, "direction": "DOWN", "samples": 89},
+    {"rank": 2, "code": "600535", "score": 0.4716, "direction": "DOWN", "samples": 89},
+    {"rank": 3, "code": "600546", "score": 0.4706, "direction": "DOWN", "samples": 87},
+    {"rank": 4, "code": "600539", "score": 0.4651, "direction": "DOWN", "samples": 85},
+    {"rank": 5, "code": "600538", "score": 0.4566, "direction": "DOWN", "samples": 89},
+    {"rank": 6, "code": "600543", "score": 0.4555, "direction": "DOWN", "samples": 89},
+    {"rank": 7, "code": "600531", "score": 0.4474, "direction": "DOWN", "samples": 90},
+    {"rank": 8, "code": "600540", "score": 0.4416, "direction": "DOWN", "samples": 89},
+    {"rank": 9, "code": "600545", "score": 0.4345, "direction": "DOWN", "samples": 90},
+    {"rank": 10, "code": "600530", "score": 0.4342, "direction": "DOWN", "samples": 23},
+    {"rank": 11, "code": "600537", "score": 0.4263, "direction": "DOWN", "samples": 90},
+    {"rank": 12, "code": "600533", "score": 0.4230, "direction": "DOWN", "samples": 90}
+  ],
+  "backtest_no_stop": {"total": 25.94, "annual": 12.97, "sharpe": 0.61, "max_dd": -21.33, "win_rate": 52.4, "pf": 1.10},
+  "backtest_with_stop": {"total": 25.94, "annual": 12.97, "sharpe": 0.61, "max_dd": -21.33, "win_rate": 52.4, "pf": 1.10},
+  "stop_improvement": 0.0,
+  "comparison_vs_v8": {
+    "auc_change": 0.5819 - 0.6127,
+    "annual_change": 12.97 - 15.68,
+    "drawdown_change": 21.33 - 20.74
+  },
+  "top_features": [
+    {"rank": 1, "factor": "ret1d", "importance": 242},
+    {"rank": 2, "factor": "pvc20", "importance": 220},
+    {"rank": 3, "factor": "kdj_k", "importance": 215},
+    {"rank": 4, "factor": "macd_d", "importance": 195},
+    {"rank": 5, "factor": "ret20d", "importance": 192},
+    {"rank": 6, "factor": "bbp20", "importance": 191},
+    {"rank": 7, "factor": "vr5d", "importance": 190},
+    {"rank": 8, "factor": "ppos20d", "importance": 185},
+    {"rank": 9, "factor": "rsi6", "importance": 177},
+    {"rank": 10, "factor": "obv", "importance": 176}
+  ]
+}

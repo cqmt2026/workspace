@@ -1,0 +1,369 @@
+{
+  "timestamp": "2026-07-19 12:00:30",
+  "hot": [
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 528361,
+      "language": "Markdown",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "created": "2018-05-09",
+      "topics": [
+        "awesome-list",
+        "free",
+        "programming"
+      ]
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
+      "stars": 452055,
+      "language": "TypeScript",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "created": "2014-12-24",
+      "topics": [
+        "careers",
+        "certification",
+        "community"
+      ]
+    },
+    {
+      "name": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "stars": 451238,
+      "language": "Python",
+      "url": "https://github.com/public-apis/public-apis",
+      "created": "2016-03-20",
+      "topics": [
+        "api",
+        "apis",
+        "dataset"
+      ]
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "desc": ":books: Freely available programming books",
+      "stars": 392434,
+      "language": "Python",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "created": "2013-10-11",
+      "topics": [
+        "books",
+        "education",
+        "hacktoberfest"
+      ]
+    },
+    {
+      "name": "openclaw/openclaw",
+      "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 383413,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw",
+      "created": "2025-11-24",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean"
+      ]
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers gr",
+      "stars": 361540,
+      "language": "TypeScript",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "created": "2017-03-15",
+      "topics": [
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap"
+      ]
+    },
+    {
+      "name": "vinta/awesome-python",
+      "desc": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "stars": 308960,
+      "language": "Python",
+      "url": "https://github.com/vinta/awesome-python",
+      "created": "2014-06-27",
+      "topics": [
+        "awesome",
+        "collections",
+        "python"
+      ]
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "desc": "A list of Free Software network services and web applications which can be hoste",
+      "stars": 306557,
+      "language": "N/A",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "created": "2015-06-01",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud"
+      ]
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "desc": "Curated list of project-based tutorials",
+      "stars": 273934,
+      "language": "Python",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "created": "2017-04-12",
+      "topics": [
+        "beginner-project",
+        "cpp",
+        "golang"
+      ]
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": 257165,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers",
+      "created": "2025-10-09",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding"
+      ]
+    }
+  ],
+  "ai_hot": [
+    {
+      "name": "tensorflow/tensorflow",
+      "desc": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 196358,
+      "language": "C++",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "created": "2015-11-07",
+      "topics": [
+        "deep-learning",
+        "deep-neural-networks",
+        "distributed"
+      ]
+    },
+    {
+      "name": "f/prompts.chat",
+      "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
+      "stars": 165983,
+      "language": "HTML",
+      "url": "https://github.com/f/prompts.chat",
+      "created": "2022-12-05",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome-list"
+      ]
+    },
+    {
+      "name": "huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine lear",
+      "stars": 162715,
+      "language": "Python",
+      "url": "https://github.com/huggingface/transformers",
+      "created": "2018-10-29",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek"
+      ]
+    },
+    {
+      "name": "pytorch/pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101764,
+      "language": "Python",
+      "url": "https://github.com/pytorch/pytorch",
+      "created": "2016-08-13",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu"
+      ]
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stars": 99331,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "created": "2023-07-23",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "attention-mechanism"
+      ]
+    }
+  ],
+  "python_hot": [
+    {
+      "name": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "stars": 451238,
+      "language": "Python",
+      "url": "https://github.com/public-apis/public-apis",
+      "created": "2016-03-20",
+      "topics": [
+        "api",
+        "apis",
+        "dataset"
+      ]
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "desc": ":books: Freely available programming books",
+      "stars": 392434,
+      "language": "Python",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "created": "2013-10-11",
+      "topics": [
+        "books",
+        "education",
+        "hacktoberfest"
+      ]
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview.  ",
+      "stars": 358139,
+      "language": "Python",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "created": "2017-02-26",
+      "topics": [
+        "design",
+        "design-patterns",
+        "design-system"
+      ]
+    },
+    {
+      "name": "vinta/awesome-python",
+      "desc": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "stars": 308960,
+      "language": "Python",
+      "url": "https://github.com/vinta/awesome-python",
+      "created": "2014-06-27",
+      "topics": [
+        "awesome",
+        "collections",
+        "python"
+      ]
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "desc": "Curated list of project-based tutorials",
+      "stars": 273934,
+      "language": "Python",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "created": "2017-04-12",
+      "topics": [
+        "beginner-project",
+        "cpp",
+        "golang"
+      ]
+    }
+  ],
+  "rising": [
+    {
+      "name": "xai-org/grok-build",
+      "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib",
+      "stars": 19073,
+      "language": "Rust",
+      "url": "https://github.com/xai-org/grok-build",
+      "created": "2026-07-14",
+      "topics": []
+    },
+    {
+      "name": "JustVugg/colibri",
+      "desc": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, exper",
+      "stars": 16156,
+      "language": "C",
+      "url": "https://github.com/JustVugg/colibri",
+      "created": "2026-07-01",
+      "topics": []
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "desc": "OpenWiki is a CLI that writes and maintains agent documentation for your codebas",
+      "stars": 12324,
+      "language": "TypeScript",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "created": "2026-06-22",
+      "topics": []
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "desc": "Codex Dream Skin",
+      "stars": 9829,
+      "language": "JavaScript",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "created": "2026-07-15",
+      "topics": []
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding",
+      "stars": 6691,
+      "language": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "created": "2026-06-26",
+      "topics": []
+    },
+    {
+      "name": "x4gKing/X4G",
+      "desc": "",
+      "stars": 5755,
+      "language": "Python",
+      "url": "https://github.com/x4gKing/X4G",
+      "created": "2026-07-04",
+      "topics": []
+    },
+    {
+      "name": "Yu9191/wloc",
+      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复",
+      "stars": 5617,
+      "language": "JavaScript",
+      "url": "https://github.com/Yu9191/wloc",
+      "created": "2026-06-24",
+      "topics": []
+    },
+    {
+      "name": "elder-plinius/T3MP3ST",
+      "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "stars": 4948,
+      "language": "TypeScript",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "created": "2026-07-02",
+      "topics": [
+        "agents",
+        "ai",
+        "multi-agent"
+      ]
+    },
+    {
+      "name": "bikini/exploitarium",
+      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At ",
+      "stars": 3966,
+      "language": "Python",
+      "url": "https://github.com/bikini/exploitarium",
+      "created": "2026-06-23",
+      "topics": []
+    },
+    {
+      "name": "baairon/torlink",
+      "desc": "A sleek, zero-setup torrent finder and downloader that lives right in your termi",
+      "stars": 3678,
+      "language": "TypeScript",
+      "url": "https://github.com/baairon/torlink",
+      "created": "2026-06-25",
+      "topics": [
+        "crossplatform",
+        "downloader",
+        "magnet-links"
+      ]
+    }
+  ]
+}

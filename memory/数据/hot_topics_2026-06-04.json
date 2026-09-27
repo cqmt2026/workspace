@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-04",
+  "count": 10,
+  "topics": [
+    {
+      "topic": "房价下跌趋势",
+      "heat": 560000,
+      "cat": "财经",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "AI替代人类工作",
+      "heat": 480000,
+      "cat": "科技",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "二手房交易量暴跌",
+      "heat": 450000,
+      "cat": "财经",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "职场35岁危机",
+      "heat": 420000,
+      "cat": "职场",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "年轻人不婚不育",
+      "heat": 380000,
+      "cat": "社会",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "新能源车价格战",
+      "heat": 350000,
+      "cat": "科技",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "考研分数线变化",
+      "heat": 320000,
+      "cat": "教育",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "谷爱凌斯坦福牛津双学霸",
+      "heat": 310000,
+      "cat": "娱乐",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "中年女人显年轻的特点",
+      "heat": 280000,
+      "cat": "生活",
+      "used": false,
+      "count": 0
+    },
+    {
+      "topic": "春季养生指南",
+      "heat": 190000,
+      "cat": "健康",
+      "used": false,
+      "count": 0
+    }
+  ]
+}

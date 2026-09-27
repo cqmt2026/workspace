@@ -1,0 +1,26 @@
+# AliceQuant 框架配置
+# =====================
+
+# 数据源
+data:
+  db_path: F:\market_data.db
+  factors_db: data/factors.db
+  cache_dir: data/cache
+
+# 回测
+backtest:
+  default_capital: 100000
+  commission: 0.0005
+  slippage: 0.001
+
+# 策略
+strategy:
+  pipeline_v2:
+    min_score: 50
+    max_score: 100
+    top_n: 30
+
+# 特征
+features:
+  ic_window: 60
+  min_samples: 20

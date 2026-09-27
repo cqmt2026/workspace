@@ -1,0 +1,154 @@
+[
+  {
+    "factor": "mkt",
+    "importance": 8019
+  },
+  {
+    "factor": "month_end",
+    "importance": 4065
+  },
+  {
+    "factor": "ret_60",
+    "importance": 707
+  },
+  {
+    "factor": "hlr20",
+    "importance": 683
+  },
+  {
+    "factor": "ret_10",
+    "importance": 608
+  },
+  {
+    "factor": "ret_5",
+    "importance": 579
+  },
+  {
+    "factor": "ma_ratio_60",
+    "importance": 515
+  },
+  {
+    "factor": "macd_dif",
+    "importance": 505
+  },
+  {
+    "factor": "obv",
+    "importance": 481
+  },
+  {
+    "factor": "ret_1",
+    "importance": 480
+  },
+  {
+    "factor": "ppos_20",
+    "importance": 454
+  },
+  {
+    "factor": "ret_3",
+    "importance": 453
+  },
+  {
+    "factor": "kdj_k",
+    "importance": 451
+  },
+  {
+    "factor": "obv_ratio",
+    "importance": 435
+  },
+  {
+    "factor": "bbp_20d",
+    "importance": 430
+  },
+  {
+    "factor": "ret_20",
+    "importance": 399
+  },
+  {
+    "factor": "ppos_60",
+    "importance": 390
+  },
+  {
+    "factor": "macd_dea",
+    "importance": 360
+  },
+  {
+    "factor": "rsi_14d",
+    "importance": 345
+  },
+  {
+    "factor": "eps",
+    "importance": 341
+  },
+  {
+    "factor": "gap_down",
+    "importance": 336
+  },
+  {
+    "factor": "vol_20d",
+    "importance": 305
+  },
+  {
+    "factor": "ma_ratio_20",
+    "importance": 291
+  },
+  {
+    "factor": "vr5",
+    "importance": 254
+  },
+  {
+    "factor": "ma_ratio_5",
+    "importance": 234
+  },
+  {
+    "factor": "bias_5",
+    "importance": 205
+  },
+  {
+    "factor": "roe_norm",
+    "importance": 191
+  },
+  {
+    "factor": "rs",
+    "importance": 183
+  },
+  {
+    "factor": "net_margin",
+    "importance": 172
+  },
+  {
+    "factor": "gap_up",
+    "importance": 149
+  },
+  {
+    "factor": "kdj_d",
+    "importance": 127
+  },
+  {
+    "factor": "gap_mean",
+    "importance": 97
+  },
+  {
+    "factor": "bias_20",
+    "importance": 96
+  },
+  {
+    "factor": "deduct_ratio",
+    "importance": 56
+  },
+  {
+    "factor": "roe_pct",
+    "importance": 43
+  },
+  {
+    "factor": "kdj_j",
+    "importance": 33
+  },
+  {
+    "factor": "cash_net_ratio_norm",
+    "importance": 28
+  },
+  {
+    "factor": "gross_margin",
+    "importance": 0
+  }
+]

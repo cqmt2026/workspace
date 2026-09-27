@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-17 10:03",
+  "stocks": 975,
+  "samples": 83941,
+  "val_auc": 0.5737,
+  "rating": "C",
+  "best_iter": 189,
+  "train_acc": 0.6327,
+  "val_acc": 0.5514,
+  "f1": 0.5393,
+  "overfit": 0.0813,
+  "top_features": ["obv", "vr5d", "macd_d", "bbp20", "ret1d"]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-16 19:17",
+  "stocks_used": 975,
+  "total_samples": 1915166,
+  "training_samples": 1532132,
+  "test_samples": 383034,
+  "features": [
+    "return_1d",
+    "return_5d",
+    "return_20d",
+    "mom_5d",
+    "mom_20d",
+    "vol_ratio",
+    "ma5_ratio",
+    "ma10_ratio",
+    "ma20_ratio",
+    "rsi_14",
+    "atr_pct",
+    "macd",
+    "signal_line",
+    "boll_position",
+    "market_return_1d",
+    "industry_return_5d"
+  ],
+  "train_accuracy": 0.6031,
+  "test_accuracy": 0.5937,
+  "overfit_gap": 0.0094,
+  "positive_rate": 0.4743,
+  "lightgbm_version": "4.6.0",
+  "data_source": "ml_output_v6/all_kline.pkl (2000目标达成)",
+  "anti_lookahead": true,
+  "target": "3日后上涨概率"
+}

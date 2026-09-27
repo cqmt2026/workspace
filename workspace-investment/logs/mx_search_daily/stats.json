@@ -1,0 +1,4331 @@
+{
+  "records": [
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "创新业务快速增长，AI目标彰显发展信心",
+      "date": "2026-06-16",
+      "type": "research",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -1.7672,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份:关于2026年员工持股计划非交易过户完成暨回购股份处理完成的公告",
+      "date": "2026-06-18",
+      "type": "ann",
+      "score": 3,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 0.2459,
+      "keywords": {
+        "positive": [
+          "回购",
+          "员工持股",
+          "股权激励"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购",
+          "股权激励"
+        ],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台伦交所最新ESG评级上升至B+，行业排名第一",
+      "date": "2026-06-15",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": 1.6372,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台:北京市金杜律师事务所关于贵州茅台酒股份有限公司2025年度股东会之法律意见书",
+      "date": "2026-06-12",
+      "type": "ann",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": -0.9993,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台招标：工程项目结算审核服务供应商库增补 资金自筹_新浪财经_新浪网",
+      "date": "2026-06-18",
+      "type": "news",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 2.0576,
+      "keywords": {
+        "positive": [
+          "中标",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "左手BC、右手储能，隆基绿能再续龙头传奇 - 21经济网",
+      "date": "2026-06-12",
+      "type": "news",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 1.3373,
+      "keywords": {
+        "positive": [
+          "突破"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富为子公司天天基金新增提供40亿元担保_财经频道_证券之星",
+      "date": "2026-06-17",
+      "type": "news",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 0.4202,
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [
+          "担保"
+        ],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富6月17日获融资买入6.56亿元，融资余额236.77亿元|融券|持股|etf|知名企业|易",
+      "date": "2026-06-18",
+      "type": "news",
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "next_return": 2.3656,
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富股价涨3.02%，招商基金旗下6只基金重仓，合计持有1343.89万股浮盈赚取766.02万",
+      "date": "2026-06-16",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": -1.2029,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "创新业务快速增长，AI目标彰显发展信心",
+      "date": "2026-06-16",
+      "type": "research",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -1.7672,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份:关于2026年员工持股计划非交易过户完成暨回购股份处理完成的公告",
+      "date": "2026-06-18",
+      "type": "ann",
+      "score": 3,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 0.2459,
+      "keywords": {
+        "positive": [
+          "回购",
+          "员工持股",
+          "股权激励"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购",
+          "股权激励"
+        ],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密 - MBA智库百科",
+      "date": "2026-06-12",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": 1.2861,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "关于立讯精密工业股份有限公司境外发行上市备案通知书",
+      "date": "2026-06-18",
+      "type": "ann",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": -3.7323,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密:2025年可持续发展报告(英文版)",
+      "date": "2026-06-17",
+      "type": "ann",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": -0.0891,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密：H股发行获中国证监会备案 全球化战略再添资本新引擎",
+      "date": "2026-06-15",
+      "type": "news",
+      "score": 3,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -6.4417,
+      "keywords": {
+        "positive": [
+          "突破",
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能出席新能源国际投资联盟大会 深化绿色能源合作 -隆基绿能",
+      "date": "2026-06-16",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": 0.6015,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份出席福建能化集团信息化大会，以视觉智能×AI Agent助力能源化工智能升级-浙江大华技术股份有限公司",
+      "content_preview": "通过全流程协同，大华助力安全生产从“人工巡查、事后处置”向“智能研判、主动预警、闭环管理”升级，持续提升行业安全管理效率。\n大会现场，大华股份集中展示了面向能源行业场景的数智化产品及解决方案。在化工领域，围绕“两重点、一重大”等要求，推出防爆类产品、AI布控、热成像测温、工业听诊、TDLAS激光检测、气云成像检测等多维度智能感知技术及产品，全面覆盖油气勘探开发及储运、炼油与化工、油气销售等全链路场",
+      "type": "news",
+      "date": "2026-06-16",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份:2026年员工持股计划第一次持有人会议决议公告",
+      "content_preview": "证券代码：002236\n证券简称：大华股份\n公告编号：2026-047\n浙江大华技术股份有限公司\n2026 年员工持股计划第一次持有人会议决议公告\n本公司及董事会全体成员保证信息披露内容的真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏。\n浙江大华技术股份有限公司（以下简称“公司”）2026 年员工持股计划（以下简称“本次员工持股计划”）第一次持有人会议于 2026 年 6 月 16 日以通讯",
+      "type": "ann",
+      "date": "2026-06-18",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份:关于2026年员工持股计划非交易过户完成暨回购股份处理完成的公告",
+      "content_preview": "\n| 证券代码：002236 | 证券简称：大华股份 | 公告编号：2026-048 |\n|- |- |- |\n\n\n浙江大华技术股份有限公司\n\n关于 2026 年员工持股计划非交易过户完成\n\n暨回购股份处理完成的公告\n\n本公司及董事会全体成员保证信息披露内容的真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏。\n\n浙江大华技术股份有限公司（以下简称“公司”）分别于 2026 年 4 月 17 日",
+      "type": "ann",
+      "date": "2026-06-18",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [
+          "回购",
+          "员工持股",
+          "股权激励"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购",
+          "股权激励"
+        ],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 3,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份6月18日主力资金净流出，估值处历史低位 - 经济观察网 － 专业财经新闻网站",
+      "content_preview": "大华股份6月18日主力资金净流出，估值处历史低位经观智讯2026-06-20 09:52经济观察网大华股份近5日处于震荡行情中，表现基本持平大盘，弱于行业平均水平。近5日主力资金整体呈现净流出状态，净占比接近市场平均水平。6月18日主力资金整体呈现净流出状态，净占比接近市场平均水平。融资融券差额占比4.96%。该股市场关注度一般，整体舆情偏中性。机构调研较频繁，整体研报评级变化不大。最近一期季报披",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "营收稳增、盈利向好，智慧物联企业大华股份的大模型突围战|界面新闻",
+      "content_preview": "24%，连续多年呈增长态势。从更长的维度看，2020年至2025年，公司研发投入从29.\n98亿元增长至逾43亿元，近六年累计投入超过228亿元。持续的高强度研发投入正在转化为可见的商业成果。2025年上半年，公司已发布121款覆盖多领域的大模型产品。与中国移动的战略协同进一步深化，合作从总部延伸至省区地市，在AI大模型、视联网算法、低空经济等领域开展能力共建，深度合作产品超6款。这种“大厂共建”",
+      "type": "news",
+      "date": "2026-04-22",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "创新业务快速增长，AI目标彰显发展信心",
+      "content_preview": "　　大华股份(002236)\r\n　　投资要点：\r\n　　事件：2025年公司营收327.44亿元，同比增长1.75%；归母净利润38.58亿元，同比增长32.77%；扣非净利润27.30亿元，同比增长16.28%。2026Q1营收69.02亿元，同比增长10.33%；归母净利润6.98亿元，同比增长6.81%；扣非净利润5.89亿元，同比增长16.93%。\r\n　　点评：\r\n　　同比口径收入快增长。分",
+      "type": "research",
+      "date": "2026-06-16",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "Strong 1Q26 earnings growth, robust guidance for AI-related revenue",
+      "content_preview": "　　大华股份(002236)\r\n　　Key takeaway\r\n　　In 2025, DAHUA INC recorded operating revenue ofRMB32.744bn, up 1.75% YoY; net profit attributable toshareholders of the parent company was RMB3.858bn, up32.77% YoY. ",
+      "type": "research",
+      "date": "2026-06-04",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份申请配置文件加载相关专利，加载目标配置文件，实现容器云租户资源隔离_方法_电子设备_邓志吉",
+      "content_preview": "大华股份申请配置文件加载相关专利，加载目标配置文件，实现容器云租户资源隔离来源：新浪证券-红岸工作室6月20日消息，国家知识产权局信息显示，浙江大华技术股份有限公司申请一项名为“一种配置文件加载方法及电子设备、存储介质”的专利。申请公布号为CN122219987A，申请号为CN202610091906.\n1，申请公布日期为2026年6月16日，申请日期为2026年1月22日，发明人陈鑫、高伟、周明",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份申请配置文件加载相关专利，加载目标配置文件，实现容器云租户资源隔离_方法_电子设备_邓志吉",
+      "content_preview": "大华股份成立于2001年3月12日，于2008年5月20日在深圳证券交易所上市，注册地址和办公地址均为浙江省杭州市。它是国内安防行业领军企业，专注安防视频监控产品，具备深厚技术积累与全产业链优势。大华股份主营业务为安防视频监控产品的研发、生产和销售，所属申万行业为计算机-计算机设备-安防设备，涉及电子车牌、流媒体、远程办公等概念板块。\n在2025年经营业绩方面，大华股份表现出色。营业收入达327.",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份取得文本识别模型相关专利，通过掩码处理等调整模型参数提升识别效果",
+      "content_preview": "09亿元，占比80.\n65%；创新业务56.\n7亿元，占比17.\n32%，其中软件业务18.\n33亿元，占比5.\n60%，其他6.\n64亿元，占比2.\n03%。\n净利润方面，2025年为38.\n82亿元，行业排名2/27，仅次于海康威视的154.\n34亿元，高于行业平均数7.\n7亿元和中位数2679.\n73万元。\n浙江大华技术股份有限公司近期专利情况如下：举报/反馈",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份取得文本识别模型相关专利，通过掩码处理等调整模型参数提升识别效果",
+      "content_preview": "专利摘要显示，本申请公开了一种文本识别模型的训练方法、文本识别方法及相关装置，该方法包括：对第一样本文本图像进行掩码处理，得到第一样本文本图像中的第一掩码区域图像的第一掩码特征和第一非掩码区域图像；利用文本识别模型的编码器对第一样本文本图像的第一非掩码区域图像进行编码得到第一编码特征；对第一掩码特征和第一编码特征进行预测，得到第一样本文本图像的第一文本识别结果；至少基于第一文本识别结果，调整文本识",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份取得模型训练法相关专利，利用样本集训练特征与字符识别模型",
+      "content_preview": "46亿元和中位数6.\n58亿元，不过与行业第一的海康威视925.\n08亿元仍有差距。其主营业务中，智慧物联产品及方案收入264.\n09亿元，占比80.\n65%；创新业务56.\n7亿元，占比17.\n32%，其中软件业务18.\n33亿元，占比5.\n60%；其他6.\n64亿元，占比2.\n03%。\n净利润方面，2025年为38.\n82亿元，同样排名行业第2，行业平均为7.\n7亿元，中位数为2679.\n73",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份申请图像采集休眠法相关专利，灵活调整休眠时刻，提高图像设备数据存储效率",
+      "content_preview": "专利摘要显示，本申请公开了一种低功耗图像采集设备的休眠方法、电子设备以及存储介质。低功耗图像采集设备的休眠方法应用于图像采集设备，低功耗图像采集设备的休眠方法包括：获取图像采集设备存储初始存储数据的初始存储耗时；根据初始存储耗时与预设等待休眠时长之间的对比结果对预设等待休眠时长进行调整处理，得到目标等待休眠时长；响应于图像采集设备的当前工作时长等于目标等待休眠时长，控制图像采集设备进入休眠模式。上",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份获得发明专利授权：“数据处理方法和装置、存储介质及电子设备”|算子|脑机接口_网易订阅",
+      "content_preview": "大华股份获得发明专利授权：“数据处理方法和装置、存储介质及电子设备”0分享至证券之星消息，根据天眼查APP数据显示大华股份（002236）新获得一项发明专利授权，专利名为“数据处理方法和装置、存储介质及电子设备”，专利申请号为CN202610277547.\n9，授权日为2026年6月19日。\n专利摘要：本申请公开了一种数据处理方法和装置、存储介质及电子设备。其中，该方法包括：在图像识别场景中，获取",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份获得发明专利授权：“数据处理方法和装置、存储介质及电子设备”|算子|脑机接口_网易订阅",
+      "content_preview": "36亿元，同比增2.\n91%。\n通过天眼查大数据分析，浙江大华技术股份有限公司共对外投资了71家企业，参与招投标项目10438次；财产线索方面有商标信息407条，专利信息11243条，著作权信息1125条；此外企业还拥有行政许可408个。\n数据来源：天眼查APP以上内容为证券之星据公开信息整理，不构成投资建议。\n相关ETF特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:29.340414",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "602MWh项目并网！宁德时代拿下东欧最大已投运储能项目！-碳索储能网",
+      "content_preview": "htm l 新闻介绍：宁德时代与保加利亚企业Solarpro Technology合作建设的602MWh大型储能电站，已于布尔加斯地区成功并网，成为目前东欧已投运规模最大的电化学储能项目。该项目显著提升保加利亚全国储能总装机容量约10%，通过调峰、调频及新能源消纳等功能，助力缓解高比例可再生能源并网带来的电网稳定性挑战。全站采用宁德时代自研TENER储能系统，满足欧洲严苛电网标准与本地运维需求；S",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "宁德时代:关于公司主体国际信用评级上调的公告",
+      "content_preview": "宁德时代新能源科技股份有限公司\n关于公司主体国际信用评级上调的公告\n本公司及董事会全体成员保证信息披露的内容真实、准确、完整，没有虚假记载、误导性陈述或重大遗漏。\n2026 年 6 月 18 日，惠誉国际评级有限公司（以下简称“惠誉”）在其官网发布了关于上调宁德时代新能源科技股份有限公司（以下简称“公司”或“宁德时代”）信用评级的相关新闻，惠誉将宁德时代的发行人主体评级从“A-”上调至“A”，评级",
+      "type": "ann",
+      "date": "2026-06-18",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [
+          "信用评级"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "宁德时代:宁德时代新能源科技股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第二期)发行结果公告",
+      "content_preview": "债券代码：524857\n债券简称：26CATLK2\n宁德时代新能源科技股份有限公司 2026 年面向专业投资者公开发行\n科技创新公司债券（第二期）发行结果公告\n本公司及董事会全体成员保证公告内容的真实、准确和完整，没有虚假记\n载、误导性陈述或者重大遗漏。\n宁德时代新能源科技股份有限公司（以下简称“发行人”）面向专业机构投资者公开发行（不超过）人民币 50 亿元（含 50 亿元）的公司债券已于 20",
+      "type": "ann",
+      "date": "2026-06-18",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "锂矿大消息！宁德时代旗下项目有望复产",
+      "content_preview": "国际评级机构惠誉国际评级有限公司（下称“惠誉”）还上调了宁德时代信用评级，将宁德时代的发行人主体评级从“A-”上调至“A”，评级展望为“稳定”。惠誉认为，“此次评级上调反映了宁德时代的业务状况有所增强，这得益于强劲的行业长期增长前景、日趋稳固的全球市场领先地位，以及不断提升的终端市场多元化程度。同时，此次评级上调也反映了该公司持续保持强劲财务状况的能力，包括较高的盈利能力、稳健的自由现金流生成能力",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "信用评级",
+          "复产"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "锂矿大消息！宁德时代旗下项目有望复产",
+      "content_preview": "宁德时代又有新动态。宁德时代枧下窝锂矿重获项目用地意见书　　据界面新闻报道，根据江西省自然资源厅国土空间用途管制处，宁德时代的间接控股子公司宜春时代已于6月17日重新取得枧下窝锂矿项目《建设项目用地预审与选址意见书》，有效期自2026年6月17日至2029年6月17日。《建设项目用地预审与选址意见书》是项目落地的法定前置文件。此次重获批复，标志着枧下窝锂矿项目重新步入正轨。有分析师表示，按照当前进",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "复产"
+        ],
+        "negative": [
+          "停产"
+        ],
+        "neutral": [],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "宁德时代——全球化电器主导者",
+      "content_preview": "　　宁德时代(300750)\r\n　　报告摘要：\r\n　　投资观点：\r\n　　全球电动化渗透率仍有较大提升空间，海外新能源渗透率仍处低位，增长空间广阔。储能行业正处于爆发初期，过去五年复合增速超过50%。远期看，全球锂电年需求将超过12TWh，较目前仍有4倍以上增长空间。近期美伊冲突导致油价大幅上涨，海外燃油车使用成本上升，电动车经济性优势进一步凸显，有望加速海外电动化进程。\r\n　　宁德时代作为行业技术",
+      "type": "research",
+      "date": "2026-05-20",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "综合能源解决方案牵手数据中心场景",
+      "content_preview": "　　宁德时代(300750)\r\n　　世纪互联（VNET）2026年5月14日发布公告：宁德时代非并表关联基金PJ Millennium以约9.42亿美元的现金对价，从山高控股（412.HK）收购其持有的世纪互联38.1%已发行股份，成为单一最大股东。今年以来伴随对于中恒电气的布局、宁德补全了“风光储绿电直连-HVDC”的全链条能源解决方案能力。我们认为世纪互联庞大的数据中心阵列为宁德时代的综合能源",
+      "type": "research",
+      "date": "2026-05-19",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "宁德时代利润超七家车企总和,车企沦为打工仔?_ZAKER新闻-新浪汽车",
+      "content_preview": "利润\"倒挂\"的底层逻辑核心成本与技术壁垒：动力电池是新能源汽车最昂贵的部件，占整车成本的30%至60%。宁德时代凭借连续九年全球市占率第一（份额约39%至45%）的绝对规模优势，在采购和定价上掌握了产业链的绝对话语权。车企深陷价格战泥潭：国内新能源车企数量庞大、产品同质化严重，为了保住市场份额，陷入了\"以价换量\"的恶性循环。上百款车型官宣降价，导致整车厂卖车利润被极度压缩，陷入\"越降越亏\"的死循环",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "市场份额"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "年赚722亿之后，宁德时代还有多少“隐藏利润”可以挖？_中华网|宁德时代|产能利用率|回收量|产能|毛利率_新浪新闻",
+      "content_preview": "年赚722亿之后，宁德时代还有多少“隐藏利润”可以挖？_中华网年赚722亿之后，宁德时代还有多少“隐藏利润”可以挖？_中华网2026年06月21日12:43新浪网作者天天值得买 2025年的锂电行业，开始从“野蛮扩产”全面迈入“存量厮杀”，全球动力电池规划产能超3000GWh，行业平均产能利用率却不足60%，二三线企业深陷产能闲置、价格战泥潭，动力电池单价年内跌幅超15%，储能市场的价格战也从暗流",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "扩产",
+          "增长"
+        ],
+        "negative": [
+          "价格战"
+        ],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "宁德时代新设全资新能源企业 布局储能业务_新能源汽车产业网",
+      "content_preview": "此次落地河南县域市场，是宁德时代持续下沉国内储能市场的又一布局动作。当前国内新型储能行业建设节奏持续提速，县域风光配套储能、工商业储能、用户侧储能项目需求持续释放。以往宁德时代储能相关主体多设立于新能源产业集中的一二线城市或能源大省核心区域。此次选择洛阳宜阳落地全资子公司，能够进一步渗透县域新能源配套市场，依托本地区位承接区域风光储能项目，补齐下沉市场业务载体缺口。\n储能业务是宁德时代第二增长曲线",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "充满6分钟,纯电1500KM,宁德时代拓展电池新边界-新浪汽车",
+      "content_preview": "宁德时代宣布，乘用车“巧克力”与重卡“骐骥”换电站全系标配神行超充桩，实现“可换可充、超换联动”。超换一体站共享箱变与充电模块，减少能量转换环节，综合电损率较市场配储充电站降低超过13个百分点。有应急需求时还可调用换电站电池对充电桩放电，设备复用率达到85%以上，单个车位服务能力是配储充电站3倍，超充部分固投成本仅为后者1/5。\n电池产品方面，发布巧克力换电块26号电池，搭载800V高压架构，首批",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "冲刺TWh时代!宁德时代再扩产!_储能_产能_全球|宁德时代|储能|产能|基地|全球_新浪新闻",
+      "content_preview": "市场份额层面，宁德时代全球龙头地位无可撼动，动力电池与储能赛道双双占据领先优势。2026年开年以来，公司全球动力电池市场份额进一步攀升至45%以上，连续多年稳居全球第一，在欧洲、东南亚等海外核心市场份额同步走高，彻底拉开与二线厂商的差距；储能电池领域同样领跑全球，连续多年蝉联全球储能电芯出货榜首，国内大型央企储能集采、海外电网及工商业储能项目中，宁德时代的中标率与供货占比始终处于行业顶端。此番覆盖",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "产能扩张",
+          "扩产",
+          "市场份额"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 3,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "磷酸铁锂价格暴跌对宁德时代等新能源企业有哪些具体影响？|磷酸铁锂|宁德时代|暴跌|电池|成本_新浪新闻",
+      "content_preview": "产业投资布局与减持套现精准的财务投资回报：宁德时代于2020年以3.\n34元/股的成本入股湖南裕能，2026年6月计划减持3%股份，浮盈超过23倍，套现金额或超20亿元。减持背后的战略考量：减持公告明确为“基于正常投资安排和资金管理需求”，在行业景气顶峰套现离场，为固态电池、海外建厂、储能技术研发等核心业务回笼资金。4.\n供应链安全与韧性提升价格联动机制与长协锁定：宁德时代通过产品价格联动机制、前",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "减持"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "年赚722亿之后，宁德时代还有多少“隐藏利润”可以挖？_中华网|宁德时代|产能利用率|回收量|产能|毛利率_新浪新闻",
+      "content_preview": "9%是什么概念？在制造业，这基本意味着“能开的线全开了，能卖的货全卖了”。而同期，行业里有多少企业在为产能利用率不足60%而发愁？固定资产折旧是制造业最残酷的“隐形税”，当对手的产线在闲置中每天贬值时，宁德时代的折旧成本被661GWh的销量稀释到了极致。\n更狠的一刀藏在“资产减值”里：2025年计提资产减值准备90.\n79亿元，其中长期资产减值准备35.\n52亿元，固定资产减值26.\n6亿元。\n别",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "扩产",
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "title": "年赚722亿之后，宁德时代还有多少“隐藏利润”可以挖？_中华网|宁德时代|产能利用率|回收量|产能|毛利率_新浪新闻",
+      "content_preview": "02%——过去十年累计研发投入超900亿，这是技术护城河的来源，也是未来继续“榨取利润”的底牌。但真正让利润飞起来的，是毛利率的改善。动力电池系统毛利率23.\n84%，储能电池系统26.\n71%，电池材料及回收更是达到27.\n27%。\n还有一个容易被忽略的点：境外业务毛利率高达31.\n44%，远超境内的24%。\n2025年境外营收1296.\n4亿元，同比增长17.\n5%，占总收入30.\n6%。这意",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:30.554717",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台拟分红逾350亿元",
+      "content_preview": "有关扣税，公告显示，对于持有公司股份的个人股东和证券投资基金，从公开发行和转让市场取得的公司股票，持股期限超过1年的，股息红利所得暂免征收个人所得税，每股派发现金红利28.\n02423元；持股1年以内（含1年）的，公司暂不扣缴个人所得税，每股派发现金红利28.\n02423元，待转让股票时，中国结算上海分公司根据其持股期限计算应纳税额。\n2025年，贵州茅台营收1721亿元，同比下滑1.\n2%，净利",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "回购"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购"
+        ],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.808406",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台拟分红逾350亿元",
+      "content_preview": "6月21日晚，贵州茅台(600519)披露2025年年度权益分派实施公告称，公司2025年年度权益分派方案已获股东大会审议通过，以总股本扣除回购专用账户股份后的12.\n5亿股为基数，每股派发现金红利28.\n02423元(含税)，共计派发现金红利350.\n33亿元。股权登记日为2026年6月25日，除权(息)日及现金红利发放日为2026年6月26日。公告显示，股东中国贵州茅台酒厂（集团）有限责任公司",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.808406",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台：拟实施2025年度权益分派 股权登记日为6月25日",
+      "content_preview": " \n  新浪财经“酒价内参”重磅上线 知名白酒真实市场价尽在掌握 \n  转自：证券时报\n  人民财讯6月21日电，贵州茅台(600519)6月21日公告，公司拟实施2025年度权益分派，每股派发现金红利28.02423元(含税)，共计派发现金红利350.33亿元，股权登记日为2026年6月25日，除权(息)日及现金红利发放日为2026年6月26日。\n \n",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.808406",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台：2025年度每股派发现金红利28.02元 股权登记日为2026年6月25日",
+      "content_preview": " \n  新浪财经“酒价内参”重磅上线 知名白酒真实市场价尽在掌握 \n  每经AI快讯，6月21日，贵州茅台(600519.SH)公告称，公司2025年年度权益分派方案已获股东大会审议通过，以总股本扣除回购专用账户股份后的1,250,081,601股为基数，每股派发现金红利28.02423元(含税)，共计派发现金红利350.33亿元。股权登记日为2026年6月25日，除权(息)日及现金红利发放日为2",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.808406",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台：每股分红超28元，共计派发现金红利超350亿元",
+      "content_preview": "贵州茅台：每股分红超28元，共计派发现金红利超350亿元贵州茅台：每股分红超28元，共计派发现金红利超350亿元新华网财经 2026年6月21日17:53北京在小说阅读器读本章去阅读在小说阅读器中沉浸阅读贵州茅台(600519.SH)公告称，公司2025年年度权益分派方案已获股东大会审议通过，以总股本扣除回购专用账户股份后的1,250,081,601股为基数，每股派发现金红利28.02423元(含",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.809375",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台伦交所最新ESG评级上升至B+，行业排名第一",
+      "content_preview": "新浪财经“酒价内参”重磅上线 知名白酒真实市场价尽在掌握\n近日，伦敦证券交易所（LSEG）发布最新ESG评级结果：贵州茅台（600519.\nSH）获评B+级，在GICS三级饮料行业的22家A股公司中排名第一，且近四年评级呈上升趋势。其环境、社会、治理三项得分分别位列行业第1、第2、第3。据了解，伦敦证券交易所（简称“伦交所”）成立于1773年，是欧洲第一大、全球第四大证券交易所，在全球资本市场中具",
+      "type": "news",
+      "date": "2026-06-15",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.809375",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台:贵州茅台2025年年度权益分派实施公告",
+      "content_preview": "\n| 证券代码：600519 | 证券简称：贵州茅台 | 公告编号：临 2026-027 |\n|- |- |- |\n\n\n\n\n本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。\n\n重要内容提示：\n\n 每股分配比例\n\nA 股每股现金红利28.02423元\n\n 相关日期\n\n| 股份类别 | 股权登记日 | 最后交易日 | ",
+      "type": "ann",
+      "date": "2026-06-22",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.809375",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台:北京市金杜律师事务所关于贵州茅台酒股份有限公司2025年度股东会之法律意见书",
+      "content_preview": "北京市金杜律师事务所\n关于贵州茅台酒股份有限公司 2025 年度股东会\n之法律意见书\n致：贵州茅台酒股份有限公司\n北京市金杜律师事务所（以下简称本所）接受贵州茅台酒股份有限公司（以下简称公司）委托，根据《中华人民共和国证券法》（以下简称《证券法》）、《中华人民共和国公司法》（以下简称《公司法》）、中国证券监督管理委员会《上市公司股东会规则》（以下简称《股东会规则》）等中华人民共和国（包括中国香港特",
+      "type": "ann",
+      "date": "2026-06-12",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.809375",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台将分红超350亿元，上年同期为346.71亿元",
+      "content_preview": "红星资本局6月21日消息，今日，贵州茅台（600519.SH）发布2025年年度权益分派实施公告，根据公告，本次利润分配方案以该公司总股本扣除回购专用账户内的股份12.5亿股为基数，每股派发现金红利28.02元（含税），共计派发现金红利350.33亿元。股权登记日为6月25日，除权(息)日及现金红利发放日为6月26日。\n \n 贵州茅台公告截图\n 根据贵州茅台2024年年度权益分派实施公告，该公司2",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.810364",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台(600519.SH)2025年年度权益分派：每股派现金红利28.02423元-财经-金融界",
+      "content_preview": "贵州茅台(600519.SH)2025年年度权益分派：每股派现金红利28.02423元格隆汇6月21日丨贵州茅台(600519.SH)披露2025年年度权益分派实施公告，此次利润分配以方案实施前的公司总股本扣除回购专用账户内的股份1,250,081,601股为基数，每股派发现金红利28.02423元（含税），共计派发现金红利35,032,574,305.19元。股权登记日2026年6月25日，现金",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.810364",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "更新报告：C端引领，全流程市场化",
+      "content_preview": "　　贵州茅台(600519)\r\n　　本报告导读：\r\n　　公司召开年度股东会，肯定市场化改革初始阶段成果。本轮市场化覆盖全产业链、全流程，随着市场需求成为公司经营的核心驱动力，公司发展有望保持稳健态势。\r\n　　投资要点：\r\n　　投资建议：维持增持评级。维持2026-2028年EPS预测值66.90元70.36元、73.88元，参考可比公司估值，茅台市场化改革力度较大业绩确定性较强，同时考虑消费板块流",
+      "type": "research",
+      "date": "2026-06-15",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.810364",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "2025年度股东大会点评：股东会传递信心，凝聚价值共识",
+      "content_preview": "　　贵州茅台(600519)\r\n　　事项：\r\n　　公司于6月11日召开2025年度股东大会，会前会中公司高层直面问题、耐心回应，在行业深度调整底部传达出对茅台未来的坚定信心，我们前往参会，核心反馈如下：\r\n　　评论：\r\n　　整体观感：战略远见开新局，市场化改革笃定前行。本次股东大会共有一千余位投资者参加、会前一晚公司董事长、总经理等高管亲自拜访股东，并现身餐叙，真诚回答股东关心的问题。会上，董事长",
+      "type": "research",
+      "date": "2026-06-14",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.811362",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台派发超350亿元红包_腾讯新闻",
+      "content_preview": "贵州茅台派发超350亿元红包6月21日贵州茅台发布2025年年度权益分派实施公告，本次利润分配以方案实施前贵州茅台总股本扣除回购专用账户内股份后的12.50亿股为基数，每股派发现金红利28.02元（含税）共计派发现金红利350.33亿元其中，贵州茅台分红股权登记日为6月25日，除权（息）日和现金红利发放日为6月26日。本次分红不涉及差异化分红送转。来源中新经纬编辑吴怡漪校审单中桂监制马强【来源：深",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.811362",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台将分红超350亿元 上年同期为346.71亿元_新浪财经_新浪网",
+      "content_preview": "红星资本局6月21日消息，今日，贵州茅台（600519.SH）发布2025年年度权益分派实施公告，根据公告，本次利润分配方案以该公司总股本扣除回购专用账户内的股份12.5亿股为基数，每股派发现金红利28.02元（含税），共计派发现金红利350.33亿元。股权登记日为6月25日，除权(息)日及现金红利发放日为6月26日。贵州茅台公告截图根据贵州茅台2024年年度权益分派实施公告，该公司2024年度总",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.811362",
+      "next_return": null
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台拟分红逾350亿元，发放时间定了→ - 今日头条Loading.",
+      "content_preview": "贵州茅台拟分红逾350亿元，发放时间定了→2026-06-21 19:31·新浪财经贵州茅台(600519)6月21日公告，公司拟实施2025年度权益分派，每股派发现金红利28.02423元(含税)，共计派发现金红利350.33亿元，股权登记日为2026年6月25日，除权(息)日及现金红利发放日为2026年6月26日。",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:31.811362",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德公司 - MBA智库百科",
+      "content_preview": "全球专业中文经管百科，由121,994位网友共同编写而成，共计436,133个条目沃尔德公司用手机看条目出自MBA智库百科(https:/wiki.\nmbalib.\ncom/)[编辑]沃尔德公司简介沃尔德（Worldwide Clearing LLC）座落于美国佛罗里达州，是美国本土最大的造市商之一。公司聚集了华尔行街最具实力的交易员团队和优秀的技术工程师及后台服务支持人员。沃尔德经营的产品包括：",
+      "type": "news",
+      "date": "2026-06-11",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.141121",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德:2025年年度权益分派实施公告",
+      "content_preview": "\n| 证券代码：688028 | 证券简称：沃尔德 | 公告编号：2026-041 |\n|- |- |- |\n\n\n\n\n本公司董事会及全体董事保证公告内容不存在任何虚假记载、误导性陈述或者重大遗漏，并对其内容的真实性、准确性和完整性依法承担法律责任。\n\n重要内容提示：\n\n 是否涉及差异化分红送转：否\n\n 每股分配比例\n\n每股现金红利0.13元\n\n 相关日期\n\n| 股权登记日 | 除权（息）日 ",
+      "type": "ann",
+      "date": "2026-05-26",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.142118",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德:投资者关系活动记录表(5月18日-21日)",
+      "content_preview": "\n| 证券代码：688028 | 证券简称：沃尔德 |\n|- |- |\n\n\n投资者关系活动记录表\n\n| 投资者关系活动类别 |  |\n|- |- |\n| 参与单位名称 | 银华基金 汇添富基金 开源机械；开源证券(自营)；易知投资；星熹元私募基金；民生加银基金；诚盛投资；鹏华基金；九和岛基金；北京逸原达投资；众安保险；华农财险；盘京投资 国盛证券；平安资管 部分会议参会者无法签署调研承诺函，但在交",
+      "type": "ann",
+      "date": "2026-05-22",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "风险提示"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:33.142118",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德：融资净偿还2272.61万元，融资余额14.94亿元",
+      "content_preview": "交易所最新数据显示，沃尔德于2026年6月18日获融资买入8342.21万元，融资偿还1.06亿元，当日融资净偿还2272.61万元。目前，该股融资余额14.94亿，占流通市值比例为8.44%。该股当日无融券交易，融券余额为0。免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [
+          "担保"
+        ],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.142118",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德：将于2026年05月12日召开2025年年度股东大会",
+      "content_preview": "沃尔德将于2026年05月12日（星期二）下午14:30，在嘉兴市秀洲区高照街道八字路1136号,嘉兴沃尔德金刚石科技有限公司四楼会议室召开2025年年度股东大会。本次股东大会将审议以下议案：　　1、关于2025年度董事会工作报告的议案\r　　2、关于2025年度利润分配方案的议案\r　　3、关于提请股东会授权董事会制定2026年中期分红方案的议案\r　　4、关于续聘2026年度会计师事务所的议案\r　　",
+      "type": "news",
+      "date": "2026-05-11",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.142118",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "刀具收入增长但成本承压 沃尔德2025年净利润同比下降4.71%",
+      "content_preview": "25%，毛利率14.\n68%，同比下降7.\n01个百分点；\n硬质合金刀具销售量同比增长35.\n86%，超硬刀具销售量同比增长11.\n51%，超硬材料销售量同比下降20.\n76%，其他产品销售量同比下降20.\n73%。\n其2025年度营收分地区看，国内收入6.\n03亿元，同比增长8.\n07%，毛利率40.\n72%，同比下降4.\n26个百分点；境外收入1.\n46亿元，同比增长22.\n37%，毛利率48",
+      "type": "news",
+      "date": "2026-04-09",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [
+          "下降"
+        ],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:33.142118",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "公司跟踪报告：全球领先的刀具综合方案提供商，金刚石微钻带来增长新机遇",
+      "content_preview": "　　沃尔德(688028)\r\n　　全球领先的刀具综合方案提供商，金刚石功能材料应用广泛。公司创立于2006年，是国家高新技术企业、2019年7月在上海证券交易所科创板上市公司专注于超高精密、高精密刀具及超硬材料制品，为客户提供涵盖超硬硬质合金、金属陶瓷材料的刀具产品。金刚石功能材料业务定位于全球高端新材料市场，是国内少数能够掌握CVD法三大制备工艺的公司之一，主要产品包括金刚石膜声学器件、金刚石热",
+      "type": "research",
+      "date": "2026-01-30",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "全球领先",
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.142118",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德公司",
+      "content_preview": "•1.\n摘要•2.\n基本信息•3.\n基本内容沃尔德公司沃尔德（Worldwide Clearing LLC）坐落于美国佛罗里达州，是美国本土最大的造市商之一。公司聚集了华尔行街最具实力的交易员团队和优秀的技术工程师及后台服务支持人员。\n基本信息•中文名沃尔德•外文名 Worldwide Clearing LLC•地址美国佛罗里达州•经营范围债券股票固定利息产品基本内容沃尔德（Worldwide C",
+      "type": "news",
+      "date": "2026-06-13",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.143115",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德6月18日获融资买入8342.21万元，融资余额14.94亿元|融券|持股|股票|一交易日_网易订阅",
+      "content_preview": "57%，其他(补充)0.\n63%。\n截至3月31日，沃尔德股东户数1.\n28万，较上期增加7.\n89%；人均流通股11766股，较上期减少7.\n31%。\n2026年1月-3月，沃尔德实现营业收入1.\n98亿元，同比增长27.\n89%；归母净利润2834.\n88万元，同比增长34.\n37%。\n分红方面，沃尔德A股上市后累计派现2.\n89亿元。近三年，累计派现1.\n24亿元。\n机构持仓方面，截止202",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:33.143115",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德取得异形铣刀片相关专利，异形铣刀片可在小直径刀具实现多效果_新浪财经_新浪网",
+      "content_preview": "2025年，沃尔德实现营业收入7.\n54亿元，在行业14家企业中排名第6，行业第一名国机精工为30.\n19亿元，第二名美畅股份21.\n6亿元，行业平均数9.\n48亿元，中位数6.\n15亿元。主营业务中，超硬刀具收入5.\n72亿元，占比75.\n86%。净利润方面，2025年为9383.\n69万元，行业排名第5，第一名国机精工3.\n25亿元，第二名美畅股份2.\n44亿元，行业平均数-1383.\n57万",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.143115",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德取得异形铣刀片相关专利，异形铣刀片可在小直径刀具实现多效果_新浪财经_新浪网",
+      "content_preview": "专利摘要显示，本申请涉及一种异形铣刀片和小直径铣刀头，其包括刀体和刀头；刀体包括底定位面、两个侧调节面以及两个侧压紧面，两个侧压紧面内收使得刀体的第一纵截面呈等腰梯形；刀头成型在刀体远离底定位面的一侧，刀头包括前刀面、主后刀面和副后刀面，前刀面与主后刀面之间形成主切削刃，前刀面与侧压紧面之间形成钝角使得异形铣刀片的第一纵截面呈X型；底定位面与侧压紧面之间的夹角为88°~75°，前刀面与主后刀面、副",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.143115",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德6月18日获融资买入8342.21万元，融资余额14.94亿元|融券|持股|股票|一交易日_网易订阅",
+      "content_preview": "沃尔德6月18日获融资买入8342.\n21万元，融资余额14.\n94亿元0分享至来源：新浪证券-红岸工作室6月18日，沃尔德涨2.\n99%，成交额6.\n89亿元。\n两融数据显示，当日沃尔德获融资买入额8342.\n21万元，融资偿还1.\n06亿元，融资净买入-2272.\n61万元。截至6月18日，沃尔德融资融券余额合计14.\n94亿元。\n融资方面，沃尔德当日融资买入8342.\n21万元。当前融资余额",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.143115",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "沃尔德涨1.23%，成交额4016.01万元，主力资金净流出673.72万元_方面_股东_持股",
+      "content_preview": "57%，其他(补充)0.\n63%。\n沃尔德所属申万行业为：机械设备-通用设备-磨具磨料。所属概念板块包括：融资融券、转融券标的、商业航天（航天航空）、中盘、基金重仓等。\n截至3月31日，沃尔德股东户数1.\n28万，较上期增加7.\n89%；人均流通股11766股，较上期减少7.\n31%。\n2026年1月-3月，沃尔德实现营业收入1.\n98亿元，同比增长27.\n89%；归母净利润2834.\n88万元，",
+      "type": "news",
+      "date": "2026-06-17",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:33.143115",
+      "next_return": null
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "title": "钻石振膜凤凰涅槃的五年——沃尔德高端声学材料探索之路_新浪财经_新浪网",
+      "content_preview": "2023年至2024年，沃尔德进入工艺优化关键阶段。团队围绕薄膜均匀性、材料缺陷控制、边缘翘曲及加工精度等问题持续攻关，并逐步开发适用于钻石振膜的专用工装与热压设备，建立更加稳定的制造工艺与质量控制体系。经过两年多的持续优化，沃尔德终于实现钻石振膜生长工艺稳定化，产品一致性与良率逐步达到规模化量产要求。这意味着，钻石振膜真正从实验室阶段迈向产业化阶段。四、从产品供应到整体解决方案然而，实现量产并不",
+      "type": "news",
+      "date": "2026-05-29",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:33.144112",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密 - MBA智库百科",
+      "content_preview": "作为客户优选，立讯精密拥有专业级、创新型的多元化产品系列。公司研发生产的连接器、连接线、马达、无线充电、FPC、天线、声学和电子模块等产品广泛应用于消费电子、通讯企业级、汽车及医疗等全球多个重要领域。\n立讯精密始终专注于主业，通过纵向的垂直整合与横向的业务拓展占领市场先机，追求智能化研发设计、数字化运营管理精细化成本控制、自动化生产制造的极致。通过实践智能生产的顶层设计理念，从零件到配件，从模组到",
+      "type": "news",
+      "date": "2026-06-12",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.367161",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密 - MBA智库百科",
+      "content_preview": "全球专业中文经管百科，由121,994位网友共同编写而成，共计436,145个条目立讯精密用手机看条目出自MBA智库百科(https:/wiki.\nmbalib.\ncom/)深圳立讯精密工业股份有限公司——电子器件制造业官方网站网址：https:/www.\nluxshare-ict.\ncom/|目录1立讯精密的简介2立讯精密的发展历史3立讯精密的企业文化||-|[编辑]立讯精密的简介立讯精密工业股",
+      "type": "news",
+      "date": "2026-06-12",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.367161",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "关于立讯精密工业股份有限公司境外发行上市备案通知书",
+      "content_preview": "索引号\n bm56000001/2026-00006858\n 分类\n \n \n \n 发布机构\n \n 发文日期\n 2026年06月18日\n \n \n 名称\n 关于立讯精密工业股份有限公司境外发行上市备案通知书\n \n \n 文号\n 国合函〔2026〕1352号\n 主题词\n 关于立讯精密工业股份有限公司境外发行上市备案通知书\n立讯精密工业股份有限公司：\n你公司境外发行上市的备案材料收悉。根据《中华人民共和国证",
+      "type": "ann",
+      "date": "2026-06-18",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.367161",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密:2025年可持续发展报告(英文版)",
+      "content_preview": "2025 Committed to Advancing Cutting-Edge Technology,\nSUSTAINABILITY REPORT Fulfilling the Ambitions of Our Global Partners\nCONTENTS\n About this Report 02\n Board of Directors' Statement 02\n Chairman's ",
+      "type": "ann",
+      "date": "2026-06-17",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.367161",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "5000亿“果链龙头”，立讯精密完成港股上市备案，最快7月登陆港交所，拟募资20亿-30亿美元",
+      "content_preview": "81%。公司在深化国内头部云服务商合作的基础上，重点拓展海外市场，北美区域商务拓展成效显著。铜互连领域，公司为ETH-X超节点算力基座落地提供高速互连标准的核心支撑。\n盈利能力方面，2025年公司整体毛利率为11.\n91%，同比上升1.\n5个百分点；净利率为5.\n47%。\n费用控制方面，销售费用率、管理费用率、财务费用率和研发费用率分别为0.\n70%、3.\n07%、0.\n33%和3.\n44%。\n进",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.368158",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "5000亿“果链龙头”，立讯精密完成港股上市备案，最快7月登陆港交所，拟募资20亿-30亿美元",
+      "content_preview": "2025年，立讯精密实现营业总收入3323.\n44亿元，同比增长23.\n64%；归母净利润166亿元，同比增长24.\n20%；扣非净利润141.\n69亿元，同比增长21.\n16%。经营活动产生的现金流量净额为173.\n25亿元，基本每股收益2.\n29元，加权平均净资产收益率21.\n10%。\n分业务来看，三大板块呈现“一稳两快”的格局：消费电子仍是绝对主力，2025年营收2642.\n66亿元，同比增",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.368158",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "5000亿“果链龙头”，立讯精密完成港股上市备案，最快7月登陆港交所，拟募资20亿-30亿美元",
+      "content_preview": "76亿元。\n综合|证监会招股书IFR编辑|Arti本文仅为信息交流之用，不构成任何交易建议*公众号后台回复“立讯精密”获取完整招股书。\n据路透旗下媒体IFR报道，立讯精密计划最快7月在香港上市，拟筹资20亿至30亿美元（约156亿至234亿港元）。\n立讯精密的故事，始于深圳宝安的一家小工厂。创始人王来春，1967年出生于广东澄海。1988年，初中毕业的她进入富士康深圳厂，成为一名生产流水线女工，后",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.368158",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "新股消息 | 立讯精密港股IPO获中国证监会备案",
+      "content_preview": "6月18日，中国证监会国际合作司发布《关于立讯精密工业股份有限公司境外发行上市备案通知书》。立讯精密(002475.\nSZ)拟发行不超过440,993,700股境外上市普通股并在香港联合交易所上市。据港交所披露，公司已于2026年2月27日向港交所主板递交上市申请，中信证券、高盛、中金公司为其联席保荐人。\n招股书披露，立讯精密是一家全球领先的精密智造创新科技公司，致力于为消费电子、汽车电子、通信与",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.368158",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "新股消息 | 立讯精密(002475.SZ)港股IPO获中国证监会备案",
+      "content_preview": "新股消息|立讯精密(002475.\nSZ)港股IPO获中国证监会备案6月18日，中国证监会国际合作司发布《关于立讯精密工业股份有限公司境外发行上市备案通知书》。立讯精密(002475.\nSZ)拟发行不超过440,993,700股境外上市普通股并在香港联合交易所上市。智通财经APP获悉，6月18日，中国证监会国际合作司发布《关于立讯精密工业股份有限公司境外发行上市备案通知书》。立讯精密(002475",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.368158",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "新股消息 | 立讯精密(002475.SZ)港股IPO获中国证监会备案",
+      "content_preview": "根据弗若斯特沙利文的资料，按2024年收入计，立讯精密在精密智造解决方案(PIMS)行业中排名全球第四、中国大陆第一，并在消费电子、汽车电子、通信与数据中心等各主要业务线均处于全球领先地位。按2024年收入计，公司在消费电子零组件及模组PIMS市场中排名全球第二、中国大陆第一，全球市占率为11.\n3%；在汽车线束PIMS市场中排名全球第四、中国大陆第一，全球市占率为12.\n2%；在通信与数据中心铜",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.369155",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "公司2025年报点评：业绩符合预期，AI算力产品加速放量",
+      "content_preview": "　　立讯精密(002475)\r\n　　本报告导读：\r\n　　公司2025年维持增长，通信及数据中心业务规模快速提升。其进一步打造AI算力平台布局，海外客户潜在增量大。\r\n　　投资要点：\r\n　　维持增持评级，上调目标价至106.05元。考虑其在通信国际客户中的持续突破，上调26/27年EPS为3.03/4.02元（前值3.01/3.65元）预计其2028年EPS为5.36元。参考可比公司估值（2026年",
+      "type": "research",
+      "date": "2026-05-26",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "供货",
+          "突破",
+          "增长",
+          "提升"
+        ],
+        "negative": [
+          "风险提示"
+        ],
+        "neutral": [],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 3,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:34.369155",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "入主京西智行集团，全面进军汽车智能底盘赛道",
+      "content_preview": "　　立讯精密(002475)\r\n　　事件：京西国际（2339.HK）最新公告，其控股股东张家口京西智行科技集团有限公司（京西智行集团）与立讯精密订立买卖协议，立讯精密有条件同意收购京西智行集团的全部股权。京西智行集团透过其全资附属公司持有京西国际已发行股份总数约59.50%。若交易完成，立讯精密将间接持有京西国际59.50%股份，并成为其最终控股股东。结合公告内容及公开信息，我们点评如下：\r\n　　",
+      "type": "research",
+      "date": "2026-05-12",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.369155",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密2025年净利增24.20%，股价飙升引发市场热议！_发展_未来的_消费",
+      "content_preview": "现金红利政策：回馈股东的承诺值得注意的是，立讯精密计划每10股派发现金红利1.\n4元（含税），此举无疑是对股东的一种回馈，体现了公司对未来发展信心的同时，也增强了投资者的持股信心。这样的红利政策将进一步促进投资者对公司的关注与投资。\n大宗交易：市场活跃度提升在交易信息方面，立讯精密在6月15日发生了一笔大宗交易，成交金额为461.\n6万元。这一交易不仅显示出市场对立讯精密的关注度提升，同时也反映了",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "市场份额",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.370162",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密2025年净利增24.20%，股价飙升引发市场热议！_发展_未来的_消费",
+      "content_preview": "立讯精密2025年净利增24.\n20%，股价飙升引发市场热议！\n在2026年6月的股市中，立讯精密（002475）以其突出的业绩表现和股价波动，引起了市场的广泛关注。截止到6月18日，立讯精密的股价报收于69.\n93元，较上周的63.\n76元上涨了9.\n68%。这一令人瞩目的涨幅不仅反映了公司基本面的向好，也让投资者对其未来的发展充满期待。\n股市表现：立讯精密的强劲反弹本周，立讯精密的股价在6月1",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "净利润增长",
+          "利润增长",
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 4,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 4,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.370162",
+      "next_return": null
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "title": "立讯精密2025年净利增24.20%，股价飙升引发市场热议！_发展_未来的_消费",
+      "content_preview": "结语：投资者的信心与市场的期待综上所述，立讯精密在2025年预计实现的显著业绩增长以及持续的现金红利政策，均为其股价的上涨提供了强有力的支撑。作为投资者，我们应当关注公司的基本面变化，同时也要警惕市场波动带来的风险。立讯精密的未来发展值得期待，投资者应继续关注其后续动态，以便在适当的时机做出明智的投资决策。\n返回搜狐，查看更多",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:34.370162",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能出席新能源国际投资联盟大会 深化绿色能源合作 -隆基绿能",
+      "content_preview": "关于隆基作为全球领先的绿色能源科技公司，隆基绿能聚焦科技创新，构建起光伏、储能与氢能三大核心引擎，为全球客户提供安全、经济、绿色的能源解决方案。公司倡导可持续发展，致力于让人人享有可负担的清洁能源。通过绿色电力、储能系统和氢能生产的有机衔接，实现发电、储电、用电全链条的清洁能源覆盖，构建真正普惠可达的清洁能源生态。\n如欲了解更多信息，欢迎访问：https:/www.\nlongi.\ncom/cn/",
+      "type": "news",
+      "date": "2026-06-16",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能副总裁佘海峰：锚定储能业务“五年再造一个隆基”",
+      "content_preview": "全栈自研构建差异化壁垒　　隆基绿能是通过并购深耕储能十余年的苏州精控能源科技股份有限公司（现已更名为苏州隆基精控科技股份有限公司，以下简称“隆基精控”）切入储能赛道。隆基精控聚焦智慧动力电源系统、智慧电化学储能系统、智慧氢燃料电池系统三大领域。“储能硬件组装门槛虽低，但全栈一体化、全生命周期服务的壁垒极高。”佘海峰表示，隆基绿能切入储能赛道伊始，就从底层摒弃了行业常见的低价冲量打法，不简单外购零部",
+      "type": "news",
+      "date": "2026-06-11",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能副总裁佘海峰：锚定储能业务“五年再造一个隆基”",
+      "content_preview": "去年底，隆基绿能科技股份有限公司（以下简称“隆基绿能”）正式进军储能赛道，开启了从“单一光伏组件”向“光储一体化解决方案”的战略延伸。\n在近日举行的第十九届（2026）国际太阳能光伏和智慧能源（上海）大会暨展览会（SNEC 2026）上，隆基绿能首次全方位展出了覆盖大型地面储能、工商业储能、离网微网的储能系列产品。展会期间，负责储能业务的隆基绿能副总裁佘海峰在接受《证券日报》等媒体采访时，系统阐述",
+      "type": "news",
+      "date": "2026-06-11",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能副总裁佘海峰：锚定储能业务“五年再造一个隆基”",
+      "content_preview": "重构电站收益模型　　今年4月份，隆基绿能正式发布“全栈隆基LONGi ONE”光储融合战略。佘海峰将其内核概括为“One System、One Platform、One Responsibility”——一套系统、一个平台、单一责任方。“这旨在终结光伏与储能分属不同厂商、拼凑建站导致的系统损耗高、故障追责难的行业痛点。”佘海峰表示，依托自研BC高效光伏组件与“5S”系统，隆基绿能实现了光储底层数据",
+      "type": "news",
+      "date": "2026-06-11",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "亏损加大！隆基绿能：需求疲软，成本上涨，行业去产能缓慢_市值风云",
+      "content_preview": "亏损加大！隆基绿能：需求疲软，成本上涨，行业去产能缓慢木盒原创北京龙头尚且如此。2025年全行业深陷产能过剩、产品价格持续下探的光伏周期低谷，隆基绿能发布全年财报叠加2026年一季报，既暴露行业阵痛下的盈利压力，也清晰勾勒出依托BC技术+储能双轮驱动、从组件制造商向综合能源服务商转型的发展路径。\n从财务数据看，2025年公司实现营收703.\n47亿，同比下滑14.\n82%，归母净利润亏损64.\n2",
+      "type": "news",
+      "date": "2026-06-11",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "亏损"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "亏损加大！隆基绿能：需求疲软，成本上涨，行业去产能缓慢_市值风云",
+      "content_preview": "5GWh。隆基绿能依托全球存量光伏客户资源复用优势，公司全年储能出货目标锁定6GWh，一季度储能订单落地超1.\n6GWh，产品覆盖大型储能、工商业储能、户储全品类，重点开拓欧洲、北美算力配套储能市场，紧跟AI算力建设催生的绿电配储需求。同时BIPV建筑光伏、绿氢装备、海外零碳矿山项目稳步落地，多场景解决方案逐步落地变现。区域经营分化明显，2025年国内组件价格战拖累本土业务毛利率转负，欧洲、美洲、",
+      "type": "news",
+      "date": "2026-06-11",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "亏损"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能获评BNEF 2026年Q2光伏组件制造商Tier 1榜单 -隆基绿能",
+      "content_preview": "2%的两端叠层电池效率成为该技术路线的代表性成果。此外，26.\n4%的晶硅组件效率及31.\n4%、29.\n4%的叠层组件效率也均获收录。\n5月，光伏行业权威分析机构PV Tech发布2026年第一季度组件制造商可融资性评级报告，隆基第25次蝉联AAA最高评级。\n3月，2026中关村论坛年会发布由科技部主导的《2025年度中国科学十大进展》。隆基绿能与苏州大学联合攻关的“高效率稳定的柔性钙钛矿-晶硅",
+      "type": "news",
+      "date": "2026-06-08",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "技术创新",
+          "突破"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能:关于控股股东股份质押的公告",
+      "content_preview": "\n| 股票代码:601012 | 股票简称:隆基绿能 | 公告编号:临 2026-032 号 |\n|- |- |- |\n\n\n| 债券代码:113053 | 债券简称:隆 22 转债 |\n|- |- |\n\n\n| 债券代码:244101 | 债券简称:GK 隆基 01 |\n|- |- |\n\n\n| 债券代码:244386 | 债券简称:GK 隆基 02 |\n|- |- |\n\n\n\n\n本公司董事会及全体董事",
+      "type": "ann",
+      "date": "2026-06-16",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能:关于暂不向下修正“隆22转债”转股价格的公告",
+      "content_preview": "股票代码:601012\n股票简称:隆基绿能\n公告编号:临 2026-031 号\n债券代码:113053\n债券简称:隆 22 转债\n债券代码:244101\n债券简称:GK 隆基 01\n债券代码:244386\n债券简称:GK 隆基 02\n本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。\n重要内容提示：\n 自 2026 年",
+      "type": "ann",
+      "date": "2026-06-12",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能重回A股千亿市值“俱乐部”",
+      "content_preview": "公开信息显示，隆基绿能成立于2000年，总部位于西安市，2012年在上海证券交易所上市，2023年发行GDR登陆瑞士证券交易所。从基本面来看，在光伏行业仍处于深度调整期的当下，受制于产品价格持续低迷、开工率不足等因素影响，隆基绿能经营正持续承压。\n2025年，隆基绿能实现营业收入约为703.\n47亿元，同比下滑14.\n82%；对应实现归属净利润约为-64.\n2亿元，同比有所减亏。分产品来看，当年，",
+      "type": "news",
+      "date": "2026-06-11",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "下降",
+          "减少"
+        ],
+        "neutral": [],
+        "score": -2,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -2,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "2025年BC产能快速释放，铜浆预计在6月量产导入",
+      "content_preview": "　　隆基绿能(601012)\r\n　　事件描述\r\n　　隆基绿能发布2025年年报及2026年一季报，2025年公司实现收入703.47亿元，同比下降15%；归母净利-64.2亿元；其中，2025Q4实现收入194.32亿元，同比下降19%，环比增长7%；归母净利-30.16亿元。2026Q1实现收入111.92亿元，同比下降18%，环比下降42%；归母净利-19.2亿元。\r\n　　事件评论\r\n　　20",
+      "type": "research",
+      "date": "2026-06-09",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [
+          "下降"
+        ],
+        "neutral": [],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "跟踪报告：短期业绩承压，BC技术转型成果显著",
+      "content_preview": "　　隆基绿能(601012)\r\n　　核心结论\r\n　　短期业绩承压。2026年Q1公司业绩短期承压，实现营收111.9亿元，同比下降18.03%；实现归母净利润-19.2亿元，亏损同比扩大，主要受行业价格承压，银价大幅上行，汇兑等因素影响。\r\n　　经营层面，公司BC技术转型加速，Q1组件出货12.62GW，其中BC组件销量达8.34GW，占比提升至66%。\r\n　　25年经营韧性凸显。2025年光伏行",
+      "type": "research",
+      "date": "2026-06-07",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "增持",
+          "突破",
+          "提升"
+        ],
+        "negative": [
+          "风险提示",
+          "亏损",
+          "下降",
+          "减少"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能：流出 1.44 亿换手 1.77%，阴跌行情并未结束 - 今日头条Loading.",
+      "content_preview": "持仓投资者：逢反抽减仓，坚决杜绝盲目补仓。阴跌行情最大的风险就是持续磨底、亏损不断扩大，切勿凭借低位错觉盲目补仓摊薄成本。盘中出现小幅缩量反抽、技术性修复时，均为减仓离场的最佳时机，需逐步降低持仓仓位。若股价持续下移、跌破关键支撑位，需果断止损离场，规避深度套牢风险，优先保全本金，不博弈弱势反转行情。空仓投资者：坚持持币观望，不左侧抄底。现阶段行情趋势明确走弱，阴跌无底线，左侧抄底容错率极低，极易",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "亏损"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能6月18日获融资买入1.25亿元，融资余额49.81亿元|融资融券余额|成交额|融券|流通股东|ETF_新浪新闻",
+      "content_preview": "资料显示，隆基绿能科技股份有限公司位于陕西省西安市经济技术开发区尚苑路8369号，成立日期2000年2月14日，上市日期2012年4月11日，公司主营业务涉及单晶硅棒、硅片、电池和组件的研发、生产和销售,为光伏集中式地面电站和分布式屋顶(含BIPV)开发提供产品和系统解决方案,积极布局和培育光伏制氢业务。主营业务收入构成为：组件及电池85.\n18%，硅片及硅棒9.\n30%，电站业务3.\n05%，其",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能李振国夫妇财富缩水，是否代表整个光伏行业面临困境？|市值|硅料|成本|产能|通威股份_新浪新闻",
+      "content_preview": "四、李振国财富缩水是否代表整个行业困境隆基绿能作为光伏行业老牌龙头，其巨额亏损和市值缩水具有极强的行业代表性——它反映了光伏行业从“高景气成长”进入“成熟周期现实”的残酷转变。从全行业视角看，绝大多数主产业链企业都陷入亏损，现金流和成本管控成为生存核心，行业正经历一场产能与现金流的淘汰赛。但行业内部存在分化：部分企业如阳光电源仍保持千亿市值，通威股份依托硅料护城河和全球化布局展现出更强韧性，隆基则",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "突破"
+        ],
+        "negative": [
+          "亏损",
+          "价格战"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:35.637882",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富:东方财富信息股份有限公司关于签署最高额保证合同的公告",
+      "content_preview": "\n| 证券代码：300059 | 证券简称：东方财富 | 公告编号：2026-050 |\n|- |- |- |\n\n\n东方财富信息股份有限公司\n\n关于签署最高额保证合同的公告\n\n本公司及董事会全体成员保证信息披露内容的真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏。\n\n\n\n东方财富信息股份有限公司（以下简称“公司”）全资子公司上海天天基金销售有限公司（以下简称“天天基金”）因业务发展需要，与中",
+      "type": "ann",
+      "date": "2026-06-17",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [
+          "担保"
+        ],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富:东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2026年面向专业投资者公开发行公司债券(第二期)发行结果的公告",
+      "content_preview": "证券代码：300059\n证券简称：东方财富\n公告编号：2026-049\n东方财富信息股份有限公司\n关于子公司东方财富证券股份有限公司 2026 年面向专业投资者\n公开发行公司债券（第二期）发行结果的公告\n本公司及董事会全体成员保证信息披露内容的真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏。\n东方财富信息股份有限公司子公司东方财富证券股份有限公司（以下简称“东方财富证券”）于 2026 年 ",
+      "type": "ann",
+      "date": "2026-06-17",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富6月18日主力资金净流出，震荡行情中表现强于大盘，综合目标价28.13元。 - 经济观察网 － 专业财经新闻网站",
+      "content_preview": "东方财富6月18日主力资金净流出，震荡行情中表现强于大盘，综合目标价28.13元。经观智讯2026-06-21 17:51经济观察网东方财富近5日处于震荡行情中，表现强于大盘，强于行业平均水平。近5日主力资金整体呈现净流出状态，净占比接近市场平均水平。6月18日主力资金整体呈现净流出状态，净占比远低于市场平均水平。融资融券差额占比9.3%。该股市场关注度一般，整体舆情偏中性。机构调研频率较低，整体",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "周期中迎成长、竞争力更巩固、估值重估再出发",
+      "content_preview": "　　东方财富(300059)\r\n　　投资建议\r\n　　我们常被问：东财增速放缓？只是市场beta？基金降费影响？投资收入占比高？我们认为，投资者的种种担心或拖累了其股价表现。而事实上，公司竞争力更加夯实、业绩加速增长、新业务开始发力、基金降费/投资收入等压制估值因素正在消除，我们看好公司短期在业绩高增/市场活跃/资金增配等催化下迎来补涨、长期仍是投资中国大财富管理赛道的核心标的；重申跑赢行业。\r\n　",
+      "type": "research",
+      "date": "2026-06-09",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "2026年一季报点评：市场交投持续活跃，核心业务全线受益",
+      "content_preview": "　　东方财富(300059)\r\n　　事项：\r\n　　东方财富发布2026年一季报。营业总收入：50亿元，同比+44.3%。归母净利润：37.4亿元，环比+7.5亿元，同比+37.7%。\r\n　　点评：\r\n　　资产周转率改善驱动ROE上行。公司报告期内ROE为3.9%，同比+0.6pct，环比+0.7pct，杜邦拆分来看：\r\n　　1）公司报告期末财务杠杆倍数（总资产剔除客户资金）为：2.51倍，同比-0",
+      "type": "research",
+      "date": "2026-05-12",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富获40亿授信担保，股价上涨3.33%背后的故事_市场_证券公司_天天基金",
+      "content_preview": "东方财富获40亿授信担保，股价上涨3.\n33%背后的故事在2026年6月18日的收盘市场中，东方财富（股票代码：300059）以18.\n6元的价格报收，较上周的18.\n0元上涨了3.\n33%。这一波动引发了市场的广泛关注，尤其是6月15日，东方财富盘中最高价触及19.\n48元，最低价则为17.\n95元。作为一家在证券板块表现突出的企业，东方财富当前的总市值达到了2942.\n93亿元，在50家证券公",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [
+          "担保"
+        ],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富为子公司天天基金新增提供40亿元担保_财经频道_证券之星",
+      "content_preview": "天眼查资料显示，东方财富全称为东方财富信息股份有限公司，成立于2005年01月20日，注册资本1580403.\n7675万人民币，法定代表人其实，注册地址为嘉定区宝安公路2999号1幢。主营业务为证券业务、金融电子商务服务业务、金融数据服务业务。\n目前，公司董事长为其实，董秘为杨浩，最新年报显示员工人数为6403人，实际控制人为其实（持有东方财富信息股份有限公司股份比例：19.\n25%）。公司参股",
+      "type": "news",
+      "date": "2026-06-17",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [
+          "担保"
+        ],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富6月16日获融资买入10.30亿元，融资余额237.61亿元",
+      "content_preview": "资料显示，东方财富信息股份有限公司位于上海市徐汇区宛平南路88号东方财富大厦，成立日期2005年1月20日，上市日期2010年3月19日，公司主营业务涉及证券业务、金融电子商务服务业务、金融数据服务业务及互联网广告服务业务等。主营业务收入构成为：金融电子商务服务90.\n08%，金融数据服务等9.\n92%。\n截至3月31日，东方财富股东户数102.\n41万，较上期减少0.\n47%；人均流通股1302",
+      "type": "news",
+      "date": "2026-06-17",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "一句话点评：东方财富（300059）到底值不值得投资？",
+      "content_preview": "发展前景：业绩增长确定性强，但代销费率下行与估值模式切换仍在进行东方财富的核心竞争力集中在流量端的持续巩固与牌照矩阵的稀缺性布局。截至2026年一季度，公司总资产约4399亿元，较上年末增长近12%，净资产956亿元，较上年末增长约4%。行业层面，2025年全年权益基金新发份额5859亿份，同比增长83%，居民资产向权益类配置迁移的中长期趋势并未逆转，公司基金代销业务收益虽受费率改革冲击、短期增速",
+      "type": "news",
+      "date": "2026-06-13",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "一句话点评：东方财富（300059）到底值不值得投资？",
+      "content_preview": "68亿元，同比增长38.\n46%；归母净利润120.\n85亿元，同比增长25.\n75%；扣非净利润116.\n54亿元，同比增长25.\n94%。净资产收益率14.\n03%，资产负债表进一步扩张。2025年利润分配预案为每10股派1元，对应当期股息率有限。\n进入2026年，一季度营收50.\n31亿元，同比增长44.\n34%；归母净利润37.\n38亿元，同比增长37.\n67%；扣非净利润36.\n95亿元",
+      "type": "news",
+      "date": "2026-06-13",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富获40亿授信担保，股价上涨3.33%背后的故事_市场_证券公司_天天基金",
+      "content_preview": "90%。这表明东方财富在当前的市场环境下，依然能够获得相对低成本的资金，展现了其稳健的财务管理能力。\n公司持续增长的动力东方财富的信息技术和金融服务平台在过去几年中逐渐成熟，尤其是在数字化转型的背景下，天天基金作为其全资子公司，已经成为了中国最大的基金销售平台之一。与民生银行上海分行的续签合作，进一步巩固了天天基金的市场地位。这些合作不仅是资金上的支持，更是资源整合和市场拓展的战略布局。\n未来展望",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "技术创新"
+        ],
+        "negative": [
+          "竞争加剧"
+        ],
+        "neutral": [
+          "担保"
+        ],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富一季报平稳",
+      "content_preview": "三、东方财富与传统券商的优势对比东方财富作为A股唯一具备“流量+牌照+数据+AI”全闭环的互联网券商，与传统券商多维度差异显著，结合财报数据对比如下：（1）获客模式与成本优势：流量生态驱动VS线下网点布局东方财富依托全链路流量生态，APP月活超4200万，用户转化率18%，线上获客成本150元/人，仅为传统券商线下成本的五分之一，无需承担高额线下固定成本，优势显著。传统券商依赖线下网点，虽能提供高",
+      "type": "news",
+      "date": "2026-04-25",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.893303",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富一季报平稳",
+      "content_preview": "东方财富一季报平稳东方财富一季报平稳原创9点复盘9点复盘9点复盘 2026年4月25日09:08山东在小说阅读器读本章去阅读在小说阅读器中沉浸阅读核心结论：东方财富2025年稳健运营，2025年一季度业绩“开门红”。\n证券主业受益于市场交投活跃高速增长，基金代销“量增利减”，资产规模扩容但重资产化需关注。公司依托流量与全牌照优势韧性突出，AI赋能与结构优化打开长期空间，短期需警惕市场波动及资产负债",
+      "type": "news",
+      "date": "2026-04-25",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.908924",
+      "next_return": null
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "$东方财富(SZ300059)$",
+      "content_preview": "$东方财富(SZ300059)$\n一 、 战略定位 ： 从\"互联网券商\"到\"AI券商\"的范式跃迁\n2025年底 ， 东方财富 新一届董事会明确锚定转型\"AI券商\" ， 将研发人工智能金融垂类大模型作为核心战略资源 ， 推动AI技术深度赋能各项业务 。 这一转型标志着公司继完成\"流量+牌照\"闭环后 ， 正式迈向以AI驱动业务重构的全新阶段 。\n纵观公司发展脉络 ， 其战略定位经历了三次跃迁 ： 最初",
+      "type": "news",
+      "date": "2026-05-26",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:37.908924",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥再推回购方案 拟6亿元至10亿元回购A股、不超7亿港元回购H股",
+      "content_preview": "5月26日晚间，海螺水泥(600585)披露《关于以集中竞价交易方式回购公司A股的方案暨回购报告书》，拟使用自有资金开展新一轮A股回购，回购金额区间为6亿元至10亿元，回购股份将全部注销以减少注册资本。同时宣布拟动用不超过7亿港元资金回购H股。这是2023年之后该公司再次实施回购。本次回购方案已于2026年5月26日经董事会审议通过，根据相关规则无需提交股东大会审议。公告披露，截至2026年5月2",
+      "type": "news",
+      "date": "2026-05-26",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "回购"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购"
+        ],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥:翌日披露報表",
+      "content_preview": "海螺水泥:翌日披露报表\n翌日披露报表\n股份发行人——已发行股份或库存股份变动、股份购回及/或在场内出售库存股份\n表格类别:股票 状态:新提交\n公司名称:安徽海螺水泥股份有限公司\n呈交日期:2026年6月4日\n……\n",
+      "type": "ann",
+      "date": "2026-06-05",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥:翌日披露報表",
+      "content_preview": "海螺水泥:翌日披露报表\n翌日披露报表\n股份发行人——已发行股份或库存股份变动、股份购回及/或在场内出售库存股份\n表格类别:股票 状态:新提交\n公司名称:安徽海螺水泥股份有限公司\n呈交日期:2026年6月3日\n如上市发行人的已发行股份或库存股份出现变动而须根据《香港联合交易所有限公司占（香港联交所）证券上市规则》（《主板上市规则》）第13.25A条／《香港联合交易所有限公司GEM证券上市规则》（《G",
+      "type": "ann",
+      "date": "2026-06-04",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "Q1行业需求承压，期待供给协同加强",
+      "content_preview": "　　海螺水泥(600585)\r\n　　事件\r\n　　公司发布26年一季报，26Q1公司实现营收170.66亿元，同比下降10.45%，实现归母净利润14.68亿元，同比下降18.98%，扣非后归母净利润13.01亿元，同比下降21.83%。\r\n　　点评\r\n　　水泥行业Q1量价齐跌，龙头需求承压：26年一季度,水泥行业呈现出“需求疲软，量价齐跌，行业普亏”的特征，根据数字水泥网数据，26Q1全国累计水泥",
+      "type": "research",
+      "date": "2026-05-07",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [
+          "风险提示",
+          "下降",
+          "减少"
+        ],
+        "neutral": [],
+        "score": -2,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": -2,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "财报点评：水泥需求及价格承压，看好公司长期竞争力",
+      "content_preview": "　　海螺水泥(600585)\r\n　　【投资要点】\r\n　　事件。公司公布2026年一季报。公司2026Q1公司收入170.7亿元同比-10.45%，归母净利润14.7亿元，同比-18.98%。\r\n　　水泥需求及价格承压，影响公司整体收入利润。由于下游需求有一定压力，2026Q1全国水泥产量同比-7.1%至3.0亿吨，同时全国平均价格同比2025Q1有一定下降。我们判断公司作为水泥行业头部企业，202",
+      "type": "research",
+      "date": "2026-05-06",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "回购"
+        ],
+        "negative": [
+          "下降"
+        ],
+        "neutral": [
+          "分红",
+          "回购"
+        ],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥6月18日获融资买入9286.65万元，融资余额16.99亿元_方面_持股_熟料",
+      "content_preview": "89%，建材行业(自产品销售)-32.\n5级水泥8.\n96%，建材行业(自产品销售)-熟料5.\n99%，建材行业(自产品销售)-骨料及机制砂5.\n09%，建材行业(自产品销售)-商品混凝土3.\n89%，建材行业(贸易业务)1.\n26%。\n截至3月31日，海螺水泥股东户数20.\n72万，较上期减少0.\n54%；人均流通股0股，较上期增加0.\n00%。\n2026年1月-3月，海螺水泥实现营业收入170",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥6月17日获融资买入4229.93万元，融资余额16.62亿元|融资融券余额|成交额|流通股东|融券|沪深300_新浪新闻",
+      "content_preview": "资料显示，安徽海螺水泥股份有限公司位于安徽省芜湖市文化路39号,香港中环康乐广场1号怡和大厦40楼，成立日期1997年9月1日，上市日期2002年2月7日，公司主营业务涉及水泥、商品熟料及骨料的生产、销售。主营业务收入构成为：建材行业(自产品销售)-42.\n5级水泥58.\n92%，其他(补充)15.\n89%，建材行业(自产品销售)-32.\n5级水泥8.\n96%，建材行业(自产品销售)-熟料5.\n9",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥：积极推进市值管理工作，持续提升经营发展质量，推动资源整合",
+      "content_preview": "影响股价的因素有很多，其中近年来水泥（884060）市场需求持续下行，市场供需矛盾突出，行业利润较“十三五”期间大幅下降，公司亦受到了行业周期（883436）因素影响。公司近年来采取了一系列措施维护公司投资价值，包括推出《未来三年股东分红回报规划》、实施中期分红、提升2025年度分红比例以及制定股份回购方案等，同时控股股东海螺集团也对公司股份实施了增持。公司将围绕已制定的《市值管理制度》等，积极推",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增持",
+          "提升"
+        ],
+        "negative": [
+          "下降"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥逆周期发起价格战的底气:成本、战略与行业变革的交织_财富号_东方财富网|比亚迪|巴斯夫|政策|下行|新疆_新浪新闻",
+      "content_preview": "在股权结构安排上，海螺水泥采用与海螺（陕西）控股有限公司共同控股的模式。海螺（陕西）控股有限公司持股10%，海螺水泥作为控股股东，充分发挥其在水泥生产、供应链管理及市场运营方面的丰富经验。这种“总部+区域平台”的联合控股模式，既能发挥海螺水泥的品牌与技术优势，又能借助区域控股公司的本地化资源，实现对新疆市场的精准布局。在业务整合过程中，海螺水泥对接收的资产进行合理规划与优化。例如，墨玉尧柏水泥有限",
+      "type": "news",
+      "date": "2026-06-14",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥逆周期发起价格战的底气:成本、战略与行业变革的交织_财富号_东方财富网|比亚迪|巴斯夫|政策|下行|新疆_新浪新闻",
+      "content_preview": "在区域布局上，海螺水泥的产能原本主要集中在华东、华南等地区。随着西部大开发战略的持续推进，西部地区基础设施建设需求增长，水泥市场潜力巨大。通过投资西部水泥，海螺水泥得以快速切入陕甘川等西部地区市场，完善其在全国的战略布局。尤其是在新疆地区，2025年海螺水泥以16.\n5亿元收购西部水泥在新疆的相关资产，包括多家水泥公司及相关业务。这一收购使海螺水泥在新疆的市场份额迅速提升，从之前布局较少的局面一举",
+      "type": "news",
+      "date": "2026-06-14",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥逆周期发起价格战的底气:成本、战略与行业变革的交织_财富号_东方财富网|比亚迪|巴斯夫|政策|下行|新疆_新浪新闻",
+      "content_preview": "成本领先战略：坚实的价格战底气海螺水泥在成本控制方面堪称行业典范，这也是其敢于发动价格战的关键因素。从企业竞争理论的角度来看，成本领先战略是企业获取竞争优势的重要途径之一。海螺水泥通过独特的“T型发展战略”，实现了从原材料采购到产品运输的全方位成本优化。在原材料环节，海螺水泥在长江沿线拥有丰富且优质的石灰石资源，自给率极高，这使得其在原材料采购成本上远低于竞争对手。例如，一些小型水泥企业需要从外部",
+      "type": "news",
+      "date": "2026-06-14",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [],
+        "score": -1,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "score": -1,
+      "has_positive": false,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "制造业增幅领跑 产业向“新”而行——1至4月六盘水工业经济高质量发展观察_罗宾森_海螺水泥_企业",
+      "content_preview": "海螺水泥。位于水城区老鹰山镇的水城海螺盘江水泥有限责任公司（以下简称“海螺水泥”），是我市建材制造业的标杆企业，主营水泥、熟料、建筑骨料、商砼的生产与销售，深耕建材领域。走进海螺水泥的生产车间，颠覆了传统水泥企业的刻板印象：不见漫天扬尘，无刺鼻异味，没有工人穿梭忙碌，只有智能化设备平稳运转发出的正常声响。海螺水泥厂区干净明亮。“我们实现了全流程智能闭环生产，源头采矿采用数字化取料，生产环节全程机械",
+      "type": "news",
+      "date": "2026-06-11",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥6月18日获融资买入9286.65万元，融资余额16.99亿元_方面_持股_熟料",
+      "content_preview": "海螺水泥6月18日获融资买入9286.\n65万元，融资余额16.\n99亿元来源：新浪证券-红岸工作室6月18日，海螺水泥跌2.\n63%，成交额10.\n29亿元。两融数据显示，当日海螺水泥获融资买入额9286.\n65万元，融资偿还5590.\n70万元，融资净买入3695.\n94万元。截至6月18日，海螺水泥融资融券余额合计17.\n06亿元。\n融资方面，海螺水泥当日融资买入9286.\n65万元。当前融",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺水泥获新型专利授权，提升筒仓使用寿命_信息_显示_公司",
+      "content_preview": "海螺水泥获新型专利授权，提升筒仓使用寿命2026年6月19日，海螺水泥（股票代码：600585）获得一项实用新型专利授权，专利名称为“一种水泥生料均化库筒仓约束结构及水泥生料均化库”，专利申请号为CN202521244171.9。该专利通过在筒仓外部设置约束件和连接件，提高筒仓的抗压能力，避免因受力不均匀导致的变形和开裂，从而延长筒仓的使用寿命。据天眼查APP数据显示，海螺水泥今年以来已获得10项",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "title": "海螺创业——节能降碳三年行动—水泥去产能的最后通牒",
+      "content_preview": "长期看，政策加速了行业\"粉磨端去产能—集中度提升—龙头定价权增强\"的链条。有稳定熟料来源的大型粉磨站和全能工厂将受益，而大量分散的小粉磨站将成为这轮出清的主要牺牲品。这不是一纸鼓励性文件。它给了行业一个明确的\"最后期限\"。总结这段时间政策密集出台产能置换地下管网、城市更新节能降碳。形势已经非常明朗，这是起点、终点确定的过程起点：产能过剩终点：供需平衡而各种政策就是要从供、需两端，促进这个进程得到实",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:39.093032",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下:浙江天册律师事务所关于易点天下网络科技股份有限公司2026年第三次临时股东会的法律意见书",
+      "content_preview": "浙江天册律师事务所\n关于\n易点天下网络科技股份有限公司\n2026 年第三次临时股东会的\n法律意见书\n编号：TCYJS2026H1009 号\n致：易点天下网络科技股份有限公司\n浙江天册律师事务所（以下简称“本所”）接受易点天下网络科技股份有限公司（以下简称“易点天下”或“公司”）的委托，指派本所律师参加公司 2026年第三次临时股东会，并根据《中华人民共和国证券法》（以下简称“《证券法》”）、《中华",
+      "type": "ann",
+      "date": "2026-06-18",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下:2026年第三次临时股东会决议公告",
+      "content_preview": "证券代码：301171\n证券简称：易点天下\n公告编号：2026-057\n易点天下网络科技股份有限公司\n2026 年第三次临时股东会决议公告\n本公司及董事会全体成员保证信息披露的内容真实、准确、完整，没有虚假记载、误导性陈述或重大遗漏。\n特别提示：\n1. 本次股东会未出现否决议案的情形；\n2. 本次股东会不涉及变更以往股东会已通过的决议。\n一、会议召开和出席情况\n（一）会议召开情况\n1. 会议召开时",
+      "type": "ann",
+      "date": "2026-06-18",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下6月18日主力资金净流入，近5日震荡强于大盘，融资融券差额占比7.98% - 经济观察网 － 专业财经新闻网站",
+      "content_preview": "易点天下6月18日主力资金净流入，近5日震荡强于大盘，融资融券差额占比7.98%经观智讯2026-06-20 10:59经济观察网易点天下近5日处于震荡行情中，表现强于大盘，强于行业平均水平。近5日主力资金整体呈现净流出状态，净占比低于市场平均水平。6月18日主力资金整体呈现净流入状态，净占比远高于市场平均水平。融资融券差额占比7.98%。该股市场关注度一般，整体舆情偏中性。机构调研较频繁，整体研",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "资产负债率超110%，估值半年翻3倍多，行业老五米多多二冲港股陷亏损泥沼 - 21经济网",
+      "content_preview": "易点天下能实现超14%的毛利率，得益于其技术平台属性，依靠自研算法完成流量二次变现，借此获得技术溢价。蓝色光标和易点天下分别从体量与技术两方面对国内其他竞争对手形成挤压。反观米多多，研发投入常年处于低位，年度研发费用不足50万美元，该项支出占比也从最初的0.\n7%下滑至0.\n3%，薄弱的技术实力难以支撑企业长期发展。\n在冲刺IPO前夕，米多多开启密集外部融资，企业估值也随之快速抬升。2025年10",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "营收高增显韧性，AI Native战略深化蓄力长期价值",
+      "content_preview": "　　易点天下(301171)\r\n　　头部出海营销科技公司，“出海+AI”双引擎格局成型。公司成立于2005年，总部位于西安，是国内头部企业国际化智能营销服务商，2022年在深交所创业板上市。公司以出海营销为核心主业，覆盖效果广告、品牌广告、头部媒体账户管理等多元服务形态，并依托自研zMaticoo程序化广告平台与KreadoAIAIGC创作平台构建起深厚的技术资产壁垒。近年来，公司主动向科技纵深转",
+      "type": "research",
+      "date": "2026-06-01",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "整合营销与广告平台双轮协同，投资标的短期波动拖累利润",
+      "content_preview": "　　易点天下(301171)\r\n　　事件描述\r\n　　公司公布2026年一季报：2026Q1公司实现营业收入10.42亿元，同比增长12.13%；实现归母净利润-0.64亿元，同比转亏；剔除汇兑损益和股份支付影响，公司2026Q1实现扣非归母净利润0.68亿元，同比增长12.45%。\r\n　　事件评论\r\n　　收入端稳健增长，整合营销+广告平台双轮协同。公司以整合营销服务覆盖全球头部媒体，以广告平台业务",
+      "type": "research",
+      "date": "2026-05-08",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [
+          "亏损"
+        ],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下荣登\"2026出海全球化品牌营销机构TOP10\"：AI驱动中国品牌向世界进阶_新浪财经_新浪网",
+      "content_preview": "（来源：易点天下eclicktech）近日，由第三方研究与咨询机构亿欧EqualOcean发起的\"2026出海全球化百人论坛\"（GGF2026）在上海圆满落幕，\"2026出海全球化年度系列榜单\"在现场正式揭晓。专注于品牌全球化的营销科技公司易点天下，凭借在AI营销技术领域的持续深耕，以及赋能中国企业实现全球品牌建设的综合表现，成功入选\"2026出海全球化品牌营销机构TOP10\"。本届论坛以\"韧性全",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "独家"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "ESG表现再进阶！易点天下华证ESG评级获评A级 - 今日头条Loading.",
+      "content_preview": "易点天下始终坚持长期主义发展战略，将技术创新视为企业基业长青的源动力。2025年，公司研发费用达1.\n59亿元，同比增长74.\n28%。同时，易点天下持续推动AI能力普惠，通过AI全托管投放系统，将跨平台策略、多语种创意和预算分配等复杂工作自动化，让更多成长型企业以更低门槛使用智能营销能力、拓展全球市场。\n技术创新离不开人才支撑。2025年，易点天下依托ETU培训中心开展培训58期，覆盖超过400",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "技术创新",
+          "增长"
+        ],
+        "negative": [
+          "下降",
+          "减少"
+        ],
+        "neutral": [],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下6月17日获融资买入1.16亿元，融资余额14.89亿元|融资融券余额|成交额|融券|流通股东|服务_新浪新闻",
+      "content_preview": "资料显示，易点天下网络科技股份有限公司位于陕西省西安市高新区天谷八路156号软件新城研发基地二期C3栋楼903室,香港中环皇后大道中5号衡怡大厦28楼，成立日期2005年4月6日，上市日期2022年8月19日，公司主营业务涉及效果广告服务、品牌广告服务以及头部媒体账户管理服务。主营业务收入构成为：整合营销服务51.\n01%，广告平台业务47.\n99%，其他(补充)1.\n00%。\n截至5月29日，易",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [
+          "减少"
+        ],
+        "neutral": [
+          "分红"
+        ],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下H股发行上市筹备获重要进展 多项议案高票通过股东会|h股|表决权|上海证券交易所_网易订阅",
+      "content_preview": "法律意见\n浙江天册律师事务所律师对本次股东会进行了见证，并出具法律意见书，认为公司本次股东会的召集与召开程序、召集人与出席会议人员的资格、会议表决程序均符合法律、行政法规、《股东会规则》和《公司章程》的规定，表决结果合法有效。\n解读\n此次股东会的顺利召开及相关议案的高票通过，标志着易点天下在H股发行上市的进程中迈出了关键一步。通过修订公司章程及相关治理制度，公司将进一步完善法人治理结构，提升规范运",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下H股发行上市筹备获重要进展 多项议案高票通过股东会_新浪财经_新浪网",
+      "content_preview": "解读\n此次股东会的顺利召开及相关议案的高票通过，标志着易点天下在H股发行上市的进程中迈出了关键一步。通过修订公司章程及相关治理制度，公司将进一步完善法人治理结构，提升规范运作水平，以满足H股上市地的监管要求。市场分析人士指出，H股的发行将有助于易点天下拓展国际融资渠道，提升品牌国际影响力，为公司未来发展注入新的动力。\n公司董事会表示，将根据股东会决议及相关法律法规要求，积极推进后续各项工作。\n点击",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "腾讯云AI产业大会｜Agent的价值正从“工具赋能”迈向“组织重构” - 今日头条Loading.",
+      "content_preview": "目前，易点天下日均Token消耗量已超过40亿——这个数字背后，是AI智能体已经实实在在地跑在了真实的生产环境里。最后，Bill Zhang介绍了易点天下自研的AI模型与算力智能调度平台——TokenLX，并向游戏、社交、漫剧出海开发者发出内测邀请。\nAgent真正进场，不是技术的胜利，而是协作的重构。易点天下走出的是一条\"自用→验证→产品化输出\"的AI落地路径——先在自己身上跑通，再把方法论变成",
+      "type": "news",
+      "date": "2026-06-18",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下荣登“2026出海全球化品牌营销机构TOP10”：AI驱动中国品牌向世界进阶",
+      "content_preview": "OCEAN五维评估：识别出海新基建的核心力量2026年，中国企业出海已步入深水区。决定出海成败的，已不只是产品力和市场判断力，还包括服务生态的深度和质量。在品牌营销、合规管理等领域，专业服务商正从\"后台支持\"转变为不可或缺的\"基础设施\"。正是在这一背景下，OCEAN五维评估体系的价值愈发凸显：O（海外布局）——考量海外业务覆盖广度与本地化团队建设深度；C（商业化表现）——关注核心服务是否被市场验证",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下荣登“2026出海全球化品牌营销机构TOP10”：AI驱动中国品牌向世界进阶",
+      "content_preview": "易点天下凭借多年积累，已具备全场景全渠道智能化整合营销与增长变现能力，旗下拥有商业智能化数字营销平台Cyberklick、以程序化为核心的数字化广告平台Yeahmobi、AI驱动的程序化广告平台zMaticoo三大核心业务品牌，已累计为超一万家广告主提供服务，业务范围遍及全球200多个国家和地区，服务了众多知名中国企业的全球化进程。此次荣登EqualOcean出海全球化服务商榜单，是对易点天下在A",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "title": "易点天下荣登“2026出海全球化品牌营销机构TOP10”：AI驱动中国品牌向世界进阶",
+      "content_preview": "AI驱动创新：全球化营销的系统化路径在Agentic AI时代，全球营销已成为一个高维战场。面对渠道碎片化、文化差异和复杂算法机制，传统买量、试错模式已难以满足企业增长需求。对此，易点天下CPO Aodi Zhang有一个直接的判断：\"过去十年，出海营销的关键词是买量、试错、调优。而今天，全球营销更像一个高维战场。行业需要的是一种新的能够跨市场、跨平台、跨文化，把洞察、创意、投放、归因这条链路自动",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:40.378959",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "华丽转身！三花智控：从投入期走向回报期_市值风云",
+      "content_preview": "华丽转身！三花智控：从投入期走向回报期beyond原创北京制冷业务承压，汽零部件逆增。在财报季里翻阅各家企业的财报，风云君有个感受，有的财报呈现单季的爆发，有的则展示了长期的趋势。尤其是2025年，全球经济与产业处于特定的周期位置；而刚刚过去的2026年第一季度，则可能叠加了新的宏观变量与行业波动。这些特定的时间窗口，以及在特定经营背景下各企业的经营成效，都为提供了一个难得的观察窗口。\n作为全球制",
+      "type": "news",
+      "date": "2026-06-09",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "突破",
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控高管集体减持遭投资者追问 回应称用于产业投资、孩子教育和生活需求",
+      "content_preview": "近日，浙江三花智能控制股份有限公司（以下简称“三花智控”）披露了一份投资者关系活动记录表，在公司2025年度业绩说明会上，有投资者就此前实际控制人、董事及高级管理人员减持事项直接发问：“请问你们高管为何要集体减持？”对此，三花智控方面回应称：“董事长减持主要原因为个人资金需求，本次减持资金将继续用于产业投资。其余5位董事或高级管理人员减持股票主要来源于历年积累的股权激励，本次减持资金主要用于孩子教",
+      "type": "news",
+      "date": "2026-05-31",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "股权激励"
+        ],
+        "negative": [
+          "减持"
+        ],
+        "neutral": [
+          "股权激励"
+        ],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "协同效应加速释放 三花智控业务结构持续进阶",
+      "content_preview": "5月26日，浙江三花智能控制股份有限公司（以下简称“三花智控”）召开2025年度业绩说明会。该公司管理层就公司的经营情况、业务结构、未来规划等问题与投资者展开交流。\n三花智控深耕热管理零部件领域，专注于开发可实现高效换热和温度智能控制的环境热管理解决方案，主营业务涵盖制冷空调电器零部件及汽车零部件两大板块。\n2025年，该公司实现营业收入310.\n12亿元，同比增长10.\n97%；实现归属于上市公",
+      "type": "news",
+      "date": "2026-05-27",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "协同效应加速释放 三花智控业务结构持续进阶",
+      "content_preview": "谈及业务间的协同发展机制，张亚波告诉《证券日报》记者，公司以热泵与热管理技术为核心，阀、泵、换热器等底层核心零部件可在两大业务间高效复用。此外，公司两大主业还可在原材料集中采购、生产工艺优化、研发平台及全球化产能布局等方面实现深度协同，进而有效提升公司的运营效率与成本优势，形成良性互动、共同增长的发展格局。\n依托强大的研发实力和规模化生产能力，三花智控还成功切入仿生机器人机电执行器市场。财报显示，",
+      "type": "news",
+      "date": "2026-05-27",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控高管“为孩子教育”减持套现 两千亿巨头陷热门概念叙事与资本套现割裂",
+      "content_preview": "2306港元，总金额约为2712.\n78万港元。\n尽管公司被市场视为特斯拉Optimus人形机器人的核心供应商，但该业务目前对公司营收和利润的贡献较小。公司在2025年年报中关于机器人业务方面的表述为“聚焦多款关键型号产品开展技术改进，配合客户进行重点产品研发、试制、迭代、送样”，这与2025年中报高度一致。这意味着，截至2025年底，该业务并未实现从“样品”到“量产”的关键跨越。而在5月26日的",
+      "type": "news",
+      "date": "2026-05-30",
+      "info_type": "NEWS",
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [
+          "减持"
+        ],
+        "neutral": [],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控:《公司章程》修订对照表",
+      "content_preview": "证券代码：002050\n证券简称：三花智控\n公告编号：2026-027\n浙江三花智能控制股份有限公司\n《公司章程》修订对照表\n本公司及董事会全体成员保证信息披露内容的真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏。\n浙江三花智能控制股份有限公司（以下简称“公司”）鉴于独立非执行董事石建辉先生任期即将届满离任，为进一步优化公司治理架构，公司拟于本届董事会任期内增补非执行董事和独立非执行董事各一",
+      "type": "ann",
+      "date": "2026-06-06",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控:关于独立董事任期即将届满离任暨增补独立董事、非执行董事的公告",
+      "content_preview": "\n| 证券代码：002050 | 证券简称：三花智控 | 公告编号：2026-026 |\n|- |- |- |\n\n\n浙江三花智能控制股份有限公司\n\n关于独立董事任期即将届满离任暨增补独立董事、非执行董事的公告\n\n本公司及董事会全体成员保证信息披露内容的真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏。\n\n一、独立董事任期届满情况\n\n浙江三花智能控制股份有限公司（以下简称“公司”）独立董事石建辉",
+      "type": "ann",
+      "date": "2026-06-06",
+      "info_type": "NOTICE",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控6月18日主力资金净流入，近5日震荡偏弱，融资融券差额占4.07%。 - 经济观察网 － 专业财经新闻网站",
+      "content_preview": "三花智控6月18日主力资金净流入，近5日震荡偏弱，融资融券差额占4.07%。经观智讯2026-06-21 11:47经济观察网三花智控近5日处于震荡行情中，表现弱于大盘，强于行业平均水平。近5日主力资金整体呈现净流出状态，净占比低于市场平均水平。6月18日主力资金整体呈现净流入状态，净占比远高于市场平均水平。融资融券差额占比4.07%。该股市场关注度一般，整体舆情偏中性。机构调研较频繁，整体研报评",
+      "type": "news",
+      "date": "2026-06-21",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控推荐报告：全球热管理零部件龙头，AIDC液冷、仿生机器人打开空间",
+      "content_preview": "　　三花智控(002050)\r\n　　投资要点\r\n　　1.一句话逻辑\r\n　　制冷空调及新能源车热管理全球龙头，AIDC液冷、仿生机器人打开成长空间。公司以45.5%的全球市占率稳居全球制冷空调控制元器件市场龙头地位，在全球汽车热管理系统零部件市场市占率达4.1%，凭借在热管理零部件领域的领先性，向技术同源的AIDC液冷领域拓展，凭借多年累积的良好的客户合作基础，向仿生机器人领域积极开拓，两大高速增长",
+      "type": "research",
+      "date": "2026-06-21",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "突破"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "2025年全年业绩高增，盈利能力大幅提升",
+      "content_preview": "　　三花智控(002050)\r\n　　投资要点：\r\n　　公司发布了2025年年报，业绩符合预期。2025年公司实现营业收入​​310.12亿元​​，同比增长​​10.97%​​；实现归母净利润​​40.63亿元​​，同比增长​​31.10%​​；扣非归母净利润​​39.58亿元​​，同比增长​​26.95%​​。2025Q4营收69.8亿元，同比-5.4%，环比-10.1%，归母净利润8.2亿元，同",
+      "type": "research",
+      "date": "2026-05-25",
+      "info_type": "REPORT",
+      "keywords": {
+        "positive": [
+          "利润增长",
+          "市场份额",
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 4,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 4,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "浙商深度白马|三花智控·邱世梁/王华君/姬新悦_新浪财经_新浪网",
+      "content_preview": "研究价值1、与众不同的认识：市场担心公司AIDC液冷、仿生机器人等新业务进展较慢。我们认为公司目前积极拥抱AIDC和具身智能发展浪潮，在研发、人才等方面大力投入，在AIDC液冷、仿生机器人领域，客户和订单均有望持续突破。\n2、与前不同的认识：此前认为公司制冷空调业务增长平稳，新能源车业务增速回落，业绩或将承压。当前认为公司切入AIDC液冷、仿生机器人高成长赛道，有望打开中长期成长空间。\n检验与催化",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "突破",
+          "增长"
+        ],
+        "negative": [
+          "风险提示"
+        ],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "浙商深度白马|三花智控·邱世梁/王华君/姬新悦_新浪财经_新浪网",
+      "content_preview": "超预期点1、市场担心台资与欧美厂商已占据AIDC液冷先发优势，公司订单落地可能不及预期。我们认为：公司在产品竞争力、客户信任度方面具备较强的禀赋与积淀，订单落地有望超预期。产品方面，公司制冷业务多年积累的阀件与流量控制技术、泵与流体循环技术、换热器设计能力、系统集成经验可很好复用于AIDC液冷行业，产品性能对标国际龙头；客户方面，公司制冷业务的部分客户在AIDC液冷领域亦具备较强行业影响力，多年积",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "突破"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控获“板式热交换器”发明专利授权_流路_公司_孔和",
+      "content_preview": "三花智控获“板式热交换器”发明专利授权证券之星消息，根据天眼查APP数据显示，三花智控（002050）获得了一项名为“板式热交换器”的发明专利授权。该专利申请号为CN202310213389.7，授权日期为2026年6月19日。专利摘要指出，这种新型板式热交换器的分配器由管体和分隔件组成，后者至少部分位于管体内并与之连接。第一腔室与第二腔室分别设于分隔件两侧，并相互连通；同时，管体上开有多个第一孔",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控获发明专利：板式热交换器引领流体技术革新_行业_创新_领域",
+      "content_preview": "65%。如此可观的研发投入，显示出公司对技术创新的重视与决心。今年以来，三花智控共获得了66项专利授权，较去年同期增加了4.\n76%。这样的专利增长，不仅反映出公司在技术研发方面的持续投入，也展示了其在行业中的竞争力。通过天眼查的数据分析，三花智控在行业内的活跃程度也颇为显著，共对外投资了37家企业，参与招投标项目43次。此外，企业还拥有92条商标信息和2426条专利信息，展示出其在知识产权方面的",
+      "type": "news",
+      "date": "2026-06-20",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "突破",
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "title": "三花智控（02050.HK）：6月18日南向资金增持201.95万股_管理_业务_零部件",
+      "content_preview": "三花智控（02050.HK）：6月18日南向资金增持201.95万股证券之星消息，6月18日南向资金增持201.95万股三花智控（02050.HK）。近5个交易日中，获南向资金减持的有3天，累计净减持334.43万股。近20个交易日中，获南向资金减持的有13天，累计净减持696.05万股。截至目前，南向资金持有三花智控（02050.HK）1.57亿股，占公司已发行普通股的32.99%。浙江三花智能",
+      "type": "news",
+      "date": "2026-06-19",
+      "info_type": "INV_NEWS",
+      "keywords": {
+        "positive": [
+          "增持"
+        ],
+        "negative": [
+          "减持"
+        ],
+        "neutral": [],
+        "score": 0,
+        "has_positive": true,
+        "has_negative": true
+      },
+      "score": 0,
+      "has_positive": true,
+      "has_negative": true,
+      "collected_at": "2026-06-21T22:03:41.615841",
+      "next_return": null
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "创新业务快速增长，AI目标彰显发展信心",
+      "date": "2026-06-16",
+      "type": "research",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -1.7672,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份:关于2026年员工持股计划非交易过户完成暨回购股份处理完成的公告",
+      "date": "2026-06-18",
+      "type": "ann",
+      "score": 3,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 0.2459,
+      "keywords": {
+        "positive": [
+          "回购",
+          "员工持股",
+          "股权激励"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购",
+          "股权激励"
+        ],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "创新业务快速增长，AI目标彰显发展信心",
+      "date": "2026-06-16",
+      "type": "research",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -1.7672,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份:关于2026年员工持股计划非交易过户完成暨回购股份处理完成的公告",
+      "date": "2026-06-18",
+      "type": "ann",
+      "score": 3,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 0.2459,
+      "keywords": {
+        "positive": [
+          "回购",
+          "员工持股",
+          "股权激励"
+        ],
+        "negative": [],
+        "neutral": [
+          "回购",
+          "股权激励"
+        ],
+        "score": 3,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "title": "隆基绿能出席新能源国际投资联盟大会 深化绿色能源合作 -隆基绿能",
+      "date": "2026-06-16",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": 0.6015,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富为子公司天天基金新增提供40亿元担保_财经频道_证券之星",
+      "date": "2026-06-17",
+      "type": "news",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 0.4202,
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [
+          "担保"
+        ],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "创新业务快速增长，AI目标彰显发展信心",
+      "date": "2026-06-16",
+      "type": "research",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -1.7672,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "中勘北斗数字集团与大华股份达成战略合作",
+      "date": "2026-09-03",
+      "type": "news",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 0.6139,
+      "keywords": {
+        "positive": [
+          "战略合作"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份亮相2026年双碳目标下新能源发电新技术应用研讨会",
+      "date": "2026-09-01",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": -1.0247,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "title": "大华股份AI大模型收入暴增150% 高毛利增量重塑盈利结构",
+      "date": "2026-09-02",
+      "type": "news",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 1.2203,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "历次牛市涨跌规律：10年前捂股贵州茅台和定投爆发力强的低价股，现在是什么光景？真正的生钱之道_新浪财",
+      "date": "2026-09-03",
+      "type": "news",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -0.1062,
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台，市值反超宁德时代",
+      "date": "2026-09-02",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": 0.1588,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台2026年中报点评：茅台酒业务保持稳健，市场化程度持续提升",
+      "date": "2026-08-28",
+      "type": "research",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -0.3931,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "浙商深度白马 | 贵州茅台·食饮张潇倩",
+      "date": "2026-08-25",
+      "type": "research",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 0.0506,
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "title": "贵州茅台[600519]",
+      "date": "2026-09-01",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": -0.0031,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富信息股份有限公司 - MBA智库百科",
+      "date": "2026-09-03",
+      "type": "news",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": -0.526,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "超盈价值投研中心：《一天研究一家上市公司（第81期）东方财富：牛市最受益的公司，真正的护城河是什么？",
+      "date": "2026-09-02",
+      "type": "news",
+      "score": 1,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 2.5912,
+      "keywords": {
+        "positive": [
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 1,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富:东方财富信息股份有限公司关于完成工商变更登记的公告",
+      "date": "2026-08-27",
+      "type": "ann",
+      "score": 0,
+      "has_positive": false,
+      "has_negative": false,
+      "next_return": -1.3252,
+      "keywords": {
+        "positive": [],
+        "negative": [],
+        "neutral": [],
+        "score": 0,
+        "has_positive": false,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "东方财富(300059)“质量回报双提升”行动方案的进展公告",
+      "date": "2026-08-25",
+      "type": "news",
+      "score": 4,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -0.0528,
+      "keywords": {
+        "positive": [
+          "市场份额",
+          "突破",
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 4,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "2026年半年度报告点评：业绩实现快速增长，加快AI应用创新",
+      "date": "2026-09-01",
+      "type": "research",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": -0.0515,
+      "keywords": {
+        "positive": [
+          "市场份额",
+          "增长"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "title": "2026年半年报点评：业务规模稳步扩张，AI赋能各业务条线",
+      "date": "2026-08-28",
+      "type": "research",
+      "score": 2,
+      "has_positive": true,
+      "has_negative": false,
+      "next_return": 1.0299,
+      "keywords": {
+        "positive": [
+          "增长",
+          "提升"
+        ],
+        "negative": [],
+        "neutral": [],
+        "score": 2,
+        "has_positive": true,
+        "has_negative": false
+      }
+    }
+  ],
+  "total": 37,
+  "last_updated": "2026-09-03T22:25:52.855130"
+}

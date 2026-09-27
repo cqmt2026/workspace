@@ -63,3 +63,13 @@ out_data/
 output/
 outputs/
 data/
+
+skills/
+agency-agents/
+agents/
+workspace-novel/
+workspace-lead/
+workspace-archive/
+__pycache__/*.pyc
+*.pyo
+

@@ -1,0 +1,30 @@
+{
+  "video_id": "aging_population_2026",
+  "title": "中国60周岁及以上老年人口超3.23亿",
+  "city": "全国",
+  "adcode": "100000",
+  "districts": [],
+  "intro": "中国老年人口突破3.23亿，来看看哪些省份最老",
+  "outro": "数据来源：中国统计年鉴2025，国家统计局",
+  "theme": {
+    "bg_color": "#1a1a2e",
+    "map_color": "#16213e",
+    "card_color": "#0f3460"
+  },
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+10%"
+  },
+  "video": {
+    "subtitle_y": 120,
+    "ken_burns": true,
+    "fade_duration": 0.3,
+    "fps": 25,
+    "crf": 23
+  },
+  "output": {
+    "frame_dir": "maps",
+    "audio_file": "tts.mp3",
+    "video_file": "output.mp4"
+  }
+}

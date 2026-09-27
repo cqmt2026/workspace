@@ -1,0 +1,5 @@
+{"op":"create","entity":{"id":"sys_zhu_ren","type":"Person","properties":{"name":"zhu ren","role":"zi mei ti chuang zuo zhe + xiao shuo chuang zuo zhe","timezone":"Asia/Shanghai"}}}
+{"op":"create","entity":{"id":"sys_ke_yue","type":"Person","properties":{"name":"ke yue","role":"AI zhu shou","species":"lu se mu dan hua ling"}}}
+{"op":"create","entity":{"id":"sys_openclaw","type":"Project","properties":{"name":"OpenClaw Jia Wei Si xi tong","status":"active","version":"2026.3.28"}}}
+{"op":"relate","from":"sys_openclaw","rel":"has_owner","to":"sys_zhu_ren"}
+{"op":"relate","from":"sys_openclaw","rel":"has_agent","to":"sys_ke_yue"}

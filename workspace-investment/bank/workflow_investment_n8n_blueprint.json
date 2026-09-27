@@ -1,0 +1,42 @@
+{
+  "name": "投资数据采集工作流",
+  "trigger": "cron: 0 9 * * 1 Asia/Shanghai",
+  "steps": [
+    {
+      "order": 1,
+      "name": "获取持仓数据",
+      "type": "http",
+      "on_failure": "retry"
+    },
+    {
+      "order": 2,
+      "name": "采集市场数据",
+      "type": "http",
+      "on_failure": "retry"
+    },
+    {
+      "order": 3,
+      "name": "计算盈亏和指标",
+      "type": "task",
+      "on_failure": "stop"
+    },
+    {
+      "order": 4,
+      "name": "生成持仓分析报告",
+      "type": "llm",
+      "on_failure": "skip"
+    },
+    {
+      "order": 5,
+      "name": "保存报告到 docs/",
+      "type": "task",
+      "on_failure": "stop"
+    },
+    {
+      "order": 6,
+      "name": "通知主人",
+      "type": "task",
+      "on_failure": "skip"
+    }
+  ]
+}

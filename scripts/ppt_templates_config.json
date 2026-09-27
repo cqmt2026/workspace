@@ -1,0 +1,1700 @@
+{
+  "layouts": {
+    "big_number": {
+      "name": "大数据页",
+      "desc": "单数字+右侧要点+底部洞见框"
+    },
+    "two_stat": {
+      "name": "双数据对比",
+      "desc": "两个关键指标并排对比"
+    },
+    "three_stat": {
+      "name": "三仪表盘",
+      "desc": "三个指标卡片+双图表"
+    },
+    "pillar": {
+      "name": "三支柱",
+      "desc": "三个并列策略模块"
+    },
+    "data_table": {
+      "name": "数据表格",
+      "desc": "结构化数据对比表格"
+    },
+    "timeline": {
+      "name": "时间轴",
+      "desc": "横向里程碑路线图"
+    },
+    "team": {
+      "name": "团队介绍",
+      "desc": "4人头像+角色卡片"
+    },
+    "finance": {
+      "name": "财务图表",
+      "desc": "双数据+收入柱状图+成本饼图"
+    },
+    "comparison": {
+      "name": "左右对比",
+      "desc": "方案A vs 方案B并排"
+    },
+    "before_after": {
+      "name": "前后对比",
+      "desc": "变革前后对比"
+    },
+    "scorecard": {
+      "name": "计分卡",
+      "desc": "多维度评分+进度条"
+    },
+    "mega_number": {
+      "name": "全屏大数字",
+      "desc": "整个页面就是一个大数字+一句话"
+    },
+    "side_image": {
+      "name": "左右图文",
+      "desc": "左图右文，图文并茂"
+    },
+    "data_wall": {
+      "name": "数据墙九宫格",
+      "desc": "3x3九宫格数据卡片"
+    },
+    "pyramid": {
+      "name": "金字塔",
+      "desc": "层级结构展示"
+    },
+    "chevron": {
+      "name": "流程箭头",
+      "desc": "线性流程3-5步"
+    },
+    "matrix": {
+      "name": "2x2矩阵",
+      "desc": "四象限分析"
+    },
+    "funnel": {
+      "name": "漏斗图",
+      "desc": "转化漏斗"
+    },
+    "quote": {
+      "name": "引用页",
+      "desc": "核心引言/专家观点"
+    },
+    "rag": {
+      "name": "红绿灯状态",
+      "desc": "多项目状态总览"
+    },
+    "product_showcase": {
+      "name": "产品展示",
+      "desc": "配图+功能+指标卡片"
+    },
+    "exec_summary": {
+      "name": "执行摘要",
+      "desc": "核心结论+支撑论点"
+    },
+    "takeaway": {
+      "name": "核心洞见",
+      "desc": "左侧论述+右侧要点"
+    }
+  },
+  "templates": [
+    {
+      "name": "互联网创业商业计划书",
+      "colors": {
+        "primary": [
+          5,
+          28,
+          44
+        ],
+        "accent_blue": [
+          0,
+          107,
+          166
+        ],
+        "accent_green": [
+          0,
+          122,
+          83
+        ],
+        "accent_orange": [
+          212,
+          106,
+          0
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "Georgia",
+        "body": "Arial",
+        "ea": "KaiTi"
+      },
+      "cover": {
+        "title": "互联网创业商业计划书",
+        "subtitle": "投资人必看的商业计划书模板 · 22页完整架构",
+        "tagline": "天使轮/A轮融资路演  |  2026年7月"
+      },
+      "sections": [
+        "项目概述",
+        "市场分析",
+        "产品方案",
+        "商业模式",
+        "竞争分析",
+        "运营数据",
+        "发展历程",
+        "团队介绍",
+        "财务预测"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "mega_number",
+        "section",
+        "data_wall",
+        "section",
+        "side_image",
+        "section",
+        "two_stat",
+        "section",
+        "data_table",
+        "section",
+        "three_stat",
+        "section",
+        "timeline",
+        "section",
+        "pillar",
+        "section",
+        "team",
+        "section",
+        "finance",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "1,200亿",
+        "revenue_2026": "4,500万",
+        "gross_margin": "75%",
+        "users": "300万+",
+        "gmv": "5,000万",
+        "conversion": "8.5%",
+        "patents": "12项",
+        "team_exp": "15年",
+        "growth_rate": "320%",
+        "ltv_cac": "5.2",
+        "nps": "72",
+        "retention": "85%",
+        "avg_order": "299元",
+        "cac": "58元",
+        "payback": "6个月",
+        "breakeven": "2027年Q3",
+        "roi": "4.2x",
+        "company_desc": "专注于企业级AI SaaS服务",
+        "vision": "成为企业数字化转型的首选AI伙伴",
+        "mission": "用AI技术让每家企业都拥有智能决策能力",
+        "tech_advantage": "12项发明专利+自研大模型+300TB行业数据"
+      },
+      "content": {
+        "pillar_titles": [
+          "技术能力",
+          "产品优势",
+          "商业模型"
+        ],
+        "pillar_points_tech": [
+          "12项发明专利",
+          "自研AI大模型",
+          "300TB行业数据"
+        ],
+        "pillar_points_product": [
+          "月活300万+",
+          "留存率85%",
+          "NPS评分72"
+        ],
+        "pillar_points_biz": [
+          "毛利率75%",
+          "LTV/CAC 5.2",
+          "ROI 4.2x"
+        ],
+        "chevron_steps": [
+          [
+            "商业诊断",
+            "市场痛点分析\n竞品格局扫描"
+          ],
+          [
+            "方案设计",
+            "MVP快速验证\n商业模型闭环"
+          ],
+          [
+            "规模化",
+            "全渠道铺开\n数据驱动增长"
+          ],
+          [
+            "持续优化",
+            "用户反馈循环\n产品迭代升级"
+          ]
+        ],
+        "big_number_desc": "累计服务300万+企业客户，年增长率320%，市场份额持续扩大",
+        "two_stat_desc": [
+          "客单价299元，LTV/CAC持续优化，单位经济模型健康",
+          "获客成本58元，6个月回本周期，现金流充裕"
+        ],
+        "team_tagline": "15年行业经验 · 核心团队来自BAT",
+        "finance_note": "营收4500万，毛利率75%，预计2027年Q3实现盈亏平衡",
+        "exec_summary_points": [
+          [
+            "万亿级市场",
+            "AI SaaS市场规模1200亿+"
+          ],
+          [
+            "技术护城河",
+            "12项发明专利+300TB数据"
+          ],
+          [
+            "高增长",
+            "年增长320%，LTV/CAC 5.2"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "AI产品发布会模板",
+      "colors": {
+        "primary": [
+          26,
+          35,
+          61
+        ],
+        "accent_blue": [
+          0,
+          150,
+          214
+        ],
+        "accent_green": [
+          0,
+          205,
+          172
+        ],
+        "accent_orange": [
+          255,
+          107,
+          53
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "Georgia",
+        "body": "Arial",
+        "ea": "KaiTi"
+      },
+      "cover": {
+        "title": "AI产品发布会",
+        "subtitle": "下一代智能平台 · 重新定义企业协作",
+        "tagline": "产品发布  |  2026年7月"
+      },
+      "sections": [
+        "行业背景",
+        "产品理念",
+        "核心技术",
+        "产品功能",
+        "应用场景",
+        "商业模式",
+        "市场策略",
+        "团队介绍",
+        "未来规划"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "quote",
+        "section",
+        "pillar",
+        "section",
+        "chevron",
+        "section",
+        "product_showcase",
+        "section",
+        "funnel",
+        "section",
+        "two_stat",
+        "section",
+        "data_table",
+        "section",
+        "team",
+        "section",
+        "timeline",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "800亿",
+        "revenue_2026": "2,000万",
+        "gross_margin": "68%",
+        "users": "50万+",
+        "gmv": "1,800万",
+        "conversion": "12.3%",
+        "patents": "8项",
+        "team_exp": "12年",
+        "growth_rate": "280%",
+        "ltv_cac": "4.8",
+        "nps": "68",
+        "retention": "82%",
+        "avg_order": "499元",
+        "cac": "105元",
+        "payback": "5个月",
+        "breakeven": "2027年Q2",
+        "roi": "3.8x",
+        "company_desc": "打造下一代AI原生协作平台",
+        "vision": "让每个团队都拥有AI协作能力",
+        "mission": "用AI重塑企业协作方式，提升10倍效率",
+        "tech_advantage": "自研大语言模型+多模态理解+实时协作引擎"
+      },
+      "content": {
+        "pillar_titles": [
+          "AI引擎",
+          "产品体验",
+          "商业价值"
+        ],
+        "pillar_points_tech": [
+          "自研大语言模型",
+          "多模态理解能力",
+          "实时协作引擎"
+        ],
+        "pillar_points_product": [
+          "月活50万+",
+          "留存率82%",
+          "NPS评分68"
+        ],
+        "pillar_points_biz": [
+          "转化率12.3%",
+          "客单价499元",
+          "年增长280%"
+        ],
+        "chevron_steps": [
+          [
+            "技术研发",
+            "模型训练\n多轮迭代"
+          ],
+          [
+            "内测验证",
+            "种子用户\n反馈优化"
+          ],
+          [
+            "公测上线",
+            "全量开放\n数据积累"
+          ],
+          [
+            "生态共建",
+            "开放平台\n开发者生态"
+          ]
+        ],
+        "big_number_desc": "下一代AI原生协作平台，已服务50万+团队，效率提升10倍",
+        "two_stat_desc": [
+          "月活50万+，企业付费转化率12.3%",
+          "客单价499元，NPS 68，用户满意度领先"
+        ],
+        "team_tagline": "12年行业经验 · AI领域连续创业者",
+        "finance_note": "营收2000万，毛利率68%，预计2027年Q2盈亏平衡",
+        "exec_summary_points": [
+          [
+            "千亿蓝海",
+            "AI协作市场800亿+"
+          ],
+          [
+            "技术领先",
+            "自研大模型+多模态"
+          ],
+          [
+            "高增长",
+            "年增长280%"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "企业年终总结模板",
+      "colors": {
+        "primary": [
+          33,
+          33,
+          33
+        ],
+        "accent_blue": [
+          25,
+          118,
+          210
+        ],
+        "accent_green": [
+          56,
+          142,
+          60
+        ],
+        "accent_orange": [
+          245,
+          124,
+          0
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "Georgia",
+        "body": "Arial",
+        "ea": "KaiTi"
+      },
+      "cover": {
+        "title": "2026年度工作总结",
+        "subtitle": "回顾过去 · 展望未来",
+        "tagline": "年度汇报  |  2026年12月"
+      },
+      "sections": [
+        "年度概览",
+        "业务回顾",
+        "重点项目",
+        "团队建设",
+        "财务数据",
+        "用户增长",
+        "行业对比",
+        "经验总结",
+        "明年规划"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "exec_summary",
+        "section",
+        "two_stat",
+        "section",
+        "timeline",
+        "section",
+        "data_wall",
+        "section",
+        "three_stat",
+        "section",
+        "before_after",
+        "section",
+        "data_table",
+        "section",
+        "team",
+        "section",
+        "chevron",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "500亿",
+        "revenue_2026": "8,500万",
+        "gross_margin": "72%",
+        "users": "120万+",
+        "gmv": "7,200万",
+        "conversion": "9.1%",
+        "patents": "5项",
+        "team_exp": "8年",
+        "growth_rate": "45%",
+        "ltv_cac": "3.6",
+        "nps": "65",
+        "retention": "78%",
+        "avg_order": "158元",
+        "cac": "45元",
+        "payback": "4个月",
+        "breakeven": "已盈利",
+        "roi": "2.5x",
+        "company_desc": "专注企业数字化解决方案",
+        "vision": "成为企业数字化转型的领导者",
+        "mission": "用技术赋能企业，驱动业务增长",
+        "tech_advantage": "自研低代码平台+数据中台+AI分析引擎"
+      },
+      "content": {
+        "pillar_titles": [
+          "业务增长",
+          "技术创新",
+          "团队建设"
+        ],
+        "pillar_points_tech": [
+          "自研低代码平台",
+          "数据中台上线",
+          "AI分析引擎"
+        ],
+        "pillar_points_product": [
+          "年营收8500万",
+          "用户120万+",
+          "GMV 7200万"
+        ],
+        "pillar_points_biz": [
+          "毛利率72%",
+          "人均产出提升35%",
+          "客户续费率88%"
+        ],
+        "chevron_steps": [
+          [
+            "Q1规划",
+            "目标拆解\n资源分配"
+          ],
+          [
+            "Q2执行",
+            "项目推进\n里程碑达成"
+          ],
+          [
+            "Q3冲刺",
+            "重点突破\n降本增效"
+          ],
+          [
+            "Q4收官",
+            "业绩达成\n总结复盘"
+          ]
+        ],
+        "big_number_desc": "全年营收8500万，同比增长45%，超额完成年度目标",
+        "two_stat_desc": [
+          "客单价158元，毛利率72%，盈利能力持续提升",
+          "获客成本45元，4个月回本，单位经济模型健康"
+        ],
+        "team_tagline": "团队规模增长30% · 核心岗位100%覆盖",
+        "finance_note": "营收8500万，同比增长45%，已实现盈利",
+        "exec_summary_points": [
+          [
+            "业绩超预期",
+            "营收8500万+45%增长"
+          ],
+          [
+            "技术突破",
+            "低代码+AI中台上线"
+          ],
+          [
+            "团队升级",
+            "核心人才引进完成"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "学术答辩PPT模板",
+      "colors": {
+        "primary": [
+          13,
+          71,
+          161
+        ],
+        "accent_blue": [
+          30,
+          136,
+          229
+        ],
+        "accent_green": [
+          67,
+          160,
+          71
+        ],
+        "accent_orange": [
+          251,
+          140,
+          0
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "Times New Roman",
+        "body": "Calibri",
+        "ea": "SimSun"
+      },
+      "cover": {
+        "title": "基于深度学习的图像识别研究",
+        "subtitle": "博士学位论文答辩 · 创新点与成果展示",
+        "tagline": "博士论文答辩  |  2026年7月"
+      },
+      "sections": [
+        "研究背景",
+        "相关工作",
+        "研究方法",
+        "实验设计",
+        "实验结果",
+        "创新点",
+        "应用价值",
+        "结论展望",
+        "致谢"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "pyramid",
+        "section",
+        "matrix",
+        "section",
+        "chevron",
+        "section",
+        "data_table",
+        "section",
+        "three_stat",
+        "section",
+        "quote",
+        "section",
+        "comparison",
+        "section",
+        "timeline",
+        "section",
+        "exec_summary",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "—",
+        "revenue_2026": "—",
+        "gross_margin": "—",
+        "users": "—",
+        "gmv": "—",
+        "conversion": "—",
+        "patents": "3项",
+        "team_exp": "5年",
+        "growth_rate": "—",
+        "ltv_cac": "—",
+        "nps": "—",
+        "retention": "—",
+        "avg_order": "—",
+        "cac": "—",
+        "payback": "—",
+        "breakeven": "—",
+        "roi": "—",
+        "company_desc": "计算机视觉研究方向",
+        "vision": "推动AI视觉技术在医疗影像中的应用",
+        "mission": "解决小样本条件下的高精度图像识别问题",
+        "tech_advantage": "自研注意力机制+对比学习框架+轻量化模型"
+      },
+      "content": {
+        "pillar_titles": [
+          "理论创新",
+          "实验验证",
+          "应用价值"
+        ],
+        "pillar_points_tech": [
+          "自研注意力机制",
+          "对比学习框架",
+          "轻量化模型"
+        ],
+        "pillar_points_product": [
+          "准确率96.7%",
+          "参数量降低40%",
+          "推理速度2.3ms"
+        ],
+        "pillar_points_biz": [
+          "3项发明专利",
+          "2篇顶会论文",
+          "开源社区500+Star"
+        ],
+        "chevron_steps": [
+          [
+            "问题提出",
+            "文献调研\ngap分析"
+          ],
+          [
+            "方法设计",
+            "模型架构\n损失函数"
+          ],
+          [
+            "实验验证",
+            "消融实验\n对比实验"
+          ],
+          [
+            "结论展望",
+            "贡献总结\n未来方向"
+          ]
+        ],
+        "big_number_desc": "提出新型注意力机制，在ImageNet上达到96.7%准确率，超越SOTA",
+        "two_stat_desc": [
+          "参数量降低40%，推理速度提升2.3倍",
+          "准确率96.7%，相比SOTA提升1.2个百分点"
+        ],
+        "team_tagline": "3项发明专利 · 2篇CCF-A类论文",
+        "finance_note": "实验覆盖5个数据集，消融实验验证了每个模块的有效性",
+        "exec_summary_points": [
+          [
+            "理论创新",
+            "新型注意力机制+对比学习"
+          ],
+          [
+            "实验领先",
+            "5个数据集SOTA"
+          ],
+          [
+            "应用前景",
+            "医疗影像+自动驾驶"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "市场营销方案模板",
+      "colors": {
+        "primary": [
+          183,
+          28,
+          28
+        ],
+        "accent_blue": [
+          21,
+          101,
+          192
+        ],
+        "accent_green": [
+          46,
+          125,
+          50
+        ],
+        "accent_orange": [
+          230,
+          81,
+          0
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "Georgia",
+        "body": "Arial",
+        "ea": "Microsoft YaHei"
+      },
+      "cover": {
+        "title": "2026下半年市场营销方案",
+        "subtitle": "全渠道营销策略 · 目标GMV 2亿",
+        "tagline": "营销方案  |  2026年7月"
+      },
+      "sections": [
+        "市场洞察",
+        "目标客群",
+        "营销策略",
+        "渠道布局",
+        "内容规划",
+        "预算分配",
+        "KPI体系",
+        "团队分工",
+        "执行排期"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "data_wall",
+        "section",
+        "funnel",
+        "section",
+        "pillar",
+        "section",
+        "chevron",
+        "section",
+        "mega_number",
+        "section",
+        "rag",
+        "section",
+        "data_table",
+        "section",
+        "team",
+        "section",
+        "timeline",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "2,000亿",
+        "revenue_2026": "2亿",
+        "gross_margin": "—",
+        "users": "500万+",
+        "gmv": "2亿",
+        "conversion": "3.5%",
+        "patents": "—",
+        "team_exp": "10年",
+        "growth_rate": "60%",
+        "ltv_cac": "3.2",
+        "nps": "—",
+        "retention": "45%",
+        "avg_order": "168元",
+        "cac": "52元",
+        "payback": "3个月",
+        "breakeven": "—",
+        "roi": "4.5x",
+        "company_desc": "全渠道数字营销解决方案",
+        "vision": "成为行业领先的全域营销服务商",
+        "mission": "用数据驱动营销，让每一分预算都产生价值",
+        "tech_advantage": "DMP数据平台+AI投放优化+全链路归因分析"
+      },
+      "content": {
+        "pillar_titles": [
+          "用户洞察",
+          "渠道策略",
+          "内容创意"
+        ],
+        "pillar_points_tech": [
+          "用户画像体系",
+          "A/B测试平台",
+          "归因分析模型"
+        ],
+        "pillar_points_product": [
+          "目标用户500万+",
+          "覆盖20+渠道",
+          "月触达1亿次"
+        ],
+        "pillar_points_biz": [
+          "转化率3.5%",
+          "客单价168元",
+          "ROI 4.5x"
+        ],
+        "chevron_steps": [
+          [
+            "市场调研",
+            "用户洞察\n竞品分析"
+          ],
+          [
+            "策略制定",
+            "渠道组合\n预算分配"
+          ],
+          [
+            "执行落地",
+            "内容生产\n投放优化"
+          ],
+          [
+            "效果复盘",
+            "数据归因\n策略迭代"
+          ]
+        ],
+        "big_number_desc": "全渠道覆盖500万+目标用户，目标GMV 2亿，ROI 4.5x",
+        "two_stat_desc": [
+          "月触达1亿次，转化率3.5%",
+          "获客成本52元，3个月回本周期"
+        ],
+        "team_tagline": "10年营销经验 · 操盘过亿级投放",
+        "finance_note": "总预算2000万，目标GMV 2亿，ROI 4.5x",
+        "exec_summary_points": [
+          [
+            "市场洞察",
+            "2000亿市场+60%增长"
+          ],
+          [
+            "全渠道覆盖",
+            "20+渠道+1亿月触达"
+          ],
+          [
+            "数据驱动",
+            "A/B测试+归因分析"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "项目立项汇报模板",
+      "colors": {
+        "primary": [
+          0,
+          77,
+          64
+        ],
+        "accent_blue": [
+          0,
+          137,
+          123
+        ],
+        "accent_green": [
+          56,
+          142,
+          60
+        ],
+        "accent_orange": [
+          230,
+          126,
+          34
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "Georgia",
+        "body": "Calibri",
+        "ea": "KaiTi"
+      },
+      "cover": {
+        "title": "智能客服系统项目立项报告",
+        "subtitle": "投资800万 · 预计年节省成本2000万",
+        "tagline": "项目立项  |  2026年7月"
+      },
+      "sections": [
+        "项目背景",
+        "需求分析",
+        "解决方案",
+        "技术架构",
+        "实施计划",
+        "团队配置",
+        "预算分析",
+        "风险评估",
+        "收益预测"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "exec_summary",
+        "section",
+        "big_number",
+        "section",
+        "chevron",
+        "section",
+        "pyramid",
+        "section",
+        "matrix",
+        "section",
+        "data_table",
+        "section",
+        "rag",
+        "section",
+        "team",
+        "section",
+        "finance",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "300亿",
+        "revenue_2026": "—",
+        "gross_margin": "—",
+        "users": "—",
+        "gmv": "—",
+        "conversion": "—",
+        "patents": "—",
+        "team_exp": "8年",
+        "growth_rate": "—",
+        "ltv_cac": "—",
+        "nps": "—",
+        "retention": "—",
+        "avg_order": "—",
+        "cac": "—",
+        "payback": "—",
+        "breakeven": "12个月",
+        "roi": "2.5x",
+        "company_desc": "AI智能客服系统研发",
+        "vision": "打造行业领先的智能客服解决方案",
+        "mission": "用AI技术提升客服效率，降低运营成本80%",
+        "tech_advantage": "NLP引擎+多轮对话+知识图谱+情感分析"
+      },
+      "content": {
+        "pillar_titles": [
+          "技术可行性",
+          "经济可行性",
+          "实施可行性"
+        ],
+        "pillar_points_tech": [
+          "NLP引擎自研",
+          "多轮对话系统",
+          "知识图谱构建"
+        ],
+        "pillar_points_product": [
+          "智能客服系统",
+          "全渠道接入",
+          "7x24小时服务"
+        ],
+        "pillar_points_biz": [
+          "年节省2000万",
+          "ROI 2.5x",
+          "12个月回本"
+        ],
+        "chevron_steps": [
+          [
+            "需求调研",
+            "业务痛点\n用户访谈"
+          ],
+          [
+            "方案设计",
+            "技术选型\n架构设计"
+          ],
+          [
+            "开发实施",
+            "敏捷开发\n迭代交付"
+          ],
+          [
+            "上线运营",
+            "灰度发布\n效果验证"
+          ]
+        ],
+        "big_number_desc": "投资800万，预计年节省成本2000万，12个月回本周期",
+        "two_stat_desc": [
+          "投资800万，预计年节省2000万",
+          "ROI 2.5x，12个月回本周期"
+        ],
+        "team_tagline": "8年行业经验 · 曾交付10+大型项目",
+        "finance_note": "总投入800万，年节省2000万，12个月回本",
+        "exec_summary_points": [
+          [
+            "成本优化",
+            "年节省2000万+"
+          ],
+          [
+            "技术可行",
+            "NLP+知识图谱成熟"
+          ],
+          [
+            "风险可控",
+            "分阶段实施+灰度发布"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "融资路演精简模板",
+      "colors": {
+        "primary": [
+          26,
+          35,
+          61
+        ],
+        "accent_blue": [
+          0,
+          150,
+          214
+        ],
+        "accent_green": [
+          0,
+          205,
+          172
+        ],
+        "accent_orange": [
+          255,
+          107,
+          53
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "Georgia",
+        "body": "Arial",
+        "ea": "KaiTi"
+      },
+      "cover": {
+        "title": "Pre-A轮融资路演",
+        "subtitle": "融资金额：2000万 · 出让10%",
+        "tagline": "融资路演  |  2026年7月"
+      },
+      "sections": [
+        "公司简介",
+        "市场机会",
+        "产品方案",
+        "技术壁垒",
+        "商业模式",
+        "运营数据",
+        "竞争优势",
+        "团队介绍",
+        "融资计划"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "big_number",
+        "section",
+        "big_number",
+        "section",
+        "product_showcase",
+        "section",
+        "pillar",
+        "section",
+        "two_stat",
+        "section",
+        "three_stat",
+        "section",
+        "data_table",
+        "section",
+        "team",
+        "section",
+        "finance",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "1,200亿",
+        "revenue_2026": "4,500万",
+        "gross_margin": "75%",
+        "users": "300万+",
+        "gmv": "5,000万",
+        "conversion": "8.5%",
+        "patents": "12项",
+        "team_exp": "15年",
+        "growth_rate": "320%",
+        "ltv_cac": "5.2",
+        "nps": "72",
+        "retention": "85%",
+        "avg_order": "299元",
+        "cac": "58元",
+        "payback": "6个月",
+        "breakeven": "2027年Q3",
+        "roi": "4.2x",
+        "company_desc": "专注于企业级AI SaaS服务",
+        "vision": "成为企业数字化转型的首选AI伙伴",
+        "mission": "用AI技术让每家企业都拥有智能决策能力",
+        "tech_advantage": "12项发明专利+自研大模型+300TB行业数据"
+      },
+      "content": {
+        "pillar_titles": [
+          "市场机会",
+          "产品壁垒",
+          "增长引擎"
+        ],
+        "pillar_points_tech": [
+          "12项发明专利",
+          "自研AI大模型",
+          "300TB行业数据"
+        ],
+        "pillar_points_product": [
+          "月活300万+",
+          "留存率85%",
+          "NPS评分72"
+        ],
+        "pillar_points_biz": [
+          "毛利率75%",
+          "LTV/CAC 5.2",
+          "年增长320%"
+        ],
+        "chevron_steps": [
+          [
+            "产品验证",
+            "MVP上线\nPMF验证"
+          ],
+          [
+            "市场扩张",
+            "渠道拓展\n规模化增长"
+          ],
+          [
+            "生态建设",
+            "合作伙伴\n行业渗透"
+          ],
+          [
+            "资本运作",
+            "Pre-A轮\nA轮融资"
+          ]
+        ],
+        "big_number_desc": "Pre-A轮融资2000万，出让10%股权，用于市场扩张和产品迭代",
+        "two_stat_desc": [
+          "客单价299元，LTV/CAC 5.2，单位经济模型优秀",
+          "获客成本58元，6个月回本周期"
+        ],
+        "team_tagline": "15年行业经验 · BAT背景核心团队",
+        "finance_note": "本轮融资2000万，出让10%，投后估值2亿",
+        "exec_summary_points": [
+          [
+            "千亿赛道",
+            "AI SaaS市场1200亿+"
+          ],
+          [
+            "核心壁垒",
+            "12项专利+自研大模型"
+          ],
+          [
+            "高增长",
+            "年增长320%+75%毛利率"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "产品运营报告模板",
+      "colors": {
+        "primary": [
+          49,
+          27,
+          146
+        ],
+        "accent_blue": [
+          63,
+          81,
+          181
+        ],
+        "accent_green": [
+          0,
+          150,
+          136
+        ],
+        "accent_orange": [
+          255,
+          152,
+          0
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "Georgia",
+        "body": "Arial",
+        "ea": "Microsoft YaHei"
+      },
+      "cover": {
+        "title": "2026年Q2产品运营报告",
+        "subtitle": "核心指标复盘 · 增长策略优化",
+        "tagline": "运营报告  |  2026年7月"
+      },
+      "sections": [
+        "核心指标",
+        "用户分析",
+        "产品数据",
+        "渠道分析",
+        "活动效果",
+        "竞品动态",
+        "问题诊断",
+        "优化方案",
+        "Q3规划"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "data_wall",
+        "section",
+        "funnel",
+        "section",
+        "mega_number",
+        "section",
+        "data_table",
+        "section",
+        "rag",
+        "section",
+        "comparison",
+        "section",
+        "takeaway",
+        "section",
+        "timeline",
+        "section",
+        "chevron",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "—",
+        "revenue_2026": "6,800万",
+        "gross_margin": "—",
+        "users": "180万+",
+        "gmv": "6,800万",
+        "conversion": "6.2%",
+        "patents": "—",
+        "team_exp": "—",
+        "growth_rate": "35%",
+        "ltv_cac": "2.8",
+        "nps": "60",
+        "retention": "72%",
+        "avg_order": "128元",
+        "cac": "46元",
+        "payback": "2个月",
+        "breakeven": "已盈利",
+        "roi": "—",
+        "company_desc": "互联网产品运营数据分析",
+        "vision": "用数据驱动产品决策",
+        "mission": "通过精细化运营实现用户持续增长",
+        "tech_advantage": "用户行为分析+漏斗模型+RFM分层+AB测试"
+      },
+      "content": {
+        "pillar_titles": [
+          "用户增长",
+          "产品迭代",
+          "商业变现"
+        ],
+        "pillar_points_tech": [
+          "用户行为分析",
+          "漏斗模型",
+          "RFM分层"
+        ],
+        "pillar_points_product": [
+          "月活180万+",
+          "留存率72%",
+          "NPS评分60"
+        ],
+        "pillar_points_biz": [
+          "年营收6800万",
+          "转化率6.2%",
+          "LTV/CAC 2.8"
+        ],
+        "chevron_steps": [
+          [
+            "数据诊断",
+            "指标异常\n根因分析"
+          ],
+          [
+            "策略制定",
+            "优化方案\n资源投入"
+          ],
+          [
+            "A/B测试",
+            "方案对比\n数据验证"
+          ],
+          [
+            "全量上线",
+            "效果评估\n持续优化"
+          ]
+        ],
+        "big_number_desc": "Q2核心指标复盘：月活180万+，营收6800万，转化率6.2%",
+        "two_stat_desc": [
+          "客单价128元，LTV/CAC 2.8",
+          "获客成本46元，2个月回本周期"
+        ],
+        "team_tagline": "数据驱动增长 · 精细化运营",
+        "finance_note": "Q2营收6800万，同比增长35%，已实现盈利",
+        "exec_summary_points": [
+          [
+            "增长稳健",
+            "月活180万+35%增长"
+          ],
+          [
+            "盈利健康",
+            "已盈利+2个月回本"
+          ],
+          [
+            "优化空间",
+            "转化率提升至8%+"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "企业文化宣导模板",
+      "colors": {
+        "primary": [
+          230,
+          81,
+          0
+        ],
+        "accent_blue": [
+          2,
+          119,
+          189
+        ],
+        "accent_green": [
+          56,
+          142,
+          60
+        ],
+        "accent_orange": [
+          245,
+          124,
+          0
+        ],
+        "accent_red": [
+          198,
+          40,
+          40
+        ]
+      },
+      "fonts": {
+        "heading": "KaiTi",
+        "body": "Microsoft YaHei",
+        "ea": "KaiTi"
+      },
+      "cover": {
+        "title": "企业文化与价值观宣导",
+        "subtitle": "使命驱动 · 价值共创 · 成长共赢",
+        "tagline": "文化宣导  |  2026年7月"
+      },
+      "sections": [
+        "企业使命",
+        "企业愿景",
+        "核心价值观",
+        "行为准则",
+        "组织架构",
+        "发展历程",
+        "团队风采",
+        "员工故事",
+        "未来展望"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "quote",
+        "section",
+        "pillar",
+        "section",
+        "pyramid",
+        "section",
+        "timeline",
+        "section",
+        "team",
+        "section",
+        "quote",
+        "section",
+        "before_after",
+        "section",
+        "chevron",
+        "section",
+        "exec_summary",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "—",
+        "revenue_2026": "—",
+        "gross_margin": "—",
+        "users": "—",
+        "gmv": "—",
+        "conversion": "—",
+        "patents": "—",
+        "team_exp": "—",
+        "growth_rate": "—",
+        "ltv_cac": "—",
+        "nps": "—",
+        "retention": "—",
+        "avg_order": "—",
+        "cac": "—",
+        "payback": "—",
+        "breakeven": "—",
+        "roi": "—",
+        "company_desc": "企业文化与价值观体系建设",
+        "vision": "成为最受尊敬的科技公司",
+        "mission": "用科技让世界更美好",
+        "tech_advantage": "扁平化管理+OKR体系+创新激励机制"
+      },
+      "content": {
+        "pillar_titles": [
+          "使命驱动",
+          "价值观引领",
+          "成长共赢"
+        ],
+        "pillar_points_tech": [
+          "扁平化管理",
+          "OKR体系",
+          "创新激励机制"
+        ],
+        "pillar_points_product": [
+          "员工满意度92%",
+          "人才留存率88%",
+          "晋升覆盖35%"
+        ],
+        "pillar_points_biz": [
+          "人均产出行业前10%",
+          "创新提案采纳率60%",
+          "培训覆盖率100%"
+        ],
+        "chevron_steps": [
+          [
+            "文化共识",
+            "价值观共创\n全员讨论"
+          ],
+          [
+            "制度落地",
+            "考核挂钩\n行为引导"
+          ],
+          [
+            "榜样力量",
+            "标杆评选\n故事传播"
+          ],
+          [
+            "持续进化",
+            "定期复盘\n文化升级"
+          ]
+        ],
+        "big_number_desc": "让科技温暖世界 · 致力于成为最受尊敬的科技公司",
+        "two_stat_desc": [
+          "员工满意度92%，行业领先",
+          "人才留存率88%，核心岗位0流失"
+        ],
+        "team_tagline": "用科技让世界更美好 · 使命驱动",
+        "finance_note": "年度文化投入500万，员工满意度提升15个百分点",
+        "exec_summary_points": [
+          [
+            "使命清晰",
+            "用科技让世界更美好"
+          ],
+          [
+            "文化扎实",
+            "92%员工满意度"
+          ],
+          [
+            "成长可见",
+            "晋升覆盖35%+"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "行业研究报告模板",
+      "colors": {
+        "primary": [
+          66,
+          66,
+          66
+        ],
+        "accent_blue": [
+          33,
+          150,
+          243
+        ],
+        "accent_green": [
+          76,
+          175,
+          80
+        ],
+        "accent_orange": [
+          255,
+          193,
+          7
+        ],
+        "accent_red": [
+          244,
+          67,
+          54
+        ]
+      },
+      "fonts": {
+        "heading": "Times New Roman",
+        "body": "Calibri",
+        "ea": "SimSun"
+      },
+      "cover": {
+        "title": "2026年中国AI产业研究报告",
+        "subtitle": "市场规模突破万亿 · 技术趋势与投资机会",
+        "tagline": "行业研究  |  2026年7月"
+      },
+      "sections": [
+        "研究背景",
+        "行业概况",
+        "市场分析",
+        "技术趋势",
+        "竞争格局",
+        "政策环境",
+        "投资机会",
+        "风险提示",
+        "结论建议"
+      ],
+      "slides": [
+        "cover",
+        "toc",
+        "section",
+        "mega_number",
+        "section",
+        "matrix",
+        "section",
+        "data_wall",
+        "section",
+        "timeline",
+        "section",
+        "pillar",
+        "section",
+        "comparison",
+        "section",
+        "scorecard",
+        "section",
+        "rag",
+        "section",
+        "exec_summary",
+        "text_columns",
+        "qa",
+        "closing"
+      ],
+      "data": {
+        "market_size": "10,000亿",
+        "revenue_2026": "—",
+        "gross_margin": "—",
+        "users": "—",
+        "gmv": "—",
+        "conversion": "—",
+        "patents": "—",
+        "team_exp": "—",
+        "growth_rate": "28%",
+        "ltv_cac": "—",
+        "nps": "—",
+        "retention": "—",
+        "avg_order": "—",
+        "cac": "—",
+        "payback": "—",
+        "breakeven": "—",
+        "roi": "—",
+        "company_desc": "AI产业深度研究与分析",
+        "vision": "提供最专业的AI产业洞察",
+        "mission": "帮助投资者把握AI时代的投资机会",
+        "tech_advantage": "自研产业分析模型+专家智库+数据中台"
+      },
+      "content": {
+        "pillar_titles": [
+          "市场规模",
+          "技术趋势",
+          "投资机会"
+        ],
+        "pillar_points_tech": [
+          "大模型突破",
+          "多模态融合",
+          "端侧部署"
+        ],
+        "pillar_points_product": [
+          "万亿市场规模",
+          "28%年增长率",
+          "渗透率35%"
+        ],
+        "pillar_points_biz": [
+          "AI投资热",
+          "政策红利",
+          "产业升级"
+        ],
+        "chevron_steps": [
+          [
+            "宏观分析",
+            "PEST分析\n产业周期"
+          ],
+          [
+            "市场测算",
+            "TAM/SAM/SOM\n增长模型"
+          ],
+          [
+            "竞争格局",
+            "玩家地图\n份额分析"
+          ],
+          [
+            "投资建议",
+            "赛道筛选\n标的评估"
+          ]
+        ],
+        "big_number_desc": "2026年中国AI产业市场规模突破万亿，年增长率28%",
+        "two_stat_desc": [
+          "市场规模万亿+，年增长率28%",
+          "AI投资热度持续，政策红利叠加"
+        ],
+        "team_tagline": "专业AI产业研究 · 深度数据支撑",
+        "finance_note": "重点赛道：AI+医疗、AI+制造、AI+金融",
+        "exec_summary_points": [
+          [
+            "万亿市场",
+            "2026年AI市场突破万亿"
+          ],
+          [
+            "政策加持",
+            "国家级AI战略+产业基金"
+          ],
+          [
+            "投资机会",
+            "AI+医疗/制造/金融"
+          ]
+        ]
+      }
+    }
+  ]
+}

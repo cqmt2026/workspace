@@ -1,0 +1,10 @@
+import sqlite3
+conn = sqlite3.connect(r"C:\Users\Administrator\.openclaw\workspace\workspace-baiduagent\data\baidu_crm.db")
+cur = conn.cursor()
+cur.execute("SELECT name FROM sqlite_master WHERE type='table'")
+print('Tables:', [t[0] for t in cur.fetchall()])
+cur.execute("PRAGMA table_info(call_logs)")
+print('call_logs schema:', [(t[1], t[2]) for t in cur.fetchall()])
+cur.execute("PRAGMA table_info(customers)")
+print('customers schema:', [(t[1], t[2]) for t in cur.fetchall()])
+conn.close()

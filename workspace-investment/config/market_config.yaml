@@ -1,0 +1,71 @@
+# market_config.yaml - 大盘择时配置
+# 用于 market_timing.py 判断当前市场环境
+
+# 市场状态判定参数
+market_timing:
+  # 大盘指数代码
+  indices:
+    sh.000001: "上证指数"
+    sz.399001: "深证成指"
+    sz.399006: "创业板指"
+    sh.000688: "科创50"
+    sh.000016: "上证50"
+    sh.000300: "沪深300"
+    sh.000905: "中证500"
+    sh.000852: "中证1000"
+
+  # 涨停板温度参数
+  zt_threshold:
+    hot: 80        # 涨停>=80 → 火热
+    warm: 40       # 涨停>=40 → 温和
+    cool: 15       # 涨停>=15 → 偏冷
+    cold: 5        # 涨停<5  → 冰点
+
+  # 情绪阈值
+  sentiment_thresholds:
+    bullish: 70       # 情绪>=70 → 乐观
+    neutral_high: 55  # 情绪>=55 → 偏多
+    neutral_low: 45   # 情绪>=45 → 中性
+    bearish: 30       # 情绪<=30 → 悲观
+
+  # 成交量判定
+  volume_threshold:
+    shrink: -20     # 缩量<=-20%
+    normal_min: -15
+    normal_max: 15
+    surge: 20       # 放量>=20%
+
+  # 仓位限制
+  position_limits:
+    bull: 1.0       # 满仓
+    cautious: 0.5   # 半仓
+    bear: 0.0       # 空仓
+    stop: 0.0       # 停止交易
+
+# 板块配置
+sectors:
+  # 重点跟踪板块
+  tracked:
+    BK0477: "中证军工"
+    BK0891: "有色金属"
+    BK0473: "半导体"
+    BK0481: "新能源"
+    BK0446: "券商"
+    BK0459: "白酒"
+    BK0479: "医药生物"
+    BK0455: "银行"
+    BK0449: "房地产"
+    BK0480: "汽车"
+
+# 数据源优先级
+data_sources:
+  kline:
+    primary: "eastmoney"
+    fallback: "tencent"
+    secondary_fallback: "akshare"
+  board:
+    primary: "akshare"
+    fallback: "eastmoney"
+  realtime:
+    primary: "tencent"
+    fallback: "eastmoney"

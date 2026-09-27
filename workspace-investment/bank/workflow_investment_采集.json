@@ -1,0 +1,36 @@
+{
+  "workflow_name": "投资数据采集工作流",
+  "trigger": "cron: 每周一 09:00 Asia/Shanghai",
+  "steps": [
+    {
+      "name": "获取持仓数据",
+      "type": "http",
+      "on_failure": "retry"
+    },
+    {
+      "name": "采集市场数据（收盘价/指数）",
+      "type": "http",
+      "on_failure": "retry"
+    },
+    {
+      "name": "计算盈亏和指标",
+      "type": "task",
+      "on_failure": "stop"
+    },
+    {
+      "name": "生成持仓分析报告",
+      "type": "llm",
+      "on_failure": "skip"
+    },
+    {
+      "name": "保存到 workspace-investment/docs/",
+      "type": "task",
+      "on_failure": "stop"
+    },
+    {
+      "name": "通知主人报告已生成",
+      "type": "task",
+      "on_failure": "skip"
+    }
+  ]
+}

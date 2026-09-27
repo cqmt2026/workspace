@@ -1,0 +1,22 @@
+# 选股目标配置
+# ==============
+
+targets:
+  # 核心股票池
+  core_pool:
+    - code: sh688556
+      name: 高测股份
+    - code: sz300034
+      name: 钢研高纳
+
+  # 筛选条件
+  filters:
+    min_price: 5
+    max_price: 500
+    exclude_st: true
+    exclude_bj: true
+
+  # 板块RPS阈值
+  sector_rps:
+    window_90: 90
+    top_percentile: 0.3

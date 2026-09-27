@@ -1,0 +1,20 @@
+{
+  "facebookresearch/mbrl-lib": {
+    "stars": 1064,
+    "forks": 170,
+    "pushed": "2024-07-12T20:42:46Z",
+    "description": "Library for Model Based RL "
+  },
+  "nicklashansen/pets": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "denisgorbunov/mbrl": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "Aaron-Liu-01/M-WorldModels": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "法人代表/world-model-trading": {
+    "error": "'ascii' codec can't encode characters in position 11-14: ordinal not in range(128)"
+  }
+}

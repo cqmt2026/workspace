@@ -1,0 +1,138 @@
+{
+  "version": "1.0",
+  "created_at": "2026-04-05T02:48:47.646015",
+  "total_stages": 5,
+  "stages": {
+    "topic_planning": {
+      "name": "选题规划",
+      "description": "根据市场热点和作家经验，确定小说题材和定位",
+      "input": [
+        "作者偏好",
+        "市场数据"
+      ],
+      "output": "选题规划报告",
+      "knowledge_categories": [
+        "market_research",
+        "writer_experience"
+      ],
+      "recommended_cards": 10,
+      "template": "选题规划模板",
+      "recommended_cards_list": [
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\11期_徐二家的猫.md",
+          "title": "11期|直播专访总结 《从前有座镇妖关》作者徐二家的猫",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\11期_直播专访总结_《从前有座镇妖关》作者_徐二家的猫.md",
+          "title": "11期_直播专访总结_《从前有座镇妖关》作者_徐二家的猫",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\11期直播专访总结 《从前有座镇妖关》作者徐二家的猫.md",
+          "title": "11期|直播专访总结 《从前有座镇妖关》作者徐二家的猫",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\12期_直播总结_专访足球文人气作者_超级帅哥.md",
+          "title": "12期_直播总结_专访足球文人气作者_超级帅哥",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\12期_超级帅哥.md",
+          "title": "12期|直播总结 专访足球文人气作者超级帅哥",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\12期直播总结 专访足球文人气作者超级帅哥.md",
+          "title": "12期|直播总结 专访足球文人气作者超级帅哥",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\13期_直播总结_专访_凡骨_壹更大师.md",
+          "title": "13期|直播总结  专访《凡骨》作者壹更大师",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\13期_直播总结_专访《凡骨》作者_壹更大师.md",
+          "title": "13期_直播总结_专访《凡骨》作者_壹更大师",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\13期_直播总结_壹更大师.md",
+          "title": "13期|直播总结 专访《凡骨》作者壹更大师",
+          "category": "writer_experience"
+        },
+        {
+          "file": "C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-novel\\创作系统\\L2-工具\\03-知识库\\知识卡\\01-作家课堂\\13期直播总结 专访《凡骨》作者壹更大师.md",
+          "title": "13期|直播总结 专访《凡骨》作者壹更大师",
+          "category": "writer_experience"
+        }
+      ]
+    },
+    "outline_design": {
+      "name": "大纲设计",
+      "description": "根据选题设计小说大纲、结构和节奏",
+      "input": [
+        "选题报告",
+        "写作技巧"
+      ],
+      "output": "小说大纲",
+      "knowledge_categories": [
+        "writing_skills",
+        "writer_experience"
+      ],
+      "recommended_cards": 15,
+      "template": "大纲设计模板",
+      "recommended_cards_list": []
+    },
+    "chapter_creation": {
+      "name": "章节创作",
+      "description": "根据大纲创作具体章节内容",
+      "input": [
+        "章节大纲",
+        "写作技巧"
+      ],
+      "output": "章节初稿",
+      "knowledge_categories": [
+        "writing_skills",
+        "writer_experience"
+      ],
+      "recommended_cards": 20,
+      "template": "章节创作模板",
+      "recommended_cards_list": []
+    },
+    "quality_review": {
+      "name": "质量审核",
+      "description": "根据平台规则和质量标准审核章节",
+      "input": [
+        "章节内容",
+        "平台规则"
+      ],
+      "output": "质量审核报告",
+      "knowledge_categories": [
+        "platform_rules",
+        "writing_skills"
+      ],
+      "recommended_cards": 10,
+      "template": "质量审核模板",
+      "recommended_cards_list": []
+    },
+    "publish_operation": {
+      "name": "发布运营",
+      "description": "根据平台规则和运营技巧发布和运营作品",
+      "input": [
+        "审核通过的章节",
+        "运营策略"
+      ],
+      "output": "发布运营方案",
+      "knowledge_categories": [
+        "platform_rules",
+        "writer_experience"
+      ],
+      "recommended_cards": 10,
+      "template": "发布运营模板",
+      "recommended_cards_list": []
+    }
+  }
+}

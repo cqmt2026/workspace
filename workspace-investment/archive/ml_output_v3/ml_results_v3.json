@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-05-16 12:00:48",
+  "data_source": "akshare real kline panel data",
+  "panel_records": 29302,
+  "stocks": 17,
+  "model_info": {
+    "algorithm": "LightGBM",
+    "features": 231,
+    "best_iteration": 7,
+    "accuracy": 0.5181435559094528,
+    "auc": 0.5213154738954324,
+    "f1": 0.5594841930116472
+  },
+  "top20": [
+    {
+      "rank": 1,
+      "code": "600905",
+      "score": 0.4929683644984821,
+      "direction": "DOWN",
+      "samples": 500
+    }
+  ],
+  "backtest": {
+    "period": "2024-01 to 2025-12",
+    "total_return": 31.22045654260517,
+    "annual_return": 15.610228271302585,
+    "sharpe": 0.6972586910076652,
+    "max_drawdown": -20.754799774489317,
+    "win_rate": 52.38095238095239,
+    "profit_factor": 1.116645466519815
+  },
+  "top_features": [
+    {
+      "rank": 1,
+      "factor": "return_240d",
+      "importance": 20.0
+    },
+    {
+      "rank": 2,
+      "factor": "volatility_60d",
+      "importance": 19.0
+    },
+    {
+      "rank": 3,
+      "factor": "upper_shadow_60d",
+      "importance": 14.0
+    },
+    {
+      "rank": 4,
+      "factor": "amt_amp_20d",
+      "importance": 13.0
+    },
+    {
+      "rank": 5,
+      "factor": "obv_roc",
+      "importance": 12.0
+    },
+    {
+      "rank": 6,
+      "factor": "gap_up_cnt",
+      "importance": 12.0
+    },
+    {
+      "rank": 7,
+      "factor": "amt_amp_60d",
+      "importance": 12.0
+    },
+    {
+      "rank": 8,
+      "factor": "volume_cv_60d",
+      "importance": 11.0
+    },
+    {
+      "rank": 9,
+      "factor": "rsi_24d",
+      "importance": 10.0
+    },
+    {
+      "rank": 10,
+      "factor": "obv",
+      "importance": 10.0
+    },
+    {
+      "rank": 11,
+      "factor": "amount_ma_60d",
+      "importance": 10.0
+    },
+    {
+      "rank": 12,
+      "factor": "gap_up_pct_20d",
+      "importance": 10.0
+    },
+    {
+      "rank": 13,
+      "factor": "lower_shadow_60d",
+      "importance": 10.0
+    },
+    {
+      "rank": 14,
+      "factor": "volatility_20d",
+      "importance": 10.0
+    },
+    {
+      "rank": 15,
+      "factor": "ma_120_ratio",
+      "importance": 9.0
+    },
+    {
+      "rank": 16,
+      "factor": "return_120d",
+      "importance": 9.0
+    },
+    {
+      "rank": 17,
+      "factor": "price_vol_corr_60d",
+      "importance": 8.0
+    },
+    {
+      "rank": 18,
+      "factor": "amount_ma_10d",
+      "importance": 7.0
+    },
+    {
+      "rank": 19,
+      "factor": "volatility_120d",
+      "importance": 7.0
+    },
+    {
+      "rank": 20,
+      "factor": "price_pos_120d",
+      "importance": 7.0
+    }
+  ]
+}

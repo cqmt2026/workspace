@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-06-15T10:11:52.910221",
+  "period": "2026-06-08 ~ 2026-06-15",
+  "health_score": 0,
+  "summary": {
+    "total_logs": 5,
+    "error_count": 44,
+    "fix_count": 1,
+    "unique_patterns": 14
+  },
+  "patterns": [
+    {
+      "pattern": "并已自动写 memory + 备份",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "pattern": "是：**怎么恢复更新**",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "pattern": "卡住了——browseract的eval命令一直返回空，脚本采集不到数据，同时写入日志文件也被限制住",
+      "count": 3,
+      "severity": "high"
+    },
+    {
+      "pattern": "找到了——脚本解析逻辑错了",
+      "count": 4,
+      "severity": "high"
+    },
+    {
+      "pattern": "，这是关键数据点，需要核实",
+      "count": 4,
+      "severity": "high"
+    },
+    {
+      "pattern": "，让我查一下当前hot-topic-finder定时任务实际跑的是哪个脚本",
+      "count": 4,
+      "severity": "high"
+    },
+    {
+      "pattern": "将“无后缀”项识别为 cmdlet、函数、脚本文件或可运行程序的名称",
+      "count": 3,
+      "severity": "high"
+    },
+    {
+      "pattern": "，之前的分析不够深入",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "pattern": "将“head”项识别为 cmdlet、函数、脚本文件或可运行程序的名称",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "pattern": "，深交所和全景网都拿不到数据",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "pattern": "**，这条路堵死了",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "pattern": "按分类推断，必须逐条确认",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "pattern": "直接获取**——正文是通过js动态加载的，现有的无头抓取方法拿不到渲染后的内容",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "pattern": "，结合今天开盘前的信息来判断大盘趋势",
+      "count": 3,
+      "severity": "high"
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "critical",
+      "category": "reliability",
+      "description": "健康分数0低于70，系统存在较多问题，建议优先修复重复出现的问题",
+      "suggested_approach": "先解决最高频的重复问题，再处理其他错误"
+    },
+    {
+      "priority": "high",
+      "category": "video",
+      "description": "video类问题出现2次",
+      "suggested_approach": "针对video类问题建立标准流程和验证机制"
+    },
+    {
+      "priority": "high",
+      "category": "data",
+      "description": "data类问题出现13次",
+      "suggested_approach": "针对data类问题建立标准流程和验证机制"
+    },
+    {
+      "priority": "high",
+      "category": "other",
+      "description": "other类问题出现29次",
+      "suggested_approach": "针对other类问题建立标准流程和验证机制"
+    },
+    {
+      "priority": "high",
+      "category": "repeated_error",
+      "description": "重复问题「找到了——脚本解析逻辑错了...」出现4次",
+      "suggested_approach": "找出根本原因，一次性解决，避免反复修复"
+    },
+    {
+      "priority": "high",
+      "category": "repeated_error",
+      "description": "重复问题「，这是关键数据点，需要核实...」出现4次",
+      "suggested_approach": "找出根本原因，一次性解决，避免反复修复"
+    },
+    {
+      "priority": "high",
+      "category": "repeated_error",
+      "description": "重复问题「，让我查一下当前hot-topic-finder定时任务实际...」出现4次",
+      "suggested_approach": "找出根本原因，一次性解决，避免反复修复"
+    }
+  ]
+}

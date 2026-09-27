@@ -1,0 +1,258 @@
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>光伏获客系统架构</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f8fafc;
+    --fg: #172033;
+    --muted: #5b6475;
+    --line: #64748b;
+    --neutral: #e2e8f0;
+    --input: #bfdbfe;
+    --process: #c7d2fe;
+    --storage: #99f6e4;
+    --external: #fde68a;
+    --risk: #fecaca;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f172a;
+      --fg: #e5e7eb;
+      --muted: #a3adbd;
+      --line: #94a3b8;
+      --neutral: #334155;
+      --input: #1d4ed8;
+      --process: #4338ca;
+      --storage: #0f766e;
+      --external: #92400e;
+      --risk: #991b1b;
+    }
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 14px/1.4 ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  main { max-width: 1100px; margin: 32px auto; padding: 0 20px; }
+  svg { width: 100%; height: auto; display: block; }
+  .title { font-size: 20px; font-weight: 650; fill: var(--fg); }
+  .label { font-size: 13px; font-weight: 600; fill: var(--fg); }
+  .sublabel { font-size: 11px; fill: var(--muted); }
+  .node { stroke: var(--line); stroke-width: 1; rx: 6; ry: 6; }
+  .neutral { fill: var(--neutral); }
+  .input { fill: var(--input); }
+  .process { fill: var(--process); }
+  .storage { fill: var(--storage); }
+  .external { fill: var(--external); }
+  .risk { fill: var(--risk); }
+  .arrow { stroke: var(--line); stroke-width: 1.5; fill: none; }
+  .arrow-head { fill: var(--line); }
+  .dashed { stroke-dasharray: 6 4; }
+  .section-label { font-size: 14px; font-weight: 700; fill: var(--fg); }
+  .section-bg { fill: var(--neutral); opacity: 0.3; rx: 8; ry: 8; }
+</style>
+<main>
+  <svg viewBox="0 0 1060 800" xmlns="http://www.w3.org/2000/svg">
+    <text x="20" y="30" class="title">光伏获客系统 — 系统架构</text>
+    <text x="20" y="50" class="sublabel">v1.0 五层架构：数据 → 分析 → 内容 → 营销 → 管理</text>
+
+    <!-- ====== 分层背景 ====== -->
+    <rect x="10" y="65" width="1040" height="120" class="section-bg" />
+    <text x="20" y="85" class="section-label">L1 数据层</text>
+
+    <rect x="10" y="195" width="1040" height="110" class="section-bg" />
+    <text x="20" y="215" class="section-label">L2 分析层</text>
+
+    <rect x="10" y="315" width="1040" height="120" class="section-bg" />
+    <text x="20" y="335" class="section-label">L3 内容层</text>
+
+    <rect x="10" y="445" width="1040" height="110" class="section-bg" />
+    <text x="20" y="465" class="section-label">L4 营销层</text>
+
+    <rect x="10" y="565" width="1040" height="120" class="section-bg" />
+    <text x="20" y="585" class="section-label">L5 管理后台</text>
+
+    <!-- ====== L1 数据层 ====== -->
+    <!-- 热点采集 -->
+    <rect x="30" y="95" width="160" height="60" class="node input" />
+    <text x="110" y="122" class="label" text-anchor="middle">热点采集</text>
+    <text x="110" y="140" class="sublabel" text-anchor="middle">百度/头条/抖音热搜</text>
+
+    <!-- 政策监控 -->
+    <rect x="220" y="95" width="160" height="60" class="node input" />
+    <text x="300" y="122" class="label" text-anchor="middle">政策监控</text>
+    <text x="300" y="140" class="sublabel" text-anchor="middle">国家/省/市补贴政策</text>
+
+    <!-- 竞品监控 -->
+    <rect x="410" y="95" width="160" height="60" class="node input" />
+    <text x="490" y="122" class="label" text-anchor="middle">竞品监控</text>
+    <text x="490" y="140" class="sublabel" text-anchor="middle">同行账号/内容/投放</text>
+
+    <!-- 区域数据 -->
+    <rect x="600" y="95" width="160" height="60" class="node input" />
+    <text x="680" y="122" class="label" text-anchor="middle">区域数据</text>
+    <text x="680" y="140" class="sublabel" text-anchor="middle">光照/电价/农村密度</text>
+
+    <!-- 数据仓库 -->
+    <rect x="820" y="95" width="200" height="60" class="node storage" />
+    <text x="920" y="122" class="label" text-anchor="middle">数据仓库</text>
+    <text x="920" y="140" class="sublabel" text-anchor="middle">结构化+非结构化</text>
+
+    <!-- L1 箭头 -->
+    <line x1="190" y1="125" x2="220" y2="125" class="arrow" />
+    <polygon points="218,120 228,125 218,130" class="arrow-head" />
+    <line x1="380" y1="125" x2="410" y2="125" class="arrow" />
+    <polygon points="408,120 418,125 408,130" class="arrow-head" />
+    <line x1="570" y1="125" x2="600" y2="125" class="arrow" />
+    <polygon points="598,120 608,125 598,130" class="arrow-head" />
+    <line x1="760" y1="125" x2="820" y2="125" class="arrow" />
+    <polygon points="818,120 828,125 818,130" class="arrow-head" />
+
+    <!-- ====== L1 → L2 箭头 ====== -->
+    <line x1="920" y1="155" x2="920" y2="220" class="arrow" />
+    <polygon points="915,218 920,228 925,218" class="arrow-head" />
+
+    <!-- ====== L2 分析层 ====== -->
+    <rect x="30" y="225" width="200" height="60" class="node process" />
+    <text x="130" y="252" class="label" text-anchor="middle">热点趋势分析</text>
+    <text x="130" y="270" class="sublabel" text-anchor="middle">高频词/情感/热度曲线</text>
+
+    <rect x="280" y="225" width="200" height="60" class="node process" />
+    <text x="380" y="252" class="label" text-anchor="middle">用户画像建模</text>
+    <text x="380" y="270" class="sublabel" text-anchor="middle">区域/屋顶/收入/决策力</text>
+
+    <rect x="530" y="225" width="200" height="60" class="node process" />
+    <text x="630" y="252" class="label" text-anchor="middle">渠道效果分析</text>
+    <text x="630" y="270" class="sublabel" text-anchor="middle">抖音/头条/微信/线下</text>
+
+    <rect x="780" y="225" width="200" height="60" class="node process" />
+    <text x="880" y="252" class="label" text-anchor="middle">获客预测模型</text>
+    <text x="880" y="270" class="sublabel" text-anchor="middle">转化率/获客成本预估</text>
+
+    <!-- L2 箭头 -->
+    <line x1="230" y1="255" x2="280" y2="255" class="arrow" />
+    <polygon points="278,250 288,255 278,260" class="arrow-head" />
+    <line x1="480" y1="255" x2="530" y2="255" class="arrow" />
+    <polygon points="528,250 538,255 528,260" class="arrow-head" />
+    <line x1="730" y1="255" x2="780" y2="255" class="arrow" />
+    <polygon points="778,250 788,255 778,260" class="arrow-head" />
+
+    <!-- ====== L2 → L3 箭头 ====== -->
+    <line x1="880" y1="285" x2="880" y2="340" class="arrow" />
+    <polygon points="875,338 880,348 885,338" class="arrow-head" />
+
+    <!-- ====== L3 内容层 ====== -->
+    <rect x="30" y="345" width="190" height="70" class="node process" />
+    <text x="125" y="372" class="label" text-anchor="middle">AI文案生成</text>
+    <text x="125" y="390" class="sublabel" text-anchor="middle">政策解读/避坑指南/收益计算</text>
+
+    <rect x="260" y="345" width="190" height="70" class="node process" />
+    <text x="355" y="372" class="label" text-anchor="middle">视频脚本生成</text>
+    <text x="355" y="390" class="sublabel" text-anchor="middle">口播/案例/地图热点</text>
+
+    <rect x="490" y="345" width="190" height="70" class="node process" />
+    <text x="585" y="372" class="label" text-anchor="middle">内容质检</text>
+    <text x="585" y="390" class="sublabel" text-anchor="middle">合规检查/去AI味/SEO优化</text>
+
+    <rect x="720" y="345" width="190" height="70" class="node process" />
+    <text x="815" y="372" class="label" text-anchor="middle">内容库</text>
+    <text x="815" y="390" class="sublabel" text-anchor="middle">素材/模板/已发布内容</text>
+
+    <!-- L3 箭头 -->
+    <line x1="220" y1="380" x2="260" y2="380" class="arrow" />
+    <polygon points="258,375 268,380 258,385" class="arrow-head" />
+    <line x1="450" y1="380" x2="490" y2="380" class="arrow" />
+    <polygon points="488,375 498,380 488,385" class="arrow-head" />
+    <line x1="680" y1="380" x2="720" y2="380" class="arrow" />
+    <polygon points="718,375 728,380 718,385" class="arrow-head" />
+
+    <!-- ====== L3 → L4 箭头 ====== -->
+    <line x1="815" y1="415" x2="815" y2="470" class="arrow" />
+    <polygon points="810,468 815,478 820,468" class="arrow-head" />
+
+    <!-- ====== L4 营销层 ====== -->
+    <rect x="30" y="475" width="160" height="60" class="node external" />
+    <text x="110" y="502" class="label" text-anchor="middle">抖音自动发布</text>
+    <text x="110" y="520" class="sublabel" text-anchor="middle">视频/图文/直播</text>
+
+    <rect x="220" y="475" width="160" height="60" class="node external" />
+    <text x="300" y="502" class="label" text-anchor="middle">头条号/百家号</text>
+    <text x="300" y="520" class="sublabel" text-anchor="middle">图文内容分发</text>
+
+    <rect x="410" y="475" width="160" height="60" class="node external" />
+    <text x="490" y="502" class="label" text-anchor="middle">微信生态</text>
+    <text x="490" y="520" class="sublabel" text-anchor="middle">公众号/视频号/社群</text>
+
+    <rect x="600" y="475" width="160" height="60" class="node external" />
+    <text x="680" y="502" class="label" text-anchor="middle">信息流投放</text>
+    <text x="680" y="520" class="sublabel" text-anchor="middle">抖音千川/头条广告</text>
+
+    <rect x="820" y="475" width="200" height="60" class="node storage" />
+    <text x="920" y="502" class="label" text-anchor="middle">线索池</text>
+    <text x="920" y="520" class="sublabel" text-anchor="middle">私信/表单/电话/加微信</text>
+
+    <!-- L4 箭头 -->
+    <line x1="190" y1="505" x2="220" y2="505" class="arrow" />
+    <polygon points="218,500 228,505 218,510" class="arrow-head" />
+    <line x1="380" y1="505" x2="410" y2="505" class="arrow" />
+    <polygon points="408,500 418,505 408,510" class="arrow-head" />
+    <line x1="570" y1="505" x2="600" y2="505" class="arrow" />
+    <polygon points="598,500 608,505 598,510" class="arrow-head" />
+    <line x1="760" y1="505" x2="820" y2="505" class="arrow" />
+    <polygon points="818,500 828,505 818,510" class="arrow-head" />
+
+    <!-- ====== L4 → L5 箭头 ====== -->
+    <line x1="920" y1="535" x2="920" y2="590" class="arrow" />
+    <polygon points="915,588 920,598 925,588" class="arrow-head" />
+
+    <!-- ====== L5 管理后台 ====== -->
+    <rect x="30" y="595" width="200" height="60" class="node neutral" />
+    <text x="130" y="622" class="label" text-anchor="middle">数据看板</text>
+    <text x="130" y="640" class="sublabel" text-anchor="middle">实时线索/获客成本/ROI</text>
+
+    <rect x="280" y="595" width="200" height="60" class="node neutral" />
+    <text x="380" y="622" class="label" text-anchor="middle">线索管理</text>
+    <text x="380" y="640" class="sublabel" text-anchor="middle">分配/跟进/转化追踪</text>
+
+    <rect x="530" y="595" width="200" height="60" class="node neutral" />
+    <text x="630" y="622" class="label" text-anchor="middle">账号管理</text>
+    <text x="630" y="640" class="sublabel" text-anchor="middle">多平台/多账号绑定</text>
+
+    <rect x="780" y="595" width="200" height="60" class="node neutral" />
+    <text x="880" y="622" class="label" text-anchor="middle">系统设置</text>
+    <text x="880" y="640" class="sublabel" text-anchor="middle">AI模型/通知/成员权限</text>
+
+    <!-- L5 箭头 -->
+    <line x1="230" y1="625" x2="280" y2="625" class="arrow" />
+    <polygon points="278,620 288,625 278,630" class="arrow-head" />
+    <line x1="480" y1="625" x2="530" y2="625" class="arrow" />
+    <polygon points="528,620 538,625 528,630" class="arrow-head" />
+    <line x1="730" y1="625" x2="780" y2="625" class="arrow" />
+    <polygon points="778,620 788,625 778,630" class="arrow-head" />
+
+    <!-- ====== 数据回流 ====== -->
+    <path d="M 920 595 L 920 560 L 920 505 L 920 475 L 920 415 L 920 345 L 920 285 L 920 220" class="arrow dashed" />
+    <polygon points="915,218 920,228 925,218" class="arrow-head" />
+
+    <!-- 回流标注 -->
+    <text x="930" y="400" class="sublabel" style="writing-mode: tb; text-anchor: start;">数据反馈闭环</text>
+
+    <!-- ====== 图例 ====== -->
+    <rect x="30" y="680" width="12" height="12" class="node input" />
+    <text x="48" y="691" class="sublabel">数据源</text>
+    <rect x="120" y="680" width="12" height="12" class="node process" />
+    <text x="138" y="691" class="sublabel">处理模块</text>
+    <rect x="230" y="680" width="12" height="12" class="node storage" />
+    <text x="248" y="691" class="sublabel">存储</text>
+    <rect x="310" y="680" width="12" height="12" class="node external" />
+    <text x="328" y="691" class="sublabel">外部渠道</text>
+    <rect x="420" y="680" width="12" height="12" class="node neutral" />
+    <text x="438" y="691" class="sublabel">管理功能</text>
+    <line x1="520" y1="686" x2="550" y2="686" class="arrow dashed" />
+    <text x="558" y="691" class="sublabel">数据回流</text>
+  </svg>
+</main>
+</html>

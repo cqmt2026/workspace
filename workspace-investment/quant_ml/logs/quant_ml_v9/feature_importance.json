@@ -1,0 +1,122 @@
+[
+  {
+    "factor": "mkt",
+    "importance": 9241
+  },
+  {
+    "factor": "ret_60",
+    "importance": 996
+  },
+  {
+    "factor": "ret_10",
+    "importance": 883
+  },
+  {
+    "factor": "ret_5",
+    "importance": 860
+  },
+  {
+    "factor": "hlr20",
+    "importance": 860
+  },
+  {
+    "factor": "ppos_20",
+    "importance": 728
+  },
+  {
+    "factor": "kdj_k",
+    "importance": 694
+  },
+  {
+    "factor": "ret_20",
+    "importance": 670
+  },
+  {
+    "factor": "obv",
+    "importance": 621
+  },
+  {
+    "factor": "ret_1",
+    "importance": 616
+  },
+  {
+    "factor": "ppos_60",
+    "importance": 592
+  },
+  {
+    "factor": "ma_ratio_60",
+    "importance": 581
+  },
+  {
+    "factor": "macd_dif",
+    "importance": 562
+  },
+  {
+    "factor": "bbp_20d",
+    "importance": 517
+  },
+  {
+    "factor": "macd_dea",
+    "importance": 497
+  },
+  {
+    "factor": "ret_3",
+    "importance": 494
+  },
+  {
+    "factor": "rsi_14d",
+    "importance": 493
+  },
+  {
+    "factor": "gap_down",
+    "importance": 466
+  },
+  {
+    "factor": "obv_ratio",
+    "importance": 459
+  },
+  {
+    "factor": "vol_20d",
+    "importance": 397
+  },
+  {
+    "factor": "vr5",
+    "importance": 391
+  },
+  {
+    "factor": "ma_ratio_20",
+    "importance": 371
+  },
+  {
+    "factor": "ma_ratio_5",
+    "importance": 285
+  },
+  {
+    "factor": "rs",
+    "importance": 244
+  },
+  {
+    "factor": "gap_up",
+    "importance": 230
+  },
+  {
+    "factor": "bias_5",
+    "importance": 224
+  },
+  {
+    "factor": "kdj_d",
+    "importance": 202
+  },
+  {
+    "factor": "gap_mean",
+    "importance": 151
+  },
+  {
+    "factor": "bias_20",
+    "importance": 146
+  },
+  {
+    "factor": "kdj_j",
+    "importance": 29
+  }
+]

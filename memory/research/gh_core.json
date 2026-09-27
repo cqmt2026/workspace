@@ -1,0 +1,26 @@
+{
+  "danijar/dreamerv3": {
+    "stars": 3437,
+    "forks": 560,
+    "pushed": "2026-05-25T06:40:27Z",
+    "description": "Mastering Diverse Domains through World Models"
+  },
+  "danijar/dreamerv2": {
+    "stars": 1048,
+    "forks": 210,
+    "pushed": "2023-01-21T07:43:42Z",
+    "description": "Mastering Atari with Discrete World Models"
+  },
+  "danijar/dreamer": {
+    "stars": 608,
+    "forks": 120,
+    "pushed": "2021-09-10T20:49:29Z",
+    "description": "Dream to Control: Learning Behaviors by Latent Imagination"
+  },
+  "hardmaru/worldmodels": {
+    "stars": 5,
+    "forks": 1,
+    "pushed": "2020-05-26T03:11:57Z",
+    "description": "World Models with TensorFlow 2"
+  }
+}

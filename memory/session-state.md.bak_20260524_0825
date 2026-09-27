@@ -1,0 +1,32 @@
+# session-state.md
+
+- **last_update**: 2026-05-24 07:59
+- **status**: main_system
+### NVIDIA模型重新匹配（2026-05-24）
+- 删除：kimi（NGC 410 Gone）、nemotron-340b（404）、llama-3.1-nemotron-70b（404）、modelstudio无key
+- 新增验证通过：llama-3.3-70b ✅、llama-3.1-70b ✅、mixtral-8x7b ✅
+- **新fallback链**：MiniMax-M2.7 → llama-3.3-70b → llama-3.1-70b → mixtral-8x7b
+
+### DNS修复（2026-05-24 08:09）
+- ~~DNS改8.8.8.8方案待主人授权~~ → **已执行**
+- 路由器DNS `192.168.3.1` → Google DNS `8.8.8.8` + Cloudflare `1.1.1.1`
+- 验证：`api.minimaxi.com` 解析正常，ping 35ms ✅
+
+### 每日日志补写（2026-05-24）
+- 5月19–23日日志缺失，以系统级大事记替代（方案B）
+- 今天日志：2026-05-24.md ✅
+- session-state/session-state.md + daily_reminder.md 已同步更新
+
+---
+
+## 数学动画进度
+
+| 项目 | 值 |
+|------|-----|
+| **最新EP** | EP083 |
+| **已完成** | EP031-EP082 |
+| **下一步** | EP083 - 枚举法入门（计数） |
+
+---
+
+_由可悦🌸 2026-05-23 09:30_

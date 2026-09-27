@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1080, height=1920" />
+<title>中国贸易朋友圈</title>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { margin: 0; width: 1080px; height: 1920px; overflow: hidden; background: #0a0e27; font-family: "Microsoft YaHei", sans-serif; }
+  @font-face { font-family: 'Microsoft YaHei'; src: local('Microsoft YaHei'); }
+  #root { position: relative; width: 1080px; height: 1920px; overflow: hidden; background: linear-gradient(180deg, #0a0e27 0%, #1a2744 50%, #0d1520 100%); }
+  .scene { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+  
+  /* 开场 */
+  #intro .headline { font-size: 100px; font-weight: 200; color: #fff; text-align: center; letter-spacing: 10px; }
+  #intro .subhead { font-size: 36px; color: #FFE66D; margin-top: 20px; text-align: center; }
+  #intro .divider { width: 500px; height: 3px; background: linear-gradient(90deg, transparent, #3b82f6, transparent); margin: 40px auto; }
+  #intro .big-num { font-size: 220px; font-weight: 100; color: #3b82f6; text-shadow: 0 0 100px rgba(59,130,246,0.8); }
+  #intro .unit { font-size: 60px; color: #60a5fa; margin-left: 20px; }
+  #intro .note { font-size: 32px; color: #94a3b8; margin-top: 30px; text-align: center; }
+  
+  /* 数据场景通用 */
+  .data-row { display: flex; gap: 20px; width: 90%; }
+  .data-card { flex: 1; background: rgba(15,23,42,0.95); border: 1px solid rgba(59,130,246,0.3); border-radius: 20px; padding: 24px; }
+  /* Pixabay视频背景 */
+  .video-bg { position: absolute; inset: 0; overflow: hidden; }
+  .video-bg video { width: 100%; height: 100%; object-fit: cover; }
+  .video-bg::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(10,14,39,0.4) 0%, rgba(10,14,39,0.8) 70%, #0a0e27 100%); }
+  .video-content { position: relative; z-index: 2; }
+  .data-card .label { font-size: 24px; color: #60a5fa; }
+  .data-card .value { font-size: 72px; font-weight: 200; color: #fff; }
+  .data-card .desc { font-size: 22px; color: #cbd5e1; margin-top: 8px; }
+  
+  /* 地图 */
+  #map-scene .map-img { width: 92%; height: 58%; object-fit: contain; border-radius: 24px; box-shadow: 0 20px 60px rgba(0,0,0,0.6); }
+  
+  /* 时间线 */
+  .timeline { position: absolute; bottom: 8%; left: 5%; right: 5%; }
+  .timeline .year { font-size: 36px; color: #FFE66D; font-weight: bold; }
+  .timeline .event { font-size: 26px; color: #94a3b8; margin-top: 8px; }
+  
+  /* 对比场景 */
+  .compare-row { display: flex; gap: 30px; width: 90%; align-items: center; }
+  .compare-item { flex: 1; text-align: center; }
+  .compare-item .year-label { font-size: 48px; color: #64748b; }
+  .compare-item .num { font-size: 120px; font-weight: 200; color: #fff; }
+  .compare-arrow { font-size: 80px; color: #3b82f6; }
+  
+  /* 伙伴网格 */
+  .partner-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; width: 90%; }
+  .partner-cell { background: rgba(15,23,42,0.9); border: 1px solid rgba(59,130,246,0.2); border-radius: 16px; padding: 20px; }
+  .partner-cell .flag { font-size: 48px; }
+  .partner-cell .name { font-size: 28px; color: #fff; margin-top: 8px; }
+  .partner-cell .trade { font-size: 36px; color: #60a5fa; font-weight: 200; }
+  
+  /* 结尾 */
+  #outro .outro-title { font-size: 88px; font-weight: 200; color: #fff; text-align: center; letter-spacing: 8px; }
+  #outro .outro-sub { font-size: 32px; color: #94a3b8; text-align: center; margin-top: 30px; }
+  #outro .cta { position: absolute; bottom: 12%; font-size: 30px; color: #475569; text-align: center; width: 100%; }
+  
+  /* 统计条 */
+  .stat-bar { height: 8px; border-radius: 4px; background: rgba(59,130,246,0.3); margin-top: 12px; overflow: hidden; }
+  .stat-bar .fill { height: 100%; border-radius: 4px; background: linear-gradient(90deg, #3b82f6, #60a5fa); }
+</style>
+</head>
+<body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="55" data-width="1080" data-height="1920">
+  
+  <!-- 1. 开场钩子 + 港口背景 (0-7s) -->
+  <div id="intro" class="scene">
+    <div class="video-bg">
+      <video autoplay muted loop playsinline id="bg-0" src="assets/port_container.mp4" data-start="0" data-duration="7"></video>
+    </div>
+    <div class="video-content" style="text-align:center; padding-top:10%;">
+    <div style="text-align:center; padding-top:10%;">
+      <h1 class="headline" id="main-title">中国贸易朋友圈</h1>
+      <p class="subhead" id="main-sub">从90到160+的"加速度"</p>
+      <div class="divider" id="divider"></div>
+      <div>
+        <span class="big-num" id="counter">0</span>
+        <span class="unit">个</span>
+      </div>
+      <p class="note">全球主要贸易伙伴数量 · 2026年</p>
+    </div>
+  </div>
+  
+  <!-- 2. 对比冲击 + 货轮背景 (7-13s) -->
+  <div id="compare-scene" class="scene" style="opacity:0;">
+    <div class="video-bg">
+      <video autoplay muted loop playsinline id="bg-1" src="assets/port_container.mp4" data-start="0" data-duration="6" style="width:100%;height:100%;object-fit:cover;"></video>
+    </div>
+    <div class="video-content" style="text-align:center; width:90%;">
+    <div style="text-align:center; width:90%;">
+      <h2 style="font-size:40px; color:#fff; margin-bottom:50px; font-weight:300;">时间跨度25年</h2>
+      <div class="compare-row">
+        <div class="compare-item">
+          <div class="year-label">2001年</div>
+          <div class="num" id="num2001">0</div>
+          <div style="font-size:24px; color:#64748b; margin-top:10px;">加入WTO</div>
+        </div>
+        <div class="compare-arrow" id="arrow">→</div>
+        <div class="compare-item">
+          <div class="year-label" style="color:#3b82f6;">2026年</div>
+          <div class="num" id="num2026" style="color:#FFE66D;">0</div>
+          <div style="font-size:24px; color:#64748b; margin-top:10px;">主要伙伴</div>
+        </div>
+      </div>
+      <div style="margin-top:60px; font-size:28px; color:#94a3b8;">
+        <span style="color:#3b82f6; font-size:48px; font-weight:200;">+20+</span> 新增伙伴
+      </div>
+    </div>
+  </div>
+  
+  <!-- 3. 全球地图 + 港口背景 (13-22s) -->
+  <div id="map-scene" class="scene" style="opacity:0;">
+    <div class="video-bg">
+      <video autoplay muted loop playsinline id="bg-2" src="assets/port_container.mp4" data-start="0" data-duration="9" style="width:100%;height:100%;object-fit:cover;"></video>
+    </div>
+    <img src="assets/trade_circle_map.png" alt="贸易朋友圈地图" class="map-img" id="map-img" />
+    <div style="position:absolute; bottom:5%; left:5%; right:5%; text-align:center;">
+      <span style="font-size:28px; color:#94a3b8;">RCEP · 自贸协定 · 重要伙伴 · 金砖国家</span>
+    </div>
+  </div>
+  
+  <!-- 4. RCEP核心圈 + 货轮背景 (22-30s) -->
+  <div id="rcep-scene" class="scene" style="opacity:0; flex-direction:column; padding:60px 0;">
+    <div class="video-bg">
+      <video autoplay muted loop playsinline id="bg-3" src="assets/night_port.mp4" data-start="0" data-duration="8"></video>
+    </div>
+    <div class="video-content" style="position:relative;">
+    <h2 style="font-size:44px; color:#FFE66D; margin-bottom:40px; text-align:center;">🔴 RCEP核心圈</h2>
+    <div class="data-row" style="margin-bottom:20px;">
+      <div class="data-card" style="flex:1;">
+        <div class="label">成员国</div>
+        <div class="value">15</div>
+        <div class="desc">东盟10国+中日韩澳新</div>
+      </div>
+      <div class="data-card" style="flex:1;">
+        <div class="label">贸易额</div>
+        <div class="value" style="color:#FFE66D;">12.6万亿</div>
+        <div class="desc">占中国外贸30%+</div>
+      </div>
+    </div>
+    <div class="data-row">
+      <div class="data-card" style="flex:1;">
+        <div class="label">东盟地位</div>
+        <div class="value" style="color:#FF6B6B;">第1位</div>
+        <div class="desc">连续4年第一大伙伴</div>
+      </div>
+      <div class="data-card" style="flex:1;">
+        <div class="label">覆盖人口</div>
+        <div class="value">23亿</div>
+        <div class="desc">全球最大自贸区</div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- 5. 双边伙伴 + 上海背景 (30-40s) -->
+  <div id="partners-scene" class="scene" style="opacity:0; flex-direction:column; padding:60px 0;">
+    <div class="video-bg">
+      <video autoplay muted loop playsinline id="bg-4" src="assets/shanghai.mp4" data-start="0" data-duration="10"></video>
+    </div>
+    <div class="video-content" style="position:relative;">
+    <h2 style="font-size:44px; color:#fff; margin-bottom:40px; text-align:center;">🌏 关键双边伙伴</h2>
+    <div class="partner-grid">
+      <div class="partner-cell" id="p-usa">
+        <div class="flag">🇺🇸</div>
+        <div class="name">美国</div>
+        <div class="trade">5000亿美元</div>
+        <div style="font-size:18px; color:#64748b; margin-top:4px;">最大单一市场</div>
+      </div>
+      <div class="partner-cell" id="p-eu">
+        <div class="flag">🇪🇺</div>
+        <div class="name">欧盟</div>
+        <div class="trade">2800亿美元</div>
+        <div style="font-size:18px; color:#64748b; margin-top:4px;">德国居首</div>
+      </div>
+      <div class="partner-cell" id="p-asean">
+        <div class="flag">🌏</div>
+        <div class="name">东盟</div>
+        <div class="trade">第1位</div>
+        <div style="font-size:18px; color:#64748b; margin-top:4px;">连续4年第一大</div>
+      </div>
+      <div class="partner-cell" id="p-brics">
+        <div class="flag">🤝</div>
+        <div class="name">金砖国家</div>
+        <div class="trade">10国</div>
+        <div style="font-size:18px; color:#64748b; margin-top:4px;">新兴市场新引擎</div>
+      </div>
+    </div>
+    <div style="margin-top:30px; font-size:24px; color:#94a3b8; text-align:center;">
+      24个自贸协定 · 31个伙伴 · 遍布五大洲
+    </div>
+  </div>
+  
+  <!-- 6. 历史里程碑 + 上海背景 (40-48s) -->
+  <div id="history-scene" class="scene" style="opacity:0; flex-direction:column; padding:40px;">
+    <div class="video-bg">
+      <video autoplay muted loop playsinline id="bg-5" src="assets/shanghai.mp4" data-start="0" data-duration="8" style="width:100%;height:100%;object-fit:cover;"></video>
+    </div>
+    <div class="video-content" style="position:relative;">
+    <h2 style="font-size:40px; color:#fff; margin-bottom:50px; text-align:center;">📅 关键里程碑</h2>
+    <div style="display:flex; flex-direction:column; gap:20px; width:85%;">
+      <div class="partner-cell" style="display:flex; align-items:center; gap:20px;" id="h1">
+        <div style="font-size:32px; color:#FFE66D; min-width:80px;">2001</div>
+        <div style="font-size:26px; color:#fff;">加入WTO，贸易额1.5万亿</div>
+      </div>
+      <div class="partner-cell" style="display:flex; align-items:center; gap:20px;" id="h2">
+        <div style="font-size:32px; color:#FFE66D; min-width:80px;">2010</div>
+        <div style="font-size:26px; color:#fff;">成为世界第一贸易大国</div>
+      </div>
+      <div class="partner-cell" style="display:flex; align-items:center; gap:20px;" id="h3">
+        <div style="font-size:32px; color:#FFE66D; min-width:80px;">2022</div>
+        <div style="font-size:26px; color:#fff;">RCEP正式生效，贸易额12.6万亿</div>
+      </div>
+      <div class="partner-cell" style="display:flex; align-items:center; gap:20px;" id="h4">
+        <div style="font-size:32px; color:#FFE66D; min-width:80px;">2026</div>
+        <div style="font-size:26px; color:#fff;">贸易伙伴扩至160+，全球第一</div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- 7. 结尾 (48-55s) -->
+  <div id="outro" class="scene">
+    <div style="text-align:center; padding-top:15%;">
+      <h1 class="outro-title">从90到160+</h1>
+      <p class="outro-sub" style="margin-top:30px;">这就是中国贸易的"加速度"</p>
+      <div style="margin-top:50px; display:flex; justify-content:center; gap:40px;">
+        <div style="text-align:center;">
+          <div style="font-size:48px; color:#3b82f6; font-weight:200;">47万亿</div>
+          <div style="font-size:22px; color:#64748b; margin-top:8px;">2025年外贸总额</div>
+        </div>
+        <div style="text-align:center;">
+          <div style="font-size:48px; color:#FFE66D; font-weight:200;">第1</div>
+          <div style="font-size:22px; color:#64748b; margin-top:8px;">全球贸易地位</div>
+        </div>
+      </div>
+      <p class="cta" style="position:relative; bottom:auto; margin-top:60px;"><span style="color:#3b82f6; margin-right:8px;">▶</span> 你怎么看？评论区告诉我</p>
+    </div>
+  </div>
+  
+</div>
+
+<script>
+window.__timelines = window.__timelines || {};
+const tl = gsap.timeline({ paused: true });
+const T = 0;
+
+// ===== 1. 开场 (0-6s) =====
+tl.fromTo("#main-title", { opacity: 0 }, { opacity: 1, duration: 1.2, ease: "power3.out" }, T);
+tl.fromTo("#main-sub", { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.8, ease: "power2.out" }, T + 0.4);
+tl.fromTo("#divider", { scaleX: 0, opacity: 0 }, { scaleX: 1, opacity: 1, duration: 1.0, ease: "power2.inOut" }, T + 0.8);
+
+let countState = { value: 0 };
+tl.to(countState, {
+  value: 160, duration: 2.5, ease: "power2.out",
+  onUpdate: () => { document.getElementById("counter").textContent = Math.round(countState.value); }
+}, T + 1.2);
+tl.fromTo("#counter", { opacity: 0 }, { opacity: 1, duration: 2.5, ease: "power2.out" }, T + 1.2);
+
+// ===== 2. 开场→对比 (6-7s) =====
+tl.to("#intro", { opacity: 0, duration: 0.8, ease: "power4.in" }, 5.2);
+tl.set("#intro", { visibility: "hidden" }, 6);
+tl.fromTo("#compare-scene", { opacity: 0 }, { opacity: 1, duration: 0.8, ease: "power3.out" }, 6);
+
+// 数字增长动画
+let num2001 = { value: 0 };
+let num2026 = { value: 0 };
+tl.to(num2001, { value: 90, duration: 1.5, ease: "power2.out",
+  onUpdate: () => { document.getElementById("num2001").textContent = Math.round(num2001.value); }
+}, 6.5);
+tl.to(num2026, { value: 160, duration: 1.5, ease: "power2.out",
+  onUpdate: () => { document.getElementById("num2026").textContent = Math.round(num2026.value); }
+}, 7);
+
+// ===== 3. 对比→地图 (12-13s) =====
+tl.to("#compare-scene", { opacity: 0, duration: 0.6, ease: "power4.in" }, 11.5);
+tl.set("#compare-scene", { visibility: "hidden" }, 12.1);
+tl.fromTo("#map-scene", { opacity: 0 }, { opacity: 1, duration: 0.8, ease: "power3.out" }, 12);
+
+// ===== 4. 地图→RCEP (22-23s) =====
+tl.to("#map-scene", { opacity: 0, duration: 0.6, ease: "power4.in" }, 21.5);
+tl.set("#map-scene", { visibility: "hidden" }, 22.1);
+tl.fromTo("#rcep-scene", { opacity: 0 }, { opacity: 1, duration: 0.8, ease: "power3.out" }, 22);
+
+// ===== 5. RCEP→伙伴 (30-31s) =====
+tl.to("#rcep-scene", { opacity: 0, duration: 0.6, ease: "power4.in" }, 29.5);
+tl.set("#rcep-scene", { visibility: "hidden" }, 30.1);
+tl.fromTo("#partners-scene", { opacity: 0 }, { opacity: 1, duration: 0.8, ease: "power3.out" }, 30);
+tl.fromTo("#p-usa", { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, 30.5);
+tl.fromTo("#p-eu", { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, 30.7);
+tl.fromTo("#p-asean", { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, 30.9);
+tl.fromTo("#p-brics", { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, 31.1);
+
+// ===== 6. 伙伴→历史 (40-41s) =====
+tl.to("#partners-scene", { opacity: 0, duration: 0.6, ease: "power4.in" }, 39.5);
+tl.set("#partners-scene", { visibility: "hidden" }, 40.1);
+tl.fromTo("#history-scene", { opacity: 0 }, { opacity: 1, duration: 0.8, ease: "power3.out" }, 40);
+tl.fromTo("#h1", { x: -60, opacity: 0 }, { x: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, 40.5);
+tl.fromTo("#h2", { x: -60, opacity: 0 }, { x: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, 40.8);
+tl.fromTo("#h3", { x: -60, opacity: 0 }, { x: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, 41.1);
+tl.fromTo("#h4", { x: -60, opacity: 0 }, { x: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, 41.4);
+
+// ===== 7. 历史→结尾 (48-49s) =====
+tl.to("#history-scene", { opacity: 0, duration: 0.6, ease: "power4.in" }, 47.5);
+tl.set("#history-scene", { visibility: "hidden" }, 48.1);
+tl.fromTo("#outro", { opacity: 0 }, { opacity: 1, duration: 0.8, ease: "power3.out" }, 48);
+
+window.__timelines["main"] = tl;
+</script>
+</body>
+</html>

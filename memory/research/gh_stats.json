@@ -1,0 +1,20 @@
+{
+  "facebookresearch/mbrl-lib": {
+    "stars": 1064,
+    "forks": 170,
+    "pushed": "2024-07-12T20:42:46Z",
+    "description": "Library for Model Based RL "
+  },
+  "instadeepai/mbrl": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "katerakelly/pets": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "nicklashansen/plan2explore": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "MishaLaskin/mworld": {
+    "error": "HTTP Error 404: Not Found"
+  }
+}

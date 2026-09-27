@@ -1,0 +1,74 @@
+{
+  "video_id": "pinglu_canal",
+  "title": "平陆运河建成通航纪实",
+  "subtitle": "广西新千年第一运河",
+  "category": "追热点",
+  "topic": "平陆运河",
+  "video_type": "single_event",
+  "city": "南宁",
+  "badge_text": "507亿",
+  "badge_unit": "元总投资",
+  "total_gdp": "3.06万亿",
+  "gdp_rank": "全国第18位",
+  "area": "23.76万km²",
+  "population": "5037万人",
+  "data_list": [
+    {
+      "rank": 1,
+      "name": "灵渠段",
+      "data1": "起点",
+      "data2": "兴安",
+      "desc": "运河起点，连接漓江与湘江",
+      "pct": "",
+      "per_gdp": "",
+      "lon": 110.72,
+      "lat": 25.94
+    },
+    {
+      "rank": 2,
+      "name": "平陆段",
+      "data1": "运河穿越",
+      "data2": "平吉",
+      "desc": "运河主体段，穿越丘陵",
+      "pct": "",
+      "per_gdp": "",
+      "lon": 108.50,
+      "lat": 22.70
+    },
+    {
+      "rank": 3,
+      "name": "入海口",
+      "data1": "最终终点",
+      "data2": "茅尾海",
+      "desc": "经钦江入北部湾",
+      "pct": "",
+      "per_gdp": "",
+      "lon": 108.60,
+      "lat": 21.85
+    }
+  ],
+  "districts": [],
+  "intro": "中国"十四五"规划重大工程、西部陆海新通道骨干工程——平陆运河，2026年9月正式通航。这是新中国成立以来第一条江海连通的超级运河。",
+  "outro": "百年运河梦，一朝变通途。平陆运河让广西乃至整个西南，真正拥抱海洋。",
+  "theme": {
+    "bg_color": "#0F1923",
+    "map_color": "#16213e",
+    "card_color": "#0f3460"
+  },
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+5%"
+  },
+  "video": {
+    "subtitle_y": 180,
+    "ken_burns": true,
+    "fade_duration": 0.5,
+    "fps": 30,
+    "crf": 18
+  },
+  "output": {
+    "frame_dir": "maps",
+    "audio_file": "tts.mp3",
+    "video_file": "平陆运河_建成通航纪实_final.mp4"
+  }
+}

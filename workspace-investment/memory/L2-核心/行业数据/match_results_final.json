@@ -1,0 +1,1004 @@
+{
+  "国防军工": {
+    "整机/总装": [
+      {
+        "code": 547,
+        "name": "航天发展",
+        "keyword": "航天发展",
+        "category": "整机/总装",
+        "confidence": "high"
+      },
+      {
+        "code": 768,
+        "name": "中航西飞",
+        "keyword": "中航西飞",
+        "category": "整机/总装",
+        "confidence": "high"
+      },
+      {
+        "code": 600038,
+        "name": "中直股份",
+        "keyword": "中直股份",
+        "category": "整机/总装",
+        "confidence": "high"
+      },
+      {
+        "code": 600118,
+        "name": "中国卫星",
+        "keyword": "中国卫星",
+        "category": "整机/总装",
+        "confidence": "high"
+      },
+      {
+        "code": 600316,
+        "name": "洪都航空",
+        "keyword": "洪都航空",
+        "category": "整机/总装",
+        "confidence": "high"
+      },
+      {
+        "code": 600760,
+        "name": "中航沈飞",
+        "keyword": "中航沈飞",
+        "category": "整机/总装",
+        "confidence": "high"
+      },
+      {
+        "code": 600893,
+        "name": "航发动力",
+        "keyword": "航发动力",
+        "category": "整机/总装",
+        "confidence": "high"
+      }
+    ],
+    "分系统": [
+      {
+        "code": 2025,
+        "name": "航天电器",
+        "keyword": "航天电器",
+        "category": "分系统",
+        "confidence": "high"
+      },
+      {
+        "code": 2179,
+        "name": "中航光电",
+        "keyword": "中航光电",
+        "category": "分系统",
+        "confidence": "high"
+      },
+      {
+        "code": 301050,
+        "name": "雷电微力",
+        "keyword": "雷电微力",
+        "category": "分系统",
+        "confidence": "high"
+      },
+      {
+        "code": 600372,
+        "name": "中航机载",
+        "keyword": "中航机载",
+        "category": "分系统",
+        "confidence": "high"
+      },
+      {
+        "code": 688311,
+        "name": "盟升电子",
+        "keyword": "盟升电子",
+        "category": "分系统",
+        "confidence": "high"
+      },
+      {
+        "code": "688239",
+        "name": "航宇科技",
+        "keyword": "航宇科技",
+        "category": "分系统",
+        "confidence": "high"
+      },
+      {
+        "code": "688510",
+        "name": "航亚科技",
+        "keyword": "航亚科技",
+        "category": "分系统",
+        "confidence": "high"
+      },
+      {
+        "code": 688375,
+        "name": "国博电子",
+        "keyword": "国博电子",
+        "category": "分系统",
+        "confidence": "high",
+        "note": "T/R组件；研报2026-06-03中航证券买入"
+      },
+      {
+        "code": 688818,
+        "name": "电科蓝天",
+        "keyword": "电科蓝天",
+        "category": "分系统",
+        "confidence": "high",
+        "note": "宇航电源；研报2026-06-03商业航天"
+      },
+      {
+        "code": 301571,
+        "name": "国科天成",
+        "keyword": "国科天成",
+        "category": "分系统",
+        "confidence": "high",
+        "note": "红外探测；研报2026-06-04西南证券买入"
+      },
+      {
+        "code": 300762,
+        "name": "上海瀚讯",
+        "keyword": "上海瀚讯",
+        "category": "分系统",
+        "confidence": "high",
+        "note": "军用通信；研报2026-06-02千帆星座"
+      }
+    ],
+    "材料": [
+      {
+        "code": 300699,
+        "name": "光威复材",
+        "keyword": "光威复材",
+        "category": "材料",
+        "confidence": "high"
+      },
+      {
+        "code": 300777,
+        "name": "中简科技",
+        "keyword": "中简科技",
+        "category": "材料",
+        "confidence": "high"
+      },
+      {
+        "code": 600862,
+        "name": "中航高科",
+        "keyword": "中航高科",
+        "category": "材料",
+        "confidence": "high"
+      },
+      {
+        "code": 688122,
+        "name": "西部超导",
+        "keyword": "西部超导",
+        "category": "材料",
+        "confidence": "high"
+      },
+      {
+        "code": "300034",
+        "name": "钢研高纳",
+        "keyword": "钢研高纳",
+        "category": "材料",
+        "confidence": "high"
+      },
+      {
+        "code": "688281",
+        "name": "华秦科技",
+        "keyword": "华秦科技",
+        "category": "材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 688281,
+        "name": "华秦科技",
+        "keyword": "华秦科技",
+        "category": "材料",
+        "confidence": "high",
+        "note": "特种涂料；公告2026-05-14重大销售框架协议"
+      },
+      {
+        "code": 688563,
+        "name": "航材股份",
+        "keyword": "航材股份",
+        "category": "材料",
+        "confidence": "high",
+        "note": "航空材料/燃机；研报2026-05-27民机/燃机/海外"
+      }
+    ],
+    "元器件": [
+      {
+        "code": 733,
+        "name": "振华科技",
+        "keyword": "振华科技",
+        "category": "元器件",
+        "confidence": "high"
+      },
+      {
+        "code": 300474,
+        "name": "景嘉微",
+        "keyword": "景嘉微",
+        "category": "元器件",
+        "confidence": "high"
+      },
+      {
+        "code": 300726,
+        "name": "宏达电子",
+        "keyword": "宏达电子",
+        "category": "元器件",
+        "confidence": "high"
+      },
+      {
+        "code": 603267,
+        "name": "鸿远电子",
+        "keyword": "鸿远电子",
+        "category": "元器件",
+        "confidence": "high"
+      }
+    ]
+  },
+  "电子": {
+    "AI/芯片设计": [
+      {
+        "code": 2049,
+        "name": "紫光国微",
+        "keyword": "紫光国微",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 300223,
+        "name": "北京君正",
+        "keyword": "北京君正",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 300458,
+        "name": "全志科技",
+        "keyword": "全志科技",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 603893,
+        "name": "瑞芯微",
+        "keyword": "瑞芯微",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 603986,
+        "name": "兆易创新",
+        "keyword": "兆易创新",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 688008,
+        "name": "澜起科技",
+        "keyword": "澜起科技",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 688256,
+        "name": "寒武纪",
+        "keyword": "寒武纪",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 688385,
+        "name": "复旦微电",
+        "keyword": "复旦微电",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 688521,
+        "name": "芯原股份",
+        "keyword": "芯原股份",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      },
+      {
+        "code": 688041,
+        "name": "海光信息",
+        "keyword": "海光信息",
+        "category": "AI/芯片设计",
+        "confidence": "medium"
+      }
+    ],
+    "晶圆制造/代工": [
+      {
+        "code": 600460,
+        "name": "士兰微",
+        "keyword": "士兰微",
+        "category": "晶圆制造/代工",
+        "confidence": "high"
+      },
+      {
+        "code": 688396,
+        "name": "华润微",
+        "keyword": "华润微",
+        "category": "晶圆制造/代工",
+        "confidence": "high"
+      },
+      {
+        "code": 688981,
+        "name": "中芯国际",
+        "keyword": "中芯国际",
+        "category": "晶圆制造/代工",
+        "confidence": "high"
+      },
+      {
+        "code": 688347,
+        "name": "华虹公司",
+        "keyword": "华虹公司",
+        "category": "晶圆制造/代工",
+        "confidence": "high"
+      }
+    ],
+    "封装测试": [
+      {
+        "code": 2156,
+        "name": "通富微电",
+        "keyword": "通富微电",
+        "category": "封装测试",
+        "confidence": "high"
+      },
+      {
+        "code": 2185,
+        "name": "华天科技",
+        "keyword": "华天科技",
+        "category": "封装测试",
+        "confidence": "high"
+      },
+      {
+        "code": 600584,
+        "name": "长电科技",
+        "keyword": "长电科技",
+        "category": "封装测试",
+        "confidence": "high"
+      },
+      {
+        "code": 603005,
+        "name": "晶方科技",
+        "keyword": "晶方科技",
+        "category": "封装测试",
+        "confidence": "high"
+      },
+      {
+        "code": 688362,
+        "name": "甬矽电子",
+        "keyword": "甬矽电子",
+        "category": "封装测试",
+        "confidence": "high"
+      }
+    ],
+    "半导体设备": [
+      {
+        "code": 2371,
+        "name": "北方华创",
+        "keyword": "北方华创",
+        "category": "半导体设备",
+        "confidence": "medium"
+      },
+      {
+        "code": 688012,
+        "name": "中微公司",
+        "keyword": "中微公司",
+        "category": "半导体设备",
+        "confidence": "medium"
+      },
+      {
+        "code": 688082,
+        "name": "盛美上海",
+        "keyword": "盛美上海",
+        "category": "半导体设备",
+        "confidence": "medium"
+      },
+      {
+        "code": 688072,
+        "name": "拓荆科技",
+        "keyword": "拓荆科技",
+        "category": "半导体设备",
+        "confidence": "medium"
+      },
+      {
+        "code": 688120,
+        "name": "华海清科",
+        "keyword": "华海清科",
+        "category": "半导体设备",
+        "confidence": "medium"
+      },
+      {
+        "code": 688361,
+        "name": "中科飞测",
+        "keyword": "中科飞测",
+        "category": "半导体设备",
+        "confidence": "medium"
+      }
+    ],
+    "半导体材料": [
+      {
+        "code": 2409,
+        "name": "雅克科技",
+        "keyword": "雅克科技",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 300054,
+        "name": "鼎龙股份",
+        "keyword": "鼎龙股份",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 300346,
+        "name": "南大光电",
+        "keyword": "南大光电",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 300398,
+        "name": "飞凯材料",
+        "keyword": "飞凯材料",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 300655,
+        "name": "晶瑞电材",
+        "keyword": "晶瑞电材",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 300666,
+        "name": "江丰电子",
+        "keyword": "江丰电子",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 600206,
+        "name": "有研新材",
+        "keyword": "有研新材",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 605358,
+        "name": "立昂微",
+        "keyword": "立昂微",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 688019,
+        "name": "安集科技",
+        "keyword": "安集科技",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 688126,
+        "name": "沪硅产业",
+        "keyword": "沪硅产业",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 688138,
+        "name": "清溢光电",
+        "keyword": "清溢光电",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": 688268,
+        "name": "华特气体",
+        "keyword": "华特气体",
+        "category": "半导体材料",
+        "confidence": "medium"
+      },
+      {
+        "code": "688146",
+        "name": "中船特气",
+        "keyword": "中船特气",
+        "category": "半导体材料",
+        "confidence": "high"
+      }
+    ],
+    "光芯片/光器件": [
+      {
+        "code": 688048,
+        "name": "长光华芯",
+        "keyword": "长光华芯",
+        "category": "光芯片/光器件",
+        "confidence": "high"
+      },
+      {
+        "code": 688167,
+        "name": "炬光科技",
+        "keyword": "炬光科技",
+        "category": "光芯片/光器件",
+        "confidence": "high"
+      },
+      {
+        "code": 688498,
+        "name": "源杰科技",
+        "keyword": "源杰科技",
+        "category": "光芯片/光器件",
+        "confidence": "high"
+      }
+    ]
+  },
+  "机械设备": {
+    "机器人本体": [],
+    "减速器": [],
+    "伺服/电机": [],
+    "机器视觉": [
+      {
+        "code": 688088,
+        "name": "虹软科技",
+        "keyword": "虹软科技",
+        "category": "机器视觉",
+        "confidence": "low"
+      }
+    ],
+    "自动化": [
+      {
+        "code": 300508,
+        "name": "维宏股份",
+        "keyword": "维宏股份",
+        "category": "自动化",
+        "confidence": "low"
+      },
+      {
+        "code": 600845,
+        "name": "宝信软件",
+        "keyword": "宝信软件",
+        "category": "自动化",
+        "confidence": "low"
+      },
+      {
+        "code": 688188,
+        "name": "柏楚电子",
+        "keyword": "柏楚电子",
+        "category": "自动化",
+        "confidence": "low"
+      }
+    ]
+  },
+  "电气设备": {
+    "动力电池": [
+      {
+        "code": 2074,
+        "name": "国轩高科",
+        "keyword": "国轩高科",
+        "category": "动力电池",
+        "confidence": "high"
+      },
+      {
+        "code": 300014,
+        "name": "亿纬锂能",
+        "keyword": "亿纬锂能",
+        "category": "动力电池",
+        "confidence": "high"
+      },
+      {
+        "code": 300207,
+        "name": "欣旺达",
+        "keyword": "欣旺达",
+        "category": "动力电池",
+        "confidence": "high"
+      },
+      {
+        "code": 300750,
+        "name": "宁德时代",
+        "keyword": "宁德时代",
+        "category": "动力电池",
+        "confidence": "high"
+      }
+    ],
+    "锂电正极": [
+      {
+        "code": 300073,
+        "name": "当升科技",
+        "keyword": "当升科技",
+        "category": "锂电正极",
+        "confidence": "medium"
+      },
+      {
+        "code": 688005,
+        "name": "容百科技",
+        "keyword": "容百科技",
+        "category": "锂电正极",
+        "confidence": "medium"
+      },
+      {
+        "code": 301358,
+        "name": "湖南裕能",
+        "keyword": "湖南裕能",
+        "category": "锂电正极",
+        "confidence": "medium"
+      }
+    ],
+    "锂电负极": [
+      {
+        "code": 300035,
+        "name": "中科电气",
+        "keyword": "中科电气",
+        "category": "锂电负极",
+        "confidence": "medium"
+      },
+      {
+        "code": 300890,
+        "name": "翔丰华",
+        "keyword": "翔丰华",
+        "category": "锂电负极",
+        "confidence": "medium"
+      },
+      {
+        "code": 600884,
+        "name": "杉杉股份",
+        "keyword": "杉杉股份",
+        "category": "锂电负极",
+        "confidence": "medium"
+      },
+      {
+        "code": 603659,
+        "name": "璞泰来",
+        "keyword": "璞泰来",
+        "category": "锂电负极",
+        "confidence": "medium"
+      }
+    ],
+    "锂电电解液": [
+      {
+        "code": 2709,
+        "name": "天赐材料",
+        "keyword": "天赐材料",
+        "category": "锂电电解液",
+        "confidence": "high"
+      },
+      {
+        "code": 300037,
+        "name": "新宙邦",
+        "keyword": "新宙邦",
+        "category": "锂电电解液",
+        "confidence": "high"
+      }
+    ],
+    "锂电隔膜": [
+      {
+        "code": 2812,
+        "name": "恩捷股份",
+        "keyword": "恩捷股份",
+        "category": "锂电隔膜",
+        "confidence": "high"
+      },
+      {
+        "code": 300568,
+        "name": "星源材质",
+        "keyword": "星源材质",
+        "category": "锂电隔膜",
+        "confidence": "high"
+      }
+    ],
+    "锂电设备": [
+      {
+        "code": 300450,
+        "name": "先导智能",
+        "keyword": "先导智能",
+        "category": "锂电设备",
+        "confidence": "medium"
+      },
+      {
+        "code": 300457,
+        "name": "赢合科技",
+        "keyword": "赢合科技",
+        "category": "锂电设备",
+        "confidence": "medium"
+      },
+      {
+        "code": 688006,
+        "name": "杭可科技",
+        "keyword": "杭可科技",
+        "category": "锂电设备",
+        "confidence": "medium"
+      },
+      {
+        "code": 688499,
+        "name": "利元亨",
+        "keyword": "利元亨",
+        "category": "锂电设备",
+        "confidence": "medium"
+      }
+    ],
+    "储能": [
+      {
+        "code": 2335,
+        "name": "科华数据",
+        "keyword": "科华数据",
+        "category": "储能",
+        "confidence": "medium"
+      },
+      {
+        "code": 2518,
+        "name": "科士达",
+        "keyword": "科士达",
+        "category": "储能",
+        "confidence": "medium"
+      },
+      {
+        "code": 300274,
+        "name": "阳光电源",
+        "keyword": "阳光电源",
+        "category": "储能",
+        "confidence": "medium"
+      },
+      {
+        "code": 300763,
+        "name": "锦浪科技",
+        "keyword": "锦浪科技",
+        "category": "储能",
+        "confidence": "medium"
+      },
+      {
+        "code": 300827,
+        "name": "上能电气",
+        "keyword": "上能电气",
+        "category": "储能",
+        "confidence": "medium"
+      },
+      {
+        "code": 688390,
+        "name": "固德威",
+        "keyword": "固德威",
+        "category": "储能",
+        "confidence": "medium"
+      }
+    ]
+  },
+  "医药生物": {
+    "CXO": [
+      {
+        "code": 739,
+        "name": "普洛药业",
+        "keyword": "普洛药业",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 2821,
+        "name": "凯莱英",
+        "keyword": "凯莱英",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 300347,
+        "name": "泰格医药",
+        "keyword": "泰格医药",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 300363,
+        "name": "博腾股份",
+        "keyword": "博腾股份",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 300759,
+        "name": "康龙化成",
+        "keyword": "康龙化成",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 603127,
+        "name": "昭衍新药",
+        "keyword": "昭衍新药",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 603259,
+        "name": "药明康德",
+        "keyword": "药明康德",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 688690,
+        "name": "纳微科技",
+        "keyword": "纳微科技",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 301080,
+        "name": "百普赛斯",
+        "keyword": "百普赛斯",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 688131,
+        "name": "皓元医药",
+        "keyword": "皓元医药",
+        "category": "CXO",
+        "confidence": "low"
+      },
+      {
+        "code": 603456,
+        "name": "九洲药业",
+        "keyword": "九洲药业",
+        "category": "CXO",
+        "confidence": "low"
+      }
+    ],
+    "原料药": [
+      {
+        "code": 300636,
+        "name": "同和药业",
+        "keyword": "同和药业",
+        "category": "原料药",
+        "confidence": "medium"
+      },
+      {
+        "code": 300702,
+        "name": "天宇股份",
+        "keyword": "天宇股份",
+        "category": "原料药",
+        "confidence": "medium"
+      },
+      {
+        "code": 603229,
+        "name": "奥翔药业",
+        "keyword": "奥翔药业",
+        "category": "原料药",
+        "confidence": "medium"
+      },
+      {
+        "code": 603520,
+        "name": "司太立",
+        "keyword": "司太立",
+        "category": "原料药",
+        "confidence": "medium"
+      },
+      {
+        "code": 2332,
+        "name": "仙琚制药",
+        "keyword": "仙琚制药",
+        "category": "原料药",
+        "confidence": "medium"
+      }
+    ]
+  },
+  "通信": {
+    "光模块": [
+      {
+        "code": 2281,
+        "name": "光迅科技",
+        "keyword": "光迅科技",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 300308,
+        "name": "中际旭创",
+        "keyword": "中际旭创",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 300394,
+        "name": "天孚通信",
+        "keyword": "天孚通信",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 300502,
+        "name": "新易盛",
+        "keyword": "新易盛",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 300570,
+        "name": "太辰光",
+        "keyword": "太辰光",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 300620,
+        "name": "光库科技",
+        "keyword": "光库科技",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 600487,
+        "name": "亨通光电",
+        "keyword": "亨通光电",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 600522,
+        "name": "中天科技",
+        "keyword": "中天科技",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 601869,
+        "name": "长飞光纤",
+        "keyword": "长飞光纤",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 603083,
+        "name": "剑桥科技",
+        "keyword": "剑桥科技",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 688313,
+        "name": "仕佳光子",
+        "keyword": "仕佳光子",
+        "category": "光模块",
+        "confidence": "high"
+      },
+      {
+        "code": 301205,
+        "name": "联特科技",
+        "keyword": "联特科技",
+        "category": "光模块",
+        "confidence": "high"
+      }
+    ],
+    "通信设备": [
+      {
+        "code": 2194,
+        "name": "武汉凡谷",
+        "keyword": "武汉凡谷",
+        "category": "通信设备",
+        "confidence": "high"
+      },
+      {
+        "code": 2792,
+        "name": "通宇通讯",
+        "keyword": "通宇通讯",
+        "category": "通信设备",
+        "confidence": "high"
+      },
+      {
+        "code": 300134,
+        "name": "大富科技",
+        "keyword": "大富科技",
+        "category": "通信设备",
+        "confidence": "high"
+      },
+      {
+        "code": 600498,
+        "name": "烽火通信",
+        "keyword": "烽火通信",
+        "category": "通信设备",
+        "confidence": "high"
+      },
+      {
+        "code": 63,
+        "name": "中兴通讯",
+        "keyword": "中兴通讯",
+        "category": "通信设备",
+        "confidence": "high"
+      }
+    ]
+  },
+  "汽车": {
+    "整车": [],
+    "零部件": []
+  }
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "repo": "danijar/dreamer",
+    "stars": 608,
+    "forks": 120,
+    "updated": "2021-09-10",
+    "lang": "Python",
+    "desc": "Dream to Control: Learning Behaviors by Latent Imagination",
+    "status": "OK"
+  },
+  {
+    "repo": "danijar/dreamerv2",
+    "stars": 1048,
+    "forks": 210,
+    "updated": "2023-01-21",
+    "lang": "Python",
+    "desc": "Mastering Atari with Discrete World Models",
+    "status": "OK"
+  },
+  {
+    "repo": "danijar/dreamerv3",
+    "stars": 3438,
+    "forks": 560,
+    "updated": "2026-05-25",
+    "lang": "Python",
+    "desc": "Mastering Diverse Domains through World Models",
+    "status": "OK"
+  },
+  {
+    "repo": "YaserKenarch/Model-Based-Reinforcement-Learning",
+    "status": "NOT FOUND"
+  },
+  {
+    "repo": "koulanurmin/pets-rl",
+    "status": "NOT FOUND"
+  },
+  {
+    "repo": "emmnlp/Model-based-RL-for-Finance",
+    "status": "NOT FOUND"
+  },
+  {
+    "repo": "WorldModeler/WorldModels",
+    "status": "NOT FOUND"
+  },
+  {
+    "repo": "强者之路/Model-Based-RL-Stock",
+    "status": "NOT FOUND"
+  }
+]

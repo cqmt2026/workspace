@@ -1,0 +1,204 @@
+{
+  "cs_stocks": [
+    {
+      "code": 547,
+      "name": "航天发展",
+      "keyword": "航天发展",
+      "category": "整机/总装",
+      "confidence": "high",
+      "layer": "整机/总装"
+    },
+    {
+      "code": 768,
+      "name": "中航西飞",
+      "keyword": "中航西飞",
+      "category": "整机/总装",
+      "confidence": "high",
+      "layer": "整机/总装"
+    },
+    {
+      "code": 600038,
+      "name": "中直股份",
+      "keyword": "中直股份",
+      "category": "整机/总装",
+      "confidence": "high",
+      "layer": "整机/总装"
+    },
+    {
+      "code": 600118,
+      "name": "中国卫星",
+      "keyword": "中国卫星",
+      "category": "整机/总装",
+      "confidence": "high",
+      "layer": "整机/总装"
+    },
+    {
+      "code": 600316,
+      "name": "洪都航空",
+      "keyword": "洪都航空",
+      "category": "整机/总装",
+      "confidence": "high",
+      "layer": "整机/总装"
+    },
+    {
+      "code": 600760,
+      "name": "中航沈飞",
+      "keyword": "中航沈飞",
+      "category": "整机/总装",
+      "confidence": "high",
+      "layer": "整机/总装"
+    },
+    {
+      "code": 600893,
+      "name": "航发动力",
+      "keyword": "航发动力",
+      "category": "整机/总装",
+      "confidence": "high",
+      "layer": "整机/总装"
+    },
+    {
+      "code": 2025,
+      "name": "航天电器",
+      "keyword": "航天电器",
+      "category": "分系统",
+      "confidence": "high",
+      "layer": "分系统"
+    },
+    {
+      "code": 2179,
+      "name": "中航光电",
+      "keyword": "中航光电",
+      "category": "分系统",
+      "confidence": "high",
+      "layer": "分系统"
+    },
+    {
+      "code": 301050,
+      "name": "雷电微力",
+      "keyword": "雷电微力",
+      "category": "分系统",
+      "confidence": "high",
+      "layer": "分系统"
+    },
+    {
+      "code": 600372,
+      "name": "中航机载",
+      "keyword": "中航机载",
+      "category": "分系统",
+      "confidence": "high",
+      "layer": "分系统"
+    },
+    {
+      "code": 688311,
+      "name": "盟升电子",
+      "keyword": "盟升电子",
+      "category": "分系统",
+      "confidence": "high",
+      "layer": "分系统"
+    },
+    {
+      "code": 300699,
+      "name": "光威复材",
+      "keyword": "光威复材",
+      "category": "材料",
+      "confidence": "high",
+      "layer": "材料"
+    },
+    {
+      "code": 300777,
+      "name": "中简科技",
+      "keyword": "中简科技",
+      "category": "材料",
+      "confidence": "high",
+      "layer": "材料"
+    },
+    {
+      "code": 600862,
+      "name": "中航高科",
+      "keyword": "中航高科",
+      "category": "材料",
+      "confidence": "high",
+      "layer": "材料"
+    },
+    {
+      "code": 688122,
+      "name": "西部超导",
+      "keyword": "西部超导",
+      "category": "材料",
+      "confidence": "high",
+      "layer": "材料"
+    },
+    {
+      "code": 733,
+      "name": "振华科技",
+      "keyword": "振华科技",
+      "category": "元器件",
+      "confidence": "high",
+      "layer": "元器件"
+    },
+    {
+      "code": 300474,
+      "name": "景嘉微",
+      "keyword": "景嘉微",
+      "category": "元器件",
+      "confidence": "high",
+      "layer": "元器件"
+    },
+    {
+      "code": 300726,
+      "name": "宏达电子",
+      "keyword": "宏达电子",
+      "category": "元器件",
+      "confidence": "high",
+      "layer": "元器件"
+    },
+    {
+      "code": 603267,
+      "name": "鸿远电子",
+      "keyword": "鸿远电子",
+      "category": "元器件",
+      "confidence": "high",
+      "layer": "元器件"
+    }
+  ],
+  "verified": {
+    "000547": {
+      "name": "航天发展",
+      "main": "蓝军体系及装备、新一代通信与指控装备、空间信息应用",
+      "client": "军队/国防",
+      "type": "军工电子+部分卫星应用",
+      "serenity_score": "B",
+      "serenity_rationale": "订单锁死但商业化程度低，空间信息应用有商业潜力"
+    },
+    "600118": {
+      "name": "中国卫星",
+      "main": "卫星研制，航天科技集团五院控股",
+      "client": "国家队/军方",
+      "type": "卫星总装",
+      "serenity_score": "B+",
+      "serenity_rationale": "国家队卫星总装垄断，商业化取决于星网等国家任务"
+    }
+  },
+  "unverified": [
+    547,
+    768,
+    600038,
+    600118,
+    600316,
+    600760,
+    600893,
+    2025,
+    2179,
+    301050,
+    600372,
+    688311,
+    300699,
+    300777,
+    600862,
+    688122,
+    733,
+    300474,
+    300726,
+    603267
+  ]
+}

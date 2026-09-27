@@ -1,0 +1,74 @@
+{
+  "categories": {
+    "一张图": {
+      "duration_per_item": 6,
+      "total_items": "auto",
+      "hook_types": ["排名悬念", "数字冲击", "反常识"],
+      "outro_types": ["互动", "悬念"],
+      "intro_word_count": 15,
+      "per_item_word_count": 20,
+      "outro_word_count": 15,
+      "pace": "快节奏"
+    },
+    "追热点": {
+      "duration_per_item": 10,
+      "total_items": "auto",
+      "hook_types": ["反常识", "对比反差", "数字冲击"],
+      "outro_types": ["悬念", "互动"],
+      "intro_word_count": 20,
+      "per_item_word_count": 30,
+      "outro_word_count": 20,
+      "pace": "中速"
+    },
+    "深一度": {
+      "duration_per_item": 20,
+      "total_items": "auto",
+      "hook_types": ["身份代入", "排名悬念", "数字冲击", "反常识对比"],
+      "outro_types": ["互动", "情感", "金句"],
+      "intro_word_count": 25,
+      "per_item_word_count": 45,
+      "outro_word_count": 25,
+      "pace": "慢速"
+    },
+    "对比型": {
+      "duration_per_item": 15,
+      "total_items": 2,
+      "hook_types": ["反常识对比", "对比反差", "数字冲击", "身份代入"],
+      "outro_types": ["互动", "金句", "悬念"],
+      "intro_word_count": 30,
+      "per_item_word_count": 50,
+      "outro_word_count": 25,
+      "pace": "中速"
+    }
+  },
+  "hook_templates": {
+    "排名悬念": "同是{title}，第一名和最后一名差距有多大？看完这张图你就不意外了。",
+    "反常识": "你以为{title}最强的是谁？结果可能让你大跌眼镜。",
+    "数字冲击": "{title}最高的地方，数据有多惊人？但这个数字背后有个惊人的秘密。",
+    "对比反差": "不靠海不沿江的地方，{title}也能排第一？今天带你看看为什么。",
+    "反常识对比": "你以为{a}最强？结果{b}在{topic}上反而赢了，为什么？",
+    "身份代入": "所有{target}注意！来看看你的家乡排第几。"
+  },
+  "outro_templates": {
+    "悬念": "还有更猛的数据，关注我下期继续揭秘。",
+    "互动": "从{first}到{last}，你觉得哪个最有潜力？评论区投票。",
+    "情感": "从{first}到{last}，每个地方都在用自己的方式发展。你最看好谁？",
+    "金句": "一句话点破本质：{golden_sentence}"
+  },
+  "spoken_rules": [
+    "长句拆短，每句不超过25字",
+    "去除首先其次综上所述等书面连接词",
+    "用你咱们代替用户观众",
+    "数据加解读各一句不要堆砌",
+    "避免据悉据报道据了解等废话",
+    "每句结尾用句号不用感叹号",
+    "不要用感叹号和问号以外的标点"
+  ],
+  "density_target_words_per_min": 90,
+  "density_min_words_per_min": 75,
+  "llm_config": {
+    "model": "deepseek-v4-flash",
+    "timeout_seconds": 120,
+    "fallback_model": "agnes-ai/agnes-2.0-flash"
+  }
+}

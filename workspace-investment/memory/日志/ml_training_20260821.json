@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-08-21T20:00:00+08:00",
+  "task": "ML全量训练Cron",
+  "steps": {
+    "step1_train": {
+      "status": "timeout",
+      "detail": "处理3501/4394只股票后超时终止",
+      "duration_sec": 616
+    },
+    "step2_bridge": {
+      "status": "success",
+      "detail": "写入1046条ml_prob_lgb因子(全市场1044+持仓2)"
+    },
+    "step3_predict": {
+      "status": "success",
+      "detail": "持仓预测完成(002837:P=0.286, 601888:P=0.470)"
+    },
+    "step4_bridge": {
+      "status": "success",
+      "detail": "写入1046条ml_prob_lgb因子"
+    }
+  },
+  "model_metrics": {
+    "auc": 0.6976,
+    "f1": 0.6783,
+    "accuracy": 0.591,
+    "precision": 0.549,
+    "recall": 0.889,
+    "rating": "A",
+    "optimal_threshold": 0.41,
+    "version": "quant_ml_v17"
+  },
+  "training_progress": {
+    "processed": 3501,
+    "total": 4394,
+    "percentage": 68,
+    "samples": 912882
+  },
+  "wx_push": {
+    "status": "failed",
+    "detail": "超时"
+  }
+}

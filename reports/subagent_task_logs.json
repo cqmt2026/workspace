@@ -1,0 +1,33 @@
+{
+  "report_date": "2026-08-27",
+  "report_time": "15:11:00",
+  "subagent_tasks": [
+    {
+      "id": "f3475161-b643-4a0a-a950-ea9a574e673c",
+      "name": "Daily-Morning-Report-早间汇报",
+      "status": "completed",
+      "start_time": "2026-08-27 15:11:00",
+      "end_time": "2026-08-27 15:11:03",
+      "duration_ms": 3545,
+      "result": "success",
+      "issues_found": 6,
+      "critical_issues": 1,
+      "warnings": 5
+    }
+  ],
+  "system_health": {
+    "overall": "WARN",
+    "total_issues": 6,
+    "by_category": {
+      "Main": {"down": 1, "warn": 2, "ok": 1},
+      "Investment": {"down": 0, "warn": 1, "ok": 2},
+      "Novel": {"down": 0, "warn": 0, "ok": 1},
+      "Social": {"down": 0, "warn": 1, "ok": 0},
+      "Math": {"down": 0, "warn": 1, "ok": 0}
+    }
+  },
+  "cron_failure_alerts": [
+    {"task": "LOG-日志审计-晚间检查", "consecutive": 4},
+    {"task": "System-Maintenance-综合维护", "consecutive": 3}
+  ]
+}

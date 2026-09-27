@@ -1,0 +1,147 @@
+{
+  "P2-语义关联": {
+    "consecutive_failures": 0
+  },
+  "P0-读取率监控": {
+    "consecutive_failures": 0
+  },
+  "Session-Archive-会话沉淀": {
+    "consecutive_failures": 0
+  },
+  "INV-ML-Training": {
+    "consecutive_failures": 1
+  },
+  "System-SessionHistory-每日备份": {
+    "consecutive_failures": 0
+  },
+  "Session-Save-会话记忆保存": {
+    "consecutive_failures": 0
+  },
+  "Memory-Recall-启动上下文召回": {
+    "consecutive_failures": 0
+  },
+  "Daily-Inspection-每日巡检": {
+    "consecutive_failures": 0
+  },
+  "AI-Retry-错题AI重试": {
+    "consecutive_failures": 0
+  },
+  "Daily-Morning-Report-早间汇报": {
+    "consecutive_failures": 0
+  },
+  "MapHot-选题采集": {
+    "consecutive_failures": 0
+  },
+  "Obsidian-领域关系图更新": {
+    "consecutive_failures": 0
+  },
+  "WX-知识库-自动更新": {
+    "consecutive_failures": 0
+  },
+  "周巡检报告": {
+    "consecutive_failures": 0
+  },
+  "Self-Heal-L1-Monitor": {
+    "consecutive_failures": 0
+  },
+  "WX-Corrections-同步检查": {
+    "consecutive_failures": 0
+  },
+  "Novel-自我学习": {
+    "consecutive_failures": 0
+  },
+  "Obsidian-决策信号更新": {
+    "consecutive_failures": 0
+  },
+  "Social-自我学习": {
+    "consecutive_failures": 0
+  },
+  "Math-自动学习": {
+    "consecutive_failures": 0
+  },
+  "子系统健康检查": {
+    "consecutive_failures": 0
+  },
+  "流程问题触发检查": {
+    "consecutive_failures": 0
+  },
+  "INV-Daily-Analysis": {
+    "consecutive_failures": 0
+  },
+  "商业航天每日分析报告": {
+    "consecutive_failures": 0
+  },
+  "Daily-Evening-Report-晚间汇报": {
+    "consecutive_failures": 0
+  },
+  "System-BackupClean-每周备份清理": {
+    "consecutive_failures": 0
+  },
+  "Core-Docs-Sync": {
+    "consecutive_failures": 0
+  },
+  "Web-Hot-全网热点": {
+    "consecutive_failures": 0
+  },
+  "LOG-日志审计-每日检查": {
+    "consecutive_failures": 4
+  },
+  "Hot-Topic-Finder-热点发现": {
+    "consecutive_failures": 0
+  },
+  "INV-RPS-每日推送": {
+    "consecutive_failures": 0
+  },
+  "INV-持仓公告监控": {
+    "consecutive_failures": 0
+  },
+  "Rule-Refiner-规则提炼": {
+    "consecutive_failures": 0
+  },
+  "INV-Morning-Brief-早盘参考": {
+    "consecutive_failures": 0
+  },
+  "Obsidian-知识关联": {
+    "consecutive_failures": 0
+  },
+  "P1-知识驱动决策": {
+    "consecutive_failures": 0
+  },
+  "INV-Closing-Report-收盘主动汇报": {
+    "consecutive_failures": 0
+  },
+  "Self-Learning-统一学习": {
+    "consecutive_failures": 0
+  },
+  "INV-ZT-Kline-涨停K线收集": {
+    "consecutive_failures": 0
+  },
+  "GitHub-Trending-每日追踪": {
+    "consecutive_failures": 1
+  },
+  "INV-MXSearch-采集-22:00": {
+    "consecutive_failures": 5,
+    "paused_until": "2026-09-28T10:04:17.159307"
+  },
+  "Pre-Market-Check-开盘前预检": {
+    "consecutive_failures": 0
+  },
+  "INV-Daily-Trade-Check": {
+    "consecutive_failures": 0
+  },
+  "Obsidian-日记": {
+    "consecutive_failures": 0
+  },
+  "Obsidian-知识沉淀": {
+    "consecutive_failures": 0
+  },
+  "LOG-日志审计-晚间检查": {
+    "consecutive_failures": 1
+  },
+  "Cross-System-Bridge-跨系统推荐": {
+    "consecutive_failures": 0
+  },
+  "INV-Closing-Strategy-尾盘14:30": {
+    "consecutive_failures": 0
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "报告时间": "2026-07-06 16:44",
+  "市场概况": {
+    "总标的": 30,
+    "A买入": 16,
+    "B关注": 4,
+    "C观察": 6,
+    "D观望": 4,
+    "POS信号": 1,
+    "NEG信号": 11
+  },
+  "A买入标的": [
+    {
+      "code": "300034",
+      "name": "钢研高纳",
+      "close": 16.94,
+      "ma5": 17.74,
+      "ma10": 18.35,
+      "ma20": 19.22,
+      "rsi6": 4.1,
+      "rsi14": 26.9,
+      "vr": 0.73,
+      "bb_lower": 17.01,
+      "signals": [
+        "RSI14=27.0",
+        "RSI6=4.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "300777",
+      "name": "中简科技",
+      "close": 29.35,
+      "ma5": 31.45,
+      "ma10": 33.4,
+      "ma20": 36.33,
+      "rsi6": 13.1,
+      "rsi14": 19.6,
+      "vr": 0.82,
+      "bb_lower": 28.97,
+      "signals": [
+        "RSI14=20.0",
+        "RSI6=13.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "300699",
+      "name": "光威复材",
+      "close": 27.68,
+      "ma5": 28.96,
+      "ma10": 30.16,
+      "ma20": 32.29,
+      "rsi6": 15.0,
+      "rsi14": 18.1,
+      "vr": 0.76,
+      "bb_lower": 27.15,
+      "signals": [
+        "RSI14=18.0",
+        "RSI6=15.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "688385",
+      "name": "复旦微电",
+      "close": 52.45,
+      "ma5": 56.11,
+      "ma10": 60.47,
+      "ma20": 65.55,
+      "rsi6": 3.8,
+      "rsi14": 22.1,
+      "vr": 0.71,
+      "bb_lower": 52.02,
+      "signals": [
+        "RSI14=22.0",
+        "RSI6=4.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "688002",
+      "name": "睿创微纳",
+      "close": 116.98,
+      "ma5": 121.08,
+      "ma10": 125.58,
+      "ma20": 131.18,
+      "rsi6": 16.9,
+      "rsi14": 35.1,
+      "vr": 1.01,
+      "bb_lower": 114.89,
+      "signals": [
+        "RSI14=35.0",
+        "RSI6=17.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "688239",
+      "name": "航宇科技",
+      "close": 52.54,
+      "ma5": 56.25,
+      "ma10": 59.77,
+      "ma20": 65.4,
+      "rsi6": 1.0,
+      "rsi14": 17.1,
+      "vr": 0.98,
+      "bb_lower": 51.63,
+      "signals": [
+        "RSI14=17.0",
+        "RSI6=1.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": true
+    },
+    {
+      "code": "600456",
+      "name": "宝钛股份",
+      "close": 29.58,
+      "ma5": 31.15,
+      "ma10": 31.75,
+      "ma20": 32.87,
+      "rsi6": 11.3,
+      "rsi14": 27.3,
+      "vr": 0.74,
+      "bb_lower": 29.82,
+      "signals": [
+        "RSI14=27.0",
+        "RSI6=11.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "000738",
+      "name": "航发控制",
+      "close": 18.49,
+      "ma5": 18.71,
+      "ma10": 19.25,
+      "ma20": 20.44,
+      "rsi6": 15.8,
+      "rsi14": 17.3,
+      "vr": 0.88,
+      "bb_lower": 17.65,
+      "signals": [
+        "RSI14=17.0",
+        "RSI6=16.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "688047",
+      "name": "龙芯中科",
+      "close": 129.88,
+      "ma5": 137.43,
+      "ma10": 144.65,
+      "ma20": 154.66,
+      "rsi6": 4.5,
+      "rsi14": 20.8,
+      "vr": 0.72,
+      "bb_lower": 128.92,
+      "signals": [
+        "RSI14=21.0",
+        "RSI6=5.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "688776",
+      "name": "国光电气",
+      "close": 60.33,
+      "ma5": 63.38,
+      "ma10": 66.06,
+      "ma20": 72.77,
+      "rsi6": 18.1,
+      "rsi14": 14.5,
+      "vr": 0.78,
+      "bb_lower": 57.72,
+      "signals": [
+        "RSI14=15.0",
+        "RSI6=18.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "002049",
+      "name": "紫光国微",
+      "close": 69.98,
+      "ma5": 75.13,
+      "ma10": 78.58,
+      "ma20": 79.33,
+      "rsi6": 9.4,
+      "rsi14": 34.2,
+      "vr": 0.55,
+      "bb_lower": 71.65,
+      "signals": [
+        "RSI14=34.0",
+        "RSI6=9.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "600877",
+      "name": "电科芯片",
+      "close": 13.38,
+      "ma5": 13.83,
+      "ma10": 14.51,
+      "ma20": 15.52,
+      "rsi6": 14.2,
+      "rsi14": 23.9,
+      "vr": 0.78,
+      "bb_lower": 13.02,
+      "signals": [
+        "RSI14=24.0",
+        "RSI6=14.0",
+        "布林下轨"
+      ],
+      "score": 8,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": true
+    },
+    {
+      "code": "688281",
+      "name": "华秦科技",
+      "close": 47.44,
+      "ma5": 50.61,
+      "ma10": 64.67,
+      "ma20": 74.48,
+      "rsi6": 2.2,
+      "rsi14": 9.7,
+      "vr": 1.27,
+      "bb_lower": 44.75,
+      "signals": [
+        "RSI14=10.0",
+        "RSI6=2.0"
+      ],
+      "score": 6,
+      "grade": "A买入",
+      "ann_pos": true,
+      "ann_neg": false
+    },
+    {
+      "code": "688543",
+      "name": "国科军工",
+      "close": 39.71,
+      "ma5": 41.29,
+      "ma10": 43.02,
+      "ma20": 50.52,
+      "rsi6": 10.5,
+      "rsi14": 5.5,
+      "vr": 1.02,
+      "bb_lower": 32.97,
+      "signals": [
+        "RSI14=5.0",
+        "RSI6=10.0"
+      ],
+      "score": 6,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "600330",
+      "name": "天通股份",
+      "close": 26.78,
+      "ma5": 29.89,
+      "ma10": 30.72,
+      "ma20": 30.68,
+      "rsi6": 16.0,
+      "rsi14": 44.4,
+      "vr": 0.8,
+      "bb_lower": 26.37,
+      "signals": [
+        "RSI6=16.0",
+        "布林下轨"
+      ],
+      "score": 6,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": true
+    },
+    {
+      "code": "688282",
+      "name": "理工导航",
+      "close": 69.7,
+      "ma5": 72.56,
+      "ma10": 76.16,
+      "ma20": 83.28,
+      "rsi6": 21.9,
+      "rsi14": 23.6,
+      "vr": 0.8,
+      "bb_lower": 65.97,
+      "signals": [
+        "RSI14=24.0",
+        "RSI6=22.0"
+      ],
+      "score": 6,
+      "grade": "A买入",
+      "ann_pos": false,
+      "ann_neg": true
+    }
+  ],
+  "B关注标的": [
+    {
+      "code": "600893",
+      "name": "航发动力",
+      "close": 39.56,
+      "ma5": 41.41,
+      "ma10": 42.29,
+      "ma20": 44.81,
+      "rsi6": 31.2,
+      "rsi14": 15.7,
+      "vr": 0.95,
+      "bb_lower": 38.61,
+      "signals": [
+        "RSI14=16.0",
+        "布林下轨"
+      ],
+      "score": 5,
+      "grade": "B关注",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "688333",
+      "name": "铂力特",
+      "close": 87.21,
+      "ma5": 95.76,
+      "ma10": 98.09,
+      "ma20": 94.34,
+      "rsi6": 28.2,
+      "rsi14": 49.6,
+      "vr": 0.66,
+      "bb_lower": 83.24,
+      "signals": [
+        "RSI6=28.0",
+        "布林下轨"
+      ],
+      "score": 5,
+      "grade": "B关注",
+      "ann_pos": false,
+      "ann_neg": true
+    },
+    {
+      "code": "688562",
+      "name": "航天软件",
+      "close": 16.8,
+      "ma5": 16.82,
+      "ma10": 17.14,
+      "ma20": 17.88,
+      "rsi6": 38.4,
+      "rsi14": 33.6,
+      "vr": 0.7,
+      "bb_lower": 16.08,
+      "signals": [
+        "RSI14=34.0",
+        "布林下轨"
+      ],
+      "score": 5,
+      "grade": "B关注",
+      "ann_pos": false,
+      "ann_neg": false
+    },
+    {
+      "code": "688709",
+      "name": "成都华微",
+      "close": 31.15,
+      "ma5": 33.25,
+      "ma10": 35.43,
+      "ma20": 37.6,
+      "rsi6": null,
+      "rsi14": 19.6,
+      "vr": 0.77,
+      "bb_lower": 31.57,
+      "signals": [
+        "RSI14=20.0",
+        "布林下轨"
+      ],
+      "score": 5,
+      "grade": "B关注",
+      "ann_pos": false,
+      "ann_neg": false
+    }
+  ],
+  "重点关注信号": [
+    {
+      "code": "688281",
+      "name": "华秦科技",
+      "close": 47.44,
+      "ma5": 50.61,
+      "ma10": 64.67,
+      "ma20": 74.48,
+      "rsi6": 2.2,
+      "rsi14": 9.7,
+      "vr": 1.27,
+      "bb_lower": 44.75,
+      "signals": [
+        "RSI14=10.0",
+        "RSI6=2.0"
+      ],
+      "score": 6,
+      "grade": "A买入",
+      "ann_pos": true,
+      "ann_neg": false,
+      "ann_title": "关于自愿披露公司签订日常经营销售框架合同的公告",
+      "ann_date": "2026-07-04"
+    }
+  ]
+}
