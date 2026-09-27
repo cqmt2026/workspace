@@ -7,3 +7,6 @@
 {"task": "流程问题触发检查", "system": "main", "timestamp": "2026-09-27T14:00:08.148401", "status": "OK", "detail": "Exit code: 0", "duration_ms": 188.172}
 {"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-27T16:00:05.201436", "status": "OK", "detail": "Exit code: 0", "duration_ms": 227.17000000000002}
 {"task": "Daily-Evening-Report-晚间汇报", "system": "main", "timestamp": "2026-09-27T20:00:09.494712", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3526.903}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-27T21:37:16.816524", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题24条", "duration_ms": 2111.5240000000003}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-27T21:37:16.829489", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题24条", "duration_ms": 1995.173}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-27T21:37:16.855346", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2164.287}

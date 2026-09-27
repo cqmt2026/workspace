@@ -10,5 +10,17 @@
     "start": "2026-09-27T21:25:08.031331",
     "elapsed_seconds": 0.0,
     "status": "success"
+  },
+  {
+    "function": "slow_function",
+    "start": "2026-09-27T21:25:28.106432",
+    "elapsed_seconds": 1.0,
+    "status": "success"
+  },
+  {
+    "function": "fast_function",
+    "start": "2026-09-27T21:25:29.109635",
+    "elapsed_seconds": 0.0,
+    "status": "success"
   }
 ]
