@@ -1,0 +1,12 @@
+{"task": "周巡检报告", "system": "main", "timestamp": "2026-09-20T20:51:37.649839", "status": "OK", "detail": "Exit code: 0", "duration_ms": 197.8}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-09-20T20:51:38.811611", "status": "OK", "detail": "Exit code: 0", "duration_ms": 308.32599999999996}
+{"task": "WX-知识库-自动更新", "system": "weixin", "timestamp": "2026-09-20T20:51:43.539948", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1573.1139999999998}
+{"task": "System-BackupClean-每周备份清理", "system": "main", "timestamp": "2026-09-20T20:52:10.000560", "status": "OK", "detail": "Exit code: 0", "duration_ms": 712.584}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-09-20T20:52:23.218268", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1803.8670000000002}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-09-20T20:52:43.091523", "status": "ERROR", "detail": "正常9 出错1 无日志81", "duration_ms": 15747.819}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-09-20T20:53:14.236019", "status": "OK", "detail": "Exit code: 0", "duration_ms": 435.835}
+{"task": "P0-读取率监控", "system": "main", "timestamp": "2026-09-20T20:53:52.354469", "status": "OK", "detail": "Exit code: 0", "duration_ms": 8913.035}
+{"task": "P2-语义关联", "system": "main", "timestamp": "2026-09-20T20:53:54.214917", "status": "OK", "detail": "Exit code: 0", "duration_ms": 650.9110000000001}
+{"task": "P1-知识驱动决策", "system": "main", "timestamp": "2026-09-20T20:54:34.760303", "status": "OK", "detail": "Exit code: 0", "duration_ms": 8746.62}
+{"task": "P1-知识驱动决策", "system": "main", "timestamp": "2026-09-20T20:54:41.056090", "status": "OK", "detail": "Exit code: 0", "duration_ms": 751.396}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-09-20T20:54:48.329608", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5233.782999999999}

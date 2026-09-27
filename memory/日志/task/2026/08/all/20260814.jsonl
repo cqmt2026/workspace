@@ -1,0 +1,106 @@
+{"task": "INV-ML-Training", "system": "investment", "timestamp": "2026-08-14T14:28:22.520754", "status": "OK", "detail": "Exit code: 0", "duration_ms": 839888.5109999999}
+{"task": "子系统健康检查", "system": "main", "timestamp": "2026-08-14T14:32:21.258372", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3625.587}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T14:32:26.700090", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 2443.466}
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-08-14T14:32:29.440339", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1660.561}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-08-14T14:32:33.305052", "status": "OK", "detail": "Exit code: 0", "duration_ms": 962.901}
+{"task": "Novel-自我学习", "system": "novel", "timestamp": "2026-08-14T14:32:41.005797", "status": "OK", "detail": "Exit code: 0", "duration_ms": 371.00699999999995}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T14:32:44.798620", "status": "ERROR", "detail": "正常2 出错0 无日志93", "duration_ms": 22064.056999999997}
+{"task": "Social-自我学习", "system": "social", "timestamp": "2026-08-14T14:33:05.087246", "status": "OK", "detail": "Exit code: 0", "duration_ms": 243.901}
+{"task": "INV-持仓公告监控", "system": "investment", "timestamp": "2026-08-14T14:33:21.021174", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4496.519}
+{"task": "GitHub-Trending-每日追踪", "system": "main", "timestamp": "2026-08-14T14:33:47.679287", "status": "WARN", "detail": "Today:0 Weekly:0 Python:0 Pushed:False", "duration_ms": 72724.69353675842}
+{"task": "INV-MXSearch-采集-22:00", "system": "investment", "timestamp": "2026-08-14T14:36:02.254225", "status": "OK", "detail": "Exit code: 0", "duration_ms": 35651.57399999999}
+{"task": "INV-Morning-Brief-早盘参考", "system": "investment", "timestamp": "2026-08-14T14:37:00.124280", "status": "OK", "detail": "Exit code: 0", "duration_ms": 26897.652000000002}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-08-14T14:39:04.656538", "status": "OK", "detail": "Exit code: 0", "duration_ms": 550.0749999999999}
+{"task": "WX-知识库-自动更新", "system": "weixin", "timestamp": "2026-08-14T14:53:50.173668", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1737.985}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T14:53:55.647406", "status": "OK", "detail": "Exit code: 0", "duration_ms": 8204.07}
+{"task": "INV-Closing-Strategy-开盘10:00", "system": "investment", "timestamp": "2026-08-14T14:54:15.224072", "status": "OK", "detail": "Exit code: 0", "duration_ms": 28033.062}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-08-14T14:54:16.193481", "status": "OK", "detail": "Exit code: 0", "duration_ms": 34270.774000000005}
+{"task": "Social-自我学习", "system": "social", "timestamp": "2026-08-14T14:54:55.578896", "status": "OK", "detail": "Exit code: 0", "duration_ms": 350.065}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T14:55:57.206744", "status": "OK", "detail": "正常0 出错0 无日志0", "duration_ms": 44041.248}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T14:55:57.228685", "status": "OK", "detail": "Exit code: 0", "duration_ms": 44260.511}
+{"task": "Hot-Topic-Finder-热点发现", "system": "social", "timestamp": "2026-08-14T14:56:37.285373", "status": "OK", "detail": "Exit code: 0", "duration_ms": 177413.796}
+{"task": "GitHub-Trending-每日追踪", "system": "main", "timestamp": "2026-08-14T14:56:52.560371", "status": "OK", "detail": "Today:17 Weekly:17 Python:19 Pushed:False", "duration_ms": 8096.344947814941}
+{"task": "INV-持仓监控-14:50", "system": "investment", "timestamp": "2026-08-14T14:57:33.607982", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2468.194}
+{"task": "Daily-Morning-Report-早间汇报", "system": "main", "timestamp": "2026-08-14T14:57:35.791259", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3581.5769999999998}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-08-14T15:00:15.948443", "status": "OK", "detail": "Exit code: 0", "duration_ms": 588.427}
+{"task": "Obsidian-知识沉淀", "system": "main", "timestamp": "2026-08-14T15:01:43.761889", "status": "OK", "detail": "Exit code: 0", "duration_ms": 654.3639999999999}
+{"task": "Obsidian-日记", "system": "main", "timestamp": "2026-08-14T15:01:45.342552", "status": "OK", "detail": "Exit code: 0", "duration_ms": 821.803}
+{"task": "Obsidian-决策信号更新", "system": "main", "timestamp": "2026-08-14T15:02:57.839285", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3548.515}
+{"task": "Memory-Recall-启动上下文召回", "system": "main", "timestamp": "2026-08-14T15:03:15.133495", "status": "OK", "detail": "Exit code: 0", "duration_ms": 384.414}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-08-14T15:06:19.068298", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5132.28}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T15:12:37.094527", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2876.31}
+{"task": "Web-Hot-全网热点", "system": "main", "timestamp": "2026-08-14T15:12:45.964215", "status": "OK", "detail": "Exit code: 0", "duration_ms": 11642.167000000001}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-08-14T15:12:59.600167", "status": "OK", "detail": "Exit code: 0", "duration_ms": 158.25}
+{"task": "GitHub-Trending-每日追踪", "system": "main", "timestamp": "2026-08-14T15:13:15.923712", "status": "OK", "detail": "Today:17 Weekly:17 Python:19 Pushed:False", "duration_ms": 7973.940849304199}
+{"task": "INV-Closing-Strategy-开盘10:00", "system": "investment", "timestamp": "2026-08-14T15:13:24.193398", "status": "OK", "detail": "Exit code: 0", "duration_ms": 30840.625}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T15:15:23.871807", "status": "OK", "detail": "正常0 出错0 无日志0", "duration_ms": 89376.412}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T15:15:23.904726", "status": "OK", "detail": "正常0 出错0 无日志0", "duration_ms": 87921.087}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T15:15:23.929662", "status": "OK", "detail": "Exit code: 0", "duration_ms": 89535.994}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-08-14T15:15:34.649995", "status": "OK", "detail": "Exit code: 0", "duration_ms": 940.487}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-08-14T15:16:40.301496", "status": "OK", "detail": "Exit code: 0", "duration_ms": 353.056}
+{"task": "Obsidian-领域关系图更新", "system": "main", "timestamp": "2026-08-14T15:17:55.570293", "status": "OK", "detail": "Exit code: 0", "duration_ms": 761.9639999999999}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T15:18:00.770387", "status": "OK", "detail": "正常0 出错0 无日志0", "duration_ms": 59228.671}
+{"task": "Obsidian-今日推荐", "system": "main", "timestamp": "2026-08-14T15:18:56.284986", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1395.271}
+{"task": "Pre-Market-Check-开盘前预检", "system": "main", "timestamp": "2026-08-14T15:19:24.033808", "status": "OK", "detail": "Exit code: 0", "duration_ms": 413.894}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-08-14T15:20:43.096458", "status": "OK", "detail": "Exit code: 0", "duration_ms": 6302.152999999999}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-08-14T15:38:30.445039", "status": "OK", "detail": "Exit code: 0", "duration_ms": 355.049}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T15:38:49.662667", "status": "ERROR", "detail": "正常33 出错0 无日志62", "duration_ms": 25357.183}
+{"task": "INV-Closing-Strategy-开盘10:00", "system": "investment", "timestamp": "2026-08-14T15:38:50.997101", "status": "OK", "detail": "Exit code: 0", "duration_ms": 20934.041}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T15:41:26.367765", "status": "OK", "detail": "Exit code: 0", "duration_ms": 819.8100000000001}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T15:53:13.127460", "status": "OK", "detail": "Exit code: 0", "duration_ms": 6921.496}
+{"task": "INV-Closing-Report-收盘主动汇报", "system": "investment", "timestamp": "2026-08-14T15:53:19.026689", "status": "OK", "detail": "Exit code: 0", "duration_ms": 12165.478000000001}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T15:54:33.129651", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3876.637}
+{"task": "INV-ZT-Kline-涨停K线收集", "system": "investment", "timestamp": "2026-08-14T16:03:43.783890", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1123.996}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T16:03:45.181156", "status": "OK", "detail": "Exit code: 0", "duration_ms": 358.043}
+{"task": "INV-Closing-Report-收盘主动汇报", "system": "investment", "timestamp": "2026-08-14T16:04:07.231211", "status": "OK", "detail": "Exit code: 0", "duration_ms": 10483.974}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T16:30:59.258174", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3916.532}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T16:31:52.141797", "status": "OK", "detail": "Exit code: 0", "duration_ms": 238.362}
+{"task": "INV-Daily-Analysis", "system": "investment", "timestamp": "2026-08-14T16:36:58.133033", "status": "OK", "detail": "Exit code: 0", "duration_ms": 6844.701}
+{"task": "商业航天每日分析报告", "system": "investment", "timestamp": "2026-08-14T16:52:55.210807", "status": "OK", "detail": "Exit code: 0", "duration_ms": 79685.019}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T17:01:57.185361", "status": "OK", "detail": "Exit code: 0", "duration_ms": 190.48999999999998}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T17:02:03.778185", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3815.274}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T17:03:18.880286", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4101.037}
+{"task": "INV-Daily-Trade-Check", "system": "investment", "timestamp": "2026-08-14T17:19:18.570449", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2562.15}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T17:36:59.458597", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2986.015}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T17:37:01.881361", "status": "OK", "detail": "Exit code: 0", "duration_ms": 283.24100000000004}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T17:38:24.940169", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5870.3060000000005}
+{"task": "Daily-Evening-Report-晚间汇报", "system": "main", "timestamp": "2026-08-14T18:01:02.520064", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3403.533}
+{"task": "Memory-Recall-启动上下文召回", "system": "main", "timestamp": "2026-08-14T18:01:07.660786", "status": "OK", "detail": "Exit code: 0", "duration_ms": 244.338}
+{"task": "Memory-Recall-启动上下文召回", "system": "main", "timestamp": "2026-08-14T18:01:07.690705", "status": "OK", "detail": "Exit code: 0", "duration_ms": 225.39600000000002}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T18:06:01.669299", "status": "OK", "detail": "Exit code: 0", "duration_ms": 177.842}
+{"task": "Memory-Recall-启动上下文召回", "system": "main", "timestamp": "2026-08-14T18:06:29.307939", "status": "OK", "detail": "Exit code: 0", "duration_ms": 481.713}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T18:06:51.813295", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2302.4680000000003}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T18:30:40.932721", "status": "OK", "detail": "Exit code: 0", "duration_ms": 160.57}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T18:37:07.750405", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2287.883}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T19:04:25.673664", "status": "OK", "detail": "Exit code: 0", "duration_ms": 327.125}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T19:06:54.973477", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2089.842}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T19:30:17.140518", "status": "OK", "detail": "Exit code: 0", "duration_ms": 125.23500000000001}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T19:36:55.071928", "status": "OK", "detail": "Exit code: 0", "duration_ms": 731.682}
+{"task": "INV-ML-Training", "system": "investment", "timestamp": "2026-08-14T20:22:34.213059", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1318153.7550000001}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T20:25:40.841578", "status": "OK", "detail": "Exit code: 0", "duration_ms": 141.489}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T20:25:42.172365", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1519.1509999999998}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T20:30:17.573474", "status": "OK", "detail": "Exit code: 0", "duration_ms": 161.409}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T20:55:39.345654", "status": "OK", "detail": "Exit code: 0", "duration_ms": 692.075}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:00:21.112176", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 1645.42}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:00:29.155094", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 902.2900000000001}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:00:55.978874", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 879.606}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:04:57.901787", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 1394.2749999999999}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:04:58.078322", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 1364.3600000000001}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:05:09.666391", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 1198.7969999999998}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:06:06.637588", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 1302.501}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:06:15.207683", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 883.2719999999999}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:06:22.921250", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 926.534}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:06:30.032380", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 901.007}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-08-14T21:07:35.770807", "status": "ERROR", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条", "duration_ms": 860.02}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T21:08:08.212897", "status": "OK", "detail": "Exit code: 0", "duration_ms": 155.586}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T21:25:39.114251", "status": "OK", "detail": "Exit code: 0", "duration_ms": 715.625}
+{"task": "Obsidian-知识沉淀", "system": "main", "timestamp": "2026-08-14T21:30:07.864538", "status": "OK", "detail": "Exit code: 0", "duration_ms": 176.573}
+{"task": "Obsidian-日记", "system": "main", "timestamp": "2026-08-14T21:30:12.040267", "status": "OK", "detail": "Exit code: 0", "duration_ms": 118.698}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T21:30:24.767364", "status": "OK", "detail": "Exit code: 0", "duration_ms": 118.71}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T21:55:42.168504", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1011.2959999999999}
+{"task": "System-Maintenance-综合维护", "system": "main", "timestamp": "2026-08-14T21:59:11.816893", "status": "OK", "detail": "Exit code: 0", "duration_ms": 839.755}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-08-14T22:01:17.673586", "status": "OK", "detail": "Exit code: 0", "duration_ms": 200.464}
+{"task": "Session-Archive-会话沉淀", "system": "main", "timestamp": "2026-08-14T22:01:17.831165", "status": "OK", "detail": "Exit code: 0", "duration_ms": 200.464}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-08-14T22:01:30.038649", "status": "ERROR", "detail": "正常32 出错2 无日志61", "duration_ms": 12225.435}
+{"task": "INV-MXSearch-采集-22:00", "system": "investment", "timestamp": "2026-08-14T22:01:52.075397", "status": "OK", "detail": "Exit code: 0", "duration_ms": 34347.955}
+{"task": "Session-Save-会话记忆保存", "system": "main", "timestamp": "2026-08-14T22:03:29.864331", "status": "OK", "detail": "Exit code: 0", "duration_ms": 143.008}

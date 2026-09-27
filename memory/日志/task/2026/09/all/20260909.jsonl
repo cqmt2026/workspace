@@ -1,0 +1,45 @@
+{"task": "INV-Daily-Analysis", "system": "investment", "timestamp": "2026-09-09T20:08:44.863644", "status": "OK", "detail": "Exit code: 0", "duration_ms": 9313.007000000001}
+{"task": "WX-知识库-自动更新", "system": "weixin", "timestamp": "2026-09-09T20:08:59.816570", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1510.9589999999998}
+{"task": "Web-Hot-全网热点", "system": "main", "timestamp": "2026-09-09T20:09:00.481792", "status": "OK", "detail": "Exit code: 0", "duration_ms": 11955.667}
+{"task": "子系统健康检查", "system": "main", "timestamp": "2026-09-09T20:09:14.650072", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4543.845}
+{"task": "INV-Closing-Strategy-开盘10:00", "system": "investment", "timestamp": "2026-09-09T20:09:23.211181", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3100.708}
+{"task": "商业航天每日分析报告", "system": "investment", "timestamp": "2026-09-09T20:10:05.733763", "status": "OK", "detail": "Exit code: 0", "duration_ms": 40948.493}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-09T20:10:08.510340", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5609.001}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-09-09T20:10:28.396165", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2652.9069999999997}
+{"task": "INV-持仓公告监控", "system": "investment", "timestamp": "2026-09-09T20:11:10.209382", "status": "OK", "detail": "Exit code: 0", "duration_ms": 11313.746}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-09-09T20:11:11.488991", "status": "OK", "detail": "正常0 出错0 无日志0", "duration_ms": 46211.487}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-09-09T20:11:11.507940", "status": "OK", "detail": "Exit code: 0", "duration_ms": 46836.813}
+{"task": "Social-自我学习", "system": "social", "timestamp": "2026-09-09T20:11:23.976635", "status": "OK", "detail": "Exit code: 0", "duration_ms": 809.8349999999999}
+{"task": "GitHub-Trending-每日追踪", "system": "main", "timestamp": "2026-09-09T20:11:26.116912", "status": "OK", "detail": "Today:13 Weekly:20 Python:16 Pushed:False", "duration_ms": 8548.14338684082}
+{"task": "GitHub-Trending-每日追踪", "system": "main", "timestamp": "2026-09-09T20:11:26.143839", "status": "OK", "detail": "Exit code: 0", "duration_ms": 9038.829}
+{"task": "INV-Daily-Analysis", "system": "investment", "timestamp": "2026-09-09T20:11:49.196579", "status": "OK", "detail": "Exit code: 0", "duration_ms": 12414.171}
+{"task": "Hot-Topic-Finder-热点发现", "system": "social", "timestamp": "2026-09-09T20:12:04.571221", "status": "OK", "detail": "Exit code: 0", "duration_ms": 205600.73}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-09T20:12:18.512728", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4344.383}
+{"task": "INV-RPS-每日推送", "system": "investment", "timestamp": "2026-09-09T20:12:21.372609", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2792.062}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-09-09T20:12:28.770249", "status": "OK", "detail": "Exit code: 0", "duration_ms": 978.38}
+{"task": "INV-Morning-Brief-早盘参考", "system": "investment", "timestamp": "2026-09-09T20:12:53.727181", "status": "OK", "detail": "Exit code: 0", "duration_ms": 23855.877}
+{"task": "INV-Morning-Brief-早盘参考", "system": "investment", "timestamp": "2026-09-09T20:14:36.215759", "status": "OK", "detail": "Exit code: 0", "duration_ms": 29199.05}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-09-09T20:14:38.737017", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1080.1119999999999}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-09-09T20:14:59.152426", "status": "OK", "detail": "Exit code: 0", "duration_ms": 337.097}
+{"task": "Obsidian-领域关系图更新", "system": "main", "timestamp": "2026-09-09T20:15:53.249712", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2046.5279999999998}
+{"task": "Pre-Market-Check-开盘前预检", "system": "main", "timestamp": "2026-09-09T20:17:45.196998", "status": "OK", "detail": "Exit code: 0", "duration_ms": 224.39999999999998}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-09-09T20:20:12.666692", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3485.677}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-09-09T20:20:42.392205", "status": "OK", "detail": "Exit code: 0", "duration_ms": 16031.132}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-09-09T20:30:32.597858", "status": "OK", "detail": "Exit code: 0", "duration_ms": 11818.318}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-09-09T20:38:14.168250", "status": "OK", "detail": "Exit code: 0", "duration_ms": 27548.962}
+{"task": "Self-Heal-L1-Monitor", "system": "main", "timestamp": "2026-09-09T21:00:26.583797", "status": "OK", "detail": "Exit code: 0", "duration_ms": 6992.7609999999995}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-09T21:30:22.819417", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题15条", "duration_ms": 2209.0930000000003}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-09T21:30:22.836371", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2393.598}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-09T21:31:14.663966", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题15条", "duration_ms": 1196.799}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-09T21:31:14.680921", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1359.365}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-09T21:32:27.597231", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题15条", "duration_ms": 1187.824}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-09T21:32:27.613188", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1347.395}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-09T21:37:39.693294", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题15条", "duration_ms": 1218.742}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-09T21:37:39.710248", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1377.317}
+{"task": "Obsidian-知识沉淀", "system": "main", "timestamp": "2026-09-09T21:37:44.489893", "status": "OK", "detail": "Exit code: 0", "duration_ms": 199.466}
+{"task": "Session-Archive-会话沉淀", "system": "main", "timestamp": "2026-09-09T22:00:49.312880", "status": "OK", "detail": "Exit code: 0", "duration_ms": 141.619}
+{"task": "Session-Save-会话记忆保存", "system": "main", "timestamp": "2026-09-09T22:01:51.365583", "status": "OK", "detail": "Exit code: 0", "duration_ms": 196.47500000000002}
+{"task": "Session-Save-会话记忆保存", "system": "main", "timestamp": "2026-09-09T22:02:38.472343", "status": "OK", "detail": "Exit code: 0", "duration_ms": 194.478}
+{"task": "Session-Save-会话记忆保存", "system": "main", "timestamp": "2026-09-09T22:03:49.347682", "status": "OK", "detail": "Exit code: 0", "duration_ms": 190.492}
+{"task": "P0-读取率监控", "system": "main", "timestamp": "2026-09-09T22:35:16.339243", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5901.218}
+{"task": "P0-读取率监控", "system": "main", "timestamp": "2026-09-09T22:37:48.756335", "status": "OK", "detail": "Exit code: 0", "duration_ms": 354.05199999999996}

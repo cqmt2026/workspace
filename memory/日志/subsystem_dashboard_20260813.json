@@ -1,0 +1,91 @@
+{
+  "time": "2026-08-13 12:00",
+  "overall": "WARN",
+  "issues": [
+    {
+      "severity": "ERR",
+      "component": "Supermemory",
+      "detail": "port 8642 无法连接，服务未运行",
+      "suggestion": "确认 supermemory 服务是否已安装并启动。检查路径 C:\\Users\\Administrator\\.openclaw\\workspace\\supermemory 和 C:\\Users\\Administrator\\.openclaw\\supermemory"
+    },
+    {
+      "severity": "WARN",
+      "component": "Disk C:",
+      "detail": "剩余 8.5GB (11.6%)，低于15%阈值",
+      "suggestion": "清理大型目录：workspace(7.16GB)、agents(2.18GB)、browser(0.43GB)。可考虑删除 workspace-math/archive/ 或 douyin-downloads/ 中的旧文件"
+    },
+    {
+      "severity": "WARN",
+      "component": "Session State",
+      "detail": "最后更新 2026-06-23 07:50，距今 1228小时",
+      "suggestion": "session-state.md 长期未刷新，可能是Gateway重启后未自动重建。检查Gateway日志"
+    },
+    {
+      "severity": "WARN",
+      "component": "ML Model",
+      "detail": "ml_output_v6/lgb_v6.txt 不存在",
+      "suggestion": "旧模型在 archive/ 和 quant_ml/logs/ 中（v2-v17）。需重新训练 v6 模型或更新 dashboard 检查路径"
+    },
+    {
+      "severity": "WARN",
+      "component": "Novel",
+      "detail": "最新章节 第二章_重生.md 更新于 89 天前",
+      "suggestion": "小说连载停滞，需确认是否继续创作或暂停该子系统"
+    },
+    {
+      "severity": "WARN",
+      "component": "Social",
+      "detail": "7天内无新草稿",
+      "suggestion": "自媒体内容生产停滞，需确认运营计划"
+    },
+    {
+      "severity": "WARN",
+      "component": "Math Animation",
+      "detail": "无 ep_build 构建脚本",
+      "suggestion": "数学动画流水线未运行，检查 workspace-math/scripts/ 目录结构"
+    }
+  ],
+  "supermemory": {
+    "status": "DOWN",
+    "detail": "port 8642 not responding"
+  },
+  "disk": {
+    "status": "WARN",
+    "free_gb": 8.5,
+    "pct": 11.6
+  },
+  "session_state": {
+    "last_modified": "2026-06-23 07:50",
+    "age_min": 73695
+  },
+  "ml_model": {
+    "exists": false
+  },
+  "market_data": {
+    "latest": "2026-08-13",
+    "days_old": 0
+  },
+  "novel": {
+    "chapters": 3,
+    "latest": "第二章_重生.md",
+    "latest_mtime": "2026-05-15"
+  },
+  "social": {
+    "recent_7d": 0
+  },
+  "math": {
+    "ep_builds": 0,
+    "latest": "NONE"
+  },
+  "cron": {
+    "today_total": 67,
+    "today_errors": 0
+  },
+  "disk_breakdown": {
+    "agents": 2.18,
+    "browser": 0.43,
+    "npm": 0.28,
+    "plugins": 0.07,
+    "workspace": 7.16
+  }
+}

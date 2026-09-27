@@ -1,0 +1,85 @@
+{
+  "security": {
+    "gitignore_rules": 7,
+    "gitignore_has_env": false,
+    "gitignore_has_secrets": false,
+    "gitignore_has_pycache": false,
+    "env_exists": false
+  },
+  "runtime": {
+    "cron_jobs": 1,
+    "cron_last_error": "job interrupted by gateway restart",
+    "scripts_total": 103,
+    "scripts_syntax_ok": true,
+    "abandoned_scripts": 12
+  },
+  "docs": {
+    "all_exist": true,
+    "last_updates": {
+      "SOUL.md": "2026-07-23",
+      "AGENTS.md": "2026-07-23",
+      "USER.md": "2026-07-23",
+      "IDENTITY.md": "N/A",
+      "TOOLS.md": "2026-07-23",
+      "MEMORY.md": "2026-07-18"
+    }
+  },
+  "files": {
+    "abandoned_scripts": 12,
+    "abandoned_list": [
+      "test_drawtext.py",
+      "test_drawtext2.py",
+      "test_drawtext3.py",
+      "test_drawtext4.py",
+      "test_drawtext5.py",
+      "test_drawtext_correct.py",
+      "test_drawtext_final.py",
+      "test_drawtext_full.py",
+      "test_sub_ffmpeg.py",
+      "test_sub_ffmpeg2.py",
+      "_fix_sim_trade.py",
+      "_fix_sim_trade_complete.py"
+    ],
+    "empty_dirs": 14,
+    "large_files": [
+      "scripts/schema.txt (2619.6KB)"
+    ],
+    "memory_dir_items": "约80+个文件/目录"
+  },
+  "memory": {
+    "supermemory_lancedb": "OK (3项)",
+    "memory_system_db": "28KB",
+    "fix_logs": 11
+  },
+  "subsystems": {
+    "投资": "OK (66 scripts)",
+    "小说": "OK (179 scripts)",
+    "自媒体": "OK (24 scripts)",
+    "数学动画": "OK (Manim 0.20.1, TTS脚本0)",
+    "微信小程序": "OK (2 scripts)",
+    "地图热点": "OK (26 scripts)",
+    "Obsidian": "OK (359篇, 日记7月25日更新)"
+  },
+  "skills": {
+    "local_count": 39,
+    "all_have_skilmd": true
+  },
+  "services": {
+    "Bing搜索": "OK",
+    "东方财富": "OK",
+    "番茄小说": "OK",
+    "抖音": "404",
+    "头条": "OK"
+  },
+  "backup": {
+    "session_backup_count": 33,
+    "session_backup_size": "10.3MB",
+    "session_backup_range": "2026-06-19 ~ 2026-06-25",
+    "system_backup": "不存在"
+  },
+  "commercial": {
+    "ppt_templates": 10,
+    "maphot_videos": 0,
+    "ppt_output_dir": "OK"
+  }
+}

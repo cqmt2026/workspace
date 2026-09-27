@@ -1,0 +1,11 @@
+{"task": "WX-知识库-自动更新", "system": "weixin", "timestamp": "2026-09-16T20:56:13.419389", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1156.907}
+{"task": "INV-ZT-Kline-涨停K线收集", "system": "investment", "timestamp": "2026-09-16T20:57:06.595386", "status": "OK", "detail": "Exit code: 0", "duration_ms": 987.362}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-09-16T20:57:14.304375", "status": "OK", "detail": "正常0 出错0 无日志0", "duration_ms": 34405.775}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-09-16T20:57:14.328312", "status": "OK", "detail": "Exit code: 0", "duration_ms": 34866.56}
+{"task": "商业航天每日分析报告", "system": "investment", "timestamp": "2026-09-16T20:57:29.119763", "status": "OK", "detail": "Exit code: 0", "duration_ms": 49287.348}
+{"task": "INV-持仓公告监控", "system": "investment", "timestamp": "2026-09-16T20:58:32.413799", "status": "OK", "detail": "Exit code: 0", "duration_ms": 6539.450000000001}
+{"task": "INV-RPS-每日推送", "system": "investment", "timestamp": "2026-09-16T20:58:42.206922", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3763.78}
+{"task": "INV-Morning-Brief-早盘参考", "system": "investment", "timestamp": "2026-09-16T20:58:47.591598", "status": "OK", "detail": "Exit code: 0", "duration_ms": 23244.5}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-09-16T21:01:44.859793", "status": "OK", "detail": "Exit code: 0", "duration_ms": 485.226}
+{"task": "Obsidian-日记", "system": "main", "timestamp": "2026-09-16T21:30:11.420821", "status": "OK", "detail": "Exit code: 0", "duration_ms": 157.65}
+{"task": "Obsidian-知识沉淀", "system": "main", "timestamp": "2026-09-16T21:30:11.553471", "status": "OK", "detail": "Exit code: 0", "duration_ms": 290.3}

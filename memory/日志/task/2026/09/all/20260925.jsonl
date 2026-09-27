@@ -1,0 +1,31 @@
+{"task": "INV-持仓公告监控", "system": "investment", "timestamp": "2026-09-25T10:17:41.993764", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5609.185}
+{"task": "WX-知识库-自动更新", "system": "weixin", "timestamp": "2026-09-25T10:19:33.862773", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1038.8690000000001}
+{"task": "INV-RPS-每日推送", "system": "investment", "timestamp": "2026-09-25T10:19:53.519047", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2243.156}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-09-25T10:20:14.901652", "status": "ERROR", "detail": "正常12 出错0 无日志65", "duration_ms": 16205.381}
+{"task": "INV-Morning-Brief-早盘参考", "system": "investment", "timestamp": "2026-09-25T10:20:21.954641", "status": "OK", "detail": "Exit code: 0", "duration_ms": 28719.123}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-09-25T10:21:03.049483", "status": "OK", "detail": "Exit code: 0", "duration_ms": 8507.904999999999}
+{"task": "P2-语义关联", "system": "main", "timestamp": "2026-09-25T10:21:16.340298", "status": "OK", "detail": "Exit code: 0", "duration_ms": 6917.241}
+{"task": "P1-知识驱动决策", "system": "main", "timestamp": "2026-09-25T10:21:16.381271", "status": "OK", "detail": "Exit code: 0", "duration_ms": 14790.715}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-25T17:28:43.594676", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4570.6810000000005}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-09-25T17:28:59.880753", "status": "OK", "detail": "Exit code: 0", "duration_ms": 318.15}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-09-25T17:29:01.894067", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1853.742}
+{"task": "商业航天每日分析报告", "system": "investment", "timestamp": "2026-09-25T17:29:24.821107", "status": "OK", "detail": "Exit code: 0", "duration_ms": 29355.108}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-25T17:29:25.700105", "status": "OK", "detail": "Exit code: 0", "duration_ms": 303.188}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-09-25T17:29:40.779777", "status": "OK", "detail": "Exit code: 0", "duration_ms": 197.471}
+{"task": "INV-Closing-Report-收盘主动汇报", "system": "investment", "timestamp": "2026-09-25T17:30:22.436069", "status": "OK", "detail": "Exit code: 0", "duration_ms": 9285.107999999998}
+{"task": "INV-Daily-Trade-Check", "system": "investment", "timestamp": "2026-09-25T17:30:45.567897", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1881.769}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-09-25T17:31:03.328338", "status": "OK", "detail": "Exit code: 0", "duration_ms": 151.596}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-09-25T17:32:11.704765", "status": "OK", "detail": "Exit code: 0", "duration_ms": 142.732}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-25T17:36:07.900013", "status": "OK", "detail": "Exit code: 0", "duration_ms": 619.345}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-09-25T17:36:13.723439", "status": "OK", "detail": "Exit code: 0", "duration_ms": 293.217}
+{"task": "Memory-Recall-启动上下文召回", "system": "main", "timestamp": "2026-09-25T18:20:05.464801", "status": "OK", "detail": "Exit code: 0", "duration_ms": 305.828}
+{"task": "Daily-Evening-Report-晚间汇报", "system": "main", "timestamp": "2026-09-25T20:00:15.611265", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3365.235}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-25T21:30:18.368344", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题24条", "duration_ms": 2107.549}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-25T21:30:18.385299", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2265.738}
+{"task": "Session-Save-会话记忆保存", "system": "main", "timestamp": "2026-09-25T22:02:10.397724", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1686.491}
+{"task": "P2-语义关联", "system": "main", "timestamp": "2026-09-25T22:43:37.822899", "status": "OK", "detail": "Exit code: 0", "duration_ms": 33150.341}
+{"task": "P1-知识驱动决策", "system": "main", "timestamp": "2026-09-25T22:43:38.078216", "status": "OK", "detail": "Exit code: 0", "duration_ms": 55634.21000000001}
+{"task": "P0-读取率监控", "system": "main", "timestamp": "2026-09-25T22:45:42.316355", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4712.396}
+{"task": "P2-语义关联", "system": "main", "timestamp": "2026-09-25T22:46:13.862989", "status": "OK"}
+{"task": "P1-知识驱动决策", "system": "main", "timestamp": "2026-09-25T22:48:36.788684", "status": "OK", "detail": "Exit code: 0", "duration_ms": 6077.7429999999995}
+{"task": "P2-语义关联", "system": "main", "timestamp": "2026-09-25T22:52:24.780203", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3465.723}

@@ -1,0 +1,21 @@
+{"task": "Daily-Inspection-每日巡检", "system": "main", "timestamp": "2026-09-26T09:27:28.001119", "status": "OK", "detail": "Exit code: 0", "duration_ms": 25981.626}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-09-26T09:40:41.371453", "status": "ERROR", "detail": "正常18 出错1 无日志57", "duration_ms": 10525.929}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-26T10:00:45.881209", "status": "OK", "detail": "Exit code: 0", "duration_ms": 366.02000000000004}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-09-26T10:00:55.051071", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2300.844}
+{"task": "WX-知识库-自动更新", "system": "weixin", "timestamp": "2026-09-26T10:01:23.918440", "status": "OK", "detail": "Exit code: 0", "duration_ms": 750.99}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-26T10:01:33.398453", "status": "OK", "detail": "Exit code: 0", "duration_ms": 208.444}
+{"task": "WX-知识库-自动更新", "system": "weixin", "timestamp": "2026-09-26T10:02:11.120818", "status": "OK", "detail": "Exit code: 0", "duration_ms": 531.58}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-26T10:02:46.835184", "status": "OK", "detail": "Exit code: 0", "duration_ms": 249.333}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-26T10:07:53.447355", "status": "OK", "detail": "Exit code: 0", "duration_ms": 266.769}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-09-26T10:30:06.127863", "status": "OK", "detail": "Exit code: 0", "duration_ms": 134.152}
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-09-26T11:03:14.283393", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1639.6109999999999}
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-09-26T11:04:32.806774", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1812.1480000000001}
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-09-26T11:07:11.046403", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5766.5470000000005}
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-09-26T11:13:14.930281", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1471.063}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-09-26T21:49:39.513396", "status": "OK", "detail": "Exit code: 0", "duration_ms": 217.417}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-26T21:49:41.745119", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题24条", "duration_ms": 2270.619}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-26T21:49:41.760080", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2463.105}
+{"task": "Daily-Evening-Report-晚间汇报", "system": "main", "timestamp": "2026-09-26T21:49:43.301576", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3797.155}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-26T21:50:03.706113", "status": "OK", "detail": "Exit code: 0", "duration_ms": 247.70000000000002}
+{"task": "AI-Retry-错题AI重试", "system": "main", "timestamp": "2026-09-26T21:50:40.106306", "status": "OK", "detail": "Exit code: 0", "duration_ms": 178.551}
+{"task": "Session-Save-会话记忆保存", "system": "main", "timestamp": "2026-09-26T22:01:31.644945", "status": "OK", "detail": "Exit code: 0", "duration_ms": 444.00600000000003}

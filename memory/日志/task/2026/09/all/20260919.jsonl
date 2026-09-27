@@ -1,0 +1,12 @@
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-09-19T09:06:41.859728", "status": "OK", "detail": "Exit code: 0", "duration_ms": 493.67699999999996}
+{"task": "Memory-Recall-启动上下文召回", "system": "main", "timestamp": "2026-09-19T09:20:06.549701", "status": "OK", "detail": "Exit code: 0", "duration_ms": 594.938}
+{"task": "Daily-Inspection-每日巡检", "system": "main", "timestamp": "2026-09-19T09:25:46.846680", "status": "OK", "detail": "Exit code: 0", "duration_ms": 41103.074}
+{"task": "LOG-日志审计-每日检查", "system": "main", "timestamp": "2026-09-19T09:40:20.137660", "status": "ERROR", "detail": "正常24 出错1 无日志68", "duration_ms": 13411.395}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-09-19T10:00:28.175910", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2574.982}
+{"task": "WX-知识库-自动更新", "system": "weixin", "timestamp": "2026-09-19T10:01:29.669555", "status": "OK", "detail": "Exit code: 0", "duration_ms": 895.789}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-09-19T10:30:11.675808", "status": "OK", "detail": "Exit code: 0", "duration_ms": 161.86700000000002}
+{"task": "Novel-自我学习", "system": "novel", "timestamp": "2026-09-19T11:05:31.750859", "status": "OK", "detail": "Exit code: 0", "duration_ms": 356.102}
+{"task": "Social-自我学习", "system": "social", "timestamp": "2026-09-19T11:08:08.293621", "status": "OK", "detail": "Exit code: 0", "duration_ms": 435.401}
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-09-19T12:19:14.035477", "status": "OK", "detail": "Exit code: 0", "duration_ms": 198.47600000000003}
+{"task": "流程问题触发检查", "system": "main", "timestamp": "2026-09-19T14:00:04.388131", "status": "OK", "detail": "Exit code: 0", "duration_ms": 132.546}
+{"task": "Memory-Recall-启动上下文召回", "system": "main", "timestamp": "2026-09-19T18:20:06.027785", "status": "OK", "detail": "Exit code: 0", "duration_ms": 273.792}
