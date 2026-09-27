@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.db
+*.sqlite
+
+# 视频/媒体
+*.mp4
+*.mp3
+*.wav
+media/
+L4-共享/videos/
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+
+# OpenClaw内部
+.openclaw/
+*.lock
+
+# Node_modules
+node_modules/
