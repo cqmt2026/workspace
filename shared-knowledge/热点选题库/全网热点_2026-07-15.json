@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-15",
+  "time": "19:37:32",
+  "platforms": {
+    "weibo": [
+      {
+        "title": "电视卖不动了",
+        "hot_value": 1128141,
+        "link": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86"
+      },
+      {
+        "title": "国台办回应两岸统一时间",
+        "hot_value": 825964,
+        "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%B2%B8%E7%BB%9F%E4%B8%80%E6%97%B6%E9%97%B4"
+      },
+      {
+        "title": "工作组赴吉林暴雨洪涝灾区",
+        "hot_value": 735061,
+        "link": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E5%90%89%E6%9E%97%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%8C%BA"
+      },
+      {
+        "title": "西班牙首相就法国队没法国人道歉",
+        "hot_value": 679244,
+        "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E5%B0%B1%E6%B3%95%E5%9B%BD%E9%98%9F%E6%B2%A1%E6%B3%95%E5%9B%BD%E4%BA%BA%E9%81%93%E6%AD%89"
+      },
+      {
+        "title": "EWC",
+        "hot_value": 672652,
+        "link": "https://s.weibo.com/weibo?q=EWC"
+      },
+      {
+        "title": "功夫女足 换片源",
+        "hot_value": 667566,
+        "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%20%E6%8D%A2%E7%89%87%E6%BA%90"
+      },
+      {
+        "title": "最伤孩子大脑的行为是什么",
+        "hot_value": 660920,
+        "link": "https://s.weibo.com/weibo?q=%E6%9C%80%E4%BC%A4%E5%AD%A9%E5%AD%90%E5%A4%A7%E8%84%91%E7%9A%84%E8%A1%8C%E4%B8%BA%E6%98%AF%E4%BB%80%E4%B9%88"
+      },
+      {
+        "title": "苹果AI 千问",
+        "hot_value": 650772,
+        "link": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE"
+      },
+      {
+        "title": "国企投近900万拍综艺收益仅8600元",
+        "hot_value": 637168,
+        "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BC%81%E6%8A%95%E8%BF%91900%E4%B8%87%E6%8B%8D%E7%BB%BC%E8%89%BA%E6%94%B6%E7%9B%8A%E4%BB%858600%E5%85%83"
+      },
+      {
+        "title": "西班牙进球前一分钟的宇宙级传控",
+        "hot_value": 623784,
+        "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BF%9B%E7%90%83%E5%89%8D%E4%B8%80%E5%88%86%E9%92%9F%E7%9A%84%E5%AE%87%E5%AE%99%E7%BA%A7%E4%BC%A0%E6%8E%A7"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "2026 年上半年 GDP 695704 亿元，同比增长 4.7%，如何解读这一数据？",
+        "detail": "7月15日，国家统计局发布数据：初步核算，上半年国内生产总值695704亿元，按不变价格计算，同比增长4.7%。分季度看，今年一季度国内生产总值同比增长5.0%，二季度增长4.3%。从环比看，二季度国内生产总值增长0.9%。 国家统计局：2026年上半年GDP同比增长4.7%",
+        "cover": "https://picx.zhimg.com/v2-95931435b812588e326019775b557f93.png",
+        "hot_value_desc": "903 万热度",
+        "answer_cnt": 282,
+        "follower_cnt": 683,
+        "comment_cnt": 0,
+        "created_at": 1784080909000,
+        "created": "2026/07/15 10:01:49",
+        "link": "https://www.zhihu.com/question/2060665371351331817"
+      },
+      {
+        "title": "姆巴佩急了，全场0 射正、肘击西班牙门将吃黄牌，怎样评价他在半决赛的表现？",
+        "detail": "姆巴佩急了！连丢两球，法国队长姆巴佩，逼抢乌奈·西蒙犯规，被罚黄牌",
+        "cover": "https://pic4.zhimg.com/v2-ba789b18e06fd28dd606848c545ed741_1440w.png",
+        "hot_value_desc": "779 万热度",
+        "answer_cnt": 229,
+        "follower_cnt": 389,
+        "comment_cnt": 0,
+        "created_at": 1784072227000,
+        "created": "2026/07/15 07:37:07",
+        "link": "https://www.zhihu.com/question/2060628954185033001"
+      },
+      {
+        "title": "零食店特供版冰红茶比超市便宜 3 毛钱，瓶身却瘦了一圈，如何看待这种商业策略？你会愿意购买吗？",
+        "detail": "7 月 11 日，杭州的陈悦在小区楼下赵一鸣零食店买了瓶冰红茶，标价 2.2 元，比超市便宜 3 毛。回家和超市买的 500 毫升款摆在一起才发现，这瓶饮料是 468 毫升，瓶身瘦一圈。 康师傅客服在接受湖北经视采访时明确说，468 毫升是给零食折扣渠道做的特供款，普通超市不铺货。 从今年 3 月开始，这类特供品陆续在全国的零食店上架：乐事薯片从 40 克改成 35 克，可乐从 500 毫升改成 450 毫升，包装和超市款长得几乎一样，价格看起来更便宜。 变小的饮料和薯片，只是赵一鸣们的新规矩-36氪",
+        "cover": "https://pica.zhimg.com/v2-dfd962a1b737aec14abf82fb8408c324.png",
+        "hot_value_desc": "396 万热度",
+        "answer_cnt": 73,
+        "follower_cnt": 171,
+        "comment_cnt": 0,
+        "created_at": 1783930076000,
+        "created": "2026/07/13 16:07:56",
+        "link": "https://www.zhihu.com/question/2060032728419001271"
+      },
+      {
+        "title": "沙溢同样是被欺负了，为什么在《极限挑战》观众们叫好，在《跑男》都骂节目组？",
+        "detail": "",
+        "cover": "https://picx.zhimg.com/80/v2-b72f4a3648429fafbe556f0d22c2e70d_1440w.webp?source=1def8aca",
+        "hot_value_desc": "355 万热度",
+        "answer_cnt": 52,
+        "follower_cnt": 132,
+        "comment_cnt": 0,
+        "created_at": 1530255357000,
+        "created": "2018/06/29 14:55:57",
+        "link": "https://www.zhihu.com/question/283166946"
+      },
+      {
+        "title": "央视曝光湖南江华水稻种植面积造假，上报种植水稻 39 万亩实际仅为约 23.8 万亩，暴露出哪些问题？",
+        "detail": "央视新闻7月14日报道，粮食安全是“国之大者”，是国家长治久安的基石。中央一直强调18亿亩的耕地红线不能破，并且良田必须种粮食。近年来还相继出台了一系列强有力的政策措施，确保粮食生产的数量与质量。然而，记者在湖南省江华县采访时发现，当地上报的水稻种植面积与实际情况存在很大差距，粮食种植面积在当地成了“数字游戏”的浮夸风。 赤裸裸造假！央视曝光：县镇村三级应付检查，种植面积竟成数字游戏_腾讯新闻",
+        "cover": "https://pic4.zhimg.com/50/v2-83be11edfe8f7e36f0a5adcd7cbf4b39_b.jpg",
+        "hot_value_desc": "339 万热度",
+        "answer_cnt": 186,
+        "follower_cnt": 307,
+        "comment_cnt": 0,
+        "created_at": 1784075548000,
+        "created": "2026/07/15 08:32:28",
+        "link": "https://www.zhihu.com/question/2060642883007247443"
+      },
+      {
+        "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+        "detail": "DeepSeek完成最新一轮融资后，创始人梁文锋的个人财富增长逾一倍，使其成为全球 AI大模型创始人中身家最高的人。 根据彭博亿万富豪指数，梁文锋目前身家达360亿美元（此前约167亿美元），超过了Anthropic联合创始人达里奥·阿莫代伊和OpenAI联合创始人格雷格·布罗克曼。 此次比较仅涵盖主营业务及大部分收入直接来自AI大模型的企业，不包括阿里巴巴、腾讯等业务多元化大型科技集团，也不包括数据中心、半导体等AI产业链相关企业。 梁文锋绝大部分财富来自对DeepSeek的控股。今年6月，DeepSeek据悉完成500亿元融资，公司估值超3300亿元，梁文锋个人出资200亿元。根据彭博亿万富豪指数测算，其持股比例被稀释至约78%。DeepSeek创始人梁文锋身家飙升至360亿美元，成为全球AI大模型创始人首富",
+        "cover": "https://pic2.zhimg.com/50/v2-6204314ec4406d74a76782c19fb0bb8d_b.jpg",
+        "hot_value_desc": "239 万热度",
+        "answer_cnt": 96,
+        "follower_cnt": 435,
+        "comment_cnt": 0,
+        "created_at": 1784076142000,
+        "created": "2026/07/15 08:42:22",
+        "link": "https://www.zhihu.com/question/2060645375338180828"
+      },
+      {
+        "title": "如何看待比亚迪唐电机总成脱落事件客服最新回应，为底盘发生严重磕碰所致？",
+        "detail": "近日，网传一辆比亚迪唐汽车在积水道路行驶时后电机总成脱落一事引发关注。 据中国证券报·中证金牛座7月14日，比亚迪方面对记者回应称，涉事车辆涉水行驶时发生严重的底盘磕碰，导致后电机总成脱落，并非产品质量问题。 网传视频显示，事发时沈阳部分道路出现积水。一辆黑色比亚迪唐在积水路段行驶过程中，后电机总成从车辆底部脱落，并由橙色高压线束与车身相连，在积水中被车辆拖行。 相关视频在网络传播后，引发外界对车辆故障原因及新能源汽车涉水安全问题的关注。对于事故原因，比亚迪方面表示，车辆涉水时发生了严重的底盘磕碰，外力冲击造成后电机总成脱落。此次事件并非后电机总成在正常行驶状态下自行脱落，也不属于产品质量问题。截至目前，涉事车辆的具体年款、底盘受损部位及维修进展尚未披露。 资料显示，比亚迪唐是比亚迪王朝系列SUV车型，于2015年正式上市，涵盖插电混动（DM-i、DM-p）及纯电（EV）版本，是公司销量较高的SUV之一，也是比亚迪较早布局新能源SUV市场的代表车型。一辆比亚迪唐电机总成脱落，比亚迪回应：非质量问题，涉事车辆发生严重底盘磕碰导致脱落 7月13日，有网友发布视频，视频当中沈阳街头一辆比亚迪新能源车在行驶过程中，车尾下方有大型底盘部件脱落并掉在路面。 从视频画面看，涉事车辆悬挂辽 A 牌照，掉落部件位于车尾下方附近。发布内容称其为「电机脱落」，但目前尚未看到车企、车主或权威机构对具体车型、脱落部件名称及原因作出正式说明。",
+        "cover": "https://pic1.zhimg.com/v2-e0959497c2190565bda27a41f244636e_1440w.jpg",
+        "hot_value_desc": "206 万热度",
+        "answer_cnt": 177,
+        "follower_cnt": 386,
+        "comment_cnt": 0,
+        "created_at": 1783920814000,
+        "created": "2026/07/13 13:33:34",
+        "link": "https://www.zhihu.com/question/2059993881601749194"
+      },
+      {
+        "title": "LOL官宣将推出怀旧模式，还原老版模型与旧数值且长期开放，在玩家日趋流失的现在会是个好做法吗？",
+        "detail": "作为一个竞技类游戏，推出怀旧模式感觉是否有点不合适？文章详情-英雄联盟官方网站-腾讯游戏",
+        "cover": "https://pic3.zhimg.com/50/v2-662760a59ec08dbb8ff13470cfbcde6e_b.jpg",
+        "hot_value_desc": "174 万热度",
+        "answer_cnt": 213,
+        "follower_cnt": 255,
+        "comment_cnt": 0,
+        "created_at": 1782570108000,
+        "created": "2026/06/27 22:21:48",
+        "link": "https://www.zhihu.com/question/2054328613269398401"
+      },
+      {
+        "title": "为什么老一辈人都觉得空调不能长时间吹？",
+        "detail": "",
+        "cover": "https://picx.zhimg.com/v2-e713344d15c041d38534f21514769cdb.png",
+        "hot_value_desc": "158 万热度",
+        "answer_cnt": 3892,
+        "follower_cnt": 6193,
+        "comment_cnt": 0,
+        "created_at": 1689154306000,
+        "created": "2023/07/12 17:31:46",
+        "link": "https://www.zhihu.com/question/611736271"
+      },
+      {
+        "title": "现在大厂都没实力提供托儿所和厂办医院，当年为啥可以，当年工人产值那么高吗？",
+        "detail": "",
+        "cover": "https://pica.zhimg.com/v2-ccd1ed21b5729c8751e70803722e8522_1440w.jpg",
+        "hot_value_desc": "141 万热度",
+        "answer_cnt": 95,
+        "follower_cnt": 197,
+        "comment_cnt": 0,
+        "created_at": 1782810728000,
+        "created": "2026/06/30 17:12:08",
+        "link": "https://www.zhihu.com/question/2055337846555391286"
+      }
+    ],
+    "douyin": [
+      {
+        "title": "暑假学习做饭成果展",
+        "hot_value": 12119561,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/oIAsTYEwe3AFfEgABj9I8VfUAIDLEEAI8AhqNW~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=y6CmbSax9yRPtdWArDt8SGd6ba8%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%9A%91%E5%81%87%E5%AD%A6%E4%B9%A0%E5%81%9A%E9%A5%AD%E6%88%90%E6%9E%9C%E5%B1%95",
+        "event_time": "2026/07/15 11:21:15",
+        "event_time_at": 1784085675,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "感受云南菌子的N种打开方式",
+        "hot_value": 12102069,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oAtsY4AQEUDAra5FMYCqiUzeuPQB7BPgQ5eAfX~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=O60JIjI0oTjWaCRrVa6UQBXJVsE%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%84%9F%E5%8F%97%E4%BA%91%E5%8D%97%E8%8F%8C%E5%AD%90%E7%9A%84N%E7%A7%8D%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F",
+        "event_time": "2026/07/15 12:26:21",
+        "event_time_at": 1784089581,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "上半年中国拿下N个世界第一",
+        "hot_value": 12087506,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0mJUBgqvKGQAkAvgsKBC2nsEELf7rsIK8lGee~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=yDbQZG0vYIPq3yO0OVl3oeZDVk0%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%8B%BF%E4%B8%8BN%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
+        "event_time": "2026/07/15 15:14:51",
+        "event_time_at": 1784099691,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "国行苹果AI完成备案",
+        "hot_value": 12044332,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oQUryzEhQooMCrvBIf2uxBA5A7FgYafzfAHDXE~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=CER6Utt1w08KU7nigYTSumJEnnw%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E5%AE%8C%E6%88%90%E5%A4%87%E6%A1%88",
+        "event_time": "2026/07/15 16:30:38",
+        "event_time_at": 1784104238,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "今日入伏",
+        "hot_value": 10822387,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oEEyem9AIAAfTI5WBqxgwbNyDBF0pvVDrJb404~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=h8At41RnDN5m6DMNOJdxzX1L5yQ%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%85%A5%E4%BC%8F",
+        "event_time": "2026/07/15 07:20:25",
+        "event_time_at": 1784071225,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "未成年如何申领网号网证",
+        "hot_value": 10755633,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogEGUAO8NCC4REQqNVFfABgcF04eBaQW9UDlAg~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=d9JkJnaqZD3Knm7%2BLtsXjOngbVo%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A6%82%E4%BD%95%E7%94%B3%E9%A2%86%E7%BD%91%E5%8F%B7%E7%BD%91%E8%AF%81",
+        "event_time": "2026/07/15 08:29:58",
+        "event_time_at": 1784075398,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "抖火杯S3投票开启",
+        "hot_value": 9454249,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQ21eTveAoogfBMpkNcvgwCWQGo4Zs4YeAY5DP~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=m%2BYvhAwDowUeLlOdR6ITSNbfdn0%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%8A%96%E7%81%AB%E6%9D%AFS3%E6%8A%95%E7%A5%A8%E5%BC%80%E5%90%AF",
+        "event_time": "2026/07/15 14:45:51",
+        "event_time_at": 1784097951,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "日常不费力的复古氛围感穿搭",
+        "hot_value": 9409116,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o8BN9wDUURlfE7GXSexNNqrECd1FEAqmAIgAZl~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=9rcvJ6Kuhh1trbVRXXxnvbZpH9A%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%97%A5%E5%B8%B8%E4%B8%8D%E8%B4%B9%E5%8A%9B%E7%9A%84%E5%A4%8D%E5%8F%A4%E6%B0%9B%E5%9B%B4%E6%84%9F%E7%A9%BF%E6%90%AD",
+        "event_time": "2026/07/14 09:14:13",
+        "event_time_at": 1783991653,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "长鑫科技打新明日来袭",
+        "hot_value": 9318235,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oM7kOMMvaV7G7jXkr5RAhNCVPNOuiPAEBA7iI~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=AjE8b15r1auQOisIIyOtyBrUiTE%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%89%93%E6%96%B0%E6%98%8E%E6%97%A5%E6%9D%A5%E8%A2%AD",
+        "event_time": "2026/07/15 17:11:52",
+        "event_time_at": 1784106712,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      },
+      {
+        "title": "国台办回应两岸统一时间",
+        "hot_value": 9179534,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o0TBIvaXAtdYc95jQLiAkl6FIDCtBcgIPPiny~noop.jpeg?lk3s=bfd515bb&x-expires=1784134800&x-signature=Pa7w1O2u4rq4a3beqIF%2FCe3dkHc%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%B2%B8%E7%BB%9F%E4%B8%80%E6%97%B6%E9%97%B4",
+        "event_time": "2026/07/15 12:17:50",
+        "event_time_at": 1784089070,
+        "active_time": "2026-07-15 19:34:19",
+        "active_time_at": 1784144059000
+      }
+    ]
+  }
+}

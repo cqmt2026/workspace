@@ -1,0 +1,466 @@
+{
+  "date": "2026-09-15",
+  "time": "20:15:26",
+  "platforms": {
+    "weibo": [
+      {
+        "title": "平台月付将退出支付选项",
+        "hot_value": 1101950,
+        "link": "https://s.weibo.com/weibo?q=%E5%B9%B3%E5%8F%B0%E6%9C%88%E4%BB%98%E5%B0%86%E9%80%80%E5%87%BA%E6%94%AF%E4%BB%98%E9%80%89%E9%A1%B9"
+      },
+      {
+        "title": "新能源汽车 燃油车",
+        "hot_value": 790892,
+        "link": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%20%E7%87%83%E6%B2%B9%E8%BD%A6"
+      },
+      {
+        "title": "分享你的互联网福尔摩斯时刻",
+        "hot_value": 782590,
+        "link": "https://s.weibo.com/weibo?q=%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E6%97%B6%E5%88%BB"
+      },
+      {
+        "title": "本来以为泡泡玛特赚不到我的钱",
+        "hot_value": 780401,
+        "link": "https://s.weibo.com/weibo?q=%E6%9C%AC%E6%9D%A5%E4%BB%A5%E4%B8%BA%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%B5%9A%E4%B8%8D%E5%88%B0%E6%88%91%E7%9A%84%E9%92%B1"
+      },
+      {
+        "title": "娜扎被宋祖儿嘘过",
+        "hot_value": 398816,
+        "link": "https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E8%A2%AB%E5%AE%8B%E7%A5%96%E5%84%BF%E5%98%98%E8%BF%87"
+      },
+      {
+        "title": "湘雅医学院教师PPT称23年未见父母",
+        "hot_value": 346999,
+        "link": "https://s.weibo.com/weibo?q=%E6%B9%98%E9%9B%85%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E5%B8%88PPT%E7%A7%B023%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D"
+      },
+      {
+        "title": "北京落地签",
+        "hot_value": 335705,
+        "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E8%90%BD%E5%9C%B0%E7%AD%BE"
+      },
+      {
+        "title": "范丞丞回复现发团",
+        "hot_value": 312945,
+        "link": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9E%E5%A4%8D%E7%8E%B0%E5%8F%91%E5%9B%A2"
+      },
+      {
+        "title": "孙颖莎封训期间用大量时间恢复身体",
+        "hot_value": 302758,
+        "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%81%E8%AE%AD%E6%9C%9F%E9%97%B4%E7%94%A8%E5%A4%A7%E9%87%8F%E6%97%B6%E9%97%B4%E6%81%A2%E5%A4%8D%E8%BA%AB%E4%BD%93"
+      },
+      {
+        "title": "我国人口总量14.05亿",
+        "hot_value": 248033,
+        "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%80%BB%E9%87%8F14.05%E4%BA%BF"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
+        "detail": "DeepSeek v4.1 的主 Attention 算子负责人刘胜与发了一篇 《我不得不把才华埋葬在昨天》，主要是说，半年到一年内，AI 写算子的水平就会追平甚至超过自己，目前人类受限于思考速度、输出节奏和并行上限，而模型可以在推理深度、工具调用、并行度上持续堆叠。 所以就算知道越优化算子、模型迭代越快、自己被替代越快，他还是选择全力投入，理由是“与其被别人革命，不如自己革自己的命”。https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA",
+        "cover": "https://pic1.zhimg.com/v2-fb1afea59cec0384272cfaa011dd6711.png",
+        "hot_value_desc": "1878 万热度",
+        "answer_cnt": 266,
+        "follower_cnt": 1361,
+        "comment_cnt": 0,
+        "created_at": 1789435250000,
+        "created": "2026/09/15 09:20:50",
+        "link": "https://www.zhihu.com/question/2083123101873844765"
+      },
+      {
+        "title": "理想等车企加速「去宁化」，其背后原因是什么？对行业有何影响？",
+        "detail": "宁德时代股价近期连续走低。9月9日，宁德时代A股股价一度跌至327.10元/股，创下年内第二新低纪录，此前一日其股价一度低至326元/股，创下年内最低纪录。午后，宁德时代股价有所回升，截至下午收盘，微涨0.40%，报336.84元/股。汽车企业们正在加速“去宁化”，以及此前宣布的超百亿回购计划迟迟未见启动，或是拉低宁德股价的主要因素。理想汽车9月7日在公众号发文称，新一代理想MEGA的首批交付采用的是宁德时代的5C三元锂电池，随着理想自研电池的生产准备完成，将全量切换为理想自研5C三元锂电池。理想汽车表示，由于新一代理想MEGA前几日的定单超出了预期，宁德时代的5C三元锂电池储备也即将消耗完毕。从9月7日15：00及之后锁单的用户，将切换为理想自研5C三元锂电池，预计11月起开始交付。而在今年6月，上市的理想L8全系电芯由欣旺达提供，宁德时代退出该车系供应。小米汽车则引入中创新航作为“龙甲电池”供应商。小米汽车于9月4日召开龙甲电池战略合作发布会，正式公布与中创新航的战略合作关系，并公布龙甲电池相关细节。龙甲电池由小米与中创新航以“全链路协同”的方式联合，开展产品定义、电池设计开发、量产制造、全流程质量管控及全生命周期质量保障。龙甲电池的电芯由欣旺达制造。据21世纪经济此前报道，在SU7、YU7上，小米采用的是宁德时代和弗迪的电池，其中宁德时代是一供、弗迪是二供。据接触小米汽车电池供应链体系的知情人士称，在所有已交付的车型上，宁德时代电池供应比例超过80%。除了理想和小米之外，鸿蒙智行、小鹏、零跑等多家新能源车企也都在扩大动力电池供应商名单。虽然“去宁化”自2023年就已经开始，但是今年以来，一场由车企主导的动力电池供应链重构，正在加速展开。我国动力电池市场集中度较高。乘联分会数据显示，1-7月，我国动力和其它电池合计产量为1287GWh，同比增长32%。宁德时代继续保持绝 理想等车企“去宁化”加速",
+        "cover": "https://pic1.zhimg.com/v2-ab7832a7e4462a6d7053fd736fce5a34.png",
+        "hot_value_desc": "569 万热度",
+        "answer_cnt": 175,
+        "follower_cnt": 479,
+        "comment_cnt": 0,
+        "created_at": 1788948117000,
+        "created": "2026/09/09 18:01:57",
+        "link": "https://www.zhihu.com/question/2081079920558600596"
+      },
+      {
+        "title": "为什么《笑傲江湖》中岳不群在网络的风评这几年变好了？",
+        "detail": "为什么岳不群的风评这几年变好了？他是从什么时候开始真正对令狐冲彻底失望的？",
+        "cover": "https://picx.zhimg.com/v2-dd275773ca6610db1c3cde3baa71a6bc.png",
+        "hot_value_desc": "303 万热度",
+        "answer_cnt": 192,
+        "follower_cnt": 279,
+        "comment_cnt": 0,
+        "created_at": 1788521074000,
+        "created": "2026/09/04 19:24:34",
+        "link": "https://www.zhihu.com/question/2079288771611211311"
+      },
+      {
+        "title": "比亚迪高管称燃油车没有未来，如何看待这一言论？燃油车会快速退场吗？",
+        "detail": "近日，比亚迪执行副总裁李柯在接受采访时表示：“在中国，随着比亚迪闪充技术的普及，我认为燃油车已经没有未来，这是非常明确的。”她还表示，全球其他地区的电动化转型可能需要花费几年，但是最终的结局是一样的。此外，她还透露，比亚迪计划在2027年推出搭载固态电池的车型。比亚迪高管称燃油车没有未来",
+        "cover": "https://pica.zhimg.com/v2-a839ed6d11b64918423a2b5bbd86baca.png",
+        "hot_value_desc": "184 万热度",
+        "answer_cnt": 158,
+        "follower_cnt": 220,
+        "comment_cnt": 0,
+        "created_at": 1789369113000,
+        "created": "2026/09/14 14:58:33",
+        "link": "https://www.zhihu.com/question/2082845705690001649"
+      },
+      {
+        "title": "如何看待英伟达、Palantir等金主集体限制Anthropic Claude使用？",
+        "detail": "",
+        "cover": "https://pic1.zhimg.com/80/v2-a21a13a7c83a4500c0b09b828e365223_1440w.webp?source=1def8aca",
+        "hot_value_desc": "155 万热度",
+        "answer_cnt": 20,
+        "follower_cnt": 62,
+        "comment_cnt": 0,
+        "created_at": 1789433972000,
+        "created": "2026/09/15 08:59:32",
+        "link": "https://www.zhihu.com/question/2083117744707352472"
+      },
+      {
+        "title": "为什么重庆可以在山上建设城市，深圳香港不可以？",
+        "detail": "",
+        "cover": "https://pica.zhimg.com/v2-ce7ae2a80adb70bf2773d11aa8967a7d.png",
+        "hot_value_desc": "123 万热度",
+        "answer_cnt": 30,
+        "follower_cnt": 118,
+        "comment_cnt": 0,
+        "created_at": 1654049452000,
+        "created": "2022/06/01 10:10:52",
+        "link": "https://www.zhihu.com/question/535563414"
+      },
+      {
+        "title": "苹果正式推送 iOS 27，本次更新主打液态玻璃 UI 进阶，还有哪些亮点值得关注？你会更新吗？",
+        "detail": "苹果2024年推出Apple Intelligence、随后多次预告的新一代Siri真正开始走向用户。 美东时间9月14日周一，苹果正式向用户推送iOS 27，同时上线macOS 27、watchOS 27、iPadOS 27和visionOS 27。此次系统更新最大的看点，是苹果已经在今年6月发布、但迟迟未能正式交付的Siri AI终于进入公开测试阶段，目前仅支持英语，法语、日语、韩语、葡萄牙语和西班牙语等语言计划于10月陆续加入。 相比过去主要负责回答问题、执行简单指令的Siri，新版Siri的核心变化并不是“更会聊天”，而是开始理解用户的个人上下文、屏幕内容和跨应用任务，并尝试直接替用户完成操作。换言之，苹果希望Siri从一个语音助手，逐步变成iPhone上的AI操作入口。 从“回答问题”到“替你做事”：Siri开始理解整个iPhone 新版Siri由Apple Intelligence驱动，并结合谷歌Gemini模型能力，可以根据用户授权访问照片、邮件、信息等个人数据，还能够理解屏幕内容、识别摄像头拍摄的物体，并执行日历安排、信息发送等任务。 这意味着用户不再需要准确说出一条条机械指令。例如，Siri可以根据用户正在查看的内容回答问题，也可以从邮件、信息中寻找相关信息，再进一步完成后续操作；用户还可以让Siri识别眼前的物体或食物，并根据识别结果提供建议。 苹果同时加入了“屏幕感知”和视觉能力：Siri可以读取用户当前屏幕上的文字和内容，并结合上下文进行回答；调用摄像头后，则能够识别物品、食物等现实世界中的对象。 媒体实际体验显示，新Siri已经可以处理多步骤任务，例如寻找iOS 27中的某些功能并整理到备忘录，也可以从邮件、信息中提取信息后起草消息。 相比之下，过去的Siri更多停留在“执行一条指令”的层面，新Siri试图理解的是用户正在做什么、手里有什么信息，以及下一步想完成什么。 Siri AI仍是“半成品”：第三方App接入决定上限 不过，这场迟到的升级仍然带着明显的“测试版”色彩。 苹果此次将Siri AI以Beta形式推出，且首批仅支持英语。媒体还指出，新Siri虽然已经能够理解个人上下文并执行更复杂任务，但在准确性和响应速度方面仍存在不足，第三方App的深度接入也尚未完全到位。 这意味着，苹果真正想实现的“AI接管iPhone”，目前仍受到生态限制。只有当更多第三方开发者开放应用接口，Siri才能从苹果自有应用进一步延伸到更广泛的手机操作场景。 这也是苹果此次升级与ChatGPT、Claude等通用AI助手竞争时最关键的一环： iOS 27不只有Siri AI：Liquid Glass迎来细节调整 除了Siri AI，iOS 27还对去年推出的Liquid Glass设计进行了进一步调整。 苹果新增透明度调节选项，用户可以自行选择更加通透或更加不透明的界面效果；系统还更新了应用图标、增加更大尺寸的小组件，并允许用户分别调节铃声、闹钟、计时器、提醒和系统声音的音量。 iOS 27支持iPhone 11及后续机型，以及第二代iPhone SE及更新机型。不过， 因此，同样升级iOS 27，不同iPhone用户获得的其实是两套不同的体验：老设备主要得到系统设计和功能层面的更新，而新设备才能真正体验苹果押注已久的AI能力。 macOS 27同步加入Siri AI，苹果押注AI成为系统级入口 同日，苹果还正式发布macOS 27“Golden Gate”，Siri AI也同步登陆Mac。 新版Siri可以搜索用户的照片、邮件等个人内容，并在信息、提醒事项等应用中执行操作；苹果还为Siri加入了独立应用，可以保存此前的对话，方便用户之后继续使用。macOS 27同样采取Beta形式，首批仅支持英语。 相比单纯增加一个聊天机器人，苹果这次真正试图改变的是Siri在操作系统中的位置—— 如果后续第三方应用接入、准确率和多语言支持能够进一步完善，那么这次迟到的Siri AI，才可能真正兑现苹果此前提出的“让AI贯穿整个设备体验”的目标。苹果Siri AI拖了两年终落地！iOS 27上线，AI开始接管iPhone",
+        "cover": "https://pic2.zhimg.com/50/v2-d7a52b693bfafa27d48258b3ab01aa13_b.gif",
+        "hot_value_desc": "112 万热度",
+        "answer_cnt": 29,
+        "follower_cnt": 58,
+        "comment_cnt": 0,
+        "created_at": 1789430785000,
+        "created": "2026/09/15 08:06:25",
+        "link": "https://www.zhihu.com/question/2083104375505778481"
+      },
+      {
+        "title": "「大学生生活费才3000」引发讨论，有人说不够花有人说很多，你怎么看？你上大学每月生活费是多少？",
+        "detail": "「大学生一个月生活费才3000块。」 一个「才」字引发讨论。2026年开学季，这句话在社交平台上被反复转发，评论区吵得不可开交。 有人说3000不够花：一线城市食堂吃饭、日用品、话费，再加上同学聚餐、奶茶、买衣物，3000元勉强维持，稍有额外支出就超预算。有人说3000已经很多：2026年调研显示，全国大学生月均生活费约1860元，超八成学生集中在1000到2000元区间，3000元已处于前20% 档位，属于「富足型」的3% 人群。 你怎么看？",
+        "cover": "https://pic4.zhimg.com/v2-f9b4278fe3936880007e056d81df8529_1440w.jpg",
+        "hot_value_desc": "112 万热度",
+        "answer_cnt": 39,
+        "follower_cnt": 60,
+        "comment_cnt": 0,
+        "created_at": 1789449557000,
+        "created": "2026/09/15 13:19:17",
+        "link": "https://www.zhihu.com/question/2083183110737195253"
+      },
+      {
+        "title": "王健林又卖掉一个47亿资产，万达旗下盈方体育将HYROX多数股权卖给LVMH旗下机构，这意味着什么？",
+        "detail": "近日，万达旗下公司出售了全球综合体能赛事IP Hyrox多数股权。 盈方体育传媒公司（Infront Sports & Media AG，简称盈方体育）9月8日发布消息称，已将其在HYROX的多数股权出售，接盘方是全球最大消费投资机构L Catterton牵头的财团。该财团的核心人物包括Hyrox两位联合创始人Christian Toetzke、Moritz Fürste，以及硅谷知名基金WndrCo。（界面新闻）https://mp.weixin.qq.com/s/zIMGmKHXrxgU0PC6OyiXAA",
+        "cover": "https://pic1.zhimg.com/80/v2-e016b1b014b24d59b6a6dbc78ba2cfbe_1440w.webp?source=1def8aca",
+        "hot_value_desc": "111 万热度",
+        "answer_cnt": 22,
+        "follower_cnt": 34,
+        "comment_cnt": 0,
+        "created_at": 1789359257000,
+        "created": "2026/09/14 12:14:17",
+        "link": "https://www.zhihu.com/question/2082804365455378411"
+      },
+      {
+        "title": "海底捞股价创四年半来盘中新低，大股东折价大宗减持，哪些信息值得关注？",
+        "detail": "海底捞跌逾8% 创四年半来盘中新低 9月9日，海底捞在香港的股价跌至2022年3月中以来的盘中新低，周三早些时候该公司一笔1620万股股份（相当于流通股的0.8%）的大宗交易以1.72亿港元成交，每股成交价10.62港元较周二收盘价折让6.7%。据报道，海底捞董事长兼CEO张勇的妻子舒萍拟通过瑞银以每股10.60至10.70港元的价格出售2.59亿股股份，拟定于9月9日进行交易。该价格较上一交易日收盘价折价5.98%至6.85%。",
+        "cover": "https://pic4.zhimg.com/50/v2-785179928ef21f8b042169547fd9c1e9_b.jpg",
+        "hot_value_desc": "96 万热度",
+        "answer_cnt": 18,
+        "follower_cnt": 38,
+        "comment_cnt": 0,
+        "created_at": 1788932705000,
+        "created": "2026/09/09 13:45:05",
+        "link": "https://www.zhihu.com/question/2081015276439614954"
+      }
+    ],
+    "douyin": [
+      {
+        "title": "25号台风“杜鹃”未来或将趋向日本",
+        "hot_value": 12044917,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oIjkDLC7GGVaULBQaAKaAeP6ge4ZObBIf7gDbO~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=KFbByILAVqjGPF63D11hMxrHa1U%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC",
+        "event_time": "2026/09/15 13:44:07",
+        "event_time_at": 1789451047,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "中国男篮四分之一决赛将战沙特",
+        "hot_value": 11880921,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oo07yTE9iDIpxPaqBdqZeFAQDfApFBFNmCbVfQ~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=TFjffQP0A%2B7jqoAVl2wvT028WUc%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%B0%86%E6%88%98%E6%B2%99%E7%89%B9",
+        "event_time": "2026/09/14 22:14:05",
+        "event_time_at": 1789395245,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "8月国民经济运行平稳",
+        "hot_value": 11364821,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o4KV1DUrQAaes5LBwBqEzyBfQQ27AdFpVoCauf~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=wR8sovRrZ4rYuYdA14zXrO7M5%2B0%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/8%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E5%B9%B3%E7%A8%B3",
+        "event_time": "2026/09/15 10:55:30",
+        "event_time_at": 1789440930,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "特种兵玩家准备开启快闪模式",
+        "hot_value": 11207432,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o03BMIMGghUD4sfLeiV7JCAvIenEvTIK7ROqmQ~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=xMlFYOR97eTEM76HKq1UFPz7XTA%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E7%89%B9%E7%A7%8D%E5%85%B5%E7%8E%A9%E5%AE%B6%E5%87%86%E5%A4%87%E5%BC%80%E5%90%AF%E5%BF%AB%E9%97%AA%E6%A8%A1%E5%BC%8F",
+        "event_time": "2026/09/15 10:23:36",
+        "event_time_at": 1789439016,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "CS Major再度落地上海",
+        "hot_value": 10546253,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o8AfBBoVGIHGn75Q0moeCL5UmGYlHcQVfMtYsA~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=j3pol7JNKGVzAoOx9MRj8RANh10%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/CS%20Major%E5%86%8D%E5%BA%A6%E8%90%BD%E5%9C%B0%E4%B8%8A%E6%B5%B7",
+        "event_time": "2026/09/15 14:37:57",
+        "event_time_at": 1789454277,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "北京香山论坛今日举行",
+        "hot_value": 10545463,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUFBmaqfSoS1iEA8IDj4eoTBwi5AogErPHVOIq~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=B0JjINMclL9TgxhRjZdvU9vCr9w%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C",
+        "event_time": "2026/09/15 09:52:23",
+        "event_time_at": 1789437143,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "需要浇水才能长出的拼豆绿植",
+        "hot_value": 9353231,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYE6I5B1AgTIzie2qioAvMRAn7bBUi3zfD49kA~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=sVTAbrKvYbz2agABlNWLFeQtiXQ%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E9%9C%80%E8%A6%81%E6%B5%87%E6%B0%B4%E6%89%8D%E8%83%BD%E9%95%BF%E5%87%BA%E7%9A%84%E6%8B%BC%E8%B1%86%E7%BB%BF%E6%A4%8D",
+        "event_time": "2026/09/15 17:56:53",
+        "event_time_at": 1789466213,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "米兰集市1欧淘衣太快乐了",
+        "hot_value": 9237505,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/osAowFIgC9AiOif4W59s7pf1hCBXABjI1HaqJn~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=2svHWf6MBWMEkOgCnfBctMGeImQ%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E7%B1%B3%E5%85%B0%E9%9B%86%E5%B8%821%E6%AC%A7%E6%B7%98%E8%A1%A3%E5%A4%AA%E5%BF%AB%E4%B9%90%E4%BA%86",
+        "event_time": "2026/09/15 12:50:21",
+        "event_time_at": 1789447821,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "国庆穿搭开始预备",
+        "hot_value": 9222245,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oY7qKKPqmABvG9jtwQFUnloDpf544UpEEABseQ~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=ISVXSR%2FICUwnHs1YGGocp6xhOak%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%A9%BF%E6%90%AD%E5%BC%80%E5%A7%8B%E9%A2%84%E5%A4%87",
+        "event_time": "2026/09/14 12:25:57",
+        "event_time_at": 1789359957,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      },
+      {
+        "title": "首届辣门零食大赛",
+        "hot_value": 9216031,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/ogB2gi0B1ImVEiqAsoIfWaMucjoYBewmo1EEAE~noop.jpeg?lk3s=bfd515bb&x-expires=1789495200&x-signature=hgfqs75RuxgCXrYvPQp1gbPXeh8%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E8%BE%A3%E9%97%A8%E9%9B%B6%E9%A3%9F%E5%A4%A7%E8%B5%9B",
+        "event_time": "2026/09/15 13:41:12",
+        "event_time_at": 1789450872,
+        "active_time": "2026-09-15 20:14:25",
+        "active_time_at": 1789503265000
+      }
+    ],
+    "baidu_hot": [],
+    "bili": []
+  },
+  "hot_topics": [
+    {
+      "title": "平台月付将退出支付选项",
+      "source": "weibo",
+      "hot_value": 1101950,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%B3%E5%8F%B0%E6%9C%88%E4%BB%98%E5%B0%86%E9%80%80%E5%87%BA%E6%94%AF%E4%BB%98%E9%80%89%E9%A1%B9"
+    },
+    {
+      "title": "新能源汽车 燃油车",
+      "source": "weibo",
+      "hot_value": 790892,
+      "link": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%20%E7%87%83%E6%B2%B9%E8%BD%A6"
+    },
+    {
+      "title": "分享你的互联网福尔摩斯时刻",
+      "source": "weibo",
+      "hot_value": 782590,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E6%97%B6%E5%88%BB"
+    },
+    {
+      "title": "本来以为泡泡玛特赚不到我的钱",
+      "source": "weibo",
+      "hot_value": 780401,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%AC%E6%9D%A5%E4%BB%A5%E4%B8%BA%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%B5%9A%E4%B8%8D%E5%88%B0%E6%88%91%E7%9A%84%E9%92%B1"
+    },
+    {
+      "title": "娜扎被宋祖儿嘘过",
+      "source": "weibo",
+      "hot_value": 398816,
+      "link": "https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E8%A2%AB%E5%AE%8B%E7%A5%96%E5%84%BF%E5%98%98%E8%BF%87"
+    },
+    {
+      "title": "湘雅医学院教师PPT称23年未见父母",
+      "source": "weibo",
+      "hot_value": 346999,
+      "link": "https://s.weibo.com/weibo?q=%E6%B9%98%E9%9B%85%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E5%B8%88PPT%E7%A7%B023%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D"
+    },
+    {
+      "title": "北京落地签",
+      "source": "weibo",
+      "hot_value": 335705,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E8%90%BD%E5%9C%B0%E7%AD%BE"
+    },
+    {
+      "title": "范丞丞回复现发团",
+      "source": "weibo",
+      "hot_value": 312945,
+      "link": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9E%E5%A4%8D%E7%8E%B0%E5%8F%91%E5%9B%A2"
+    },
+    {
+      "title": "孙颖莎封训期间用大量时间恢复身体",
+      "source": "weibo",
+      "hot_value": 302758,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%81%E8%AE%AD%E6%9C%9F%E9%97%B4%E7%94%A8%E5%A4%A7%E9%87%8F%E6%97%B6%E9%97%B4%E6%81%A2%E5%A4%8D%E8%BA%AB%E4%BD%93"
+    },
+    {
+      "title": "我国人口总量14.05亿",
+      "source": "weibo",
+      "hot_value": 248033,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%80%BB%E9%87%8F14.05%E4%BA%BF"
+    },
+    {
+      "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
+      "source": "zhihu",
+      "hot_value": "1878 万热度",
+      "link": "https://www.zhihu.com/question/2083123101873844765"
+    },
+    {
+      "title": "理想等车企加速「去宁化」，其背后原因是什么？对行业有何影响？",
+      "source": "zhihu",
+      "hot_value": "569 万热度",
+      "link": "https://www.zhihu.com/question/2081079920558600596"
+    },
+    {
+      "title": "为什么《笑傲江湖》中岳不群在网络的风评这几年变好了？",
+      "source": "zhihu",
+      "hot_value": "303 万热度",
+      "link": "https://www.zhihu.com/question/2079288771611211311"
+    },
+    {
+      "title": "比亚迪高管称燃油车没有未来，如何看待这一言论？燃油车会快速退场吗？",
+      "source": "zhihu",
+      "hot_value": "184 万热度",
+      "link": "https://www.zhihu.com/question/2082845705690001649"
+    },
+    {
+      "title": "如何看待英伟达、Palantir等金主集体限制Anthropic Claude使用？",
+      "source": "zhihu",
+      "hot_value": "155 万热度",
+      "link": "https://www.zhihu.com/question/2083117744707352472"
+    },
+    {
+      "title": "为什么重庆可以在山上建设城市，深圳香港不可以？",
+      "source": "zhihu",
+      "hot_value": "123 万热度",
+      "link": "https://www.zhihu.com/question/535563414"
+    },
+    {
+      "title": "苹果正式推送 iOS 27，本次更新主打液态玻璃 UI 进阶，还有哪些亮点值得关注？你会更新吗？",
+      "source": "zhihu",
+      "hot_value": "112 万热度",
+      "link": "https://www.zhihu.com/question/2083104375505778481"
+    },
+    {
+      "title": "「大学生生活费才3000」引发讨论，有人说不够花有人说很多，你怎么看？你上大学每月生活费是多少？",
+      "source": "zhihu",
+      "hot_value": "112 万热度",
+      "link": "https://www.zhihu.com/question/2083183110737195253"
+    },
+    {
+      "title": "王健林又卖掉一个47亿资产，万达旗下盈方体育将HYROX多数股权卖给LVMH旗下机构，这意味着什么？",
+      "source": "zhihu",
+      "hot_value": "111 万热度",
+      "link": "https://www.zhihu.com/question/2082804365455378411"
+    },
+    {
+      "title": "海底捞股价创四年半来盘中新低，大股东折价大宗减持，哪些信息值得关注？",
+      "source": "zhihu",
+      "hot_value": "96 万热度",
+      "link": "https://www.zhihu.com/question/2081015276439614954"
+    },
+    {
+      "title": "25号台风“杜鹃”未来或将趋向日本",
+      "source": "douyin",
+      "hot_value": 12044917,
+      "link": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC"
+    },
+    {
+      "title": "中国男篮四分之一决赛将战沙特",
+      "source": "douyin",
+      "hot_value": 11880921,
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%B0%86%E6%88%98%E6%B2%99%E7%89%B9"
+    },
+    {
+      "title": "8月国民经济运行平稳",
+      "source": "douyin",
+      "hot_value": 11364821,
+      "link": "https://www.douyin.com/search/8%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E5%B9%B3%E7%A8%B3"
+    },
+    {
+      "title": "特种兵玩家准备开启快闪模式",
+      "source": "douyin",
+      "hot_value": 11207432,
+      "link": "https://www.douyin.com/search/%E7%89%B9%E7%A7%8D%E5%85%B5%E7%8E%A9%E5%AE%B6%E5%87%86%E5%A4%87%E5%BC%80%E5%90%AF%E5%BF%AB%E9%97%AA%E6%A8%A1%E5%BC%8F"
+    },
+    {
+      "title": "CS Major再度落地上海",
+      "source": "douyin",
+      "hot_value": 10546253,
+      "link": "https://www.douyin.com/search/CS%20Major%E5%86%8D%E5%BA%A6%E8%90%BD%E5%9C%B0%E4%B8%8A%E6%B5%B7"
+    },
+    {
+      "title": "北京香山论坛今日举行",
+      "source": "douyin",
+      "hot_value": 10545463,
+      "link": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C"
+    },
+    {
+      "title": "需要浇水才能长出的拼豆绿植",
+      "source": "douyin",
+      "hot_value": 9353231,
+      "link": "https://www.douyin.com/search/%E9%9C%80%E8%A6%81%E6%B5%87%E6%B0%B4%E6%89%8D%E8%83%BD%E9%95%BF%E5%87%BA%E7%9A%84%E6%8B%BC%E8%B1%86%E7%BB%BF%E6%A4%8D"
+    },
+    {
+      "title": "米兰集市1欧淘衣太快乐了",
+      "source": "douyin",
+      "hot_value": 9237505,
+      "link": "https://www.douyin.com/search/%E7%B1%B3%E5%85%B0%E9%9B%86%E5%B8%821%E6%AC%A7%E6%B7%98%E8%A1%A3%E5%A4%AA%E5%BF%AB%E4%B9%90%E4%BA%86"
+    },
+    {
+      "title": "国庆穿搭开始预备",
+      "source": "douyin",
+      "hot_value": 9222245,
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%A9%BF%E6%90%AD%E5%BC%80%E5%A7%8B%E9%A2%84%E5%A4%87"
+    },
+    {
+      "title": "首届辣门零食大赛",
+      "source": "douyin",
+      "hot_value": 9216031,
+      "link": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E8%BE%A3%E9%97%A8%E9%9B%B6%E9%A3%9F%E5%A4%A7%E8%B5%9B"
+    }
+  ]
+}

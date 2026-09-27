@@ -4,22 +4,62 @@ __pycache__/
 *.pkl
 *.db
 *.sqlite
+*.pyc
 
 # 视频/媒体
 *.mp4
 *.mp3
 *.wav
-media/
+*.mpg
+*.avi
 L4-共享/videos/
+media/
 
 # 临时文件
 *.tmp
 *.temp
+*.log
+*.txt
 .DS_Store
+*_tmp*
+*_bak*
+*backup*
+*_debug*
+*_diag*
+*_check*
+*_fix*
+*_test*
+*_verify*
 
 # OpenClaw内部
 .openclaw/
+.clawhub/
+.learnings/
+
+# Node
+node_modules/
 *.lock
 
-# Node_modules
-node_modules/
+# 大文件
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+*.pdf
+*.zip
+*.rar
+*.7z
+
+# 浏览器缓存
+douyin_downloads/
+douyin_debug_*
+douyin_screenshot_*
+
+# 临时数据
+mx_data/
+mx_search/
+mx_xuangu/
+out_data/
+output/
+outputs/
+data/

@@ -1,0 +1,281 @@
+{
+  "date": "2026-06-30",
+  "time": "09:08:26",
+  "platforms": {
+    "weibo": [
+      {
+        "title": "德国淘汰",
+        "hot_value": 12284930,
+        "link": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E6%B7%98%E6%B1%B0"
+      },
+      {
+        "title": "巴西绝杀",
+        "hot_value": 9686230,
+        "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80"
+      },
+      {
+        "title": "人民锐评网红诋毁袁隆平造谣企业家",
+        "hot_value": 1692765,
+        "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E9%94%90%E8%AF%84%E7%BD%91%E7%BA%A2%E8%AF%8B%E6%AF%81%E8%A2%81%E9%9A%86%E5%B9%B3%E9%80%A0%E8%B0%A3%E4%BC%81%E4%B8%9A%E5%AE%B6"
+      },
+      {
+        "title": "恋与深空道歉声明",
+        "hot_value": 1261463,
+        "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E9%81%93%E6%AD%89%E5%A3%B0%E6%98%8E"
+      },
+      {
+        "title": "德国4比5巴拉圭",
+        "hot_value": 684059,
+        "link": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD4%E6%AF%945%E5%B7%B4%E6%8B%89%E5%9C%AD"
+      },
+      {
+        "title": "马航MH370传来最新消息",
+        "hot_value": 682848,
+        "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E8%88%AAMH370%E4%BC%A0%E6%9D%A5%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF"
+      },
+      {
+        "title": "金鹰奖视后提名预测",
+        "hot_value": 541056,
+        "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E8%A7%86%E5%90%8E%E6%8F%90%E5%90%8D%E9%A2%84%E6%B5%8B"
+      },
+      {
+        "title": "iPhone18e曝光",
+        "hot_value": 540417,
+        "link": "https://s.weibo.com/weibo?q=iPhone18e%E6%9B%9D%E5%85%89"
+      },
+      {
+        "title": "齐思钧回复张月",
+        "hot_value": 538001,
+        "link": "https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%E5%9B%9E%E5%A4%8D%E5%BC%A0%E6%9C%88"
+      },
+      {
+        "title": "内马尔安慰日本球员",
+        "hot_value": 536656,
+        "link": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%AE%89%E6%85%B0%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "世界杯 1/16 决赛，巴西 2-1 绝杀日本，日本队史世界杯淘汰赛仍 0 胜，如何评价本场比赛？",
+        "detail": "",
+        "cover": "https://picx.zhimg.com/80/v2-625d825267e6a678699deb8b6f2bc353_1440w.webp?source=1def8aca",
+        "hot_value_desc": "2093 万热度",
+        "answer_cnt": 862,
+        "follower_cnt": 1050,
+        "comment_cnt": 0,
+        "created_at": 1782701885000,
+        "created": "2026/06/29 10:58:05",
+        "link": "https://www.zhihu.com/question/2054881323324651014"
+      },
+      {
+        "title": "世界杯淘汰赛 1/16 决赛，德国点球大战 4-5 遭巴拉圭淘汰，如何评价本场比赛？",
+        "detail": "相关问题为什么德国队没有像卡恩、克洛泽、巴拉克、拉姆那样的精神领袖了？",
+        "cover": "https://pica.zhimg.com/v2-2e28671720ded101a5016d4bda73f1f1.png",
+        "hot_value_desc": "1529 万热度",
+        "answer_cnt": 381,
+        "follower_cnt": 494,
+        "comment_cnt": 0,
+        "created_at": 1782702795000,
+        "created": "2026/06/29 11:13:15",
+        "link": "https://www.zhihu.com/question/2054885142036833997"
+      },
+      {
+        "title": "如何看待恋与深空将人体试药档案编号设为0731，制作组回应无实际意义，网友发现已改成 0611？",
+        "detail": "恋与深空制作组回应： 一、世界深处【和光同尘】中的日期争议 接到玩家反馈，今年4月21日更新的世界深处【和光同尘】中存在易引发误解的数字，对此我们高度重视，立刻进行了内部核查。经确认，该数字为虚构日期，因是无实际意义的占位信息，未进行任何包装。我们非常理解该随机数字可能导致的误解，将以最快速度在今天内完成线上修改。 该问题暴露出制作组内部分成员存在敏感性不足的问题，我们将加强培训，避免再次出现此类情况；我们也会进一步完善内部审核机制，尽可能关注到每一个细节，以确保线上内容的品质。 二、部分市场宣传文案引发的争议 三、“海外定制角色”“全性向游戏”“Valko”等系列传言的说明 … 修改后：",
+        "cover": "https://picx.zhimg.com/v2-c85ddeab5bed6fdcbfcc91d1a54b945a.png",
+        "hot_value_desc": "539 万热度",
+        "answer_cnt": 365,
+        "follower_cnt": 568,
+        "comment_cnt": 0,
+        "created_at": 1782718974000,
+        "created": "2026/06/29 15:42:54",
+        "link": "https://www.zhihu.com/question/2054952999932229482"
+      },
+      {
+        "title": "Papi酱自曝原生家庭创伤，心理学上所说的“代际创伤”是啥？真的会在普通人身上代代相传？",
+        "detail": "Papi酱在视频里自曝原生家庭，很多人分享了自己“发誓不要成为我妈那样的人，结果越来越像她”的痛苦经历。这让我想起一个观点：我们可能不是在重复父母，而是在跑一个从未选择过的“程序”。 听说这和心理学上的“代际创伤”有关。据说，我们这代人的很多焦虑、恐惧，甚至对稳定的偏执，都不是自己“想太多”，而是承接了上一代人在时代巨变中没被说出口的创伤。就像系统里被预装了一个你没同意过的代码，你的很多选择，其实是在执行它的指令。 这种说法有道理吗？它是怎么在普通人身上具体发生的？我们真的能停下这个“程序”吗？",
+        "cover": "https://picx.zhimg.com/v2-8baa252b57f054945f9a72bc10439886.png",
+        "hot_value_desc": "439 万热度",
+        "answer_cnt": 144,
+        "follower_cnt": 452,
+        "comment_cnt": 0,
+        "created_at": 1782661226000,
+        "created": "2026/06/28 23:40:26",
+        "link": "https://www.zhihu.com/question/2054710786757595233"
+      },
+      {
+        "title": "如何看待在新款尊界S800发布之际江淮大股东大幅减持?会是什么原因？后续会有什么影响？",
+        "detail": "原文：https://mp.weixin.qq.com/s/vpx91W4EyiQnVgvUYwBHqg",
+        "cover": "https://picx.zhimg.com/100/v2-c0463c7bde050a721a1ac08bb0cfd62b_r.jpg",
+        "hot_value_desc": "147 万热度",
+        "answer_cnt": 45,
+        "follower_cnt": 120,
+        "comment_cnt": 0,
+        "created_at": 1782639954000,
+        "created": "2026/06/28 17:45:54",
+        "link": "https://www.zhihu.com/question/2054621567007602582"
+      },
+      {
+        "title": "木叶三忍的称号明明是耻辱的称呼为什么他们反而出名了？",
+        "detail": "自来也、大蛇丸、纲手的三忍称号，是在败给半藏后，被半藏放过而捡了一条命后，半藏给的称号。按理说这种称号是有侮辱性的，是耻辱，为什么他们三个反而成为木叶里名声响亮的忍者，而不是木叶的耻辱？",
+        "cover": "https://pica.zhimg.com/80/v2-285735ea805da1f0954e0145228c452f_1440w.webp?source=1def8aca",
+        "hot_value_desc": "133 万热度",
+        "answer_cnt": 314,
+        "follower_cnt": 417,
+        "comment_cnt": 0,
+        "created_at": 1714361626000,
+        "created": "2024/04/29 11:33:46",
+        "link": "https://www.zhihu.com/question/654468093"
+      },
+      {
+        "title": "网友吃半根变苦黄瓜后恶心呕吐，确诊葫芦素中毒致肝衰竭，黄瓜变苦真的会产生毒素吗？背后有什么科学依据吗？",
+        "detail": "不少人吃到发苦的瓜果，切掉苦味部分就接着吃，以为仅仅是口感问题。殊不知这一丝苦味暗藏致命风险。近日，福建一名男子只吃了半根自家种的苦黄瓜，一小时内突发重病，就医结果令人心惊。 01 食用变苦黄瓜确诊葫芦素中毒 当天这名男子食用自家种植的黄瓜做的凉拌菜，由于察觉黄瓜异常苦涩，只吃下短短半根，没想到一小时后骤然出现剧烈恶心、呕吐、腹痛腹泻等症状，送医后确诊为葫芦素中毒。 02 葫芦素B属于高毒性化合物 专家介绍，黄瓜一旦被虫子啃咬受伤，或是生长期间出现基因突变，就会大量生成葫芦素B。这是一种高毒性化合物，其急性毒性甚至强于部分砒霜类物质。 最关键的是这种毒素性质稳定，耐高温、耐蒸煮，日常爆炒、水煮等烹饪手段，完全无法将毒素分解。 误食之后，毒素会双重损伤人体：一方面强烈刺激肠胃黏膜，造成上吐下泻；另一方面持续侵蚀肝细胞，造成急性肝损伤。一旦中毒较重，极易发展为重症急性中毒，危及生命。https://baijiahao.baidu.com/s?id=1869286229753303413&wfr=spider&for=pc",
+        "cover": "https://pic2.zhimg.com/50/v2-313f6b26868abf3cc1094bf3ae209097_b.jpg",
+        "hot_value_desc": "131 万热度",
+        "answer_cnt": 15,
+        "follower_cnt": 33,
+        "comment_cnt": 0,
+        "created_at": 1782692033000,
+        "created": "2026/06/29 08:13:53",
+        "link": "https://www.zhihu.com/question/2054840001347547491"
+      },
+      {
+        "title": "FIFA 被呼吁调查阿尔及利亚奥地利比赛，如何看待这场争执？真的存在「默契平局」吗？",
+        "detail": "阿尔及利亚在第93分钟破门，将比分改写为3-2时，双方替补席爆发言语冲突，奥地利球员与阿尔及利亚球员及工作人员发生激烈争执。很多球迷因此质疑，两队赛前可能存在“默契平局”的说法，而阿尔及利亚的进球打破了所谓“约定”。",
+        "cover": "https://pic1.zhimg.com/v2-9d99a18a2a2e1a353130503f3c2a00a5.png",
+        "hot_value_desc": "108 万热度",
+        "answer_cnt": 37,
+        "follower_cnt": 73,
+        "comment_cnt": 0,
+        "created_at": 1782728869000,
+        "created": "2026/06/29 18:27:49",
+        "link": "https://www.zhihu.com/question/2054994503421747542"
+      },
+      {
+        "title": "韩国从世界杯出局后，韩便利店禁止主帅洪明甫入内，烤肉店拒绝为其提供服务，如何看待其体育生涯和此次争议？",
+        "detail": "韩国从世界杯“耻辱性”出局后，韩国总统李在明将国家队出局归咎于韩国足协的制度性失败，批评韩国足协以“私人关系”聘请主帅洪明甫的决定，称“把无能之辈放到了指挥位置”。朝野政党也一致呼吁国会对韩国足协的运作展开调查。 目前，主帅洪明甫已宣布辞职。韩国国内舆论批评声浪高涨，有便利店贴出告示“洪明甫不得入内”，烤肉店拒绝为其提供服务。 李在明在社交媒体上发声，将国家队出局归咎于韩国足协的制度性失败，并敦促文化体育观光部彻查，采取有力措施加以改进。“比起能力，更看重拉帮结派，把无能之辈放到指挥位置上，结果会怎样，显而易见。”“之所以会出现这种公私不分、将私利置于公益之上的错误任命，归根结底是因为很难、甚至根本无法对任命权行使方进行监督、制衡及问责。” 韩国执政党共同民主党和韩国最大在野党国民力量党代表均呼吁国会对韩国足协的运作展开调查。 自2024年7月聘请洪明甫第二次执教国家队以来，韩国足协和其即将卸任的负责人郑梦奎一直面临强烈的公众反弹。同年9月，韩国国会文化体育观光委员会曾传唤洪明甫、郑梦奎，以及其他韩国足总高层作为证人出席会议，议员们就他们认为不公平、不透明的洪明甫聘任流程进行质询。 赛后发布会上，韩国主帅洪明甫主动宣布辞职：“向支持国家队的国民们真诚致歉，我将从教练岗位退下来。 洪明甫表示：“担任韩国国家队主教练并不是一个轻松的决定。我认为，把我肩负的责任坚持到底才是唯一的出路。在担任国家队主教练期间，我一直在反复问自己，这个选择究竟是不是为了韩国足球。我无法说每一个判断都是正确的，但我可以说，每一个判断都是为了韩国足球。” 据报道，韩国已有便利店贴出告示：“洪明甫不得入内”。烤肉店门口写着：“本店拒绝为洪明甫提供服务”。韩国球迷在社交平台上激烈抨击称“洪明甫还回韩国吗？” 韩国广播公司KBS前往韩国队在蒙特雷的酒店，调查住宿条件是否影响了韩国队比赛的表现，由于不满洪明甫带队表现，该媒体在节目中对洪明甫的脸部进行模糊处理。 此外，韩国足协28日曾宣布，由洪明甫主教练率领的韩国国家足球队将于30日上午经由仁川国际机场回国，但不会举行单独的欢迎仪式。这是自2002年以来足协首次未给从世界杯赛场归来的国家队举办任何庆祝活动。https://mp.weixin.qq.com/s/-BtzyRmLAxR5p0q4eHAuQw?scene=1",
+        "cover": "https://pic4.zhimg.com/50/v2-82540b2c7dead7773e9d733f1df22f83_b.jpg",
+        "hot_value_desc": "96 万热度",
+        "answer_cnt": 132,
+        "follower_cnt": 296,
+        "comment_cnt": 0,
+        "created_at": 1782702485000,
+        "created": "2026/06/29 11:08:05",
+        "link": "https://www.zhihu.com/question/2054883842217992246"
+      },
+      {
+        "title": "如何看待张靓颖演唱会因清唱太多主办方被罚款？为啥清唱也会被罚？",
+        "detail": "[图片]",
+        "cover": "https://pic1.zhimg.com/80/v2-3bf3619b5e40962b39a87d13e12f92ca_720w.webp?source=1def8aca",
+        "hot_value_desc": "93 万热度",
+        "answer_cnt": 146,
+        "follower_cnt": 348,
+        "comment_cnt": 0,
+        "created_at": 1782114504000,
+        "created": "2026/06/22 15:48:24",
+        "link": "https://www.zhihu.com/question/2052417668121092956"
+      }
+    ],
+    "douyin": [
+      {
+        "title": "高考志愿填报专业怎么选",
+        "hot_value": 12291731,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o8PSJQ5f85oAm0CnAZELEFfD2CeDKA80QQfx9Z~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=NkbiVR%2FlNy0vCtpEBptqI7zOwtY%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
+        "event_time": "2026/06/29 09:57:48",
+        "event_time_at": 1782698268,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "在抖音追公路文太上头了",
+        "hot_value": 12160832,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813c000-ce/okf9IApQmpQ1BAge8xCAQxOqwAFlEqAqPkDnAE~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=%2FAjjntguj%2B%2Fk%2F4EwnmENoG0TSO8%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%9C%A8%E6%8A%96%E9%9F%B3%E8%BF%BD%E5%85%AC%E8%B7%AF%E6%96%87%E5%A4%AA%E4%B8%8A%E5%A4%B4%E4%BA%86",
+        "event_time": "2026/06/29 12:08:00",
+        "event_time_at": 1782706080,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "教育发展“十五五”规划",
+        "hot_value": 11515551,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oEQWk7CUkhCSXLrD9exGuACBauBeANgq8QexIJ~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=u40X0FEvwOVgcp6RRNXN0JzF4sA%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%95%99%E8%82%B2%E5%8F%91%E5%B1%95%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92",
+        "event_time": "2026/06/29 19:50:58",
+        "event_time_at": 1782733858,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "欢迎来到我的专业",
+        "hot_value": 11100769,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ocMYtNMyfTM8dpeE8CeZ43fQLsMWQHRTmgAAxe~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=MfvXM9SyWLJIbtfEbS3fziQvPcY%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%93%E4%B8%9A",
+        "event_time": "2026/06/29 15:26:09",
+        "event_time_at": 1782717969,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "巴西2:1绝杀日本",
+        "hot_value": 10357287,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oU9B6fEC5Ah7Dh4IDr3EAFCEJBhFIqpfUUfyh5~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=O3QUhtCCCwC98Bow6GdsDlmbXek%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF2%3A1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+        "event_time": "2026/06/29 16:14:20",
+        "event_time_at": 1782720860,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "锐评：网红不能困在无底线逐利里",
+        "hot_value": 10161227,
+        "link": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%EF%BC%9A%E7%BD%91%E7%BA%A2%E4%B8%8D%E8%83%BD%E5%9B%B0%E5%9C%A8%E6%97%A0%E5%BA%95%E7%BA%BF%E9%80%90%E5%88%A9%E9%87%8C",
+        "event_time": "2026/06/30 08:58:16",
+        "event_time_at": 1782781096,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "和平精英夏日探险派对",
+        "hot_value": 8549268,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o81Ewp4lIfgADIQBcAmDfAr9ZQAFClKgtKIqIY~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=1ANAAoMSLpCwSZlvJnsZ%2BqxqLb4%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%A4%8F%E6%97%A5%E6%8E%A2%E9%99%A9%E6%B4%BE%E5%AF%B9",
+        "event_time": "2026/06/29 15:36:19",
+        "event_time_at": 1782718579,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "拜见各地美食大王",
+        "hot_value": 8523452,
+        "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o0YA3fFAygXeBBgIF40iArBCqAIiIR7Z19Sd2h~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=onjOfS7LZ%2BkxLTnbhA5gip7d6QQ%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%8B%9C%E8%A7%81%E5%90%84%E5%9C%B0%E7%BE%8E%E9%A3%9F%E5%A4%A7%E7%8E%8B",
+        "event_time": "2026/06/29 18:06:52",
+        "event_time_at": 1782727612,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "巴拉圭点球大战淘汰德国",
+        "hot_value": 7776861,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oAf9IAsrBxQ9VyABehBOImkSgDF5AqAUQSDCxE~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=lQJ%2Fh%2BUDxwh0ZswhVH%2FGo6HIbmw%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E5%BE%B7%E5%9B%BD",
+        "event_time": "2026/06/29 21:01:44",
+        "event_time_at": 1782738104,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      },
+      {
+        "title": "蔚来提醒车主规范用高压水枪洗车",
+        "hot_value": 7764119,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQCPIIAkLQgwsZdirGMaIQA3DTR9BIi9vYIFm~noop.jpeg?lk3s=bfd515bb&x-expires=1782802800&x-signature=DOVvHfKe4CJR6g4IXId4%2BreAX%2BY%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E8%94%9A%E6%9D%A5%E6%8F%90%E9%86%92%E8%BD%A6%E4%B8%BB%E8%A7%84%E8%8C%83%E7%94%A8%E9%AB%98%E5%8E%8B%E6%B0%B4%E6%9E%AA%E6%B4%97%E8%BD%A6",
+        "event_time": "2026/06/29 15:35:53",
+        "event_time_at": 1782718553,
+        "active_time": "2026-06-30 09:07:24",
+        "active_time_at": 1782810444000
+      }
+    ]
+  }
+}

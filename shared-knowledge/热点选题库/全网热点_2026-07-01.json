@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-01",
+  "time": "09:17:01",
+  "platforms": {
+    "weibo": [
+      {
+        "title": "哈兰德绝杀破门",
+        "hot_value": 1474494,
+        "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E7%BB%9D%E6%9D%80%E7%A0%B4%E9%97%A8"
+      },
+      {
+        "title": "姆巴佩世界杯射手榜第二",
+        "hot_value": 1168825,
+        "link": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E6%A6%9C%E7%AC%AC%E4%BA%8C"
+      },
+      {
+        "title": "7月起一批重要法律法规将施行",
+        "hot_value": 905164,
+        "link": "https://s.weibo.com/weibo?q=7%E6%9C%88%E8%B5%B7%E4%B8%80%E6%89%B9%E9%87%8D%E8%A6%81%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C"
+      },
+      {
+        "title": "陈瑶没发张月",
+        "hot_value": 902244,
+        "link": "https://s.weibo.com/weibo?q=%E9%99%88%E7%91%B6%E6%B2%A1%E5%8F%91%E5%BC%A0%E6%9C%88"
+      },
+      {
+        "title": "暑假工才是真正的315",
+        "hot_value": 774085,
+        "link": "https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E5%B7%A5%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84315"
+      },
+      {
+        "title": "杨紫白玉兰庆功宴",
+        "hot_value": 771205,
+        "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E5%BA%86%E5%8A%9F%E5%AE%B4"
+      },
+      {
+        "title": "世界杯死亡之组全部淘汰",
+        "hot_value": 679069,
+        "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%E5%85%A8%E9%83%A8%E6%B7%98%E6%B1%B0"
+      },
+      {
+        "title": "大爷静脉曲张十几年取出40厘米血栓",
+        "hot_value": 423846,
+        "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%88%B7%E9%9D%99%E8%84%89%E6%9B%B2%E5%BC%A0%E5%8D%81%E5%87%A0%E5%B9%B4%E5%8F%96%E5%87%BA40%E5%8E%98%E7%B1%B3%E8%A1%80%E6%A0%93"
+      },
+      {
+        "title": "法国超跑",
+        "hot_value": 423700,
+        "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%B6%85%E8%B7%91"
+      },
+      {
+        "title": "姆巴佩世界杯淘汰赛历史最佳射手",
+        "hot_value": 423048,
+        "link": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E5%B0%84%E6%89%8B"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "世界杯 1/16 决赛，法国 3-0 淘汰瑞典，姆巴佩双响、世界杯 18 场18球，如何评价本场比赛？",
+        "detail": "世界杯 1/16 决赛，法国 vs 瑞典，如何评价本场比赛？",
+        "cover": "https://picx.zhimg.com/80/v2-ebb0a184e22ef9f0b9af762bdd574c63_1440w.webp?source=1def8aca",
+        "hot_value_desc": "999 万热度",
+        "answer_cnt": 188,
+        "follower_cnt": 242,
+        "comment_cnt": 0,
+        "created_at": 1782786881000,
+        "created": "2026/06/30 10:34:41",
+        "link": "https://www.zhihu.com/question/2055237822475408966"
+      },
+      {
+        "title": "世界杯 1/16 决赛，挪威 2-1 科特迪瓦，下场将战巴西，哈兰德绝杀，如何评价本场比赛？",
+        "detail": "相关问题武磊带领国足拿亚洲杯冠军和哈兰德带领挪威拿欧洲杯冠军，哪个难度更大呢?",
+        "cover": "https://pic3.zhimg.com/50/v2-2daf912046f52927e3c60e39cf3be820_b.jpg",
+        "hot_value_desc": "585 万热度",
+        "answer_cnt": 80,
+        "follower_cnt": 123,
+        "comment_cnt": 0,
+        "created_at": 1782786796000,
+        "created": "2026/06/30 10:33:16",
+        "link": "https://www.zhihu.com/question/2055237467478005531"
+      },
+      {
+        "title": "世界杯赛后日本球迷在现场清理垃圾，被嘲「每四年表演一次文明」，你怎么看？这种行为真的是有组织的吗？",
+        "detail": "在对阵巴西的世界杯比赛后，日本球迷现场清理垃圾 大量海外网友撕开反差真相，据OECD权威数据，日本男性在家务方面的贡献处于全球最低水平之一，并主张应在家庭中分担无偿照料劳动。 评论区： “每四年日本人表演一次文明” “我知道有些人故意扔垃圾，就是为了能做这个，看起来够忙，好让摄像头拍到他们。 ”",
+        "cover": "https://picx.zhimg.com/80/v2-f04454fc5e7da57eef123462b8e96e02_1440w.webp?source=1def8aca",
+        "hot_value_desc": "413 万热度",
+        "answer_cnt": 183,
+        "follower_cnt": 263,
+        "comment_cnt": 0,
+        "created_at": 1782808814000,
+        "created": "2026/06/30 16:40:14",
+        "link": "https://www.zhihu.com/question/2055329815301813727"
+      },
+      {
+        "title": "曝詹姆斯已确定离开湖人将继续职业生涯，如何看待詹姆斯的这一决定和未来前景？",
+        "detail": "北京时间7月1日，据NBA知名记者Shams Charania报道，詹姆斯已告知湖人他将在下赛季延续自己的职业生涯，但他将离开湖人，前往其他球队继续效力。 来自Shams的突发消息，詹姆斯将在2026/27赛季继续其NBA职业生涯，并已告知湖人，球队可以在没有他的情况下继续前进，因为他将前往其他球队效力。在效力湖人八个赛季，包括带领球队夺得2020年NBA总冠军后，詹姆斯将离队并进入自由球员市场，准备加盟一支新球队。 消息人士称，湖人总裁佩林卡和里奇-保罗不久前就这位四届总冠军得主的计划进行了沟通。出于对双方合作经历的礼貌与感谢，詹姆斯选择在今晚自由球员市场开启前较早告知湖人，以便洛杉矶方面开展休赛期相关工作。 湖人向詹姆斯表达了希望他回归的意愿，但这位NBA历史得分王决定转投他队。 Shams：詹姆斯已告知湖人他将离队，他不会退役",
+        "cover": "https://pica.zhimg.com/80/v2-6216dfcff2c19755f5060612d82c3e13_720w.webp?source=1def8aca",
+        "hot_value_desc": "382 万热度",
+        "answer_cnt": 121,
+        "follower_cnt": 137,
+        "comment_cnt": 0,
+        "created_at": 1782836928000,
+        "created": "2026/07/01 00:28:48",
+        "link": "https://www.zhihu.com/question/2055447736917481097"
+      },
+      {
+        "title": "博主分享东北老妈把欧洲法棍上锅蒸了，法棍变得「入口即化」，为什么欧洲人没想过把法棍蒸一下呢？",
+        "detail": "刷到一个在欧洲生活的博主，分享自己老妈把硬法棍、香肠上锅蒸了做成“一锅出”。蒸完之后法棍变得很柔软，留子们纷纷表示“还能这样”。 突然很好奇，为什么欧洲人一直是用刀“锯面包”，啃坚硬的面包，从来没想过把面包蒸一下让它柔软一点好入口呢？",
+        "cover": "https://picx.zhimg.com/v2-3c540c0c9c6d55e9a735d30e0bbfbbf4.png",
+        "hot_value_desc": "241 万热度",
+        "answer_cnt": 601,
+        "follower_cnt": 1043,
+        "comment_cnt": 0,
+        "created_at": 1774254957000,
+        "created": "2026/03/23 16:35:57",
+        "link": "https://www.zhihu.com/question/2019452339862331482"
+      },
+      {
+        "title": "昆明车主称法拉利被多名孩童玩出划痕，家长调解赔 5000 被拒，监护人该按什么标准赔？",
+        "detail": "近日，云南昆明一车主称自己的法拉利被多名孩童当滑梯玩耍，导致车身多处出现划痕。 据车主透露，该法拉利为私人购置代步车辆，自己当时花360万元购入，平日停放在固定区域。事发时自己正在出差，监控拍到4名孩童爬上车当滑梯玩耍，车身出现多处划痕，损失较大。 车主报警后派出所组织两次调解，家长最初仅提出赔偿几百元，后提高到5000元，车主表示应以实际维修费用为准。 内容来源云南昆明一法拉利被多名孩童当滑梯玩耍",
+        "cover": "https://picx.zhimg.com/80/v2-f02903ab21f5c8f2421c91be31105668_720w.webp?source=1def8aca",
+        "hot_value_desc": "220 万热度",
+        "answer_cnt": 143,
+        "follower_cnt": 278,
+        "comment_cnt": 0,
+        "created_at": 1782716038000,
+        "created": "2026/06/29 14:53:58",
+        "link": "https://www.zhihu.com/question/2054940687393625681"
+      },
+      {
+        "title": "为什么说“免于被哲学打扰的人生是非常幸运的”？",
+        "detail": "",
+        "cover": "https://pica.zhimg.com/80/v2-3f74003eab2735b16c86e140f1cbdd3a_1440w.png",
+        "hot_value_desc": "199 万热度",
+        "answer_cnt": 1295,
+        "follower_cnt": 6639,
+        "comment_cnt": 0,
+        "created_at": 1621591542000,
+        "created": "2021/05/21 18:05:42",
+        "link": "https://www.zhihu.com/question/460682173"
+      },
+      {
+        "title": "太阳在变成红巨星的时候，会不会引力变弱到吞噬不到地球，导致地球仍然处在适宜带？",
+        "detail": "",
+        "cover": "https://picx.zhimg.com/80/v2-b527d41b63397efab08d6ec19d71b94c_1440w.webp?source=1def8aca",
+        "hot_value_desc": "168 万热度",
+        "answer_cnt": 29,
+        "follower_cnt": 70,
+        "comment_cnt": 0,
+        "created_at": 1734402187000,
+        "created": "2024/12/17 10:23:07",
+        "link": "https://www.zhihu.com/question/7077528543"
+      },
+      {
+        "title": "由周星驰导演即将上映的《功夫女足》为何多人唱衰？",
+        "detail": "7月10号或7月17号即将上映的由周星驰主导的电影《女足》即将上映，没有任何宣发也没有任何路透。演员表中张小斐饰演女足队长，迪丽热巴饰演王牌前锋，张艺兴饰演带队教练，少林足球老搭档也悉数回归，周星驰甚至时隔多年再次本人出演。你期待吗？",
+        "cover": "https://pic1.zhimg.com/80/v2-b05ccc059055060826ec2036222a6acc_720w.webp?source=1def8aca",
+        "hot_value_desc": "150 万热度",
+        "answer_cnt": 121,
+        "follower_cnt": 129,
+        "comment_cnt": 0,
+        "created_at": 1782282149000,
+        "created": "2026/06/24 14:22:29",
+        "link": "https://www.zhihu.com/question/2053120824966750361"
+      },
+      {
+        "title": "湖北702分考生放弃清北选择南大计算机，如何看待他的选择？",
+        "detail": "6月28日，湖北省武昌实验中学学生王昕博得知了自己高考具体分数，702分，其中语文142分高分，数学143分，英语144分。 在分数足够报清北的情况下，他选择南京大学计算机相关专业。 “为什么没有选择清北？”王昕博首先给出专业上的理由：“南京大学本身就是一个计算机科学优势很大的学校，在这一领域的资源比较丰厚。” 这个选择并非临时起意。王昕博对计算机的兴趣从高中开始便已扎根。高一高二时，他投身信息学竞赛，并在全国青少年信息学奥林匹克竞赛（NOI）中摘得铜牌。“未来这个行业会对整个世界产生巨大的影响，所以我也想投身于这一时代潮流。”他说。王昕博高考702分，没有选择清北 | 极目新闻 反向问题：去年一位考生考入南大计算机，为清北梦顶着巨大压力选择复读一年。考入南大计算机，复读考清北值吗？",
+        "cover": "https://pic3.zhimg.com/50/v2-7f06a019d93dcd7b43b6012db6576370_b.jpg",
+        "hot_value_desc": "132 万热度",
+        "answer_cnt": 129,
+        "follower_cnt": 326,
+        "comment_cnt": 0,
+        "created_at": 1782807569000,
+        "created": "2026/06/30 16:19:29",
+        "link": "https://www.zhihu.com/question/2055324594878113683"
+      }
+    ],
+    "douyin": [
+      {
+        "title": "庆祝建党105周年",
+        "hot_value": 12200737,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/o4r1UBQ42IGYAZALQwdBChfDmaL57hHIOegGeg~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=fbaZ3E8%2FLgbJAajqyGYsZj2skMQ%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A105%E5%91%A8%E5%B9%B4",
+        "event_time": "2026/06/30 21:11:13",
+        "event_time_at": 1782825073,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "用捡来的水瓶给妈妈做了一束花",
+        "hot_value": 12116102,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oE0tUBQfDDGvA8AlItCBChRGkaL27h9If0kmet~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=dIT1u86%2FZPMEZqcBWu%2BWE5lrGN0%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E7%94%A8%E6%8D%A1%E6%9D%A5%E7%9A%84%E6%B0%B4%E7%93%B6%E7%BB%99%E5%A6%88%E5%A6%88%E5%81%9A%E4%BA%86%E4%B8%80%E6%9D%9F%E8%8A%B1",
+        "event_time": "2026/06/30 18:55:54",
+        "event_time_at": 1782816954,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "未来5年孩子上学有这些大变化",
+        "hot_value": 12110550,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMaQBRbeILACShIAQ7iGGZUxvbeCUnUGXBWeCq~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=ABpWtD9emhgCo7K5Poz6heK9Jjc%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%9C%AA%E6%9D%A55%E5%B9%B4%E5%AD%A9%E5%AD%90%E4%B8%8A%E5%AD%A6%E6%9C%89%E8%BF%99%E4%BA%9B%E5%A4%A7%E5%8F%98%E5%8C%96",
+        "event_time": "2026/06/30 20:31:12",
+        "event_time_at": 1782822672,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "我的青春回忆录",
+        "hot_value": 11830327,
+        "cover": "https://p5-sign.douyinpic.com/tos-cn-i-jm8ajry58r/ed5ce331e56445e78019e67b28f43265~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=s%2B%2Fld8XjLa%2BamHgZD3vJHoJj6m8%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9B%9E%E5%BF%86%E5%BD%95",
+        "event_time": "2026/06/30 18:45:53",
+        "event_time_at": 1782816353,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "高考志愿怎么填才能避免滑档",
+        "hot_value": 11203842,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQYvEf6XDAFqFGKA4DEKydIdQBNI7ePgts9SmA~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=mYg1SRtNEzdqYcUgu0meG6UFCz4%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E6%80%8E%E4%B9%88%E5%A1%AB%E6%89%8D%E8%83%BD%E9%81%BF%E5%85%8D%E6%BB%91%E6%A1%A3",
+        "event_time": "2026/06/30 10:37:04",
+        "event_time_at": 1782787024,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "王者荣耀主播联赛主播集结",
+        "hot_value": 11177917,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-i-jm8ajry58r/0656399b725a4804bb4334f2eb7a8c2e~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=8t66DjVKgp4Orhqp8353jx%2BbI8g%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%BB%E6%92%AD%E8%81%94%E8%B5%9B%E4%B8%BB%E6%92%AD%E9%9B%86%E7%BB%93",
+        "event_time": "2026/06/30 18:26:51",
+        "event_time_at": 1782815211,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "和平精英海底钢琴家",
+        "hot_value": 9837309,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMLBfKXhGIMsDfDAN8vg8pQEUGQB7hZJQQfogD~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=inoiewFwDQM3CIbkZxzc1Irlu%2Bo%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E6%B5%B7%E5%BA%95%E9%92%A2%E7%90%B4%E5%AE%B6",
+        "event_time": "2026/06/30 15:48:30",
+        "event_time_at": 1782805710,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "中国共产党党员总数达10128.6万名",
+        "hot_value": 9446837,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oInDkiQXxkEQMgdBIHaiPaIcIJ4UcqhxJAvAN~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=jiMDO7cp5kkSO19f9JngoeQaZZ4%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%9A%E5%91%98%E6%80%BB%E6%95%B0%E8%BE%BE10128.6%E4%B8%87%E5%90%8D",
+        "event_time": "2026/06/30 10:11:12",
+        "event_time_at": 1782785472,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "大摩警告：美股半导体或迎顶点",
+        "hot_value": 9389828,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMahGQrQD7lfwCDBAEf9AfHF0F3JCUBBwyu7QH~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=ydiO5BxSufGuQc94b3jVSA%2Bd%2BBY%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%A4%A7%E6%91%A9%E8%AD%A6%E5%91%8A%EF%BC%9A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%88%96%E8%BF%8E%E9%A1%B6%E7%82%B9",
+        "event_time": "2026/06/30 17:16:12",
+        "event_time_at": 1782810972,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      },
+      {
+        "title": "詹姆斯确定离开湖人",
+        "hot_value": 9328727,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/o0Q6TkeGcgJI2MpDMrGM0Dl6PGfAfI6YLQ2fgA~noop.jpeg?lk3s=bfd515bb&x-expires=1782889200&x-signature=ymw8PckxMaGxhw5MODuKxLiqfE8%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E7%A1%AE%E5%AE%9A%E7%A6%BB%E5%BC%80%E6%B9%96%E4%BA%BA",
+        "event_time": "2026/07/01 07:42:54",
+        "event_time_at": 1782862974,
+        "active_time": "2026-07-01 09:15:22",
+        "active_time_at": 1782897322000
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "date": "2026-07-30",
+  "time": "14:17:52",
+  "platforms": {
+    "weibo": [
+      {
+        "title": "A股市值前10红了9个",
+        "hot_value": 1187026,
+        "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA"
+      },
+      {
+        "title": "天价退票费全额退了",
+        "hot_value": 832649,
+        "link": "https://s.weibo.com/weibo?q=%E5%A4%A9%E4%BB%B7%E9%80%80%E7%A5%A8%E8%B4%B9%E5%85%A8%E9%A2%9D%E9%80%80%E4%BA%86"
+      },
+      {
+        "title": "人民军队制胜大片太燃了",
+        "hot_value": 700655,
+        "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%88%B6%E8%83%9C%E5%A4%A7%E7%89%87%E5%A4%AA%E7%87%83%E4%BA%86"
+      },
+      {
+        "title": "退休后旅游根本没有意义",
+        "hot_value": 678505,
+        "link": "https://s.weibo.com/weibo?q=%E9%80%80%E4%BC%91%E5%90%8E%E6%97%85%E6%B8%B8%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89"
+      },
+      {
+        "title": "不建议大家买深色蛋糕",
+        "hot_value": 668604,
+        "link": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E6%B7%B1%E8%89%B2%E8%9B%8B%E7%B3%95"
+      },
+      {
+        "title": "这私房菜有点太私房了",
+        "hot_value": 667685,
+        "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E7%A7%81%E6%88%BF%E8%8F%9C%E6%9C%89%E7%82%B9%E5%A4%AA%E7%A7%81%E6%88%BF%E4%BA%86"
+      },
+      {
+        "title": "吴谨言和前夫哥三搭了",
+        "hot_value": 634951,
+        "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%B0%A8%E8%A8%80%E5%92%8C%E5%89%8D%E5%A4%AB%E5%93%A5%E4%B8%89%E6%90%AD%E4%BA%86"
+      },
+      {
+        "title": "九门开播",
+        "hot_value": 523557,
+        "link": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%97%A8%E5%BC%80%E6%92%AD"
+      },
+      {
+        "title": "小米澎程实车内饰曝光",
+        "hot_value": 519718,
+        "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%AE%9E%E8%BD%A6%E5%86%85%E9%A5%B0%E6%9B%9D%E5%85%89"
+      },
+      {
+        "title": "KPL梦之队表演赛阵容",
+        "hot_value": 514761,
+        "link": "https://s.weibo.com/weibo?q=KPL%E6%A2%A6%E4%B9%8B%E9%98%9F%E8%A1%A8%E6%BC%94%E8%B5%9B%E9%98%B5%E5%AE%B9"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "曝多家AI公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+        "detail": "IT之家 7 月 28 日消息，AI 公司在推动内存和存储资源日益紧张之后，如今似乎又将目光投向了人类的文学遗产。调查媒体 404 Media 最新报道称，多家 AI 公司正通过中间商大规模收购二手图书，以获取高质量训练数据用于训练 AI 模型，同时避免引发公众舆论反弹。 AI 的发展离不开海量数据，但并非所有数据都有价值，关键在于数据质量。近年来，大量由 AI 生成的低质量内容（俗称“AI 垃圾内容”）充斥互联网，不仅污染了数据环境，也降低了 AI 继续学习的效果。因此，领先的 AI 公司开始重新寻找由人类创作的内容，尤其是 2022 年之前出版的纸质书籍，因为这些内容更有可能是原创作品，尚未受到 AI 生成内容的污染。 事实上，AI 公司利用纸质图书训练模型已有先例。作为当前卷入版权诉讼的主要 AI 公司之一，Anthropic 曾投入数百万美元购买大量纸质图书，用于提取内容训练 Claude AI 模型，随后再将这些图书销毁。据悉，该公司从 Better World Books 大量采购图书。法院虽然认定，将正版图书用于 AI 训练属于版权法中的“合理使用”，但 Anthropic 因长期保存一个包含 700 万本盗版图书的数据库，侵犯了作者和出版商版权，最终被判赔偿高达 15 亿美元（IT之家注：现汇率约合 101.62 亿元人民币）。 类似争议也发生在谷歌身上。近期，一个出版商联盟已对谷歌提起诉讼，指控其未经授权使用数百万本受版权保护的图书训练 Gemini AI 模型。 拥有超过 1.11 亿本图书目录信息的在线数据库 ISBNdb，长期以来一直是书商、图书馆和发行商的重要平台。随着 AI 行业迅速发展，ISBNdb 也开始调整业务方向，推出专门面向 AI 企业的大规模图书采购服务。 404 Media 报道称，相关订单规模从一次采购 1000 本到一次采购 100 万本不等。 一位不愿透露姓名的职业书商表示，今年 4 月以来，图书销量出现了前所未有的增长。过去生意好的时候，一周只能卖出约 20 本书；而近几个月，每周销量已飙升至数百本，是平时销量的约五倍。 Alibris、Biblio 等二手书交易平台上的其他书商，也反映出现了类似的大宗采购现象。 尽管目前没有确凿证据证明这些采购行为一定来自 ISBNdb 或某家 AI 公司，但其中存在不少异常现象。例如，大规模采购的对象几乎全部都是带有国际标准书号（ISBN）的图书，这种由 13 位数字组成的编码是全球图书唯一识别标识。 此外，这些采购行为几乎没有任何主题、类型或作者偏好，无论是小说、教材还是专业书籍都在采购范围内。更令人意外的是，买家似乎完全不在意价格，即使部分图书明显高于市场价，也会直接买下。 在 Anthropic 的版权诉讼过程中，曾参与 Google Books 项目、后来负责 Anthropic“巴拿马计划（Project Panama）”数字化项目的汤姆 · 哈维（Tom Harvey）证实，Anthropic 曾聘请多家专业文档扫描公司对纸质图书进行数字化处理。 其中一家合作公司是 Datamation Information Services，该公司提供非破坏性扫描和破坏性扫描两种图书数字化服务。 非破坏性扫描通常使用俯拍扫描仪、平板扫描仪或 V 型扫描设备，在不拆解图书的情况下完成数字化。而破坏性扫描则会直接拆开书籍，将每一页送入高速工业扫描仪进行处理。 由于破坏性扫描效率更高、成本更低，因此 AI 公司普遍选择这一方式，最终导致数百万本纸质图书被拆毁。 毫无疑问，纸质图书对于 AI 来说是一座巨大的知识宝库。然而，这种做法也引发了越来越多的伦理争议。 批评者认为，目前尚不清楚 AI 公司在数字化过程中，是否会区分普通图书与珍贵图书、绝版图书。如果这些稀有书籍被拆毁，它们可能将永久退出流通。 另一个更大的问题在于，这些扫描后的内容最终都会进入 AI 公司的私有数据库，仅用于训练 AI，而普通公众无法访问。 这意味着，人们或许能够获得更加智能的 AI，但代价可能是，人类积累的大量知识资源将不再以公开、可获取的形式留给未来世代。AI公司被曝大量收购旧书，以获取“纯净”训练素材如何看待Anthropic购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
+        "cover": "https://picx.zhimg.com/80/v2-5f8b0d064690562f356a48122ffc83de_1440w.webp?source=1def8aca",
+        "hot_value_desc": "1437 万热度",
+        "answer_cnt": 179,
+        "follower_cnt": 688,
+        "comment_cnt": 0,
+        "created_at": 1785283092000,
+        "created": "2026/07/29 07:58:12",
+        "link": "https://www.zhihu.com/question/2065707692950123437"
+      },
+      {
+        "title": "多位用户称美团账户凌晨遭异地批量盗刷，客服称已核销无法退款，什么情况？这笔损失该由谁承担？",
+        "detail": "凌晨时分，人在家中熟睡，手机里的美团账户却在千里之外的陌生城市被疯狂下单——购买的是“牛******”“**铁板烧”等餐饮团购券，券码随后被迅速核销。 近日，红星新闻记者接到陕西、甘肃、广东多地用户反映，其美团账户在本人不知情的情况下遭遇异地盗刷，并且被盗刷的方式都涉及美团月付功能，这些用户都开启了500元以下的免密支付。 这些用户的损失金额从一千余元到四千余元不等，他们一部分选择报警，记者获得的处警回执单显示相关警方正在“进一步调查”，另一部分用户表示目前暂未立案。 7月28日，红星新闻记者根据受损用户提供的资料联系美团客服，这些券码核销已无法退款，平台判断用户可能系手机不慎点开恶意链接、感染病毒遭到远程操控下单。如果需要获知被盗刷订单的后台详情，需要通过司法调证程序获取。多位用户称美团账户凌晨遭异地批量盗刷，客服称已核销无法退款 部分用户已报警，有手机曾点击不明链接",
+        "cover": "https://pic1.zhimg.com/v2-3f0279eff414b5ed8d92677553fcccfa.png",
+        "hot_value_desc": "469 万热度",
+        "answer_cnt": 132,
+        "follower_cnt": 345,
+        "comment_cnt": 0,
+        "created_at": 1785306240000,
+        "created": "2026/07/29 14:24:00",
+        "link": "https://www.zhihu.com/question/2065804781247887148"
+      },
+      {
+        "title": "为什么ChatGPT已经发布4年了，社会总生产力纹丝不动？",
+        "detail": "Open Markets Institute的Matt Scherer认为，AI并没有提高企业的生产力，也改善不了经济体系。他认为AI带来的单纯生产效率的提升并不能让社会生产力改变。甚至因为垃圾信息和幻觉的存在，导致AI给予的只是生产力的幻觉。如何看待他的观点？AI真的对社会总生产力没有帮助吗？ 见：https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
+        "cover": "https://picx.zhimg.com/v2-545262a3d39167685a67b0d546d2f503.png",
+        "hot_value_desc": "454 万热度",
+        "answer_cnt": 238,
+        "follower_cnt": 748,
+        "comment_cnt": 0,
+        "created_at": 1785253401000,
+        "created": "2026/07/28 23:43:21",
+        "link": "https://www.zhihu.com/question/2065583157664018461"
+      },
+      {
+        "title": "如何评价上海地铁即将迎来涨价？",
+        "detail": "上海地铁要调整价格了？ 7月29日 上海市发展和改革委员会官网发布公告 计划对全市轨道交通价格进行调整 并定于2026年9月7日 召开优化上海市轨道交通票价机制听证会 这将是上海21年来 首次对轨道交通票价进行调整 公告显示，此次票价机制调整 适用于全市轨道交通网络 但不包括磁浮线、金山铁路、 市域机场线以及未来开通的其他市域线路 回顾上海地铁上一次调价 还要追溯到2005年 彼时，上海地铁正处于建设高峰期 客流增长迅猛 部分线路在高峰时段 已出现全面超载现象 当时全市仅有地铁1至5号五条线路 运营总里程刚过百公里 调价的核心目的是 通过价格杠杆“削峰平谷” 缓解高峰时段的运营压力 如今，上海轨道交通 的规模已今非昔比 截至2025年底 全网运营线路已达21条 运营总里程突破900公里 达到906公里，车站增至523座 客流方面，2025年全年 日均客流量达1015万人次 全年共计运送乘客37.1亿人次 位居全国首位 此次票价调整所波及的范围和人群 远非21年前可比 图片来源：社交媒体 为确保充分听取社会各方意见，本次听证会将由23名参加人组成，具体包括：消费者12名、市消费者权益保护委员会1名、市人大代表1名、市政协委员1名、专家学者2名、市交通运输行业协会1名、市国资委1名、市财政局1名、久事集团1名以及申通地铁集团2名。此外，听证会还设有10个媒体席位。 根据公告，时隔21年，上海地铁将迎来首次调价！听证会拟于9月举行，消费者参加人通过这些方式产生_腾讯新闻",
+        "cover": "https://pic1.zhimg.com/50/v2-69c3275f6b336305d3669ccb7d38c022_b.jpg",
+        "hot_value_desc": "240 万热度",
+        "answer_cnt": 115,
+        "follower_cnt": 178,
+        "comment_cnt": 0,
+        "created_at": 1785367283000,
+        "created": "2026/07/30 07:21:23",
+        "link": "https://www.zhihu.com/question/2066060815594152470"
+      },
+      {
+        "title": "香港 26 岁交易员被拘捕，挪用 5000 万港元豪赌两倍做多海力士，巨亏 1.5 亿，如何看待此事？",
+        "detail": "香港26岁交易员挪用5000万港元，豪赌两倍做多海力士巨亏1.5亿港元！香港中环金融区被曝巨额资金挪用案，目前这名男子已被警方以涉嫌盗窃拘捕。 涉案发生于今年自1月9日至7月20日期间，这名交易员挪用公司5000万港元后，先通过有关机构进行保证金融资，又买入两倍做多海力士ETF，形成双重杠杆。该ETF自今年6月底历史高点暴跌超七成。目前相关持仓尚未平仓，最终损失仍存在变数。 该事件是在致富管理公司近期审计查账时被揭发的，虽然集团旗下致富证券火速发声明撇清关系，致富管理公司非证监会持牌公司，只是财富管理投资公司，隶属致富集团。但受事件影响，不少客户出于风控考量，选择从致富证券避险性出金。香港26岁交易员被拘捕：挪用5000万港元豪赌两倍做多海力士，巨亏1.5亿SK海力士二季度营业利润增近 6 倍仍不及市场预期，过半利润来自出售铠侠股权的一次性收益，如何解读？韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？韩国股市跌到熔断，SK海力士跌超13%，纳指四连跌，美股芯片股全线大跌，如何看待全球半导体集体抛售？",
+        "cover": "https://pic1.zhimg.com/v2-8ed45d01b02768ec782f164d58225f8c_1440w.jpg",
+        "hot_value_desc": "237 万热度",
+        "answer_cnt": 120,
+        "follower_cnt": 326,
+        "comment_cnt": 0,
+        "created_at": 1785290419000,
+        "created": "2026/07/29 10:00:19",
+        "link": "https://www.zhihu.com/question/2065738421474271320"
+      },
+      {
+        "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
+        "detail": "7月28日，日本熊本县附近发生7.1级地震时天空出现巨型蘑菇云和鸟群。当地居民从多个地区拍下这朵云纷纷猜测这是地震云，截至目前日本气象厅尚未对蘑菇云的形成作出解释。受地震影响，八代市多处桥梁发生断裂或坍塌，报道称强震已致至少50人送医。 新华社东京7月30日电（记者李子越 陈泽安）日本熊本县官方30日说，此次地震已造成17人死亡。",
+        "cover": "https://pic3.zhimg.com/50/v2-090faa004049046f98a8e303f82675ec_b.jpg",
+        "hot_value_desc": "234 万热度",
+        "answer_cnt": 29,
+        "follower_cnt": 103,
+        "comment_cnt": 0,
+        "created_at": 1785242312000,
+        "created": "2026/07/28 20:38:32",
+        "link": "https://www.zhihu.com/question/2065536648381555046"
+      },
+      {
+        "title": "OpenAI、Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+        "detail": "会对AI后续的发展产生影响吗？OpenAI、谷歌、Anthropic等企业上千员工联名请愿美国政府|界面新闻 · 快讯",
+        "cover": "https://picx.zhimg.com/v2-97888bb4c0392bcc4f7d92a44fb6889b.png",
+        "hot_value_desc": "230 万热度",
+        "answer_cnt": 56,
+        "follower_cnt": 153,
+        "comment_cnt": 0,
+        "created_at": 1785288207000,
+        "created": "2026/07/29 09:23:27",
+        "link": "https://www.zhihu.com/question/2065729146383071132"
+      },
+      {
+        "title": "国家安全机关提醒打印机的废旧硒鼓可能泄密，这是如何发生的？哪些办公设备也存在类似风险？",
+        "detail": "办公自动化设备是现代化办公的重要支撑，其信息安全防护直接关系国家秘密和敏感数据的安全。实践中，部分机关、单位对办公自动化设备存在的安全风险认知不足、保密技术防护常识欠缺，无形中为窃密泄密洞开了“方便之门”。 废旧硒鼓暗藏泄密风险 某单位办公用品供应商郑某以环保回收名义，回收该单位打印机的废旧硒鼓，单位经办人王某将载有大量国家秘密信息的硒鼓交给郑某。郑某经简单操作，将废旧硒鼓曾经打印的涉密文件，再次打印出来，并出售给境外组织。后郑某因间谍案件被抓捕，此事随之暴露。事件发生后，王某被有关部门给予党纪政务处分。 涉密信息设备的硒鼓、硬盘、内存条等核心部件是国家秘密信息的“隐形仓库”，其残留信息具有可复原性。以硒鼓为例，根据激光打印机的工作原理，在打印时，硒鼓表面上会绘制所打印内容的图文信息，不法分子回收废旧硒鼓后，可使用专门工具和技术，分析感光鼓表面残留的静电电荷或碳粉分布，在特定光照和显影条件下部分还原出打印内容的轮廓。另外，硒鼓存储芯片中的日志数据、设备序列号等，亦存在被恶意读取的风险。因此，废旧涉密信息设备若未经专业信息消除或物理销毁即流入社会，可能导致国家秘密信息泄露，造成不可挽回的损失。 保密提醒 机关、单位应当严格区分涉密信息设备和非涉密信息设备，实行分类管理。涉密信息设备的使用、维修维护、报废等全流程应当遵守有关保密管理规定，涉密存储部件的信息消除、数据恢复，淘汰、报废应送交保密行政管理部门设立的工作机构或者指定的单位进行，并严格履行审批、清点、登记、交接手续，严禁私自拆卸、转送、捐赠他人，更不能当作废品出售或者随意丢弃。 （来源：保密观）https://baijiahao.baidu.com/s?id=1872002399667739476",
+        "cover": "https://pic3.zhimg.com/50/v2-ce012e3a93e80f3c43da9b5c1baa7f8a_b.jpg",
+        "hot_value_desc": "216 万热度",
+        "answer_cnt": 168,
+        "follower_cnt": 287,
+        "comment_cnt": 0,
+        "created_at": 1785288952000,
+        "created": "2026/07/29 09:35:52",
+        "link": "https://www.zhihu.com/question/2065732271441539585"
+      },
+      {
+        "title": "美联储今年连续第五次维持利率不变，但投票结果从一致通过变成9票对3票，内部发生了什么？9月会加息吗？",
+        "detail": "中新网7月30日电 据美国有线电视新闻网(CNN)报道，当地时间29日，美国联邦储备委员会宣布，继续将联邦基金利率目标区间维持在3.5%至3.75%之间不变。这是美联储年内连续第5次维持利率不变。 当地时间6月17日，美联储主席凯文·沃什亮相记者会。 中新社记者 陈孟统 摄 美联储在声明中表示，尽管中东冲突等因素带来的不确定性处于高位，经济活动仍稳健扩张。通胀相较2%的目标依然处于高位，部分原因是供应冲击推高了能源等行业的价格。联邦公开市场委员会将致力于实现价格稳定。 报道指出，联邦公开市场委员会12名成员中，有3人在当日投票中反对维持利率不变的决定，他们主张加息25个基点。 报道称，近年来，美联储内部出现分歧的情况日益增多。由于在稳定物价与实现充分就业之间难以取得平衡，决策变得更加困难。美联储年内连续第5次维持利率不变 内部出现分歧_腾讯新闻",
+        "cover": "https://pic1.zhimg.com/80/v2-6805bab3278a5cd9156a4a5ede48dc6b_1440w.webp?source=1def8aca",
+        "hot_value_desc": "203 万热度",
+        "answer_cnt": 52,
+        "follower_cnt": 137,
+        "comment_cnt": 0,
+        "created_at": 1785368024000,
+        "created": "2026/07/30 07:33:44",
+        "link": "https://www.zhihu.com/question/2066063922856027842"
+      },
+      {
+        "title": "为什么广西日报特稿《王的猜想》能获得这么多认同？",
+        "detail": "这两天，新晋菲尔兹奖得主、中国数学家王虹成为全球热议人物。沾她的光，广西云-广西日报特稿《王的猜想》在年轻人中“刷屏”了。比起“广西姑娘”我们更喜欢“王的猜想”做标题来讲述这位伟大数学家的学习故事。https://v.gxnews.com.cn/sp/21973697",
+        "cover": "https://picx.zhimg.com/v2-cdee8c43fae130541b62078771590f85.png",
+        "hot_value_desc": "198 万热度",
+        "answer_cnt": 111,
+        "follower_cnt": 371,
+        "comment_cnt": 0,
+        "created_at": 1785125003000,
+        "created": "2026/07/27 12:03:23",
+        "link": "https://www.zhihu.com/question/2065044616043131031"
+      }
+    ],
+    "douyin": [
+      {
+        "title": "当彝族元素走进日常穿搭",
+        "hot_value": 11825326,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/owuI2tVgADSa3C8UDaFLgWQE9AlfDUjfAOBqii~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=mLZONrouLyofBsLWlCg7G69AAvU%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%BD%93%E5%BD%9D%E6%97%8F%E5%85%83%E7%B4%A0%E8%B5%B0%E8%BF%9B%E6%97%A5%E5%B8%B8%E7%A9%BF%E6%90%AD",
+        "event_time": "2026/07/30 11:40:29",
+        "event_time_at": 1785382829,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "美联储维持利率不变",
+        "hot_value": 11457352,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oMf2VdjAAEBEHGgGvhDMNqQeaIVXMC93oFCAbc~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=oReZxYzoHJN7PiDbI3yFY7hgNJI%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98",
+        "event_time": "2026/07/30 07:31:58",
+        "event_time_at": 1785367918,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "2026年度总票房突破220亿元",
+        "hot_value": 11300173,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ow48UBIcDBMfA4AnIJxBCTepeaXN704QZ3rk8n~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=CuDb86IpKHuos0FIUVRCdTdA0%2FA%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/2026%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4220%E4%BA%BF%E5%85%83",
+        "event_time": "2026/07/29 20:20:00",
+        "event_time_at": 1785327600,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "徒步的尽头是高山草甸",
+        "hot_value": 11170334,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/ogeRMP7ecEUSARvEi1awDMBzisfEACw9lIDjNa~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=qEefeAq4pXIhq4gQ%2F8TjG2vY4HU%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%BE%92%E6%AD%A5%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E9%AB%98%E5%B1%B1%E8%8D%89%E7%94%B8",
+        "event_time": "2026/07/28 15:02:32",
+        "event_time_at": 1785222152,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "韩国股市暴跌背后的真相",
+        "hot_value": 10538434,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQCmqMbYaUvTokXj5GWAhF4WPS4HivAEBB2iI~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=EV9X29BO6BO%2FzLSV3VFgO3gnbRw%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8",
+        "event_time": "2026/07/29 22:21:16",
+        "event_time_at": 1785334876,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "中际旭创登陆港股",
+        "hot_value": 10535326,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQKWurlgDQlqEqsqAuFGCx9R1BfSqeAQExgLAa~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=shU2J53yLPMmu74iT9YEzj8Tga0%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E7%99%BB%E9%99%86%E6%B8%AF%E8%82%A1",
+        "event_time": "2026/07/30 11:02:44",
+        "event_time_at": 1785380564,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "国家助学贷款怎么申请",
+        "hot_value": 9377963,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oUH1AwfBCExqe01AlgKK5NrMpBLAFiA3iAdYIg~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=OTWxBAamKEv0XB%2FH0ieSzAyC3ok%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E6%80%8E%E4%B9%88%E7%94%B3%E8%AF%B7",
+        "event_time": "2026/07/29 12:34:21",
+        "event_time_at": 1785299661,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "做夏日奶油风女孩",
+        "hot_value": 9269146,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oM5IEIsgAAT8BBf17Ff1WUDCNQ14GEBAoCMfBq~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=m4eh2UjLHIcsOxpWDZf2wF67rFI%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%81%9A%E5%A4%8F%E6%97%A5%E5%A5%B6%E6%B2%B9%E9%A3%8E%E5%A5%B3%E5%AD%A9",
+        "event_time": "2026/07/30 11:22:58",
+        "event_time_at": 1785381778,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "利物浦1:0雷克瑟姆",
+        "hot_value": 9217768,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/o0eq2qe8pEgADATwqKqLJBeII5GALgAdxAeQ9c~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=TFpBwwHzlB%2BRiK9Zp%2BwJv6nSXNQ%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E5%88%A9%E7%89%A9%E6%B5%A61%3A0%E9%9B%B7%E5%85%8B%E7%91%9F%E5%A7%86",
+        "event_time": "2026/07/30 09:54:51",
+        "event_time_at": 1785376491,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      },
+      {
+        "title": "Kimi K3为何全量开源",
+        "hot_value": 9174954,
+        "cover": "https://p5-sign.douyinpic.com/tos-cn-p-0015/oI0BB1XaFQAAltefpxBaUeDwIAIjNCGLUQ57wL~noop.jpeg?lk3s=bfd515bb&x-expires=1785412800&x-signature=wXpHrPZMgZApurFa6P6OrxRurqo%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/Kimi%20K3%E4%B8%BA%E4%BD%95%E5%85%A8%E9%87%8F%E5%BC%80%E6%BA%90",
+        "event_time": "2026/07/29 22:24:21",
+        "event_time_at": 1785335061,
+        "active_time": "2026-07-30 14:17:27",
+        "active_time_at": 1785421047000
+      }
+    ],
+    "bili": []
+  }
+}

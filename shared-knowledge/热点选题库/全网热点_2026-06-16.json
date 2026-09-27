@@ -1,0 +1,282 @@
+{
+  "date": "2026-06-16",
+  "time": "09:05:49",
+  "platforms": {
+    "weibo": [
+      {
+        "title": "世界杯开赛以来最大冷门",
+        "hot_value": 1642734,
+        "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E8%B5%9B%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%86%B7%E9%97%A8"
+      },
+      {
+        "title": "世界杯 天台挤不下了",
+        "hot_value": 1534038,
+        "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%A4%A9%E5%8F%B0%E6%8C%A4%E4%B8%8D%E4%B8%8B%E4%BA%86"
+      },
+      {
+        "title": "一图看懂基建六张网",
+        "hot_value": 736158,
+        "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E5%9F%BA%E5%BB%BA%E5%85%AD%E5%BC%A0%E7%BD%91"
+      },
+      {
+        "title": "沙特1比1乌拉圭",
+        "hot_value": 733111,
+        "link": "https://s.weibo.com/weibo?q=%E6%B2%99%E7%89%B91%E6%AF%941%E4%B9%8C%E6%8B%89%E5%9C%AD"
+      },
+      {
+        "title": "韩国散户卖股票爆买豪宅",
+        "hot_value": 560623,
+        "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7%E5%8D%96%E8%82%A1%E7%A5%A8%E7%88%86%E4%B9%B0%E8%B1%AA%E5%AE%85"
+      },
+      {
+        "title": "佛得角门将哭了",
+        "hot_value": 557984,
+        "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E5%93%AD%E4%BA%86"
+      },
+      {
+        "title": "迪丽热巴走路腰发力",
+        "hot_value": 499507,
+        "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B0%E8%B7%AF%E8%85%B0%E5%8F%91%E5%8A%9B"
+      },
+      {
+        "title": "西班牙0比0战平佛得角",
+        "hot_value": 457283,
+        "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%990%E6%AF%940%E6%88%98%E5%B9%B3%E4%BD%9B%E5%BE%97%E8%A7%92"
+      },
+      {
+        "title": "孟子义李昀锐尚公主十指紧扣",
+        "hot_value": 351307,
+        "link": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%8D%81%E6%8C%87%E7%B4%A7%E6%89%A3"
+      },
+      {
+        "title": "云台相机影石大疆谁更强",
+        "hot_value": 351307,
+        "link": "https://s.weibo.com/weibo?q=%E4%BA%91%E5%8F%B0%E7%9B%B8%E6%9C%BA%E5%BD%B1%E7%9F%B3%E5%A4%A7%E7%96%86%E8%B0%81%E6%9B%B4%E5%BC%BA"
+      }
+    ],
+    "zhihu": [
+      {
+        "title": "世界杯出现超级冷门！夺冠大热西班牙 0-0 被佛得角逼平，如何评价本场比赛？",
+        "detail": "",
+        "cover": "https://picx.zhimg.com/80/v2-f66f75d7e513d9529fc805af56fc357e_720w.webp?source=1def8aca",
+        "hot_value_desc": "2729 万热度",
+        "answer_cnt": 425,
+        "follower_cnt": 547,
+        "comment_cnt": 0,
+        "created_at": 1781515493000,
+        "created": "2026/06/15 17:24:53",
+        "link": "https://www.zhihu.com/question/2049905235586281786"
+      },
+      {
+        "title": "为什么动画《凡人修仙传》一改编就翻车？",
+        "detail": "为啥呢？",
+        "cover": "https://picx.zhimg.com/80/v2-6ad5d53d910f3fb639c1c87589847ea5_1440w.webp?source=1def8aca",
+        "hot_value_desc": "337 万热度",
+        "answer_cnt": 180,
+        "follower_cnt": 249,
+        "comment_cnt": 0,
+        "created_at": 1781439248000,
+        "created": "2026/06/14 20:14:08",
+        "link": "https://www.zhihu.com/question/2049585439095394392"
+      },
+      {
+        "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
+        "detail": "据报道，特斯拉近日在日本市场推出力度空前的购车优惠组合拳，三年免费超充叠加国家和地方双重补贴，Model 3实际到手价最低可降至约314万日元，折合人民币仅13.4万元左右，堪称白菜价。 目前日本在售的Model 3起售价为531.3万日元（含税），Model Y起售价558.7万日元。日本政府为清洁能源汽车（CEV）提供127万日元的统一补贴，在东京等地区还可额外获得80万至100万日元的地方补贴。 以Model 3后驱版为例，叠加全部补贴后，实际支付金额最低可降至约314万日元，按当前汇率折算约13.4万元人民币。 作为对比，国内Model 3起售价为23.55万元，日本补贴后的价格比国内便宜了近10万元。 13.4万元在日本汽车市场是什么概念？丰田卡罗拉混动在日本的起售价约为238万日元，本田思域约为350万日元。Model 3补贴后的价格已与传统燃油A级车接近，而非此前的豪华电动车定位。 特斯拉日本区负责人此前曾表示，希望打破Model 3“豪华车”的固有印象，将其推广为大众化车型。 除了补贴，特斯拉日本还推出了0利率金融方案和三年免费超充福利。三年免费超充政策覆盖Model 3和Model Y全系车型，包括库存车和定制车，福利直接绑定车主特斯拉账户，上述优惠均要求在7月31日前完成订购。特斯拉在日本卖到白菜价！Model 3实际到手仅需13.4万元 全球最低",
+        "cover": "https://picx.zhimg.com/80/v2-76998b2db203b9df13cb3d59bbdb6209_720w.webp?source=1def8aca",
+        "hot_value_desc": "254 万热度",
+        "answer_cnt": 50,
+        "follower_cnt": 113,
+        "comment_cnt": 0,
+        "created_at": 1781048183000,
+        "created": "2026/06/10 07:36:23",
+        "link": "https://www.zhihu.com/question/2047945194050254497"
+      },
+      {
+        "title": "老破小成抢手货，租售比超 2% 跑赢存款利率，反映了房地产市场的哪些变化？投资老破小需注意哪些风险？",
+        "detail": "曾被嫌弃破旧、落伍的城市老破小，如今彻底逆袭成楼市黑马。2026年各大城市二手房回暖，撑起市场热度的不是高端新房，而是总价300万元以内的老城小户型。更让人意外的是，不只刚需年轻人扎堆上车，不少投资者更是批量抄底，有人一口气拿下8套，靠租金实现稳健收益。核心原因很明确：当下老破小租售比全面跑赢银行存款、国债等稳健理财，在低利率时代，成了稀缺的“现金流资产”。 老破小突然成了抢手货，租售比超2%跑赢存款利率",
+        "cover": "https://picx.zhimg.com/80/v2-aa6eb0f262a4270572f9291b85a2cc74_720w.webp?source=1def8aca",
+        "hot_value_desc": "235 万热度",
+        "answer_cnt": 170,
+        "follower_cnt": 466,
+        "comment_cnt": 0,
+        "created_at": 1781434013000,
+        "created": "2026/06/14 18:46:53",
+        "link": "https://www.zhihu.com/question/2049563481884701466"
+      },
+      {
+        "title": "印度苦行僧坚持站立5年不坐不躺，双腿严重肿胀发黑，为什么会出现这种情况？长期站立到底有多伤身？",
+        "detail": "一段印度一名苦行僧已连续站立5年、导致其双腿严重肿胀的视频日前在网络热传。视频显示，他不坐下也不躺下，并且靠一种特殊吊带支撑身体，以直立的方式睡觉。因为血液循环不畅，他的双腿已严重肿胀，寺庙志愿者为他擦药膏治疗。 资料显示，这是一种站立苦修，通常持续长达12年。这名男子相信，修行期满后，自己将获得一种内在能量，这种能量会“迫使”神明显灵。",
+        "cover": "https://picx.zhimg.com/50/v2-8512d14c58d6e9fd1332938e5c3e0aad_b.jpg",
+        "hot_value_desc": "218 万热度",
+        "answer_cnt": 44,
+        "follower_cnt": 112,
+        "comment_cnt": 0,
+        "created_at": 1781507500000,
+        "created": "2026/06/15 15:11:40",
+        "link": "https://www.zhihu.com/question/2049871712112440939"
+      },
+      {
+        "title": "美伊达成和平协议，此次冲突到底谁赢了？各方有哪些得失？",
+        "detail": "",
+        "cover": "https://picx.zhimg.com/v2-e63ad6f64d79f2f8ebab8dc3afa30299.png",
+        "hot_value_desc": "209 万热度",
+        "answer_cnt": 81,
+        "follower_cnt": 141,
+        "comment_cnt": 0,
+        "created_at": 1781482014000,
+        "created": "2026/06/15 08:06:54",
+        "link": "https://www.zhihu.com/question/2049764815476713125"
+      },
+      {
+        "title": "中国足球小将巴西行连败，董路直言「中国人踢不了复杂足球」，这透露出中国青训哪些新动向？",
+        "detail": "中国足球小将巴西行",
+        "cover": "https://picx.zhimg.com/v2-6741c46f2def729c58648c6ef2bc2a04.webp",
+        "hot_value_desc": "200 万热度",
+        "answer_cnt": 94,
+        "follower_cnt": 130,
+        "comment_cnt": 0,
+        "created_at": 1781338605000,
+        "created": "2026/06/13 16:16:45",
+        "link": "https://www.zhihu.com/question/2049163314429802442"
+      },
+      {
+        "title": "亲戚来做客，跟孩子宣扬“读书无用论”，听了火大，家长该如何处理这种情况？",
+        "detail": "假期里，几个亲戚坐坐，一起聊聊天，本来挺好的事，说到孩子读书，开始各种理由说读书没有用，还举例子说谁谁谁，没读书现在也赚钱挺多，谁谁谁读书本科，现在还不是在打工，总结下来就是读书无用，把这个观念灌输给孩子，我也反驳，其实火很大，碍于情面不好发脾气，以后要不要跟亲戚断交。",
+        "cover": "https://pic4.zhimg.com/50/v2-01b2199f1c3bbf04a53f092919f4a145_b.jpg",
+        "hot_value_desc": "179 万热度",
+        "answer_cnt": 176,
+        "follower_cnt": 342,
+        "comment_cnt": 0,
+        "created_at": 1777799494000,
+        "created": "2026/05/03 17:11:34",
+        "link": "https://www.zhihu.com/question/2034319204476777226"
+      },
+      {
+        "title": "为何“天倾西北，地陷东南”？当时的地球发生了什么？",
+        "detail": "我相信上古的神话传说一般都是当时大事件的记录，肯定有所依据，那么共工怒撞不周山，的故事反映了什么大事件？当时的地球发生了什么才导致“天倾西北，地陷东南”？谢谢",
+        "cover": "https://pic1.zhimg.com/80/v2-2917d30b62f968cffe4fda3401e60cff_720w.webp?source=1def8aca",
+        "hot_value_desc": "126 万热度",
+        "answer_cnt": 34,
+        "follower_cnt": 125,
+        "comment_cnt": 0,
+        "created_at": 1410433719000,
+        "created": "2014/09/11 19:08:39",
+        "link": "https://www.zhihu.com/question/25310269"
+      },
+      {
+        "title": "广州公交客流 6 年暴跌 59%，传统公交如何转型才能实现破局？",
+        "detail": "城市公交客流暴跌，跟着的往往就是线路裁撤，而这么裁下去，影响最大的，永远是那些没有其他选择的人。对于不会用智能手机打车、骑不了电鸡的老人来说，公交就是他们连接世界的唯一方式。家楼下的公交站没了，可能意味着他们连去医院拿药、去菜市场买菜都成了难题。但现在很多城市的公交改革，恰恰在公平性上踩了坑。为了省 广州公交客流6年暴跌59%，公交线路不断裁撤对市民影响有多大？传统公交还能如何破局？",
+        "cover": "https://pic3.zhimg.com/50/v2-a3a68ee513ee9e34b812896dc0743fb8_b.jpg",
+        "hot_value_desc": "125 万热度",
+        "answer_cnt": 36,
+        "follower_cnt": 92,
+        "comment_cnt": 0,
+        "created_at": 1781165302000,
+        "created": "2026/06/11 16:08:22",
+        "link": "https://www.zhihu.com/question/2048436426153447769"
+      }
+    ],
+    "douyin": [
+      {
+        "title": "西班牙0:0佛得角",
+        "hot_value": 11876151,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-i-dy/a0173e8484e041258fecf7f29d8ed27f~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=S6COl6LsaPzQRjvnzYPNmCAHKGE%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%990%3A0%E4%BD%9B%E5%BE%97%E8%A7%92",
+        "event_time": "2026/06/15 19:53:27",
+        "event_time_at": 1781524407,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "沙特阿拉伯1:1乌拉圭",
+        "hot_value": 11509779,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-i-dy/a0173e8484e041258fecf7f29d8ed27f~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=N7FGaFOBfT5fEnk84isIjrIuey8%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF1%3A1%E4%B9%8C%E6%8B%89%E5%9C%AD",
+        "event_time": "2026/06/15 19:57:37",
+        "event_time_at": 1781524657,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "端午经济热度攀升",
+        "hot_value": 11319418,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYXAqCIzvtGj7zAb3fJSLsvBeWaDMUIBnfIXTV~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=MCkN%2FMRX7HSEQ59oA6sygF9RhMY%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E7%AB%AF%E5%8D%88%E7%BB%8F%E6%B5%8E%E7%83%AD%E5%BA%A6%E6%94%80%E5%8D%87",
+        "event_time": "2026/06/15 20:21:23",
+        "event_time_at": 1781526083,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "比利时1:1埃及",
+        "hot_value": 11037140,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-i-dy/a0173e8484e041258fecf7f29d8ed27f~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=C8ONUfXrUJjtZt5DFLkwM576rWg%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%AF%94%E5%88%A9%E6%97%B61%3A1%E5%9F%83%E5%8F%8A",
+        "event_time": "2026/06/15 19:56:09",
+        "event_time_at": 1781524569,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "佛得角40岁门将赛后哭了",
+        "hot_value": 10190900,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oUzIgEnC9OmIqAYfwS8MkG8hafnDABF3DPGAbm~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=wdBViBWyH6a0%2FY1tZSFXosE4cBM%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%9240%E5%B2%81%E9%97%A8%E5%B0%86%E8%B5%9B%E5%90%8E%E5%93%AD%E4%BA%86",
+        "event_time": "2026/06/16 07:31:51",
+        "event_time_at": 1781566311,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "伊朗vs新西兰",
+        "hot_value": 9806765,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-i-dy/a0173e8484e041258fecf7f29d8ed27f~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=C8ONUfXrUJjtZt5DFLkwM576rWg%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0",
+        "event_time": "2026/06/16 07:06:40",
+        "event_time_at": 1781564800,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "佛得角在哪",
+        "hot_value": 8751446,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oce3fSdABZCIQqAHheGLaUgIXgpBLg7t4L4Bi8~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=JJhw5%2BNB%2BqOFCudhKFf2GHxBF%2Fo%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E5%9C%A8%E5%93%AA",
+        "event_time": "2026/06/16 07:46:11",
+        "event_time_at": 1781567171,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "我的美妆宝藏大开箱",
+        "hot_value": 8528624,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oY2p9SmEqICDAbAuKBKFrsjEIeDDRpANNgf4j8~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=ix3lviDBQIVV2lA%2FNhYmi7ledwg%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E7%BE%8E%E5%A6%86%E5%AE%9D%E8%97%8F%E5%A4%A7%E5%BC%80%E7%AE%B1",
+        "event_time": "2026/06/15 13:39:53",
+        "event_time_at": 1781501993,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "端午来苏州看金龙巡游超级版",
+        "hot_value": 8266750,
+        "cover": "https://p5-sign.douyinpic.com/tos-cn-p-0015/ogvlYiAKiQO09l4iBIQgaITiIFQAt5dcPTIaP~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=dG%2BKNOjqfaWPW%2Bu4kqNILACo8zk%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E7%AB%AF%E5%8D%88%E6%9D%A5%E8%8B%8F%E5%B7%9E%E7%9C%8B%E9%87%91%E9%BE%99%E5%B7%A1%E6%B8%B8%E8%B6%85%E7%BA%A7%E7%89%88",
+        "event_time": "2026/06/15 10:07:47",
+        "event_time_at": 1781489267,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      },
+      {
+        "title": "时尚还得跟小朋友学",
+        "hot_value": 7772536,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oYN9WzBQaPx0LIg6AMAYiUII2ABivipqLnwoE~noop.jpeg?lk3s=bfd515bb&x-expires=1781593200&x-signature=yqmRS1UELK5VZYo2CfqzGMuz%2BRc%3D&from=3218412987",
+        "link": "https://www.douyin.com/search/%E6%97%B6%E5%B0%9A%E8%BF%98%E5%BE%97%E8%B7%9F%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%AD%A6",
+        "event_time": "2026/06/15 15:48:16",
+        "event_time_at": 1781509696,
+        "active_time": "2026-06-16 09:05:20",
+        "active_time_at": 1781600720000
+      }
+    ]
+  }
+}

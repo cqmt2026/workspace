@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-20",
+  "time": "09:09:05",
+  "platforms": {
+    "weibo": [
+      {
+        "title": "女子凌晨倒掉24瓶爱心水被拍下",
+        "hot_value": 1958429,
+        "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E5%80%92%E6%8E%8924%E7%93%B6%E7%88%B1%E5%BF%83%E6%B0%B4%E8%A2%AB%E6%8B%8D%E4%B8%8B"
+      },
+      {
+        "title": "12306回应买票占座放零食这座位能让吗",
+        "hot_value": 1089154,
+        "link": "https://s.weibo.com/weibo?q=12306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%83%BD%E8%AE%A9%E5%90%97"
+      },
+      {
+        "title": "这6张网与你我生活息息相关",
+        "hot_value": 1050719,
+        "link": "https://s.weibo.com/weibo?q=%E8%BF%996%E5%BC%A0%E7%BD%91%E4%B8%8E%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3"
+      },
+      {
+        "title": "青岛海之恋公园",
+        "hot_value": 1012324,
+        "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E5%B2%9B%E6%B5%B7%E4%B9%8B%E6%81%8B%E5%85%AC%E5%9B%AD"
+      },
+      {
+        "title": "空枪 李嘉诚儿子绑架案",
+        "hot_value": 963707,
+        "link": "https://s.weibo.com/weibo?q=%E7%A9%BA%E6%9E%AA%20%E6%9D%8E%E5%98%89%E8%AF%9A%E5%84%BF%E5%AD%90%E7%BB%91%E6%9E%B6%E6%A1%88"
+      },
+      {
+        "title": "七夕但不对劲",
+        "hot_value": 785876,
+        "link": "https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E4%BD%86%E4%B8%8D%E5%AF%B9%E5%8A%B2"
+      },
+      {
+        "title": "美联储",
+        "hot_value": 690881,
+        "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A8"
+      },
+      {
+        "title": "骑士掘金快船交易",
+        "hot_value": 581073,
+        "link": "https://s.weibo.com/weibo?q=%E9%AA%91%E5%A3%AB%E6%8E%98%E9%87%91%E5%BF%AB%E8%88%B9%E4%BA%A4%E6%98%93"
+      },
+      {
+        "title": "全季酒店 再追究对我们对你都不好",
+        "hot_value": 549636,
+        "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%AD%A3%E9%85%92%E5%BA%97%20%E5%86%8D%E8%BF%BD%E7%A9%B6%E5%AF%B9%E6%88%91%E4%BB%AC%E5%AF%B9%E4%BD%A0%E9%83%BD%E4%B8%8D%E5%A5%BD"
+      },
+      {
+        "title": "空枪开分9.7",
+        "hot_value": 438417,
+        "link": "https://s.weibo.com/weibo?q=%E7%A9%BA%E6%9E%AA%E5%BC%80%E5%88%869.7"
+      }
+    ],
+    "zhihu": [],
+    "douyin": [],
+    "baidu_hot": [],
+    "bili": []
+  },
+  "hot_topics": [
+    {
+      "title": "女子凌晨倒掉24瓶爱心水被拍下",
+      "source": "weibo",
+      "hot_value": 1958429,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E5%80%92%E6%8E%8924%E7%93%B6%E7%88%B1%E5%BF%83%E6%B0%B4%E8%A2%AB%E6%8B%8D%E4%B8%8B"
+    },
+    {
+      "title": "12306回应买票占座放零食这座位能让吗",
+      "source": "weibo",
+      "hot_value": 1089154,
+      "link": "https://s.weibo.com/weibo?q=12306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%83%BD%E8%AE%A9%E5%90%97"
+    },
+    {
+      "title": "这6张网与你我生活息息相关",
+      "source": "weibo",
+      "hot_value": 1050719,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%996%E5%BC%A0%E7%BD%91%E4%B8%8E%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3"
+    },
+    {
+      "title": "青岛海之恋公园",
+      "source": "weibo",
+      "hot_value": 1012324,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E5%B2%9B%E6%B5%B7%E4%B9%8B%E6%81%8B%E5%85%AC%E5%9B%AD"
+    },
+    {
+      "title": "空枪 李嘉诚儿子绑架案",
+      "source": "weibo",
+      "hot_value": 963707,
+      "link": "https://s.weibo.com/weibo?q=%E7%A9%BA%E6%9E%AA%20%E6%9D%8E%E5%98%89%E8%AF%9A%E5%84%BF%E5%AD%90%E7%BB%91%E6%9E%B6%E6%A1%88"
+    },
+    {
+      "title": "七夕但不对劲",
+      "source": "weibo",
+      "hot_value": 785876,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E4%BD%86%E4%B8%8D%E5%AF%B9%E5%8A%B2"
+    },
+    {
+      "title": "美联储",
+      "source": "weibo",
+      "hot_value": 690881,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A8"
+    },
+    {
+      "title": "骑士掘金快船交易",
+      "source": "weibo",
+      "hot_value": 581073,
+      "link": "https://s.weibo.com/weibo?q=%E9%AA%91%E5%A3%AB%E6%8E%98%E9%87%91%E5%BF%AB%E8%88%B9%E4%BA%A4%E6%98%93"
+    },
+    {
+      "title": "全季酒店 再追究对我们对你都不好",
+      "source": "weibo",
+      "hot_value": 549636,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%AD%A3%E9%85%92%E5%BA%97%20%E5%86%8D%E8%BF%BD%E7%A9%B6%E5%AF%B9%E6%88%91%E4%BB%AC%E5%AF%B9%E4%BD%A0%E9%83%BD%E4%B8%8D%E5%A5%BD"
+    },
+    {
+      "title": "空枪开分9.7",
+      "source": "weibo",
+      "hot_value": 438417,
+      "link": "https://s.weibo.com/weibo?q=%E7%A9%BA%E6%9E%AA%E5%BC%80%E5%88%869.7"
+    }
+  ]
+}
