@@ -1,0 +1,10 @@
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-28T20:36:07.979493", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5080.339}
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-09-28T20:36:19.570215", "status": "OK", "detail": "Exit code: 0", "duration_ms": 192.219}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-09-28T20:36:19.899334", "status": "OK", "detail": "Exit code: 0", "duration_ms": 864.42}
+{"task": "Daily-Evening-Report-晚间汇报", "system": "main", "timestamp": "2026-09-28T20:36:37.363751", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3450.8999999999996}
+{"task": "Rule-Refiner-规则提炼", "system": "main", "timestamp": "2026-09-28T20:36:48.747700", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4348.464}
+{"task": "INV-ZT-Kline-涨停K线收集", "system": "investment", "timestamp": "2026-09-28T20:36:54.014238", "status": "OK", "detail": "Exit code: 0", "duration_ms": 236.367}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-28T20:36:57.825048", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2212.085}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-09-28T20:37:15.257678", "status": "OK", "detail": "Exit code: 0", "duration_ms": 333.11}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-28T20:50:09.509036", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4026.2339999999995}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-28T21:01:00.179698", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3487.028}

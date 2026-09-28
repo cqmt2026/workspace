@@ -1,3 +1,7 @@
+﻿
+import sys
+sys.path.insert(0, r'C:\Users\Administrator\.openclaw\workspace')
+from scripts.tool_validator import tool_validator
 # -*- coding: utf-8 -*-
 """
 选题采集 v3 - 地理热点专用
@@ -89,3 +93,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
