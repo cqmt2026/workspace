@@ -8,3 +8,5 @@
 {"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-09-28T20:37:15.257678", "status": "OK", "detail": "Exit code: 0", "duration_ms": 333.11}
 {"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-28T20:50:09.509036", "status": "OK", "detail": "Exit code: 0", "duration_ms": 4026.2339999999995}
 {"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-28T21:01:00.179698", "status": "OK", "detail": "Exit code: 0", "duration_ms": 3487.028}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-28T21:30:12.710913", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题25条", "duration_ms": 2399.584}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-28T21:30:12.730859", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2621.989}
