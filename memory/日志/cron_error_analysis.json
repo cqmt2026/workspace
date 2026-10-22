@@ -1,0 +1,211 @@
+{
+  "total": 38,
+  "enabled": 38,
+  "statuses": {
+    "skipped": 1,
+    "ok": 22,
+    "error": 15
+  },
+  "by_class": {
+    "other": [
+      {
+        "name": "heartbeat-main",
+        "agent": "main",
+        "error": "heartbeat skipped: requests-in-flight"
+      }
+    ],
+    "ok": [
+      {
+        "name": "INV-MXSearch-Collect-00:40",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "INV-MXSearch-Signal-Loader",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "Memory Dreaming Promotion",
+        "agent": "",
+        "error": ""
+      },
+      {
+        "name": "Model-Quota-Check",
+        "agent": "",
+        "error": ""
+      },
+      {
+        "name": "skill-collection-review-weixin",
+        "agent": "weixin",
+        "error": ""
+      },
+      {
+        "name": "INV-Holding-Alert-30min",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "Model-Quota-Alert",
+        "agent": "",
+        "error": ""
+      },
+      {
+        "name": "INV-Jin10-Fetch-30min",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "Baidu-早间计划",
+        "agent": "baidu",
+        "error": ""
+      },
+      {
+        "name": "INV-SmartMoney-Scan-14:00",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "INV-Financial-Rigor-17:10",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "Obsidian-知识沉淀",
+        "agent": "main",
+        "error": ""
+      },
+      {
+        "name": "skill-collection-review-novel",
+        "agent": "novel",
+        "error": ""
+      },
+      {
+        "name": "INV-Weekly-Review",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "INV-Weekly-Review-周五",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "skill-collection-review-baidu",
+        "agent": "baidu",
+        "error": ""
+      },
+      {
+        "name": "skill-collection-review-main",
+        "agent": "main",
+        "error": ""
+      },
+      {
+        "name": "INV-System-HealthCheck",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "skill-collection-review-social",
+        "agent": "social",
+        "error": ""
+      },
+      {
+        "name": "skill-collection-review-investment",
+        "agent": "investment",
+        "error": ""
+      },
+      {
+        "name": "skill-collection-review-math",
+        "agent": "math",
+        "error": ""
+      },
+      {
+        "name": "skill-collection-review-maphot",
+        "agent": "maphot",
+        "error": ""
+      }
+    ],
+    "script_error": [
+      {
+        "name": "core-fix-check",
+        "agent": "",
+        "error": "command exited with code 2"
+      },
+      {
+        "name": "core-experience-learning",
+        "agent": "",
+        "error": "command exited with code 2"
+      },
+      {
+        "name": "core-tool-validation",
+        "agent": "",
+        "error": "command exited with code 2"
+      },
+      {
+        "name": "core-task-inference",
+        "agent": "",
+        "error": "command exited with code 2"
+      },
+      {
+        "name": "core-review",
+        "agent": "",
+        "error": "command exited with code 2"
+      },
+      {
+        "name": "daily-backup",
+        "agent": "",
+        "error": "command exited with code 2"
+      }
+    ],
+    "api_rate_limit": [
+      {
+        "name": "PV-Daily-Content-生成",
+        "agent": "main",
+        "error": "⚠️ 您已达到免费用户的 API 速率限制。升级 Token Plan 即可解锁更高限额，继续不间断使用 API。 (request id: 20261013125331313211352Y4SbCaak)"
+      },
+      {
+        "name": "INV-Xingtai-Radar-16:05",
+        "agent": "investment",
+        "error": "⚠️ 您已达到免费用户的 API 速率限制。升级 Token Plan 即可解锁更高限额，继续不间断使用 API。 (request id: 20261013125311181714438b8bOSwEQ)"
+      },
+      {
+        "name": "Baidu-日报生成",
+        "agent": "baidu",
+        "error": "⚠️ 您已达到免费用户的 API 速率限制。升级 Token Plan 即可解锁更高限额，继续不间断使用 API。 (request id: 20261013125336950998924P8PXW44g)"
+      },
+      {
+        "name": "Baidu-周报",
+        "agent": "baidu",
+        "error": "⚠️ 今日文本额度已用完，当前处于限速模式：每 1 分钟可请求 1 次，请于 20:09:52 后重试。 (request id: 20261011120921648459012dKJKqUk1); Retry-After: 31 seco"
+      }
+    ],
+    "channel_config": [
+      {
+        "name": "MapHot-选题采集",
+        "agent": "main",
+        "error": "Unsupported channel: openclaw-weixin"
+      },
+      {
+        "name": "System-SessionHistory-每日备份",
+        "agent": "main",
+        "error": "Unsupported channel: openclaw-weixin"
+      },
+      {
+        "name": "Math-自动学习",
+        "agent": "main",
+        "error": "Unsupported channel: openclaw-weixin"
+      },
+      {
+        "name": "INV-Closing-Strategy-尾盘14:30",
+        "agent": "main",
+        "error": "Unsupported channel: openclaw-weixin"
+      },
+      {
+        "name": "Rule-Refiner-规则提炼",
+        "agent": "main",
+        "error": "Unsupported channel: openclaw-weixin"
+      }
+    ]
+  }
+}

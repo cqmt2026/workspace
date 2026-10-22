@@ -1,0 +1,4 @@
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-07T10:00:28.733387", "status": "ERROR", "error": "Script not found: workspace-maphot/scripts/选题采集_v3.py"}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-10-07T11:09:01.842052", "status": "ERROR", "error": "Script not found: workspace-math\\scripts\\auto_learn_trigger.py"}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-10-07T11:14:22.671644", "status": "ERROR", "error": "Script not found: workspace-math\\scripts\\auto_learn_trigger.py"}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-10-07T14:34:40.308457", "status": "ERROR", "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}

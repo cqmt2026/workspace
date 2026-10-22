@@ -1,0 +1,32 @@
+{"ts": "2026-10-19T21:38:24.806008", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "OK", "duration_ms": 3445.214, "detail": "Exit code: 0"}
+{"ts": "2026-10-19T22:31:03.953735", "task": "LOG-日志审计-每日检查", "system": "main", "status": "ERROR", "duration_ms": 20524.302, "detail": "正常0 出错0 无日志35"}
+{"ts": "2026-10-20T19:56:21.636200", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}
+{"ts": "2026-10-20T19:56:26.096880", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-investment/scripts/strategy_scan.py"}
+{"ts": "2026-10-20T19:56:26.118820", "task": "System-SessionHistory-每日备份", "system": "main", "status": "OK", "duration_ms": 267.281, "detail": "Exit code: 0"}
+{"ts": "2026-10-20T19:56:50.078052", "task": "GitHub-Trending-每日追踪", "system": "main", "status": "OK", "duration_ms": 8695.734024047852, "detail": "Today:15 Weekly:15 Python:17 Pushed:False"}
+{"ts": "2026-10-20T19:56:50.156841", "task": "GitHub-Trending-每日追踪", "system": "main", "status": "OK", "duration_ms": 9110.622, "detail": "Exit code: 0"}
+{"ts": "2026-10-20T19:59:04.596908", "task": "MapHot-选题采集", "system": "main", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-maphot/scripts/选题采集_v3.py"}
+{"ts": "2026-10-20T20:04:31.985649", "task": "MapHot-选题采集", "system": "main", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"ts": "2026-10-20T20:04:37.585764", "task": "Cross-System-Bridge-跨系统推荐", "system": "main", "status": "OK", "duration_ms": 189.492, "detail": "Exit code: 0"}
+{"ts": "2026-10-20T20:04:40.271580", "task": "Obsidian-今日推荐", "system": "main", "status": "OK", "duration_ms": 9618.366999999998, "detail": "Exit code: 0"}
+{"ts": "2026-10-20T20:07:04.911532", "task": "MapHot-选题采集", "system": "main", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"ts": "2026-10-20T20:07:50.609278", "task": "Math-自动学习", "system": "math", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-math/scripts/auto_learn_trigger.py"}
+{"ts": "2026-10-20T20:08:19.558711", "task": "MapHot-选题采集", "system": "main", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"ts": "2026-10-20T20:15:14.692685", "task": "MapHot-选题采集", "system": "main", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"ts": "2026-10-20T20:16:01.212510", "task": "MapHot-选题采集", "system": "main", "status": "OK", "duration_ms": null, "detail": "10条选题已保存至topics_20261020.json"}
+{"ts": "2026-10-20T22:30:11.206044", "task": "LOG-日志审计-晚间检查", "system": "main", "status": "ERROR", "duration_ms": 1, "detail": "测试"}
+{"ts": "2026-10-20T22:30:22.795926", "task": "LOG-日志审计-每日检查", "system": "main", "status": "ERROR", "duration_ms": 11232.836000000001, "detail": "正常0 出错0 无日志35"}
+{"ts": "2026-10-21T21:53:51.438107", "task": "Cross-System-Bridge-跨系统推荐", "system": "main", "status": "OK", "duration_ms": 361.033, "detail": "Exit code: 0"}
+{"ts": "2026-10-21T21:54:45.652779", "task": "MapHot-选题采集", "system": "main", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"ts": "2026-10-21T21:58:33.491347", "task": "MapHot-选题采集", "system": "main", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"ts": "2026-10-21T22:00:30.372947", "task": "MapHot-选题采集", "system": "main", "status": "OK", "duration_ms": 177.77, "detail": "Exit code: 0"}
+{"ts": "2026-10-21T22:30:19.108410", "task": "LOG-日志审计-每日检查", "system": "main", "status": "ERROR", "duration_ms": 15797.432, "detail": "正常0 出错0 无日志35"}
+{"ts": "2026-10-21T22:30:33.014099", "task": "LOG-日志审计-每日检查", "system": "main", "status": "ERROR", "duration_ms": 7081.468, "detail": "正常0 出错0 无日志35"}
+{"ts": "2026-10-22T20:20:19.221986", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}
+{"ts": "2026-10-22T20:20:21.405822", "task": "System-SessionHistory-每日备份", "system": "main", "status": "OK", "duration_ms": 243.98700000000002, "detail": "Exit code: 0"}
+{"ts": "2026-10-22T20:20:24.140279", "task": "Cross-System-Bridge-跨系统推荐", "system": "main", "status": "OK", "duration_ms": 335.31899999999996, "detail": "Exit code: 0"}
+{"ts": "2026-10-22T20:20:24.365464", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-investment/scripts/strategy_scan.py"}
+{"ts": "2026-10-22T20:21:40.200602", "task": "Obsidian-今日推荐", "system": "main", "status": "OK", "duration_ms": 11411.97, "detail": "Exit code: 0"}
+{"ts": "2026-10-22T20:22:44.398228", "task": "GitHub-Trending-每日追踪", "system": "main", "status": "WARN", "duration_ms": 74596.16088867188, "detail": "Today:0 Weekly:0 Python:0 Pushed:False"}
+{"ts": "2026-10-22T20:23:49.969359", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-investment\\scripts\\strategy_scan.py"}
+{"ts": "2026-10-22T22:30:17.806411", "task": "LOG-日志审计-每日检查", "system": "main", "status": "ERROR", "duration_ms": 9419.402, "detail": "正常0 出错0 无日志35"}

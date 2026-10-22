@@ -1,0 +1,7 @@
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-10-14T19:49:54.857067", "status": "OK", "detail": "Exit code: 0", "duration_ms": 212.95}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-10-14T19:50:02.598495", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5866.527}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-10-14T19:50:15.009061", "status": "OK", "detail": "Exit code: 0", "duration_ms": 254.32100000000003}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-14T19:50:27.611458", "status": "OK", "detail": "Exit code: 0", "duration_ms": 175.655}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-10-14T22:32:56.709891", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题2条", "duration_ms": 1270.8950000000002}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-10-14T22:34:05.710476", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题2条", "duration_ms": 868.278}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-10-14T22:35:07.435030", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题2条", "duration_ms": 838.33}

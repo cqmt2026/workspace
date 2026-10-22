@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\Administrator\.openclaw\workspace\workspace-investment\quant_ml\main.py", line 13, in <module>
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
-                                  ^^^^^^^^^^^^^^^^^
-AttributeError: 'NoneType' object has no attribute 'buffer'

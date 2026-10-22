@@ -1,9 +1,0 @@
-{
-  "video": "鸡兔同笼",
-  "duration": 59.66,
-  "passed": false,
-  "issues": [
-    "Warning: 答案 16字 (标准<= 14字)，超了2字"
-  ],
-  "timestamp": "2026-04-09T11:51:13.610528"
-}

@@ -1,0 +1,8 @@
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-10-06T20:52:54.584283", "status": "ERROR", "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-06T20:53:11.263661", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-06T20:53:39.116284", "status": "ERROR", "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-06T20:56:41.575003", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-06T20:59:44.182730", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-06T21:03:14.496522", "status": "ERROR", "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-06T21:11:28.384237", "status": "ERROR", "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-06T21:13:10.667964", "status": "OK", "detail": "Exit code: 0", "duration_ms": 237.36499999999998}

@@ -1,6 +1,6 @@
 # HEARTBEAT.md - Cron任务总表
 
-**最后更新**: 2026-09-25
+**最后更新**: 2026-10-18
 
 ## 🕐 9点高峰期错峰时间表（2026-09-05优化）
 
@@ -55,16 +55,6 @@
 | Web-Hot | 09:06 | 全网热点 |
 | AI-Retry | 09:12/15:12 | 失败重试 |
 
-## 光伏获客子系统
-
-| 任务 | 时间 | 说明 |
-|------|------|------|
-| PV-HotTopic-采集 | 10:00 | 四源采集+热点评分 |
-| PV-Daily-Content-生成 | 09:00 | 热点+政策→生成短视频脚本 |
-
-> 工具链：hot_topic_collector + policy_monitor + content_generator + competitor_monitor
-> 数据：workspace-pv/data/pv.db (SQLite)
-
 ## 地图热点子系统
 
 | 任务 | 时间 | 说明 |
@@ -103,6 +93,16 @@
 | Novel-自我学习 | 11:00 | 小说知识入库 |
 | Social-自我学习 | 11:30 | 爆款特征学习 |
 | Math-自动学习 | 12:00 | 数学动画数据分析 |
+
+## 小说子系统
+
+| 任务 | 时间 | 说明 |
+|------|------|------|
+| Novel-质检审核 | 12:00 | 章节质量检查 |
+| Novel-去AI味 | 13:00 | 内容优化 |
+
+> 路径：workspace-novel/
+> 核心：创作引擎 + 知识库 + 去AI味
 
 ## 子系统管理
 
@@ -150,7 +150,7 @@
 ## Skill路由
 
 脚本 scripts/skill_router.py 自动匹配，不需定义。
-视频→video-script-generator | 热点→hot-topic-finder/web-hot | 去AI味→humanizer-zh | 投资→investment-analyst | 报错→capability-evolver-pro | 小说→novel-generator | 大纲→chapter_outline_check | 质检→chapter_quality_gate | 数学动画→video-frames | 标题→ai-prompt-optimizer-cn | 抖音视频→douyin-video/douyin.js | **光伏获客→workspace-pv/scripts/core/pipeline.py**
+视频→video-script-generator | 热点→hot-topic-finder/web-hot | 去AI味→humanizer-zh | 投资→investment-analyst | 报错→capability-evolver-pro | 小说→novel-generator | 大纲→chapter_outline_check | 质检→chapter_quality_gate | 数学动画→video-frames | 标题→ai-prompt-optimizer-cn | 抖音视频→douyin-video/douyin.js
 
 ## Heartbeat规定
 

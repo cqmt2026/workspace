@@ -1,0 +1,154 @@
+[
+  {
+    "query": "data visualization dashboard",
+    "name": "grafana/grafana",
+    "stars": 77400,
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+    "lang": "TypeScript",
+    "url": "https://github.com/grafana/grafana"
+  },
+  {
+    "query": "data visualization dashboard",
+    "name": "metabase/metabase",
+    "stars": 49760,
+    "desc": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+    "lang": "Clojure",
+    "url": "https://github.com/metabase/metabase"
+  },
+  {
+    "query": "data visualization dashboard",
+    "name": "getredash/redash",
+    "stars": 28840,
+    "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "lang": "Python",
+    "url": "https://github.com/getredash/redash"
+  },
+  {
+    "query": "data visualization dashboard",
+    "name": "perspective-dev/perspective",
+    "stars": 11324,
+    "desc": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+    "lang": "Rust",
+    "url": "https://github.com/perspective-dev/perspective"
+  },
+  {
+    "query": "data visualization dashboard",
+    "name": "evidence-dev/evidence",
+    "stars": 7039,
+    "desc": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
+    "lang": "TypeScript",
+    "url": "https://github.com/evidence-dev/evidence"
+  },
+  {
+    "query": "open data platform",
+    "name": "grafana/grafana",
+    "stars": 77400,
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+    "lang": "TypeScript",
+    "url": "https://github.com/grafana/grafana"
+  },
+  {
+    "query": "open data platform",
+    "name": "openbq-org/OpenBB",
+    "stars": 74471,
+    "desc": "Open Data Platform for analysts, quants and AI agents.",
+    "lang": "Python",
+    "url": "https://github.com/openbq-org/OpenBB"
+  },
+  {
+    "query": "open data platform",
+    "name": "mlflow/mlflow",
+    "stars": 28465,
+    "desc": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+    "lang": "Python",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "query": "open data platform",
+    "name": "cvat-ai/cvat",
+    "stars": 16967,
+    "desc": "CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs.",
+    "lang": "Python",
+    "url": "https://github.com/cvat-ai/cvat"
+  },
+  {
+    "query": "open data platform",
+    "name": "spree/spree",
+    "stars": 15763,
+    "desc": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
+    "lang": "Ruby",
+    "url": "https://github.com/spree/spree"
+  },
+  {
+    "query": "realtime data monitoring",
+    "name": "hisxo/gitGraber",
+    "stars": 2456,
+    "desc": "gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...",
+    "lang": "Python",
+    "url": "https://github.com/hisxo/gitGraber"
+  },
+  {
+    "query": "realtime data monitoring",
+    "name": "wh201906/SerialTest",
+    "stars": 1670,
+    "desc": "Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用",
+    "lang": "C++",
+    "url": "https://github.com/wh201906/SerialTest"
+  },
+  {
+    "query": "realtime data monitoring",
+    "name": "nghialv/promviz",
+    "stars": 957,
+    "desc": "Visualize the traffic of your clusters in realtime from Prometheus data",
+    "lang": "Go",
+    "url": "https://github.com/nghialv/promviz"
+  },
+  {
+    "query": "realtime data monitoring",
+    "name": "nagix/chartjs-plugin-streaming",
+    "stars": 582,
+    "desc": "Chart.js plugin for live streaming data",
+    "lang": "JavaScript",
+    "url": "https://github.com/nagix/chartjs-plugin-streaming"
+  },
+  {
+    "query": "geospatial visualization",
+    "name": "keplergl/kepler.gl",
+    "stars": 12054,
+    "desc": "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.",
+    "lang": "TypeScript",
+    "url": "https://github.com/keplergl/kepler.gl"
+  },
+  {
+    "query": "geospatial visualization",
+    "name": "opengeos/GeoLibre",
+    "stars": 8057,
+    "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "lang": "TypeScript",
+    "url": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "query": "geospatial visualization",
+    "name": "gboeing/osmnx",
+    "stars": 5880,
+    "desc": "Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.",
+    "lang": "Python",
+    "url": "https://github.com/gboeing/osmnx"
+  },
+  {
+    "query": "geospatial visualization",
+    "name": "antvis/L7",
+    "stars": 4074,
+    "desc": "🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.",
+    "lang": "TypeScript",
+    "url": "https://github.com/antvis/L7"
+  },
+  {
+    "query": "geospatial visualization",
+    "name": "gee-community/geemap",
+    "stars": 4048,
+    "desc": "A Python package for interactive geospatial analysis and visualization with Google Earth Engine.",
+    "lang": "Python",
+    "url": "https://github.com/gee-community/geemap"
+  }
+]

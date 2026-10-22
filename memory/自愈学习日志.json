@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-10-18T19:12:16.296265",
+    "rule_key": "path_not_found",
+    "error": "FileNotFoundError: 系统找不到指定的路径",
+    "fix_script": "fix_path.py",
+    "fix_status": "OK",
+    "verify_passed": true,
+    "verify_method": "dir_check"
+  },
+  {
+    "timestamp": "2026-10-18T19:24:04.350997",
+    "rule_key": "billing_error",
+    "error": "billing error - sensenova returned a billing error",
+    "fix_script": "fix_model_fallback.py",
+    "fix_status": "OK",
+    "verify_passed": true,
+    "verify_method": "gateway_health"
+  },
+  {
+    "timestamp": "2026-10-18T19:24:06.080434",
+    "rule_key": "encoding_error",
+    "error": "UnicodeEncodeError: 'gbk' codec can't encode character",
+    "fix_script": "fix_encoding.py",
+    "fix_status": "OK",
+    "verify_passed": true,
+    "verify_method": "emoji_scan"
+  }
+]

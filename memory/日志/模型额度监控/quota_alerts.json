@@ -1,0 +1,17 @@
+{
+  "alerts": [
+    {
+      "time": "2026-10-05T14:45:21.219470",
+      "provider": "sensenova",
+      "status": "limited",
+      "message": "每日文本额度已用完"
+    },
+    {
+      "time": "2026-10-06T21:01:28.847508",
+      "provider": "sensenova",
+      "status": "limited",
+      "message": "每日文本额度已用完"
+    }
+  ],
+  "last_alert_time": "2026-10-06T21:01:28.847508"
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-10-17T19:01:06.652734",
+  "score": 50,
+  "checks": {
+    "gateway": {
+      "status": "ERROR",
+      "error": "timed out"
+    },
+    "disk": {
+      "C:": {
+        "free_gb": 4.7,
+        "used_pct": 93.5
+      },
+      "F:": {
+        "free_gb": 29.2,
+        "used_pct": 90.8
+      }
+    },
+    "cron": {
+      "total": 0,
+      "enabled": 0,
+      "failures": 0
+    },
+    "files": {
+      "SOUL.md": "OK",
+      "MEMORY.md": "OK",
+      "AGENTS.md": "OK"
+    }
+  }
+}

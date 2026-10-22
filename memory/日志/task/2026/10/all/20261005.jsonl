@@ -1,0 +1,11 @@
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-05T10:30:15.223466", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-05T10:31:08.849263", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-05T10:32:38.087717", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-05T10:32:57.357072", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-05T10:35:45.445699", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-05T10:42:47.258859", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-10-05T11:09:07.044448", "status": "ERROR", "error": "Script not found: workspace-math\\scripts\\auto_learn_trigger.py"}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-05T13:28:55.731343", "status": "ERROR", "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-05T13:31:25.196686", "status": "OK", "detail": "Exit code: 0", "duration_ms": 600.3929999999999}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-05T13:56:22.951607", "status": "ERROR", "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-10-05T14:34:42.549429", "status": "ERROR", "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}

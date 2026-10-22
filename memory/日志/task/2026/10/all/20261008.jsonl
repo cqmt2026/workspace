@@ -1,0 +1,5 @@
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-10-08T20:09:02.416155", "status": "ERROR", "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}
+{"task": "System-SessionHistory-每日备份", "system": "main", "timestamp": "2026-10-08T20:09:03.176260", "status": "OK", "detail": "Exit code: 0", "duration_ms": 291.748}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-08T20:10:12.350628", "status": "ERROR", "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-08T20:13:29.772864", "status": "ERROR", "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-08T20:25:45.499279", "status": "ERROR", "error": "Script not found: workspace-maphot\\scripts\\选题采集_v3.py"}

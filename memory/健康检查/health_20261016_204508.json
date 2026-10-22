@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-10-16T20:45:08.623777",
+  "score": 68,
+  "checks": {
+    "gateway": {
+      "status": "OK",
+      "code": 200,
+      "time": "27"
+    },
+    "cron": {
+      "total": 37,
+      "enabled": 37,
+      "failures": 6,
+      "auto_disabled": 0,
+      "source": "gateway-cli"
+    },
+    "disk": {
+      "C:": {
+        "free_gb": 5.0,
+        "used_pct": 93.12037985001979
+      },
+      "D:": {
+        "free_gb": 8.4,
+        "used_pct": 75.30889233358174
+      },
+      "E:": {
+        "free_gb": 8.5,
+        "used_pct": 83.31335814744185
+      },
+      "F:": {
+        "free_gb": 29.5,
+        "used_pct": 90.6974965139051
+      }
+    },
+    "memory": {
+      "used_pct": 71.3,
+      "free_gb": 2.3,
+      "total_gb": 7.9
+    }
+  }
+}

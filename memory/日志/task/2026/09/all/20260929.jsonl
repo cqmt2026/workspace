@@ -1,0 +1,13 @@
+{"task": "INV-ZT-Kline-涨停K线收集", "system": "investment", "timestamp": "2026-09-29T20:25:39.033452", "status": "OK", "detail": "Exit code: 0", "duration_ms": 533.575}
+{"task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "timestamp": "2026-09-29T20:25:43.836647", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5071.479}
+{"task": "Daily-Evening-Report-晚间汇报", "system": "main", "timestamp": "2026-09-29T20:26:25.415862", "status": "OK", "detail": "Exit code: 0", "duration_ms": 5524.777}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-09-29T20:26:41.559789", "status": "OK", "detail": "Exit code: 0", "duration_ms": 329.652}
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-09-29T20:26:42.927125", "status": "OK", "detail": "Exit code: 0", "duration_ms": 326.124}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-29T21:30:18.878532", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题25条", "duration_ms": 2312.8199999999997}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-29T21:30:18.894489", "status": "OK", "detail": "Exit code: 0", "duration_ms": 2510.29}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-29T21:30:59.875778", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题25条", "duration_ms": 1667.546}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-29T21:30:59.905695", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1912.885}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-29T21:32:12.789157", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题25条", "duration_ms": 1093.2340000000002}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-29T21:32:12.806110", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1232.558}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-29T21:37:23.069711", "status": "OK", "detail": "踩坑+0条 | 知识库4个系统 | 规则问题0条 | corrections问题25条", "duration_ms": 1158.813}
+{"task": "Self-Learning-统一学习", "system": "main", "timestamp": "2026-09-29T21:37:23.087663", "status": "OK", "detail": "Exit code: 0", "duration_ms": 1299.462}

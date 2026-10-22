@@ -136,12 +136,15 @@
     "consecutive_failures": 0
   },
   "LOG-日志审计-晚间检查": {
-    "consecutive_failures": 1
+    "consecutive_failures": 4
   },
   "Cross-System-Bridge-跨系统推荐": {
     "consecutive_failures": 0
   },
   "INV-Closing-Strategy-尾盘14:30": {
+    "consecutive_failures": 0
+  },
+  "Obsidian-今日推荐": {
     "consecutive_failures": 0
   }
 }

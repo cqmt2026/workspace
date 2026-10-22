@@ -1,6 +1,6 @@
 # TOOLS.md - 本地工具笔记（主系统）
 
-**最后更新**: 2026-09-25
+**最后更新**: 2026-10-18
 
 ---
 
@@ -44,6 +44,13 @@ web_search ❌（DuckDuckGo被墙，用Python+Bing替代）| web_fetch ✅
 | scripts/auto_backup_clean.py | 每周备份清理（周日20:00） |
 | scripts/system_maintenance.py | 系统维护（每30min） |
 | scripts/methodology_health_check.py | 方法论检查（每周一10:05） |
+| scripts/codegen_bridge.py | 代码生成桥接（模板生成+审查） |
+| scripts/code_review.py | 8维度代码审查（语法/边界/错误处理等） |
+| scripts/self_heal_l2_rule_engine.py | L2异常定位规则引擎 |
+| scripts/fix_cron_delivery.py | L3修复：Cron投递配置 |
+| scripts/fix_model_fallback.py | L3修复：模型回退配置 |
+| scripts/fix_gateway_state.py | L3修复：Gateway重启 |
+| scripts/cleanup_backups.py | L3修复：旧备份清理 |
 
 ## 多工作空间
 
@@ -57,7 +64,7 @@ web_search ❌（DuckDuckGo被墙，用Python+Bing替代）| web_fetch ✅
 | 微信小程序 | workspace-weixin/ | 前端+后端 |
 | 地图热点 | workspace-maphot/ | 流水线+地图绘制 |
 | 百都系统 | workspace-baiduagent/ | 销售辅助+CRM |
-| 光伏获客 | workspace-pv/ | 内容生成+视频合成 |
+
 
 ## HyperFrames
 

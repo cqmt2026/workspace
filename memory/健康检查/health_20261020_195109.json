@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-10-20T19:51:09.843872",
+  "score": 60,
+  "checks": {
+    "gateway": {
+      "status": "ERROR",
+      "error": "<urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>"
+    },
+    "disk": {
+      "C:": {
+        "free_gb": 8.9,
+        "used_pct": 87.9
+      },
+      "F:": {
+        "free_gb": 29.2,
+        "used_pct": 90.8
+      }
+    },
+    "cron": {
+      "total": 0,
+      "enabled": 0,
+      "failures": 0
+    },
+    "files": {
+      "SOUL.md": "OK",
+      "MEMORY.md": "OK",
+      "AGENTS.md": "OK"
+    }
+  }
+}

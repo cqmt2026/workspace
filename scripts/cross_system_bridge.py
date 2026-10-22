@@ -352,7 +352,8 @@ def main():
     lines = []
     lines.append('🔗 跨系统内容推荐')
     lines.append(f'   {datetime.now().strftime("%Y-%m-%d %H:%M")}')
-    lines.append(f'   自媒体: {social["status"]}(近7天{social["recent_count"]}篇, 热点{social["hotspot_count"]}个)')
+    hotspot_count = social.get('hotspot_count', 0)
+    lines.append(f'   自媒体: {social["status"]}(近7天{social["recent_count"]}篇, 热点{hotspot_count}个)')
     lines.append('')
 
     if recs:

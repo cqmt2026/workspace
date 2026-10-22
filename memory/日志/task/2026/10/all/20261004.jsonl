@@ -1,0 +1,7 @@
+{"task": "MapHot-选题采集", "system": "main", "timestamp": "2026-10-04T10:00:08.566299", "status": "OK", "detail": "Exit code: 0", "duration_ms": 140.95}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-04T10:30:07.337859", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-04T10:30:34.080516", "status": "ERROR", "error": "Script not found: workspace-weixin/scripts/sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-04T10:32:36.657211", "status": "ERROR", "error": "Script not found: workspace-weixin\\scripts\\sync_corrections.py"}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-04T10:32:56.106390", "status": "OK", "detail": "Exit code: 0", "duration_ms": 121.709}
+{"task": "WX-Corrections-同步检查", "system": "weixin", "timestamp": "2026-10-04T10:32:56.122348", "status": "OK", "detail": "Exit code: 0", "duration_ms": 255.351}
+{"task": "Math-自动学习", "system": "math", "timestamp": "2026-10-04T11:08:55.890366", "status": "ERROR", "error": "Script not found: workspace-math/scripts/auto_learn_trigger.py"}

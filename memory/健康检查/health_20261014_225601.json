@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-10-14T22:56:01.875519",
+  "score": 80,
+  "checks": {
+    "gateway": {
+      "status": "OK",
+      "code": 200
+    },
+    "disk": {
+      "C:": {
+        "free_gb": 6.8,
+        "used_pct": 90.7
+      },
+      "F:": {
+        "free_gb": 29.5,
+        "used_pct": 90.7
+      }
+    },
+    "cron": {
+      "total": 0,
+      "enabled": 0,
+      "failures": 0
+    },
+    "files": {
+      "SOUL.md": "OK",
+      "MEMORY.md": "OK",
+      "AGENTS.md": "OK"
+    }
+  }
+}
