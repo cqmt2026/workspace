@@ -30,3 +30,13 @@
 {"ts": "2026-10-22T20:22:44.398228", "task": "GitHub-Trending-每日追踪", "system": "main", "status": "WARN", "duration_ms": 74596.16088867188, "detail": "Today:0 Weekly:0 Python:0 Pushed:False"}
 {"ts": "2026-10-22T20:23:49.969359", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: C:\\Users\\Administrator\\.openclaw\\workspace\\workspace-investment\\scripts\\strategy_scan.py"}
 {"ts": "2026-10-22T22:30:17.806411", "task": "LOG-日志审计-每日检查", "system": "main", "status": "ERROR", "duration_ms": 9419.402, "detail": "正常0 出错0 无日志35"}
+{"ts": "2026-10-23T19:48:28.664996", "task": "System-SessionHistory-每日备份", "system": "main", "status": "OK", "duration_ms": 207.43200000000002, "detail": "Exit code: 0"}
+{"ts": "2026-10-23T19:48:35.560115", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}
+{"ts": "2026-10-23T19:48:37.161833", "task": "GitHub-Trending-每日追踪", "system": "main", "status": "OK", "duration_ms": 8375.162124633789, "detail": "Today:8 Weekly:15 Python:11 Pushed:False"}
+{"ts": "2026-10-23T19:48:37.194745", "task": "GitHub-Trending-每日追踪", "system": "main", "status": "OK", "duration_ms": 8752.154, "detail": "Exit code: 0"}
+{"ts": "2026-10-23T19:49:51.907746", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}
+{"ts": "2026-10-23T19:49:58.457485", "task": "INV-Closing-Strategy-尾盘14:30", "system": "investment", "status": "ERROR", "duration_ms": null, "error": "Script not found: workspace-investment\\scripts\\strategy_scan.py"}
+{"ts": "2026-10-23T19:51:02.017221", "task": "Obsidian-今日推荐", "system": "main", "status": "OK", "duration_ms": 8828.6, "detail": "Exit code: 0"}
+{"ts": "2026-10-23T19:52:16.635659", "task": "MapHot-选题采集", "system": "main", "status": "OK", "duration_ms": 226.397, "detail": "Exit code: 0"}
+{"ts": "2026-10-23T19:59:26.413264", "task": "GitHub-Trending-每日追踪", "system": "main", "status": "WARN", "duration_ms": 63619.794845581055, "detail": "Today:0 Weekly:0 Python:0 Pushed:False"}
+{"ts": "2026-10-23T20:00:14.107463", "task": "GitHub-Trending-每日追踪", "system": "main", "status": "OK", "duration_ms": 5985.366106033325, "detail": "Today:8 Weekly:15 Python:11 Pushed:False"}
